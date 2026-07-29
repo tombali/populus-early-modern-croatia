@@ -10,6 +10,10 @@ campaign**, with the number of taxable and abandoned *selišta* (serf-plots /
 hearths; Lat. *porta*, *fumus*). Two tax types appear: **dica** (a per-*selište*
 land tax) and **dimnica** (a hearth tax).
 
+See `docs/methodology.md` for the compilers' own codebook and the recording
+irregularities behind several fields (the `*` inferred marker, multi-toponym
+cells, "other holders", widow/orphan identification, etc.).
+
 ## Source column → target mapping
 
 | Source column (Croatian) | Target field(s) | Notes |
@@ -37,7 +41,12 @@ traceability): `entry_id`, `source_row`, `campaign_id`, `county_id`,
 `district_id`, `place_id`, `person_id`, `settlement_type`, `provincia`,
 `rate_forint`, `rate_denar`, `rate_note`, `family_status`, `title`,
 `institution_office`, `other_holders`, `taxable_selista`, `taxable_uncertain`,
-`abandoned_selista`, `abandoned_status`.
+`abandoned_selista`, `abandoned_status`, `inferred`.
+
+`inferred = 1` marks a row where any source value carried the compilers' `*`
+marker (an editorially inferred value; see `docs/methodology.md`). The `*` is
+also kept verbatim in the field itself. Filter with `WHERE inferred = 0` for
+only explicitly-attested rows.
 
 **Dimensions / lookups**
 
@@ -119,6 +128,15 @@ step 2.
   `persons.normalized_name` is the intended home for that future pass.
 - **Geocoding deferred**: `places.lat` / `lon` are present but null; ~1,844
   places lack a modern identification (see `validate.py` report).
+- **Inferred values**: the compilers' `*` marker (an editorially inferred
+  value, per `docs/methodology.md`) is kept verbatim and surfaced as
+  `tax_entries.inferred`.
+- **Year anomalies**: all 23 census years the compilers list as processed are
+  present; two extra single-row years (`1578`, `1675`) are not in that list and
+  are flagged by `validate.py` as likely typos (kept verbatim).
+- **Multi-toponym cells**: one `place_historical` may list several toponyms
+  (e.g. `Zelina, Bwkowcz`); variant merging groups spellings but does not split
+  these into separate searchable places — see `docs/methodology.md`.
 - **Parse issues** (currently 1: a folio-only annotation with no year) are
   logged to `data/interim/parse_issues.csv` — never silently dropped.
 - County glosses fixed one malformed source value (`Zagrebčka` → Zagreb);

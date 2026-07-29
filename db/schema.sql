@@ -90,7 +90,9 @@ CREATE TABLE tax_entries (
     taxable_selista   REAL,               -- taxable hearths/serf-plots (porta/dim)
     taxable_uncertain INTEGER,            -- 1 if the count was marked '(?)'
     abandoned_selista REAL,               -- abandoned/burnt/deserted plots
-    abandoned_status  TEXT                -- deserta / combusta / desolatus ...
+    abandoned_status  TEXT,               -- deserta / combusta / desolatus ...
+    inferred          INTEGER             -- 1 if any source value carried the
+                                          -- authors' '*' inferred-data marker
 );
 
 -- Place-name authority: groups the many historical spellings of one toponym
@@ -137,7 +139,7 @@ SELECT e.entry_id, e.source_row,
        e.institution_office, ic.canonical AS institution_canonical,
        e.rate_forint, e.rate_denar,
        e.taxable_selista, e.taxable_uncertain,
-       e.abandoned_selista, e.abandoned_status
+       e.abandoned_selista, e.abandoned_status, e.inferred
 FROM tax_entries e
 LEFT JOIN census_campaigns  c  ON c.campaign_id = e.campaign_id
 LEFT JOIN counties          co ON co.county_id  = e.county_id

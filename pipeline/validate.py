@@ -13,6 +13,13 @@ from common import CLEAN_ROWS_CSV, DB_DIR, RAW_CSV
 
 DB_PATH = os.path.join(DB_DIR, "tax_lists.sqlite")
 
+# Census years the authors list as processed (their methodology note). Years in
+# the data outside this set are likely transcription typos (kept, but flagged).
+AUTHORITATIVE_YEARS = {
+    1495, 1500, 1507, 1509, 1512, 1513, 1517, 1520, 1533, 1543, 1546, 1553,
+    1554, 1566, 1567, 1568, 1570, 1573, 1574, 1576, 1579, 1582, 1596,
+}
+
 
 def to_float(s):
     try:
@@ -76,7 +83,20 @@ def main():
     year_span = cur.execute(
         "SELECT MIN(year), MAX(year) FROM census_campaigns "
         "WHERE year IS NOT NULL").fetchone()
-    print(f"  year span: {year_span[0]}–{year_span[1]}")
+    print(f"  year span: {year_span[0]}-{year_span[1]}")
+    years = {r[0] for r in cur.execute(
+        "SELECT DISTINCT year FROM census_campaigns WHERE year IS NOT NULL")}
+    off_list = sorted(years - AUTHORITATIVE_YEARS)
+    if off_list:
+        for y in off_list:
+            n = cur.execute("SELECT COUNT(*) FROM tax_entries e JOIN "
+                            "census_campaigns c ON c.campaign_id=e.campaign_id "
+                            "WHERE c.year=?", (y,)).fetchone()[0]
+            print(f"  NOTE: year {y} ({n} row(s)) not in the authors' "
+                  f"processed-year list — likely a transcription typo")
+    n_inferred = cur.execute(
+        "SELECT COUNT(*) FROM tax_entries WHERE inferred = 1").fetchone()[0]
+    print(f"  rows with inferred (*) values: {n_inferred}")
     print("  parse issues logged: %d" % _count_csv(
         os.path.join(os.path.dirname(RAW_CSV), "..", "interim",
                      "parse_issues.csv")))

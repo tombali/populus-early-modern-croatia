@@ -40,6 +40,7 @@ CLEAN_HEADERS = [
     "institution_office", "other_holders", "title",
     "taxable_selista", "taxable_uncertain",
     "abandoned_selista", "abandoned_status",
+    "inferred",
 ]
 
 _issues = []
@@ -183,6 +184,11 @@ def main():
             modern, muncert = parse_modern(row["modern_place_raw"], sr)
             taxable, tuncert = parse_taxable(row["taxable_raw"], sr)
             aband, astatus = parse_abandoned(row["abandoned_raw"], sr)
+            # Authors mark editorially-inferred values with '*' (see their
+            # methodology notes 6 & 11). Keep the '*' verbatim in the field and
+            # additionally surface a row-level flag for easy filtering.
+            inferred = "1" if any("*" in (v or "") for k, v in row.items()
+                                  if k != "source_row") else ""
             w.writerow({
                 "source_row": sr,
                 "year": year, "year_circa": circa, "year_note": ynote,
@@ -200,6 +206,7 @@ def main():
                 "title": norm_ws(row["title_raw"]),
                 "taxable_selista": taxable, "taxable_uncertain": tuncert,
                 "abandoned_selista": aband, "abandoned_status": astatus,
+                "inferred": inferred,
             })
 
     with open(PARSE_ISSUES_CSV, "w", newline="", encoding="utf-8") as fh:

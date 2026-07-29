@@ -4,26 +4,47 @@ Structured, analysis-ready version of the tax censuses published in Ivan Kampuš
 & Josip Adamček, *Popisi i obračuni poreza u Hrvatskoj u XV. i XVI. stoljeću*
 (tax censuses and accounts of Croatia, 15th-16th c.).
 
-The source is a single flat Excel sheet transcribed from the book. It is
-faithful to the originals but hard to compute on: several columns pack multiple
-facts into one cell, values are untyped and inconsistently spelled, the
-geographic hierarchy repeats on every row, and there are no stable identifiers.
-This repo turns it into a clean, typed, normalised **star schema** - a
+The original Excel transcription comes from the **Department of Croatian
+History / demography section, Faculty of Humanities and Social Sciences,
+University of Zagreb (FFZG)**:
+<https://www.ffzg.unizg.hr/pov/zavod/demografija/>. Because these are
+proto-statistical sources, the compilers documented the limits of the
+processing here: <https://www.ffzg.unizg.hr/pov/zavod/demografija/?q=node/8>
+(summarised in `docs/methodology.md`).
+
+**Data entry (2007-2008; results published 2009):** Nataša Štefanec (project
+lead), Tomislav Bali, Branimir Brgles, Stipe Mlikotić, Damir Stanić, Andreja
+Talan.
+
+The transcription was carried out within:
+- the project *"Triplex Confinium: hrvatska riječna višegraničja"*, Odsjek za
+  povijest, Zavod za hrvatsku povijest, Filozofski fakultet u Zagrebu (see
+  <http://zprojekti.mzos.hr/Home_hr.htm>);
+- the compulsory course *"Hrvatska povijest u ranom novom vijeku"*, Odsjek za
+  povijest, Filozofski fakultet u Zagrebu.
+
+
+This repo turns the results of this project into a clean, typed, normalised **star schema** - a
 `tax_entries` fact table plus dimension/lookup tables - delivered as UTF-8 CSVs
 (the source of truth) and a built **SQLite** database, produced by a
 reproducible, **pure-Python** pipeline. Nothing from the source is discarded:
 every cleaned row keeps its original Excel row number, and raw spellings are
 preserved alongside the merged/canonical forms used for analysis.
 
+---
+
+## Excel data
+
+ It is faithful to the originals but hard to compute on: several columns pack multiple
+facts into one cell, values are untyped and inconsistently spelled, the
+geographic hierarchy repeats on every row, and there are no stable identifiers.
+
+
 **Coverage:** ~29 census campaigns, **1495-1596** · **11,792 entries** · 4
 counties · ~3,900 raw places (≈1,800 after variant merging) · ~4,250 taxpayers ·
 tax types *dica* (land tax) and *dimnica* (hearth tax). Each entry records a
 holder's parcel/estate in a place in one campaign, with counts of taxable and
 abandoned *selišta* (serf-plots / hearths; Lat. *porta*, *fumus*).
-
----
-
-## What the data looked like, and what was wrong with it
 
 The original sheet is **11,814 rows × 15 columns** (the 15th column is empty),
 one row per taxpayer holding. The columns, in Croatian, were:
@@ -36,7 +57,28 @@ POSJEDNICI…` · `BROJ OPOREZIVIH SELIŠTA` · `BROJ NAPUŠTENIH… SELIŠTA` �
 
 Profiling every column surfaced the following problems.
 
-### 1. Overloaded cells - several facts crammed into one column
+### 1. Pre-statistical recording irregularities (from the compilers)
+These are 16th-century pre-statistical records, and the compilers' own codebook
+(captured in `docs/methodology.md`) documents irregularities that no automated
+process fully resolves:
+- a holder may be listed with **no place**, or a place with **no holder**;
+- following holders are **assumed** to belong to the last-named place;
+- when several people share a group of selišta without a per-person split, the
+  extras go in `other_holders`;
+- a cell may list **several toponyms** for one holder/count (kept together);
+- often only a first name or only a surname is given;
+- widows/sons/orphans are hard to identify without archival research.
+
+Most importantly, the compilers mark any **editorially inferred value with an
+asterisk `*`** (e.g. a surname inferred from the preceding entry, or any value
+the source implies but doesn't state). This repo keeps the `*` verbatim **and**
+sets `tax_entries.inferred = 1` on such rows (254 rows), so inferred data can be
+filtered (`WHERE inferred = 0`) rather than silently trusted. The compilers'
+authoritative list of **23 processed census years** is used by `validate.py`;
+two stray single-row years (`1578`, `1675`) fall outside it and are flagged as
+likely typos.
+
+### 2. Overloaded cells - several facts crammed into one column
 Many columns mixed multiple pieces of information, which blocks filtering,
 grouping and math.
 
@@ -53,7 +95,7 @@ into atomic, typed fields (e.g. `tax_type`, `rate_forint`, `rate_denar`,
 `rate_note`; `place_historical` + `settlement_type`; `abandoned_selista` +
 `abandoned_status`). Every rule is regex-based and logged.
 
-### 2. Dirty, untyped values
+### 3. Dirty, untyped values
 - **Trailing/duplicate whitespace** made "the same" value look distinct
   (`Dica   `, `Relicta `, `Domini  `, `Comitatus Varasdiensis `).
 - **The year column held non-years**: `c, 1500` (circa, 102×), range/annotation
@@ -69,12 +111,12 @@ into atomic, typed fields (e.g. `tax_type`, `rate_forint`, `rate_denar`,
 (see `data/interim/parse_issues.csv` - currently a single folio-only
 annotation).
 
-### 3. Text-encoding damage
+### 4. Text-encoding damage
 Croatian diacritics (č/ć/ž/š/đ) were mangled in intermediate tooling. The whole
 pipeline reads and writes **UTF-8** end to end, so `Križevačka županija`,
 `Zagrebačka`, etc. round-trip correctly.
 
-### 4. Heavy denormalisation & no identifiers
+### 5. Heavy denormalisation & no identifiers
 County, Latin gloss, judicial-district (named by its noble judge), and campaign
 metadata were repeated on all 11k rows, and there were **no stable IDs** to join
 or link on.
@@ -85,7 +127,7 @@ table referencing dimension tables (`census_campaigns`, `counties`,
 `judicial_districts`, `places`, `persons`) and controlled-vocabulary code lists
 (`settlement_types`, `status_codes`, `title_codes`, `institution_codes`).
 
-### 5. Place-name spelling variants across census years
+### 6. Place-name spelling variants across census years
 The biggest analytical hazard. The same toponym is transliterated many ways
 across decades of Latin scribes - e.g. `Petrowina` / `Pethrouyna` /
 `Petthrowyna`, or the town that appears as `Zalathnok` in 1507/1513 but
@@ -102,7 +144,7 @@ two places with conflicting known modern names** (so Sisak ≠ Susedgrad,
 Karlovec ≠ Guščerovec). Result: `Zalathnok`/`Zlathnok`/`Zalathnak` now form one
 series (1507: 61 → 1513: 88 → 1517: 87 selišta).
 
-### 6. Controlled-vocabulary spelling variants
+### 7. Controlled-vocabulary spelling variants
 The same institutions/titles/statuses were written many ways - editor markers
 (`Episcopus Zagrabiensis)*`, `…(?)`), case (`Nobiles Campi` vs `campi`), typos
 (`Strigoninesis` vs `strigoniensis`), and orthography (`…de Wereucze` vs
@@ -116,30 +158,9 @@ The same institutions/titles/statuses were written many ways - editor markers
 spellings of the Turopolje noble commune are merged this way in
 `data/manual/code_overrides.csv`.
 
-### 7. Environment constraint
-`pandas` cannot be used on the original machine - its compiled DLL is blocked
-by an Application Control policy. The entire pipeline is therefore **stdlib-only**
-(`csv`, `sqlite3`, `re`, `difflib`, `unicodedata`) plus **`xlrd`** for the one
-`.xls` read. This is a feature, not just a workaround: the output is trivially
-portable and has almost no dependencies.
+## Verification
 
----
-
-## Scope note: the Excel is a *subset* of the book
-
-The Excel transcribes the book's **summary dica/dimnica assessment tables**
-only. The book *also* contains detailed **household/nominal conscriptions** -
-peasant-by-peasant rolls grouped by *Judicatus* / *Portio* with
-`Domus`/`Coloni`/`Inquilini` subtotals (e.g. printed pp. ~372-423). Those are
-**not** in the Excel and not in this dataset. If that finer-grained data is
-needed, it must be transcribed separately from the PDF.
-
----
-
-## Verification against the book
-
-The structured data was spot-checked against random pages of the scanned book
-(rendered from the PDF). Transcription fidelity is **excellent**:
+The structured data was spot-checked against random pages scanned from *Popisi i obračuni poreza u Hrvatskoj u XV. i XVI. stoljeću*. Transcription fidelity is **excellent**:
 
 - **1574, doc. #91, Zamobor** (*Processus Blasii Pogledych*): all 6 entries
   matched exactly - place, holder, taxable *fumi*, and the split-out
@@ -159,7 +180,7 @@ The structured data was spot-checked against random pages of the scanned book
 campaign/county/district/place/person foreign keys, `settlement_type`,
 `provincia`, `rate_forint`/`rate_denar`/`rate_note`, `family_status`, `title`,
 `institution_office`, `other_holders`, `taxable_selista` (+`taxable_uncertain`),
-`abandoned_selista` (+`abandoned_status`).
+`abandoned_selista` (+`abandoned_status`), and `inferred` (see below).
 
 **Dimensions / lookups:** `census_campaigns`, `counties`, `judicial_districts`,
 `places`, `persons`, `settlement_types`, `status_codes`, `title_codes`,
@@ -212,7 +233,7 @@ data/clean/     one CSV per schema table (the CSV source of truth)
 data/manual/    human curation inputs (place_overrides.csv, code_overrides.csv)
 db/schema.sql   star-schema DDL, indexes, analysis views
 db/tax_lists.sqlite   built database (gitignored; rebuild any time)
-docs/           data dictionary
+docs/           data dictionary + methodology/codebook
 ```
 
 ## Rebuild
@@ -257,6 +278,9 @@ GROUP BY institution_canonical ORDER BY n DESC LIMIT 20;
 -- Groups still needing human confirmation
 SELECT * FROM v_places_needing_review;
 SELECT code, canonical FROM institution_codes WHERE needs_review = 1;
+
+-- Strict analysis: exclude editorially-inferred (*) rows
+SELECT COUNT(*) FROM v_entries_full WHERE inferred = 0;
 ```
 
 ## Curating the merges
@@ -278,7 +302,11 @@ and worked examples, then re-run `python pipeline/run_all.py`.
   list to ~1,800 places to geocode for mapping.
 - **Person authority** - still open: ~531 groups of the same person spelled
   differently. The place/code technique applies directly and would populate the
-  reserved `persons.normalized_name`.
+  reserved `persons.normalized_name`. Widow/heir identification (compilers'
+  notes 7-8) needs archival research and can't be automated.
+- **Multi-toponym cells** - one `place_historical` can list several toponyms
+  (compilers' note 5); splitting them into a per-mention table would enable the
+  toponym-level search the compilers' own site supports.
 - **Judge-name / provincia / abandoned_status variants** - minor (7 / 2 / 3
   groups); the same fold technique would reconcile them if wanted.
 - **Un-glossed code terms** - most `institution_codes.english` entries are still
@@ -286,5 +314,5 @@ and worked examples, then re-run `python pipeline/run_all.py`.
 - **Review backlog** - ~236 place groups and a set of code groups carry
   `needs_review = 1` for optional human confirmation.
 
-Provenance: the `.xls` is the source of truth for the transcription; the scanned
+Provenance: the `.xls` is the source of truth for the transcription; the
 book is the authority for ambiguous coding and was used to verify the data.

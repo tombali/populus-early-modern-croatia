@@ -26,7 +26,7 @@ FACT_HEADERS = [
     "rate_forint", "rate_denar", "rate_note",
     "family_status", "title", "institution_office", "other_holders",
     "taxable_selista", "taxable_uncertain",
-    "abandoned_selista", "abandoned_status",
+    "abandoned_selista", "abandoned_status", "inferred",
 ]
 
 
@@ -83,6 +83,7 @@ def main():
                 "taxable_uncertain": r["taxable_uncertain"],
                 "abandoned_selista": r["abandoned_selista"],
                 "abandoned_status": r["abandoned_status"],
+                "inferred": r["inferred"],
             })
 
     print(f"Fact table: {len(rows)} entries -> {out_path}")
