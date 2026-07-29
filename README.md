@@ -33,9 +33,9 @@ preserved alongside the merged/canonical forms used for analysis.
 
 ---
 
-## Excel data
+## Data processing
 
- It is faithful to the originals but hard to compute on: several columns pack multiple
+Excel fil is faithful to the originals but hard to compute on: several columns pack multiple
 facts into one cell, values are untyped and inconsistently spelled, the
 geographic hierarchy repeats on every row, and there are no stable identifiers.
 
@@ -57,7 +57,7 @@ POSJEDNICI…` · `BROJ OPOREZIVIH SELIŠTA` · `BROJ NAPUŠTENIH… SELIŠTA` �
 
 Profiling every column surfaced the following problems.
 
-### 1. Pre-statistical recording irregularities (from the compilers)
+### 1. Pre-statistical recording irregularities
 These are 16th-century pre-statistical records, and the compilers' own codebook
 (captured in `docs/methodology.md`) documents irregularities that no automated
 process fully resolves:
