@@ -7,7 +7,7 @@ Structured, analysis-ready version of the tax censuses published in Ivan Kampuš
 This project turns the Excel transcription of the data from the Adamček and Kampuš book into a
 clean, analysis-ready dataset:
 
-- **Ready-to-use SQLite database** - the headline result: the fully built,
+- **Ready-to-use SQLite database** - the fully built,
   queryable database is committed at **`db/tax_lists.sqlite`**. Open it and
   start querying immediately - no build step required.
 - **Normalised star schema** - a `tax_entries` fact table plus dimension and
