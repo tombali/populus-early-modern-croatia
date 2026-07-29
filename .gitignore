@@ -1,6 +1,3 @@
-# Built SQLite database (rebuildable from CSVs via the pipeline)
-db/*.sqlite
-
 # Python
 __pycache__/
 *.pyc

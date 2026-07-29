@@ -97,6 +97,15 @@ def main():
     n_inferred = cur.execute(
         "SELECT COUNT(*) FROM tax_entries WHERE inferred = 1").fetchone()[0]
     print(f"  rows with inferred (*) values: {n_inferred}")
+    n_persons = cur.execute("SELECT COUNT(*) FROM persons").fetchone()[0]
+    n_norm = cur.execute(
+        "SELECT COUNT(DISTINCT normalized_name) FROM persons").fetchone()[0]
+    print(f"  persons: {n_persons} -> {n_norm} normalized names")
+    n_mentions = cur.execute("SELECT COUNT(*) FROM place_mentions").fetchone()[0]
+    n_multi = cur.execute(
+        "SELECT COUNT(*) FROM (SELECT place_id FROM place_mentions "
+        "GROUP BY place_id HAVING COUNT(*) > 1)").fetchone()[0]
+    print(f"  place mentions: {n_mentions} ({n_multi} cells name >1 toponym)")
     print("  parse issues logged: %d" % _count_csv(
         os.path.join(os.path.dirname(RAW_CSV), "..", "interim",
                      "parse_issues.csv")))

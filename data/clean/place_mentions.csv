@@ -1,0 +1,4621 @@
+mention_id,place_id,toponym,source_fragment
+1,1,owcz,owcz
+2,3,Opathowyna,Abbatia (Opathowyna)
+3,4,Zagrabiensis,Abbatia Zagrabiensis
+4,5,Achyna,Achyna
+5,6,Adamoucz,Adamoucz
+6,7,Adamowch,Adamowch
+7,8,Adamowcz,Adamowcz
+8,9,Adamowcz,Adamowcz
+9,10,Adamowcz,Adamowcz
+10,10,Thewkowcz,Thewkowcz
+11,11,Adamowcz,Adamowcz
+12,11,Wragowcz,Wragowcz
+13,12,Adamowcz,Adamowcz
+14,12,Zowkowcz,Zowkowcz
+15,13,Ahmath,Ahmath
+16,14,Aladarocz,Aladarocz
+17,15,Aladaryowch,Aladaryowch
+18,15,Mylethyncz,Mylethyncz
+19,16,Alberthowyna,Alberthowyna
+20,17,Albethowyna,Albethowyna
+21,18,Alexandrocz,Alexandrocz
+22,19,Allso Gerzencze,Allso Gerzencze
+23,20,Also Bakva,Also Bakva
+24,21,Also Bakwa,Also Bakwa
+25,22,Also Chesmiche,Also Chesmiche
+26,23,Also Chesmicze,Also Chesmicze
+27,24,Also Chesmycze,Also Chesmycze
+28,25,Also Chezmycze,Also Chezmycze
+29,26,Also Czesmycze,Also Czesmycze
+30,27,Also Gerzencze,Also Gerzencze
+31,28,Also Izdencz,Also Izdencz
+32,29,Also Jalsewycza,Also Jalsewycza
+33,30,Also Lomnicza,Also Lomnicza
+34,31,Also Lomnycza,Also Lomnycza
+35,32,Also Lomnycza,Also Lomnycza
+36,32,Koztanyewcz,Koztanyewcz
+37,33,Also Soploncza,Also Soploncza
+38,34,Also Soproncha,Also Soproncha
+39,35,Also Soproncza,Also Soproncza
+40,36,Also Thothwssewyna,Also Thothwssewyna
+41,37,Also Totusewyna,Also Totusewyna
+42,38,Also Volavlya,Also Volavlya
+43,39,Also Wolawlya,Also Wolawlya
+44,40,Also Wolawlyaa,Also Wolawlyaa
+45,41,Also Zemche,Also Zemche
+46,42,Also Zempche,Also Zempche
+47,43,Also Zthobycza,Also Zthobycza
+48,44,Also Zthobycza,Also Zthobycza-cum pertinentiis
+49,45,Also Zthwbycza,Also Zthwbycza
+50,46,Also Zthwbycza,Also Zthwbycza cum pertinentiis
+51,47,Also Zthwbycza,Also Zthwbycza-castellum cum pertinentiis
+52,48,Also Ztobycza,Also Ztobycza
+53,49,Also Ztobycza,Also Ztobycza cum pertinentiis
+54,49,Jakowlya,Jakowlya
+55,50,Also Ztobycza,Also Ztobycza-castellum cum pertinentiis
+56,51,Also Ztobycze,Also Ztobycze
+57,52,Also Ztubycza,Also Ztubycza-castellum cum pertinentiis
+58,53,Alsolomnycza,Alsolomnycza
+59,54,Alsolomnycza,Alsolomnycza
+60,54,Koztanyewcz,Koztanyewcz
+61,55,Alsolomnycza,Alsolomnycza
+62,55,Koztanyowcz,Koztanyowcz
+63,56,Alsolomnycza,Alsolomnycza
+64,56,Kozthanyewcz,Kozthanyewcz
+65,57,Alsolompnycza,Alsolompnycza
+66,58,Alsoo Zthwbycza,Alsoo Zthwbycza cum pertinentiis
+67,59,Alsoo Zthwbycza de Zomzewdara,Alsoo Zthwbycza de Zomzewdara
+68,60,Alsoo Zthwbycza de Zthwbycza,Alsoo Zthwbycza de Zthwbycza
+69,61,Alsowolawlia,Alsowolawlia
+70,62,Alsowolawlya,Alsowolawlya
+71,63,Alsozthobycza,Alsozthobycza
+72,64,Alsozthobycza,Alsozthobycza cum pertinentiis
+73,65,Alsoztobycza,Alsoztobycza
+74,66,Alsw Soproncza,Alsw Soproncza
+75,67,Andraswelgh,Andraswelgh
+76,68,Antholocz,Antholocz
+77,68,Ramyncz,Ramyncz
+78,68,Chernecz,Chernecz
+79,68,Thremecz,Thremecz
+80,69,Apathowcz,Apathowcz
+81,70,Apporowcz,Apporowcz
+82,71,Area Capitulari-vicus,Area Capitulari-vicus
+83,72,Atak,Atak
+84,73,Athak,Athak
+85,74,Athak,Athak
+86,75,Athak,Athak
+87,75,Themerye,Themerye
+88,76,Athak,Athak
+89,76,Themerye,Themerye
+90,76,Camarcha,Camarcha
+91,77,Athak,Athak
+92,77,Tamerye,Tamerye
+93,77,Kamarchya,Kamarchya
+94,78,Athak-uterque,Athak-uterque
+95,79,Athak-vterque,Athak-vterque
+96,80,Attak- et,Attak-superior et inferior
+97,80,Zenth Ilona,Zenth Ilona apud Zamobor
+98,81,Atthak,Atthak
+99,82,Atthak uterque- et,Atthak uterque-superior et inferior
+100,82,Zenth Ilona prope Zamobor,Zenth Ilona prope Zamobor
+101,83,Atthak,Atthak
+102,83,Zenth Ilona,Zenth Ilona apud Zamobor
+103,84,Babcha,Babcha
+104,85,Babchya,Babchya
+105,86,Babpcha,Babpcha
+106,87,Babyncz,Babyncz
+107,88,Babynschyna,Babynschyna
+108,89,Babynschyna,Babynschyna
+109,89,Koren,Koren
+110,90,Babynsthyna,Babynsthyna
+111,90,Koren,Koren
+112,91,Bachyn,Bachyn
+113,92,Baganoz,Baganoz
+114,93,Bagenowcz,Bagenowcz
+115,94,Bahonincz,Bahonincz
+116,95,Bahonyn,Bahonyn
+117,96,Bakheg,Bakheg
+118,97,Bakolcza,Bakolcza
+119,98,Bakolcza,Bakolcza
+120,98,Zygeth,Zygeth
+121,99,Bakowcha,Bakowcha
+122,100,Bakowcza,Bakowcza
+123,101,Bakwa,Bakwa
+124,102,Bancz,Bancz
+125,103,Banczy,Banczy
+126,104,Banowch,Banowch
+127,105,Banowcz,Banowcz
+128,106,Banowcz,Banowcz
+129,106,Gorycza,Gorycza
+130,107,Banthusovcz,Banthusovcz
+131,108,Banthwsoucz,Banthwsoucz
+132,109,Bapcha,Bapcha
+133,110,Bara ad Belam,Bara ad Belam
+134,111,Barachka,Barachka
+135,112,Baraczka,Baraczka
+136,113,Baranowcz,Baranowcz
+137,114,Barowcz,Barowcz
+138,115,Barswelge,Barswelge
+139,116,Barychewo,Barychewo
+140,117,Bathyna,Bathyna
+141,118,Batyna,Batyna
+142,119,Bedenicza,Bedenicza
+143,120,Bedennycza,Bedennycza
+144,121,Bedenycha,Bedenycha
+145,122,Bedenycza,Bedenycza
+146,123,Bedenycza,Bedenycza
+147,123,Felsew Ztobicza,Felsew Ztobicza
+148,124,Bedenye,Bedenye
+149,125,Bedkowcz,Bedkowcz
+150,126,Bedna,Bedna
+151,127,Bednya,Bednya
+152,128,Bednye,Bednye
+153,129,Bednye,Bednye cum pertinentiis
+154,130,Bednye seu Bukoucz,Bednye seu Bukoucz
+155,131,Bednye seu Bwkowcz,Bednye seu Bwkowcz
+156,132,Bedowcz,Bedowcz
+157,133,Bedowhcz,Bedowhcz
+158,134,Bedwdnycze,Bedwdnycze
+159,135,Bekethincz,Bekethincz
+160,136,Bekethincz ad Belam,Bekethincz ad Belam
+161,137,Bekethyncz,Bekethyncz
+162,138,Bekethyncz ad Kustherocz,Bekethyncz ad Kustherocz
+163,139,Bela,Bela
+164,140,Bela,Bela
+165,141,Bela,Bela cum pertinentiis
+166,142,Bela,Bela cum pertinentiis
+167,142,liberis et predialibus,liberis et predialibus
+168,143,Bela,Bela
+169,143,Iwancz,Iwancz
+170,143,Stasnowcz,Stasnowcz
+171,144,Bela,Bela
+172,144,Iwancza,Iwancza
+173,144,Ztasnoucz,Ztasnoucz
+174,145,Bela,Bela
+175,145,Threm,Threm
+176,146,Bela,Bela-castrum cum pertinentiis
+177,147,Bela,Bela-castrum
+178,147,Iwancz,Iwancz
+179,147,Stasnoucz,Stasnoucz
+180,148,Bela,Bela-castrum
+181,148,Iwancz,Iwancz
+182,148,Zthasnowcz,Zthasnowcz
+183,149,Bela,Bela-castrum-cum pertinentiis
+184,150,Belawarcz,Belawarcz
+185,151,Belcheucz,Belcheucz
+186,152,Belchewcz,Belchewcz
+187,153,Belchowcz,Belchowcz
+188,154,Belcz,Belcz
+189,155,Belcz,Belcz
+190,156,Belcz,Belcz cum pertinentiis
+191,157,Belecz,Belecz
+192,158,Belecz,Belecz-castrum cum pertinentiis
+193,159,Belesowcz,Belesowcz
+194,160,Belethyncz,Belethyncz
+195,161,Belethyncz ad Gereben,Belethyncz ad Gereben
+196,162,Beletyncz,Beletyncz
+197,163,Belezlowcz,Belezlowcz
+198,164,Belkolcz,Belkolcz
+199,165,Belkowcz,Belkowcz
+200,166,Bellessowcz,Bellessowcz
+201,167,Bellyanowcz,Bellyanowcz
+202,168,Belosowcz,Belosowcz
+203,169,Belowarch,Belowarch
+204,170,Belowarcz,Belowarcz
+205,171,Belowarcz,Belowarcz*
+206,172,Belozlavcz,Belozlavcz
+207,173,Belozlawcz,Belozlawcz
+208,174,Belozlowcz,Belozlowcz
+209,175,Beludowyna,Beludowyna
+210,176,Belwdoch ad Zenth Georghwara,Belwdoch-villicatus ad Zenth Georghwara
+211,177,Belwdowcz ad Zenth Gergwara,Belwdowcz ad Zenth Gergwara
+212,178,Belwdowyna,Belwdowyna
+213,179,Belwsowcz,Belwsowcz
+214,180,Belyancz,Belyancz
+215,181,Belyowcz,Belyowcz
+216,182,Belywdowcz,Belywdowcz
+217,183,Benchethyncz,Benchethyncz
+218,184,Benedicoucz,Benedicoucz
+219,185,Benedicowcz,Benedicowcz
+220,186,Benedikowcz,Benedikowcz
+221,187,Benedykow,Benedykow
+222,188,Benedykowcz,Benedykowcz
+223,189,Benkoucz,Benkoucz
+224,190,Benkowcz,Benkowcz
+225,191,Berdekowcz ad Belam,Berdekowcz ad Belam
+226,192,Berdonocz,Berdonocz
+227,193,Berdonocz-ad Zomzewdar,Berdonocz-ad Zomzewdar pertinentiis
+228,194,Beregi,Beregi
+229,195,Berethyncz,Berethyncz
+230,196,Berizlawcz,Berizlawcz
+231,197,Berizlowcz,Berizlowcz
+232,198,Berkesewine,Berkesewine
+233,199,Berkissewyna,Berkissewyna
+234,200,Berkwsewyna,Berkwsewyna
+235,201,Berkwssewyna,Berkwssewyna
+236,202,Berkwssewyna penes Kwppam ad Thopozka abbacie,Berkwssewyna penes Kwppam ad Thopozka abbacie
+237,203,Berkwssewyna,Berkwssewyna
+238,203,Pokwpya ad Thopozka,Pokwpya ad Thopozka-cum pertinentiis
+239,204,Berkysewyna,Berkysewyna
+240,205,Berkyssewyna,Berkyssewyna
+241,206,Berkyssewynna,Berkyssewynna
+242,207,Bersancz ad Kaproncza,Bersancz ad Kaproncza
+243,208,Berschanowcz,Berschanowcz
+244,209,Bersthanowcz,Bersthanowcz cum pertinentiis
+245,210,Bersthianoucz,Bersthianoucz
+246,211,Berywoy Zenth Iwan?,Berywoy (Zenth Iwan?)
+247,212,Berywoy Zenth Iwan?,Berywoy-oppidum (Zenth Iwan?)
+248,213,Berywoy Zenth Iwan?,Berywoy-provincia (Zenth Iwan?)
+249,214,Beryzlaucz,Beryzlaucz
+250,214,Kalynye,Kalynye
+251,215,Beryzlawcz,Beryzlawcz
+252,216,Beryzlawecz,Beryzlawecz
+253,217,Beryzlowcz,Beryzlowcz
+254,218,Berzewcz,Berzewcz-provincia inferior
+255,219,Berzewcze,Berzewcze
+256,220,Berzewcze,Berzewcze-provincia inferior
+257,221,Berzyncz,Berzyncz
+258,222,Besenowcz,Besenowcz
+259,223,Bethowcz,Bethowcz
+260,224,Bezchyanowcz,Bezchyanowcz
+261,225,Bigzaagh,Bigzaagh
+262,226,Bikzaad,Bikzaad
+263,227,Biskupovcz,Biskupovcz
+264,228,Biskwpcz,Biskwpcz
+265,229,Bizthra,Bizthra
+266,230,Biztra,Biztra
+267,231,Blacha,Blacha
+268,232,Blagay,Blagay
+269,233,Blagay,Blagay
+270,233,Glogowy,Glogowy
+271,234,Blagswa,Blagswa
+272,235,Blagussa,Blagussa
+273,236,Blagwsa,Blagwsa
+274,237,Blagwssa,Blagwssa
+275,238,Blagwssa,Blagwssa
+276,238,Symonchewcz,Symonchewcz
+277,239,Blagwssa,Blagwssa
+278,239,Symonczewcz,Symonczewcz
+279,240,Blagwssa,Blagwssa
+280,240,Symwnchowcz,Symwnchowcz
+281,241,Blasew Werh,Blasew Werh
+282,242,Blasewerh-ad Achyna,Blasewerh-ad Achyna
+283,243,Blasewwerh-ad Achynam,Blasewwerh-ad Achynam
+284,244,Blaskoucz,Blaskoucz
+285,244,Glavnycza,Glavnycza
+286,245,Blaskowcz,Blaskowcz
+287,245,Glawnycza,Glawnycza
+288,246,Blathnicza,Blathnicza
+289,247,Blathno,Blathno
+290,247,Remethinczy,Remethinczy
+291,247,Lwka,Lwka
+292,248,Blathno,Blathno
+293,248,Remethinczy,Remethinczy
+294,248,Lwka,Lwka*
+295,249,Blathnycza,Blathnycza
+296,250,Blatnycza,Blatnycza
+297,251,Blatthnycza,Blatthnycza
+298,252,Blattnycza,Blattnycza
+299,253,Blizna,Blizna
+300,254,Bliznafew,Bliznafew
+301,255,Blyzna,Blyzna
+302,256,Blyzna Medwedwar,Blyzna sub Medwedwar
+303,257,Blyzna Medwewar,Blyzna sub Medwewar
+304,258,Blyzna,Blyzna
+305,258,Remethyncz,Remethyncz
+306,259,Blyznafew,Blyznafew
+307,260,Blyznaffew,Blyznaffew
+308,261,Blyzno,Blyzno
+309,262,Blyzno Medwe,Blyzno (Medwe)
+310,263,Bobinschyna,Bobinschyna
+311,264,Bobonycza,Bobonycza
+312,265,Bobouycza,Bobouycza
+313,266,Bobowycha ad Mokrycham,Bobowycha ad Mokrycham
+314,267,Bobowycza,Bobowycza
+315,268,Bobowycza ad Mokrycza,Bobowycza ad Mokrycza
+316,269,Bobowycza ad Mokrycza pertinens,Bobowycza ad Mokrycza pertinens
+317,270,Bobowycza ad Mokryczam,Bobowycza ad Mokryczam
+318,271,Bobowycza ad Mokryzam,Bobowycza ad Mokryzam
+319,272,Bobowycza,Bobowycza
+320,272,Kapolna,Kapolna
+321,273,Bobowycza,Bobowycza
+322,273,Kapolna,Kapolna
+323,273,Othok,Othok
+324,273,Jemryhowcz,Jemryhowcz
+325,274,Bobowycza-ad Mokryczam,Bobowycza-ad Mokryczam
+326,275,Bocyncz ad Medwe,Bocyncz ad Medwe
+327,276,Bogacheuo,Bogacheuo
+328,277,Bogachewo,Bogachewo
+329,278,Bogacho,Bogacho
+330,279,Bogachyewo,Bogachyewo
+331,280,Bogatho,Bogatho
+332,281,Bolch,Bolch
+333,282,Bolcz,Bolcz
+334,283,Bolethyna,Bolethyna
+335,284,Bolethyno,Bolethyno
+336,285,Bona-Hampo,Bona-Hampo
+337,286,Bona-Johannes Alapi,Bona-Johannes Alapi
+338,287,Bona-Nicolaus Zrini,Bona-Nicolaus Zrini
+339,288,Bona-Nicolaus Zryny,Bona-Nicolaus Zryny
+340,289,Bona-Zlwny,Bona-Zlwny
+341,290,Bonowk,Bonowk
+342,291,Borchecz Zomzedwara,Borchecz in pertinentiis Zomzedwara
+343,292,Borcowcz,Borcowcz
+344,293,Borcowcz,Borcowcz
+345,294,Borcz ad Topozka,Borcz ad Topozka (predium)
+346,295,Borkoucz,Borkoucz
+347,296,Borkowcz,Borkowcz
+348,297,Borowcz,Borowcz
+349,298,Borowcz,Borowcz
+350,299,Borowe,Borowe
+351,300,Borsowcz,Borsowcz
+352,301,Borycheucz,Borycheucz
+353,302,Borychewcz,Borychewcz
+354,303,Borychewcz,Borychewcz
+355,303,Marthyndoll,Marthyndoll
+356,304,Boryzlowcz,Boryzlowcz
+357,305,Bosako,Bosako
+358,306,Bosiako,Bosiako
+359,307,Bosiako,Bosiako-castrum-judicatus inferior
+360,308,Bosiako,Bosiako-castrum-judicatus superior
+361,309,Bosiakowyna,Bosiakowyna
+362,310,Bosyako,Bosyako
+363,311,Bosyako,Bosyako cum pertinentiis
+364,312,Bosyako,Bosyako cum pertinentiis*
+365,313,Bosyako,Bosyako-castellum
+366,314,Bosyako,Bosyako-castellum
+367,315,Bosyako,Bosyako-castellum cum pertinentiis
+368,316,Bosyako,Bosyako-castellum-judicatus inferior
+369,317,Bosyako,Bosyako-castellum-judicatus superior
+370,318,Bosyako,Bosyako-cum pertinentiis
+371,319,Bosyako-judiatus,Bosyako-judiatus inferior
+372,320,Bosyako,Bosyako-judicatus superior
+373,321,Bosyako et,Bosyako-judicatus superior et inferior
+374,322,Bosyakowyna,Bosyakowyna
+375,323,Bosyakowyna,Bosyakowyna-castellum*
+376,324,Bothcafeld,Bothcafeld
+377,325,Bothezyncz,Bothezyncz
+378,326,Bothincz,Bothincz
+379,327,Bothkafeld,Bothkafeld
+380,328,Bothowcz,Bothowcz
+381,329,Bothyncz,Bothyncz
+382,330,Bothyncz,Bothyncz
+383,331,Bothyncz ad Medwe,Bothyncz ad Medwe
+384,332,Bothynowcz,Bothynowcz
+385,333,Botyncz,Botyncz
+386,334,Boytincz,Boytincz
+387,335,Bozyas,Bozyas
+388,336,Bradechyna ad Garych,Bradechyna ad Garych
+389,337,Bradna,Bradna
+390,338,Bradna,Bradna inferior
+391,339,Bragasoucz,Bragasoucz
+392,340,Bragasowcz,Bragasowcz
+393,341,Brakwnowcz,Brakwnowcz
+394,342,Bregchewcz,Bregchewcz
+395,343,Bresancz ad Kaproncza,Bresancz ad Kaproncza
+396,344,Breschyna,Breschyna
+397,345,Bresnycha,Bresnycha
+398,346,Bresnycza-ad Achynam,Bresnycza-ad Achynam
+399,347,Bresnycze,Bresnycze
+400,348,Bresowcz,Bresowcz
+401,349,Bresowycza,Bresowycza
+402,350,Brestowcz,Brestowcz
+403,351,Brestoycha,Brestoycha
+404,352,Brezewcze,Brezewcze cum pertinentiis
+405,353,Brezoucz,Brezoucz
+406,354,Brezowcz,Brezowcz
+407,355,Brezowicza,Brezowicza
+408,356,Brezowycha,Brezowycha
+409,357,Brezowycza,Brezowycza
+410,358,Brezoycha-ad Nagh Kemlek,Brezoycha-ad Nagh Kemlek
+411,359,Brezoycza,Brezoycza
+412,360,Brezoycza,Brezoycza
+413,361,Brezt,Brezt
+414,362,Brezth,Brezth
+415,363,Brezthowcz,Brezthowcz
+416,364,Brezthowcz,Brezthowcz
+417,364,Dechyna,Dechyna
+418,365,Brezthowcz,Brezthowcz
+419,365,Dolina,Dolina
+420,366,Brezthoycza,Brezthoycza
+421,367,Brezthye,Brezthye
+422,368,Breztoycha,Breztoycha
+423,369,Brezyancz,Brezyancz
+424,370,Brezyna,Brezyna
+425,371,Brezyna,Brezyna
+426,371,Chakowcz,Chakowcz
+427,372,Brezynacz,Brezynacz
+428,373,Brkwnowcz,Brkwnowcz
+429,374,Brokownyowcz,Brokownyowcz
+430,375,Brokunoucz,Brokunoucz
+431,376,Brokunoucz,Brokunoucz
+432,376,Adamovcz,Adamovcz
+433,377,Brokwnowcz,Brokwnowcz
+434,378,Brokwnowcz,Brokwnowcz
+435,378,Glawnicza,Glawnicza
+436,379,Brokwnyowcz,Brokwnyowcz
+437,380,Brokwnyowcz,Brokwnyowcz
+438,380,Glawnycza,Glawnycza
+439,381,Brysnyak,Brysnyak
+440,382,Bryzthno,Bryzthno
+441,383,Budrowcz,Budrowcz
+442,384,Budyndol,Budyndol
+443,384,Pomperoucz,Pomperoucz
+444,384,Hansevcz,Hansevcz
+445,385,Bukovcz,Bukovcz
+446,386,Bwchyncz,Bwchyncz
+447,387,Bwdislawcz,Bwdislawcz
+448,388,Bwdnak,Bwdnak
+449,389,Bwdowcz,Bwdowcz
+450,390,Bwdrocz,Bwdrocz
+451,391,Bwdrocz,Bwdrocz
+452,392,Bwdrowcz,Bwdrowcz
+453,393,Bwdrowcz,Bwdrowcz
+454,394,Bwdyndol,Bwdyndol
+455,395,Bwdyndol,Bwdyndol
+456,395,Hansewcz,Hansewcz
+457,396,Bwdyndol,Bwdyndol
+458,396,Hansewcz,Hansewcz
+459,396,Pomperowcz,Pomperowcz
+460,397,Bwdyndoll,Bwdyndoll
+461,398,Bwdyslwcz,Bwdyslwcz
+462,399,Bwdyzlawcz,Bwdyzlawcz
+463,400,Bwdyzlawcz,Bwdyzlawcz
+464,400,Dymytrowcz,Dymytrowcz
+465,401,Bwkowcz,Bwkowcz
+466,401,Zelyna,Zelyna
+467,402,Bwkowschak,Bwkowschak
+468,403,Bwkowschyak,Bwkowschyak
+469,404,Bwkowsthyak,Bwkowsthyak
+470,405,Bwkowychyak,Bwkowychyak
+471,406,Bwschyncz,Bwschyncz
+472,407,Bwsowcz,Bwsowcz
+473,408,Bwssocz,Bwssocz
+474,409,Bwssowcz,Bwssowcz
+475,410,Bwssyn,Bwssyn
+476,411,Bwsthincz,Bwsthincz
+477,412,Bwsthyncz,Bwsthyncz
+478,413,Bwsyn,Bwsyn
+479,414,Bwsyn,Bwsyn
+480,414,Odra,Odra
+481,415,Bwszyn,Bwszyn
+482,416,Bwthkafeld,Bwthkafeld
+483,417,Bwthkafelde,Bwthkafelde
+484,418,Bwthkafewlde,Bwthkafewlde
+485,419,Bwthynowcz,Bwthynowcz
+486,420,Bwtkafeld,Bwtkafeld
+487,421,Bwyancz,Bwyancz
+488,422,Bwyanowcz,Bwyanowcz
+489,423,Bwyowcz,Bwyowcz
+490,424,Bwzyn,Bwzyn
+491,424,Odra,Odra
+492,425,Byenik,Byenik
+493,426,Byenyk,Byenyk
+494,427,Byenyk ad Topozka,Byenyk ad Topozka (predium)
+495,428,Bygzaad,Bygzaad
+496,429,Bygzad,Bygzad
+497,430,Bygzad,Bygzad
+498,431,Bygzad-citra Lonyam,Bygzad-citra Lonyam
+499,432,Bykalla,Bykalla
+500,433,Bykalya,Bykalya
+501,434,Bykchelethincz,Bykchelethincz
+502,435,Bykczelethyncz,Bykczelethyncz
+503,436,Bykszad,Bykszad
+504,437,Bykzad,Bykzad
+505,438,Bykzad,Bykzad
+506,439,Bykzad,Bykzad
+507,439,Wychel portio,Wychel portio
+508,440,Bykzad,Bykzad
+509,440,Wyhel,Wyhel
+510,441,Bynowcz,Bynowcz
+511,442,Byskupcz,Byskupcz
+512,443,Byskwpch,Byskwpch
+513,444,Byskwpchy,Byskwpchy
+514,445,Byskwpcz,Byskwpcz
+515,446,Byskwpcz,Byskwpcz
+516,447,Byskwpecz,Byskwpecz
+517,448,Byskwpecz,Byskwpecz
+518,449,Byskwpowcz,Byskwpowcz
+519,450,Byskwpowcz,Byskwpowcz
+520,451,Bysztra,Bysztra
+521,452,Bysztrycza,Bysztrycza
+522,453,Byxad,Byxad
+523,454,Byxad,Byxad cum pertinentiis
+524,455,Byzagh,Byzagh
+525,456,Byzkelethycz,Byzkelethycz
+526,457,Byznafew,Byznafew
+527,458,Byzthra,Byzthra
+528,459,Byzthra ad Zomzewdwara,Byzthra ad Zomzewdwara
+529,460,Byzthrycha,Byzthrycha
+530,461,Byzthrycza,Byzthrycza
+531,462,Byzthrycze,Byzthrycze
+532,463,Byztra,Byztra
+533,464,Byztricza,Byztricza
+534,465,Byztricza,Byztricza cum pertinentiis
+535,466,Byztrycza,Byztrycza
+536,467,Byztrycze,Byztrycze
+537,468,Byztrycze,Byztrycze cum pertinentiis
+538,469,Camarcha,Camarcha
+539,470,Camarcha,Camarcha
+540,470,Thwlowa,Thwlowa
+541,471,Campus,Campus
+542,472,Campus-Sancta Maria Virginis in Campo,Campus-Sancta Maria Virginis in Campo
+543,473,Capella,Capella
+544,474,Cappela,Cappela
+545,474,Kelyanowcz,Kelyanowcz
+546,475,Captholowcz,Captholowcz
+547,476,Cargoucz,Cargoucz
+548,477,Carlowcz,Carlowcz
+549,478,Casma,Casma
+550,479,Cerabarda,Cerabarda
+551,480,Cerztwecz,Cerztwecz
+552,481,Chakowcz,Chakowcz
+553,482,Chakowcz,Chakowcz
+554,482,Brezyna,Brezyna
+555,483,Chaktornya,Chaktornya
+556,484,Chalyncz,Chalyncz
+557,485,Channyo,Channyo
+558,486,Chano,Chano
+559,487,Chanyo,Chanyo
+560,488,Chanyo,Chanyo
+561,488,Prezeka,Prezeka
+562,488,Rauen,Rauen
+563,489,Chapalowcz,Chapalowcz
+564,490,Chapolowcz,Chapolowcz
+565,491,Chargowcz,Chargowcz
+566,492,Charzyncz,Charzyncz
+567,493,Chasma,Chasma
+568,494,Chasma,Chasma-in pertinentiis
+569,495,Chasmafew,Chasmafew
+570,496,Chawlyncz,Chawlyncz
+571,497,Chazarwara,Chazarwara
+572,498,Chazarwara,Chazarwara-castrum cum pertinentiis
+573,499,Chazmafew,Chazmafew
+574,500,Chebenowcz,Chebenowcz
+575,501,Chehowyna ad portionem,Chehowyna ad portionem
+576,502,Chekno,Chekno
+577,503,Chelowechky,Chelowechky
+578,504,Chelychye,Chelychye
+579,505,Chelycze,Chelycze
+580,506,Chemernicha,Chemernicha
+581,507,Chemernicza,Chemernicza
+582,508,Chemernycha,Chemernycha
+583,509,Cheperlyncz,Cheperlyncz
+584,510,Cheperlyncz,Cheperlyncz
+585,510,Stefancz,Stefancz
+586,511,Cheperlyncz,Cheperlyncz
+587,511,Stephancz,Stephancz
+588,511,Othok,Othok
+589,512,Cheperlyncz,Cheperlyncz
+590,512,Zenth Kelemen,Zenth Kelemen
+591,513,Cheperlyncz,Cheperlyncz
+592,513,Zenthkelemen,Zenthkelemen
+593,514,Cherbenye,Cherbenye
+594,514,Lwkawecz,Lwkawecz
+595,515,Cherbyncz,Cherbyncz
+596,516,Cherchan ad Gemlech,Cherchan ad Gemlech
+597,517,Chereborda,Chereborda
+598,518,Cheresnye,Cheresnye
+599,519,Cheresnyo,Cheresnyo
+600,520,Cheresnyo,Cheresnyo
+601,520,Wydowcz,Wydowcz
+602,521,Cherkowczy,Cherkowczy
+603,522,Chernacz,Chernacz
+604,523,Chernareca,Chernareca
+605,524,Chernareka,Chernareka
+606,525,Chernchan ad Gemlecz,Chernchan ad Gemlecz
+607,526,Chernech,Chernech
+608,527,Chernecz,Chernecz
+609,528,Cherneleucz,Cherneleucz
+610,528,Toplychycza,Toplychycza
+611,529,Chernesoucz,Chernesoucz
+612,530,Chernkocz,Chernkocz
+613,531,Chernkowch,Chernkowch
+614,532,Chernkowcz,Chernkowcz
+615,533,Chernkowcz,Chernkowcz
+616,533,Schytaryo,Schytaryo
+617,534,Chernomerch,Chernomerch
+618,535,Chernomercz,Chernomercz
+619,536,Chernomercz Medwe,Chernomercz (Medwe)
+620,537,Chernomerecz,Chernomerecz
+621,538,Chernossowcz,Chernossowcz
+622,539,Chernylewch,Chernylewch
+623,539,Thoplychycha,Thoplychycha
+624,540,Chernylno,Chernylno
+625,541,Chero berdo,Chero berdo
+626,542,Cherowoberdo,Cherowoberdo
+627,543,Cherthwecz,Cherthwecz
+628,544,Chertwecz,Chertwecz
+629,545,Cherwylno,Cherwylno
+630,546,Cherzthwecz,Cherzthwecz
+631,547,Cherzthweczfew,Cherzthweczfew
+632,548,Cherztwecz,Cherztwecz
+633,549,Cherztwecz Zenth Pether,Cherztwecz Zenth Pether
+634,550,Cherzwecz,Cherzwecz
+635,551,Chesthylowcz,Chesthylowcz
+636,552,Chethertekhel,Chethertekhel
+637,553,Chethwecz,Chethwecz
+638,554,Chezmycza Zenth Iwan,Chezmycza Zenth Iwan
+639,555,Chezthylowcz,Chezthylowcz
+640,556,Cheztylowcz,Cheztylowcz
+641,557,Chezwecz,Chezwecz
+642,558,Chialyncz,Chialyncz
+643,559,Chnesancz,Chnesancz
+644,560,Chorgowcz,Chorgowcz
+645,561,Chowcowyna,Chowcowyna
+646,562,Chowkowyna,Chowkowyna
+647,563,Chrechan,Chrechan
+648,564,Chrechancz,Chrechancz
+649,565,Chremysthe,Chremysthe
+650,566,Chrenchan ad Gemnecz,Chrenchan ad Gemnecz
+651,567,Chresnevo,Chresnevo
+652,567,Obres,Obres
+653,568,Chresno,Chresno
+654,569,Chresnyo,Chresnyo
+655,570,Chreztwecz,Chreztwecz*
+656,571,Christalocz,Christalocz
+657,572,Christhalowcz,Christhalowcz
+658,573,Chrysthalowcz-cum et,Chrysthalowcz-cum provincia et pertinentiis
+659,574,Chucher,Chucher
+660,575,Chwcher,Chwcher
+661,576,Chwcherye,Chwcherye
+662,577,Chwchwwachincz,Chwchwwachincz
+663,578,Chwdowcz,Chwdowcz
+664,579,Chwdowcz,Chwdowcz
+665,579,Wynarcz,Wynarcz
+666,580,Chwthenya,Chwthenya
+667,581,Chyanyo,Chyanyo
+668,582,Chyazarwara,Chyazarwara
+669,583,Chycherye,Chycherye
+670,584,Chychyrye,Chychyrye
+671,585,Chyglana,Chyglana
+672,586,Chyglena,Chyglena
+673,587,Chygleno,Chygleno
+674,588,Chystho Hrastye,Chystho Hrastye
+675,589,Chystho Hrazthya,Chystho Hrazthya
+676,590,Chyzarwara,Chyzarwara
+677,591,Chyzta Hrazthya,Chyzta Hrazthya
+678,592,Chyztahrazthya,Chyztahrazthya
+679,593,Cirquena,Cirquena
+680,594,Civitas Montis Grecensis Zagrabiensis,Civitas Montis Grecensis Zagrabiensis
+681,595,Civitas Montis Grecensis Zagrabiensis taxa 500 fl,Civitas Montis Grecensis Zagrabiensis (taxa 500 fl)
+682,596,Clobwk,Clobwk
+683,596,Jalsewcz,Jalsewcz
+684,596,Zenth Iwan,Zenth Iwan
+685,597,Clokochewcz,Clokochewcz
+686,598,Clwch,Clwch
+687,599,Cnesancz,Cnesancz
+688,600,Conthowcz,Conthowcz
+689,601,Copathowcz,Copathowcz
+690,602,Copozowcz,Copozowcz
+691,603,Corbowa,Corbowa
+692,604,Coren,Coren
+693,605,Coren,Coren
+694,605,Zdela,Zdela
+695,606,Coroska,Coroska
+696,607,Corpus Christi in Prodauiz,Corpus Christi in Prodauiz
+697,608,Cothnyak,Cothnyak
+698,609,Coznethyno,Coznethyno
+699,610,Coznycza,Coznycza
+700,611,Coznycza,Coznycza cum pertinentiis
+701,612,Coztanowcz,Coztanowcz
+702,613,Coztel,Coztel-castrum cum pertinentiis
+703,614,Crachowcz,Crachowcz
+704,615,Crapyna,Crapyna
+705,616,Craschych,Craschych
+706,616,Wywodyna,Wywodyna
+707,617,Crassulcz,Crassulcz
+708,618,Crawaryna,Crawaryna
+709,619,Crawarzka,Crawarzka
+710,620,Crawloch,Crawloch
+711,621,Crethyn in Dobrachwcha,Crethyn in Dobrachwcha
+712,622,Crisiensis-civitas,Crisiensis-civitas superior
+713,623,Crisium,Crisium
+714,624,Crisium-civitas,Crisium-civitas
+715,625,Crisium-civitas taxa 500 fl,Crisium-civitas (taxa 500 fl)
+716,626,Crisium-civitas,Crisium-civitas inferior
+717,627,Crisium-civitas,Crisium-civitas superior
+718,628,Crisium-claustri,Crisium-claustri
+719,629,Crisium-claustrum,Crisium-claustrum
+720,630,Crisium- civitas,Crisium-inferior civitas
+721,631,Crisium- civitas,Crisium-superior civitas
+722,632,Crisnychya,Crisnychya
+723,633,Crisnychya ad Galgoycza,Crisnychya ad Galgoycza
+724,634,Crisowlan,Crisowlan
+725,635,Crisowlyan,Crisowlyan
+726,636,Cristallowcz,Cristallowcz
+727,637,Cristalowcz,Cristalowcz
+728,638,Cristhalowcz,Cristhalowcz
+729,639,Cristocz,Cristocz
+730,640,Crysancz,Crysancz
+731,641,Crysthalowcz,Crysthalowcz
+732,642,Crysthesawcz-ad Galgowcz,Crysthesawcz-ad Galgowcz
+733,643,Cryznychycha-ad Zenthywan dicata,Cryznychycha-ad Zenthywan dicata
+734,644,Csalyncz,Csalyncz
+735,645,Cwlpowcz,Cwlpowcz
+736,646,Cyglena,Cyglena
+737,647,Cyrquena,Cyrquena
+738,648,Czarghowcz,Czarghowcz
+739,649,Czargowcz,Czargowcz
+740,650,Czazarwara,Czazarwara
+741,651,Czebowcz,Czebowcz
+742,651,Kos,Kos
+743,652,Czekno,Czekno
+744,653,Czelyche,Czelyche
+745,654,Czeraberda,Czeraberda
+746,655,Czereborda,Czereborda
+747,656,Czerowaberda,Czerowaberda
+748,657,Czerowycza Zenth Iwan,Czerowycza Zenth Iwan
+749,658,Czerowycza Zenth Iwan- ad Zenth Gergerwara,Czerowycza Zenth Iwan- ad Zenth Gergerwara
+750,659,Czerowycza Zentiwan,Czerowycza Zentiwan
+751,660,Czerowycza-ad Zenth Gerghwara,Czerowycza-ad Zenth Gerghwara
+752,661,Czerye,Czerye
+753,662,Czerzthwecz,Czerzthwecz
+754,663,Czome,Czome
+755,664,Czwethkowych,Czwethkowych
+756,665,Czwethkowychy,Czwethkowychy
+757,666,Czwethkowychy ad Okych,Czwethkowychy ad Okych
+758,667,Czwethkoych ad Okych,Czwethkoych-judicatus ad Okych
+759,668,Czyczerye,Czyczerye
+760,669,Czyglenycza,Czyglenycza
+761,670,Czyrquena,Czyrquena
+762,671,Czywczerye,Czywczerye
+763,672,Damerye,Damerye
+764,673,Danowcz,Danowcz
+765,674,Darnocz-cum pertinenciis,Darnocz-cum pertinenciis
+766,675,Darnowcz,Darnowcz
+767,676,Darnowcz,Darnowcz cum pertinentiis
+768,677,Darnowcz,Darnowcz- cum pertinentiis
+769,678,Darnowcz-cum pertinenciis,Darnowcz-cum pertinenciis
+770,679,Darnowcz,Darnowcz-cum pertinentiis
+771,680,Darozlo Bakwa,Darozlo Bakwa
+772,681,Dawch,Dawch
+773,682,Deche,Deche
+774,683,Declyna,Declyna
+775,684,Decze,Decze
+776,685,Dedochay Pokwpye,Dedochay sub Pokwpye
+777,686,Demerie,Demerie
+778,687,Demerye,Demerye
+779,688,Dercowcz,Dercowcz
+780,689,Derkowcz,Derkowcz
+781,690,Dersze,Dersze
+782,691,Derze,Derze
+783,692,Desnycze,Desnycze
+784,693,Desowcz,Desowcz
+785,694,Deykowcz-de Waska,Deykowcz-de Waska
+786,695,Dezsnych Jazthrebarzka,Dezsnych- judicatus (Jazthrebarzka-castrum)
+787,696,Dimikowcz,Dimikowcz
+788,697,Dimitrowcz,Dimitrowcz
+789,698,Dimytroucz,Dimytroucz
+790,699,Capituli Zagrabiensis,Districtus Capituli Zagrabiensis
+791,700,dominorum Capituli ecclesiae Zagrabiensis,Districtus dominorum Capituli ecclesiae Zagrabiensis
+792,701,Dobochecz,Dobochecz
+793,702,Dobovcz,Dobovcz
+794,703,Dobowcz,Dobowcz
+795,704,Dobownyk,Dobownyk
+796,705,Dobowyna,Dobowyna
+797,706,Dobowyo in Berzewcze,Dobowyo in Berzewcze
+798,707,Dobra Kuchya,Dobra Kuchya
+799,708,Dobrachwcha,Dobrachwcha
+800,709,Dobrachwcha,Dobrachwcha cum pertinentiis
+801,710,Dobrakuchya,Dobrakuchya
+802,711,Dobrawa,Dobrawa
+803,712,Dobrawa ad Lythwuanych,Dobrawa ad Lythwuanych
+804,713,Dobrawa ad Lythwanych,Dobrawa villa ad Lythwanych
+805,714,Dobrawycza,Dobrawycza
+806,715,Dobrokychya,Dobrokychya
+807,716,Dobrowa Czerzka,Dobrowa Czerzka
+808,717,Dobrowoych,Dobrowoych
+809,718,Dobrowych,Dobrowych
+810,719,Dobrowyncz,Dobrowyncz
+811,720,Dobryncz,Dobryncz
+812,721,Dol,Dol
+813,722,Dolane,Dolane
+814,723,Dolanie,Dolanie
+815,724,Dollyany,Dollyany
+816,725,Dolyan,Dolyan
+817,726,Dolyan ad Belam,Dolyan ad Belam
+818,727,Dolyancz,Dolyancz
+819,728,Dolyane,Dolyane
+820,729,Dolyany,Dolyany
+821,730,Dolyanye,Dolyanye
+822,731,Domaghowych,Domaghowych
+823,732,Domagowych,Domagowych
+824,733,Domagowych Jazthrebarzka,Domagowych- judicatus (Jazthrebarzka-castrum)
+825,734,Domancusowcz,Domancusowcz
+826,735,Domankwsoucz,Domankwsoucz
+827,736,Domankwsowcz,Domankwsowcz
+828,737,Dombrensi,Dombrensi
+829,738,Dombro,Dombro
+830,739,Dombro,Dombro-oppidum
+831,739,Gradecz,Gradecz
+832,740,Dombro,Dombro-provincia
+833,740,ad Sanctum Michaelem,ad Sanctum Michaelem
+834,741,Donadoucz,Donadoucz
+835,742,Donadowcz,Donadowcz
+836,743,Dool,Dool
+837,744,Dorozlo Bakwa,Dorozlo Bakwa
+838,745,Dragalen,Dragalen
+839,746,Dragalyn ad Belam,Dragalyn ad Belam
+840,747,Dragalyna,Dragalyna
+841,748,Draganychy,Draganychy
+842,749,Draganychy ad Okych,Draganychy ad Okych
+843,750,Dragatyn,Dragatyn
+844,751,Dragonoscz,Dragonoscz
+845,752,Dragonosczi,Dragonosczi
+846,753,Dragonosczy,Dragonosczy
+847,754,Dragowya,Dragowya
+848,755,Dragowya-ad Achynam,Dragowya-ad Achynam
+849,756,Dragowyna,Dragowyna
+850,757,Dragwnych ad Okych,Dragwnych-judicatus ad Okych
+851,758,Dragyanych,Dragyanych
+852,759,Drakcha,Drakcha
+853,760,Drascha,Drascha
+854,761,Drascha ad Gemenecz,Drascha ad Gemenecz
+855,762,Drascha ad Gemlech,Drascha ad Gemlech
+856,763,Draschya,Draschya
+857,764,Draschyna ad Gemlecz,Draschyna ad Gemlecz
+858,765,Drascowcz,Drascowcz
+859,766,Drasewcz,Drasewcz
+860,767,Drasimercz,Drasimercz
+861,768,Draskowcz,Draskowcz
+862,769,Drasowch,Drasowch
+863,770,Drasowcz,Drasowcz
+864,771,Drawamelleke,Drawamelleke
+865,772,Drawamelleky,Drawamelleky
+866,773,Dremowa Drenowa,Dremowa (Drenowa*)
+867,774,Drenoua,Drenoua
+868,775,Drenowa,Drenowa
+869,776,Druskoucz,Druskoucz
+870,776,Koskovcz,Koskovcz
+871,777,Drwskowcz,Drwskowcz
+872,778,Drwskowcz,Drwskowcz
+873,778,Koskowcz,Koskowcz
+874,779,Drwskowcz,Drwskowcz
+875,779,Oskowcz,Oskowcz
+876,780,Dryenowa,Dryenowa
+877,781,Duboucz,Duboucz
+878,782,Dubouycza,Dubouycza
+879,782,Kapolna,Kapolna
+880,783,Dubowcz,Dubowcz
+881,784,Dubrawa,Dubrawa
+882,785,Dulepzka,Dulepzka
+883,786,Duoryany,Duoryany
+884,787,Dwbowcz,Dwbowcz
+885,788,Dwbowecz,Dwbowecz
+886,789,Dwbrawa,Dwbrawa
+887,790,Dwbyno,Dwbyno
+888,791,Dwgy Werh,Dwgy Werh
+889,792,Dwlebska,Dwlebska
+890,793,Dwlebzka,Dwlebzka
+891,794,Dwlebzka,Dwlebzka
+892,794,Graberyancz,Graberyancz*
+893,795,Dwlepska,Dwlepska
+894,796,Dwlepzka,Dwlepzka
+895,797,Dwlepzka,Dwlepzka
+896,797,Erdowcz,Erdowcz
+897,798,Dwlepzka,Dwlepzka
+898,798,Graboryancz,Graboryancz
+899,799,Dwlyebzka,Dwlyebzka
+900,800,Dwmowcz,Dwmowcz
+901,801,Dworane,Dworane
+902,802,Dworany,Dworany
+903,803,Dworyancz,Dworyancz
+904,804,Dworysche,Dworysche
+905,805,Dworysche,Dworysche
+906,806,Dworysche,Dworysche Superior
+907,807,Dworysche,Dworysche
+908,807,Orehowcz,Orehowcz
+909,808,Dworyschye,Dworyschye Superior
+910,809,Dworyschye,Dworyschye
+911,809,Orehowcz,Orehowcz
+912,810,Dworyschye,Dworyschye
+913,810,Orehowczy,Orehowczy
+914,811,Dworyste,Dworyste
+915,812,Dworysthe,Dworysthe
+916,813,Dwsicza,Dwsicza cum pertinentiis
+917,814,Dwsycha Mala ad Hrazthowycha,Dwsycha Mala cum pertinentiis ad castrum Hrazthowycha
+918,815,Dwsycza,Dwsycza
+919,816,Dwsycza Mala,Dwsycza Mala cum pertinentiis
+920,817,Dwsycza Mala,Dwsycza Mala-cum pertinentiis
+921,818,Dwsycza Minor,Dwsycza Minor
+922,819,Dwsycza Parva,Dwsycza Parva
+923,820,Dyakowch,Dyakowch
+924,821,Dyakowcz,Dyakowcz
+925,822,Dyanfeld,Dyanfeld
+926,823,Dyanfelde,Dyanfelde
+927,824,Dyanffeld,Dyanffeld
+928,825,Dyewsewcz,Dyewsewcz
+929,826,Dymitrowcz,Dymitrowcz
+930,827,Dymychffeld,Dymychffeld
+931,828,Dymythrowcz,Dymythrowcz
+932,829,Ebres,Ebres
+933,830,Ebres in Berzewcze,Ebres in Berzewcze
+934,831,Ebres,Ebres
+935,831,Koren,Koren
+936,832,Ebres,Ebres
+937,832,Zerdahel,Zerdahel
+938,833,Ecclesia Zagrabiensis,Ecclesia Zagrabiensis
+939,834,Eghywdowcz,Eghywdowcz
+940,835,Egwdowcz,Egwdowcz
+941,835,Chargowcz,Chargowcz
+942,835,Polyana,Polyana
+943,836,Egywdo,Egywdo
+944,836,Charkowcz,Charkowcz
+945,837,Emeryhowcz,Emeryhowcz
+946,838,Emrihowcz,Emrihowcz
+947,839,Emrychowcz,Emrychowcz
+948,840,Emryholcz,Emryholcz
+949,841,Emryhowcz,Emryhowcz
+950,842,Emryhowcz,Emryhowcz
+951,843,Endercowcz,Endercowcz
+952,844,Erdocz,Erdocz
+953,845,Erdowcz,Erdowcz
+954,846,Erdowcz,Erdowcz*
+955,847,Erdowhcz,Erdowhcz
+956,848,Erpenye,Erpenye
+957,849,Erwencze,Erwencze
+958,850,Fabianocz,Fabianocz
+959,851,Fabyanchewcz,Fabyanchewcz
+960,852,Fabyankowcz,Fabyankowcz
+961,853,Fabyanowcz,Fabyanowcz
+962,854,Farcasovcz,Farcasovcz
+963,855,Farkadyn,Farkadyn
+964,856,Farkasowcz,Farkasowcz
+965,857,Farkassowcz,Farkassowcz
+966,858,Farkazowcz,Farkazowcz
+967,859,Felse Chezmyche,Felse Chezmyche
+968,860,Felse Chezmycze,Felse Chezmycze
+969,861,Felse Izdencz,Felse Izdencz
+970,862,Felse Wolyawlya,Felse Wolyawlya
+971,863,Felse Zemche,Felse Zemche
+972,864,Felse Zthwbycza,Felse Zthwbycza
+973,865,Felseu Ztobycza,Felseu Ztobycza
+974,866,Felseu Ztobycza,Felseu Ztobycza
+975,866,Lepa Vez,Lepa Vez
+976,867,Felsew Bakwa,Felsew Bakwa
+977,868,Felsew Bakwa,Felsew Bakwa
+978,869,Felsew Bakwa,Felsew Bakwa cum pertinentiis
+979,870,Felsew Chesmyche,Felsew Chesmyche
+980,871,Felsew Gerzencze,Felsew Gerzencze
+981,872,Felsew Hyzdencz,Felsew Hyzdencz
+982,873,Felsew Izdencz,Felsew Izdencz
+983,874,Felsew Pozawye,Felsew Pozawye
+984,874,Zablathye,Zablathye
+985,875,Felsew Soploncza,Felsew Soploncza
+986,876,Felsew Soproncha,Felsew Soproncha
+987,877,Felsew Soproncza,Felsew Soproncza
+988,878,Felsew Stwbycza,Felsew Stwbycza
+989,879,Felsew Thothwssewyna,Felsew Thothwssewyna
+990,880,Felsew Totusewyna,Felsew Totusewyna
+991,881,Felsew Wolawlya,Felsew Wolawlya
+992,882,Felsew Zemche,Felsew Zemche
+993,883,Felsew Zempche,Felsew Zempche
+994,884,Felsew Zthobycza,Felsew Zthobycza
+995,885,Felsew Zthwbycza,Felsew Zthwbycza
+996,886,Felsew Zthwbycza,Felsew Zthwbycza
+997,886,Bedenycze,Bedenycze
+998,887,Felsew Zthwbycza,Felsew Zthwbycza
+999,887,Bosyako,Bosyako
+1000,888,Felsew Ztobycza,Felsew Ztobycza
+1001,889,Felsew Ztwbycza,Felsew Ztwbycza
+1002,890,Felsewztobycza,Felsewztobycza
+1003,891,Felso Czesmycze,Felso Czesmycze
+1004,892,Felso Zthwbycza,Felso Zthwbycza
+1005,893,Felsow Stwbicza,Felsow Stwbicza
+1006,894,Felsse Zthobycza,Felsse Zthobycza
+1007,895,Felsw Bakwa,Felsw Bakwa
+1008,896,Felwsew Krayachowcz,Felwsew Krayachowcz
+1009,897,Feolso Ztobycza,Feolso Ztobycza
+1010,898,Ferkulovcz,Ferkulovcz
+1011,899,Ferkwlewcz,Ferkwlewcz
+1012,900,Ferkwlowcz,Ferkwlowcz
+1013,901,Ferkwlyewczy,Ferkwlyewczy
+1014,902,Ferkwlyocz,Ferkwlyocz
+1015,903,Ferkwlyowcz,Ferkwlyowcz
+1016,904,Fewlsew Soproncza,Fewlsew Soproncza
+1017,905,Fewlsew Zthobycza,Fewlsew Zthobycza
+1018,906,Feyerkew,Feyerkew
+1019,907,Feyrkew-waywodatus,Feyrkew-waywodatus cum pertinentiis
+1020,908,Filyphfalwa,Filyphfalwa
+1021,909,Finthincz,Finthincz
+1022,910,Fodoroucz,Fodoroucz
+1023,911,Fodorowcz,Fodorowcz
+1024,912,Fodorowcz,Fodorowcz
+1025,913,Fodorowczy,Fodorowczy
+1026,914,Fodroucz,Fodroucz
+1027,915,Fodrowcz,Fodrowcz
+1028,916,Foryanowcz,Foryanowcz
+1029,917,Furmeghoch,Furmeghoch
+1030,918,Fwka,Fwka
+1031,919,Fychowcz,Fychowcz
+1032,920,Fyerky,Fyerky
+1033,921,Fylethyncz,Fylethyncz
+1034,922,Fylippfalwa,Fylippfalwa
+1035,923,Fynchewcz,Fynchewcz
+1036,924,Fynthych,Fynthych
+1037,925,Fynthyncz,Fynthyncz
+1038,926,Galgoncha,Galgoncha
+1039,927,Galgoncha-ad,Galgoncha-ad provincia
+1040,928,Galgoncza,Galgoncza
+1041,929,Galgoncza,Galgoncza
+1042,929,Kalecz,Kalecz
+1043,930,Galgoncza,Galgoncza
+1044,930,Thkalecz,Thkalecz
+1045,931,Galgoncza ad,Galgoncza-provincia ad
+1046,932,Galgowo,Galgowo
+1047,933,Galgowo Okych,Galgowo (Okych)
+1048,934,Galguncha,Galguncha
+1049,935,Galowchecz,Galowchecz
+1050,936,Galowcz,Galowcz
+1051,937,Garazda,Garazda
+1052,938,Garazdyncz,Garazdyncz
+1053,939,Gardowa,Gardowa
+1054,940,Garyghnycze,Garyghnycze
+1055,941,Garygnycza,Garygnycza
+1056,942,Gathalocz,Gathalocz
+1057,943,Gathalovcz,Gathalovcz
+1058,944,Gathalowcz,Gathalowcz
+1059,945,Gathalowcz,Gathalowcz
+1060,946,Gayancz,Gayancz
+1061,947,Gayancz,Gayancz
+1062,947,Nedelyancz,Nedelyancz
+1063,948,Gayanczy,Gayanczy
+1064,949,Gedrocz,Gedrocz
+1065,950,Gedrowcz,Gedrowcz
+1066,951,Gemelgfelde,Gemelgfelde
+1067,952,Geramuczyak,Geramuczyak
+1068,953,Gereben,Gereben
+1069,954,Gerecz,Gerecz
+1070,955,Gerecz,Gerecz
+1071,956,Geremchari,Geremchari
+1072,957,Gerwasowcz,Gerwasowcz
+1073,958,Gerzencze,Gerzencze
+1074,959,Ghoricza,Ghoricza
+1075,960,Glagowo,Glagowo
+1076,961,Glaunycza Sanctae Trinitatis,Glaunycza Sanctae Trinitatis
+1077,962,Glavnycza,Glavnycza
+1078,962,Ztobycza,Ztobycza
+1079,963,Glawnicza,Glawnicza
+1080,964,Glawnicza Zelinawar,Glawnicza Zelinawar
+1081,965,Glawnycha,Glawnycha
+1082,966,Glawnycha ad Zelynawar,Glawnycha ad Zelynawar
+1083,967,Glawnycza,Glawnycza
+1084,968,Glawnycza,Glawnycza
+1085,968,Zthobycza,Zthobycza
+1086,969,Globochech,Globochech
+1087,970,Globochecz,Globochecz
+1088,971,Globochecz,Globochecz
+1089,972,Globochecz,Globochecz
+1090,972,Polyana,Polyana
+1091,973,Globochez,Globochez
+1092,974,Globochicha,Globochicha
+1093,975,Globochycza,Globochycza
+1094,976,Glokosowcz,Glokosowcz
+1095,976,Mylethynch,Mylethynch
+1096,977,Golgoncza,Golgoncza
+1097,977,Kalecz,Kalecz
+1098,978,Golyak Jazthrebarzka,Golyak- judicatus (Jazthrebarzka-castrum)
+1099,979,Gorazdyncz,Gorazdyncz
+1100,980,Gorbonakffew,Gorbonakffew
+1101,981,Gorbonok,Gorbonok
+1102,982,Gorbonok,Gorbonok
+1103,982,Drawamelleke,Drawamelleke
+1104,983,Gorbonok,Gorbonok
+1105,983,Drawamelleky,Drawamelleky
+1106,984,Gorbonok,Gorbonok-oppidum cum pertinentiis
+1107,985,Gorbonok,Gorbonok-oppidum-cum pertinentiis
+1108,986,Gorbonokfew,Gorbonokfew
+1109,987,Gorbonokffew,Gorbonokffew
+1110,988,Gorbonwk,Gorbonwk
+1111,989,Gorbonwk,Gorbonwk-oppidum cum pertinentiis
+1112,990,Gorbonwkfew,Gorbonwkfew
+1113,991,Gorbonwkfew ad Zenth Gergwara,Gorbonwkfew ad Zenth Gergwara
+1114,992,Gorbowa,Gorbowa
+1115,993,Gordova,Gordova
+1116,994,Gordowa,Gordowa
+1117,995,Goricza in episcopatu Zagrabiensi,Goricza in episcopatu Zagrabiensi
+1118,996,Gorycha,Gorycha
+1119,997,Gorychan,Gorychan
+1120,997,Zbelye,Zbelye
+1121,998,Gorycza,Gorycza
+1122,999,Gorycza,Gorycza
+1123,1000,Gorycza,Gorycza
+1124,1001,Gorycza Maiori,Gorycza Maiori
+1125,1002,Gorycza sive Pregrada,Gorycza sive Pregrada
+1126,1003,Gorycza sive Pregradye,Gorycza sive Pregradye
+1127,1004,Gorycza sive Prygorya,Gorycza sive Prygorya
+1128,1005,Gorycza,Gorycza
+1129,1005,Pleszo,Pleszo
+1130,1006,Gorycza-pertinens ad Hrazthowycza,Gorycza-pertinens ad Hrazthowycza
+1131,1007,Gorycza,Gorycza-pertinentiis
+1132,1008,Gorycze,Gorycze
+1133,1009,Gorycze ad Zenth Gergwara,Gorycze ad Zenth Gergwara
+1134,1010,Goryzca ad Hrazthowyczam,Goryzca ad Hrazthowyczam
+1135,1011,Gotaleryancz,Gotaleryancz
+1136,1012,Gotalowcz,Gotalowcz
+1137,1012,Zawersye,Zawersye
+1138,1013,Gothalowch,Gothalowch
+1139,1014,Gothalowcz,Gothalowcz
+1140,1015,Gothalowcz,Gothalowcz
+1141,1016,Gothalowcz,Gothalowcz
+1142,1016,Zawersye,Zawersye
+1143,1017,Gottaloucz,Gottaloucz
+1144,1018,Gotthalowcz,Gotthalowcz
+1145,1019,Gozthowychy,Gozthowychy
+1146,1020,Goztowycz,Goztowycz
+1147,1021,Goztowyczy,Goztowyczy
+1148,1022,Graberiancz,Graberiancz
+1149,1023,Graberya,Graberya
+1150,1024,Graberye,Graberye
+1151,1025,Graberye,Graberye
+1152,1026,Grabrych,Grabrych
+1153,1027,Grabrychy,Grabrychy
+1154,1028,Gracchaan,Gracchaan
+1155,1029,Gracchan,Gracchan
+1156,1030,Gracchyan,Gracchyan
+1157,1031,Grachan,Grachan
+1158,1032,Grachian,Grachian
+1159,1033,Grachina ad Garig,Grachina ad Garig
+1160,1034,Grachyan,Grachyan
+1161,1035,Grachyna,Grachyna
+1162,1036,Gradacz,Gradacz
+1163,1037,Gradacz,Gradacz
+1164,1037,Jampnicza,Jampnicza
+1165,1038,Gradacz,Gradacz
+1166,1038,Jampnycza,Jampnycza
+1167,1039,Gradchane Medwe,Gradchane sub Medwe
+1168,1040,Gradchyna-ad Garych,Gradchyna-ad Garych
+1169,1041,Gradecz,Gradecz
+1170,1042,Gradecz,Gradecz-fortalitium cum pertinentiis
+1171,1043,Gradna,Gradna
+1172,1044,Gradysche,Gradysche
+1173,1045,Gragena,Gragena
+1174,1046,Gragenna,Gragenna
+1175,1047,Gragenya,Gragenya
+1176,1048,Gragyan,Gragyan
+1177,1049,Gramchoucz,Gramchoucz
+1178,1050,Grayan,Grayan
+1179,1051,Greben,Greben
+1180,1052,Greben,Greben cum pertinentiis
+1181,1053,Greben,Greben-castrum cum pertinentiis
+1182,1054,Grebenna,Grebenna
+1183,1055,Greczan,Greczan
+1184,1056,Greda,Greda
+1185,1057,Gredakowcz ad Gemnecz,Gredakowcz ad Gemnecz
+1186,1058,Gredycze,Gredycze
+1187,1058,Zabok,Zabok
+1188,1059,Gregorchyncz,Gregorchyncz
+1189,1060,Gregorczyncz,Gregorczyncz
+1190,1061,Gregorowcz,Gregorowcz
+1191,1062,Gregorowcz,Gregorowcz
+1192,1063,Gregorowcz,Gregorowcz
+1193,1063,Zabok,Zabok
+1194,1064,Gregoryancz,Gregoryancz
+1195,1065,Gregoryancz,Gregoryancz
+1196,1065,Dorozlawcz,Dorozlawcz
+1197,1065,Camarcha,Camarcha
+1198,1066,Gregoryewcz ad Nagkemlek,Gregoryewcz-villicatus ad Nagkemlek
+1199,1067,Gregoryewyna,Gregoryewyna
+1200,1068,Gregoryowcz,Gregoryowcz
+1201,1068,Zaywsawcz,Zaywsawcz
+1202,1069,Gregoucz,Gregoucz
+1203,1070,Gregsynch,Gregsynch
+1204,1071,Greguroucz,Greguroucz
+1205,1072,Greguroucz,Greguroucz
+1206,1073,Greguroucz,Greguroucz
+1207,1073,Zabok,Zabok
+1208,1074,Gregurowcz-vilicatus-ad Nagh Kemlek,Gregurowcz-vilicatus-ad Nagh Kemlek
+1209,1075,Gregwrowcz,Gregwrowcz
+1210,1076,Gregwrowcz,Gregwrowcz
+1211,1077,Gregwrowcz,Gregwrowcz
+1212,1077,Thoplycza,Thoplycza
+1213,1077,Oskowcz,Oskowcz
+1214,1077,Wethekowcz,Wethekowcz
+1215,1078,Gregwrowcz,Gregwrowcz
+1216,1078,Toplycza,Toplycza
+1217,1078,Oskowcz,Oskowcz
+1218,1079,Gregwrowcz-ad Nagh Kemlek,Gregwrowcz-ad Nagh Kemlek
+1219,1080,Gregwryewyna,Gregwryewyna
+1220,1081,Gregwryowcz,Gregwryowcz
+1221,1082,Grekzynchk,Grekzynchk
+1222,1083,Grexincz,Grexincz
+1223,1084,Grexyncz,Grexyncz
+1224,1085,Grobosincz,Grobosincz
+1225,1086,Grobosyncz,Grobosyncz
+1226,1087,Grymoucz,Grymoucz
+1227,1088,Grymowcz,Grymowcz
+1228,1089,Grysnyak,Grysnyak
+1229,1090,Gubassewo,Gubassewo
+1230,1090,Martyncze,Martyncze
+1231,1091,Gubassewo,Gubassewo
+1232,1091,Prozenyk,Prozenyk
+1233,1092,Gunnyak,Gunnyak
+1234,1093,Gurgekowcz,Gurgekowcz
+1235,1094,Gwbasewo,Gwbasewo
+1236,1095,Gwbasowo,Gwbasowo
+1237,1096,Gwbassewo,Gwbassewo
+1238,1097,Gwbassewo,Gwbassewo
+1239,1097,Krysanch,Krysanch
+1240,1098,Gwbassewo,Gwbassewo
+1241,1098,Prozenyk,Prozenyk
+1242,1099,Gwbassowo,Gwbassowo
+1243,1100,Gwdoch,Gwdoch
+1244,1101,Gwdowcz,Gwdowcz
+1245,1102,Gwdowcz,Gwdowcz-cum pertinentis
+1246,1103,Gwnnak,Gwnnak
+1247,1104,Gwnnyak,Gwnnyak
+1248,1105,Gwnyak,Gwnyak
+1249,1106,Gwrgenowcz,Gwrgenowcz
+1250,1107,Gwrgeroucz,Gwrgeroucz
+1251,1108,Gwrgewcz,Gwrgewcz
+1252,1109,Gwrsincz,Gwrsincz
+1253,1110,Gymelchfeld,Gymelchfeld
+1254,1111,Gywgancz,Gywgancz
+1255,1112,Gywgyancz,Gywgyancz
+1256,1113,Gywgyekowcz,Gywgyekowcz
+1257,1114,Gywrethyncz,Gywrethyncz
+1258,1115,Gywrgyekowcz,Gywrgyekowcz
+1259,1116,Gywrgykowchecz,Gywrgykowchecz
+1260,1117,Gywrgykowcz,Gywrgykowcz
+1261,1118,Gywrkethyncz,Gywrkethyncz
+1262,1119,Gywrsyncz,Gywrsyncz
+1263,1120,Gywrynowcz,Gywrynowcz
+1264,1121,Habyanowcz,Habyanowcz
+1265,1122,Hagen,Hagen
+1266,1123,Haghen,Haghen
+1267,1124,Halehosowcz,Halehosowcz
+1268,1125,Hathko,Hathko
+1269,1126,Hathkozenth Mihal,Hathkozenth Mihal
+1270,1127,Hatko,Hatko
+1271,1128,Haznarcz,Haznarcz
+1272,1129,Haznarcz,Haznarcz
+1273,1129,Turkoucz,Turkoucz
+1274,1130,Hedrihowcz,Hedrihowcz
+1275,1131,Hedryhowcz,Hedryhowcz
+1276,1132,Hegen,Hegen
+1277,1133,Heghen,Heghen
+1278,1134,Hemowcz,Hemowcz
+1279,1135,Herbolthoucz,Herbolthoucz
+1280,1136,Herbolthowcz,Herbolthowcz
+1281,1137,Herbolthya,Herbolthya
+1282,1138,Herbolthyo,Herbolthyo
+1283,1139,Herborthya,Herborthya
+1284,1140,Herbortya,Herbortya
+1285,1141,Herbothowcz,Herbothowcz
+1286,1142,Hercowcz,Hercowcz
+1287,1143,Heressyncz,Heressyncz
+1288,1144,Heresyncz,Heresyncz
+1289,1145,Herethyncz,Herethyncz
+1290,1146,Hergowicza,Hergowicza
+1291,1146,Pwzta Dwsa,Pwzta Dwsa
+1292,1147,Herpeny,Herpeny
+1293,1148,Herpenye,Herpenye
+1294,1149,Heryowcz,Heryowcz
+1295,1150,Herysynch,Herysynch
+1296,1151,Herzowa,Herzowa
+1297,1152,Hewiz ad Dobrachwcha,Hewiz-oppidum ad Dobrachwcha
+1298,1153,Hom,Hom
+1299,1154,Hom,Hom
+1300,1155,Hom Zenth Marthon,Hom Zenth Marthon
+1301,1156,Horeowcz,Horeowcz
+1302,1157,Horzowa,Horzowa
+1303,1158,Hothko,Hothko
+1304,1159,Hothko Zenth Myhal,Hothko Zenth Myhal
+1305,1160,Hothnya Zenth Pal,Hothnya Zenth Pal
+1306,1161,Hothowa,Hothowa
+1307,1162,Hothowo ad Zenth Gergwara,Hothowo ad Zenth Gergwara
+1308,1163,Howano ad Kapruncza,Howano ad Kapruncza
+1309,1164,Hozywfalw,Hozywfalw
+1310,1165,Hradschyna,Hradschyna
+1311,1166,Hrascha,Hrascha
+1312,1167,Hraschan,Hraschan
+1313,1168,Hrasche,Hrasche
+1314,1169,Hraschia,Hraschia
+1315,1170,Hraschya,Hraschya
+1316,1171,Hraschyna,Hraschyna
+1317,1172,Hraschyna ad Greben,Hraschyna ad Greben cum pertinentiis
+1318,1173,Hraschyna Greben,Hraschyna in pertinentiis Greben
+1319,1174,Hrasthan,Hrasthan
+1320,1175,Hrasthye,Hrasthye
+1321,1176,Hrastina,Hrastina
+1322,1177,Hrastovica,Hrastovica cum pertinentiis
+1323,1178,Hrastowicza,Hrastowicza cum pertinentiis
+1324,1179,Hrastowicze,Hrastowicze-castrum cum pertinentiis
+1325,1180,Hrazthowycza-pertinencia,Hrazthowycza-pertinencia
+1326,1181,Hrazthowycze,Hrazthowycze-castrum cum pertinentiis
+1327,1182,Hrazthowycze-pertinantiae,Hrazthowycze-pertinantiae
+1328,1183,Hrazthye,Hrazthye
+1329,1184,Hrazthyna,Hrazthyna
+1330,1185,Hraztina,Hraztina
+1331,1186,Hraztowycza,Hraztowycza-castrum cum pertinentiis
+1332,1187,Hraztowycze,Hraztowycze-castrum cum pertinentiis
+1333,1188,Hraztoyczam,Hraztoyczam cum pertinentiis
+1334,1189,Hrebyncz,Hrebyncz
+1335,1190,Hrelych,Hrelych
+1336,1191,Hrelychi,Hrelychi
+1337,1192,Hrelychy,Hrelychy
+1338,1193,Hromchovcz,Hromchovcz
+1339,1194,Hromchowcz,Hromchowcz
+1340,1195,Hromkowcz,Hromkowcz
+1341,1196,Hrusocz,Hrusocz
+1342,1197,Hrusowcz,Hrusowcz
+1343,1198,Hrustopecowyna,Hrustopecowyna
+1344,1199,Hrwsewcz,Hrwsewcz
+1345,1200,Hrwskopekowyna,Hrwskopekowyna
+1346,1201,Hrwsowcz,Hrwsowcz
+1347,1202,Hrwsowcz,Hrwsowcz*
+1348,1203,Hrwssewcz,Hrwssewcz
+1349,1204,Hrwssowcz,Hrwssowcz
+1350,1205,Hrwssowcz,Hrwssowcz
+1351,1206,Hrwssowcz ad Thopozka,Hrwssowcz ad Thopozka
+1352,1207,Hrwssowcz ad Topozka,Hrwssowcz ad Topozka (predium)
+1353,1208,Hrwssowcz,Hrwssowcz
+1354,1208,Bwsthyncz,Bwsthyncz
+1355,1209,Hrwzowcz-ad Gorbonok,Hrwzowcz-ad Gorbonok
+1356,1210,Hvm,Hvm
+1357,1211,Hwdy Bythek,Hwdy Bythek
+1358,1212,Hwethincz,Hwethincz
+1359,1213,Hwm,Hwm
+1360,1214,Hwm,Hwm
+1361,1215,Hwm Zenth Marthon,Hwm Zenth Marthon
+1362,1216,Hwm Zenthmarton,Hwm Zenthmarton
+1363,1217,Hwywaros,Hwywaros
+1364,1218,Hwzarcz,Hwzarcz
+1365,1219,Hwzarcz,Hwzarcz
+1366,1219,Zenthywan,Zenthywan
+1367,1220,Hwzywfalu,Hwzywfalu
+1368,1221,Hyzdencz,Hyzdencz
+1369,1222,Ilowa,Ilowa
+1370,1223,Ilowa,Ilowa cum pertinentiis
+1371,1224,Lwkawcz,Inferior Lwkawcz
+1372,1225,Lwkawcz,Inferior Lwkawcz
+1373,1225,Kozthaniewcz,Kozthaniewcz
+1374,1226,Lwkawcz,Inferior Lwkawcz
+1375,1226,Kozthanyewcz,Kozthanyewcz
+1376,1227,Lwkawcz,Inferior Lwkawcz
+1377,1227,Obres,Obres
+1378,1228,Lwkawecz,Inferior Lwkawecz
+1379,1229,Opathyncz,Inferior Opathyncz
+1380,1230,Vaska,Inferior Vaska
+1381,1231,Waska,Inferior Waska
+1382,1232,Inoskowcz,Inoskowcz
+1383,1232,Foryanowcz,Foryanowcz
+1384,1233,Insula,Insula
+1385,1234,Insula Zenth Berthalan,Insula Zenth Berthalan
+1386,1235,Insula,Insula-fortalitium*
+1387,1236,Insuly,Insuly
+1388,1237,Inwsowcz,Inwsowcz
+1389,1238,Isanowcz,Isanowcz
+1390,1239,Ista parte Zawe s ove strane Save,Ista parte Zawe (s ove strane Save)
+1391,1240,Iwahnowcz ad Belam,Iwahnowcz ad Belam
+1392,1241,Iwanch,Iwanch
+1393,1242,Iwancz,Iwancz
+1394,1243,Iwancz an Berzewcze,Iwancz an Berzewcze
+1395,1244,Iwancz in Berzewcze,Iwancz in Berzewcze
+1396,1245,Iwanheg,Iwanheg
+1397,1246,Iwanhegh,Iwanhegh
+1398,1247,Iwanicz,Iwanicz
+1399,1248,Iwannussowcz,Iwannussowcz
+1400,1249,Iwanosowcz,Iwanosowcz
+1401,1250,Iwanowcz,Iwanowcz
+1402,1251,Iwanusowcz,Iwanusowcz
+1403,1252,Iwanwssowcz,Iwanwssowcz
+1404,1253,Iwanych,Iwanych
+1405,1254,Iwanych,Iwanych-oppidum
+1406,1254,Oppathychyncz,Oppathychyncz
+1407,1254,Bregy,Bregy
+1408,1254,Lwpoglaw,Lwpoglaw
+1409,1255,Iwanych,Iwanych-oppidum
+1410,1255,Oppathyncz,Oppathyncz
+1411,1255,Bregy,Bregy
+1412,1255,Lwpoglaw,Lwpoglaw
+1413,1256,Iwelowcz,Iwelowcz
+1414,1257,Iwilovcz,Iwilovcz
+1415,1258,Izdencz,Izdencz
+1416,1259,Jacopowcz,Jacopowcz
+1417,1260,Jacupelcz,Jacupelcz
+1418,1261,Jacupelcz,Jacupelcz
+1419,1262,Jacupoucz,Jacupoucz
+1420,1263,Jacupowcz,Jacupowcz
+1421,1264,Jacwpowcz,Jacwpowcz
+1422,1265,Jagustanowcz,Jagustanowcz
+1423,1266,Jagustonowcz na dobrima topličke opatije,Jagustonowcz (na dobrima topličke opatije)
+1424,1267,Jagwstanowcz,Jagwstanowcz
+1425,1268,Jagwstanowcz Berkyssewyna,Jagwstanowcz (Berkyssewyna)
+1426,1269,Jagywdowcz,Jagywdowcz
+1427,1270,Jakopowcz,Jakopowcz
+1428,1271,Jakovllye,Jakovllye
+1429,1271,Felsew et Also Byztra,Felsew et Also Byztra
+1430,1271,Podgorye,Podgorye
+1431,1271,Pzarno,Pzarno
+1432,1272,Jakowla,Jakowla
+1433,1273,Jakowlewcz,Jakowlewcz
+1434,1274,Jakowlia,Jakowlia
+1435,1274,Also Bisztra,Also Bisztra
+1436,1275,Jakowlia,Jakowlia
+1437,1275,Also Byztra,Also Byztra
+1438,1276,Jakowlya,Jakowlya
+1439,1277,Jakowlya,Jakowlya
+1440,1277,Also Byztra,Also Byztra
+1441,1278,Jakowlya,Jakowlya
+1442,1278,Alsobysztra,Alsobysztra
+1443,1279,Jakowlya,Jakowlya
+1444,1279,Alsobyztra,Alsobyztra
+1445,1280,Jakwpelcz,Jakwpelcz
+1446,1281,Jakwpowcz,Jakwpowcz
+1447,1282,Jakwpowcz ad Belam,Jakwpowcz ad Belam
+1448,1283,Jakwssewcz,Jakwssewcz
+1449,1284,Jakwssowcz,Jakwssowcz
+1450,1285,Jakwssowcz,Jakwssowcz
+1451,1285,Maryncz,Maryncz
+1452,1285,Mykchowcz,Mykchowcz
+1453,1286,Jalecz,Jalecz
+1454,1287,Jalez,Jalez
+1455,1288,Jalezcz,Jalezcz
+1456,1289,Jalkowcz,Jalkowcz
+1457,1290,Jalsewa,Jalsewa
+1458,1291,Jalsewcz,Jalsewcz
+1459,1292,Jalsewcz,Jalsewcz
+1460,1292,Ladyzlawcz,Ladyzlawcz
+1461,1293,Jalsewcz,Jalsewcz
+1462,1293,Zenth Iwan,Zenth Iwan
+1463,1294,Jalsewycza,Jalsewycza
+1464,1295,Jalsoucz,Jalsoucz
+1465,1296,Jalsowcz,Jalsowcz
+1466,1297,Jalsowcz ad Galgwcza,Jalsowcz ad Galgwcza
+1467,1298,Jalsowcz,Jalsowcz
+1468,1298,Jerouicza Zent Iwan,Jerouicza Zent Iwan
+1469,1299,Jalsowcz,Jalsowcz
+1470,1299,Zenth Iwan,Zenth Iwan
+1471,1300,Jalsowcza,Jalsowcza
+1472,1300,Ladyslawcz,Ladyslawcz
+1473,1301,Jalsownyk,Jalsownyk
+1474,1302,Jalssowcz,Jalssowcz
+1475,1302,Ladizlawcz,Ladizlawcz
+1476,1303,Jalsuucz,Jalsuucz
+1477,1303,Ladizlaucz,Ladizlaucz
+1478,1304,Jalzowcz,Jalzowcz
+1479,1305,Jamnicza,Jamnicza
+1480,1306,Jamnicza,Jamnicza pertinentie
+1481,1307,Jamnicza,Jamnicza
+1482,1307,Pokupye,Pokupye
+1483,1308,Jamnicza,Jamnicza
+1484,1308,Pokwpye,Pokwpye
+1485,1309,Jamnicza,Jamnicza
+1486,1309,Pokwpye,sub Pokwpye
+1487,1310,Jamninycza,Jamninycza
+1488,1311,Jamnycza,Jamnycza
+1489,1312,Jamnycza,Jamnycza
+1490,1312,Pokwpye,Pokwpye
+1491,1313,Jamnycza,Jamnycza
+1492,1313,Pokwpye,Sub Pokwpye
+1493,1314,Jampnycza,Jampnycza
+1494,1315,Jandrasseucz,Jandrasseucz
+1495,1316,Jandrassewcz,Jandrassewcz
+1496,1317,Janenowcz,Janenowcz
+1497,1318,Janosowcz,Janosowcz
+1498,1319,Janowcz,Janowcz
+1499,1320,Janusowcz,Janusowcz
+1500,1321,Janussowcz,Janussowcz
+1501,1322,Japathyncz,Japathyncz
+1502,1323,Jarebych,Jarebych
+1503,1324,Jarebychy,Jarebychy
+1504,1325,Jarna,Jarna
+1505,1326,Jarno,Jarno
+1506,1327,Jarosin,Jarosin
+1507,1328,Jarosyna,Jarosyna
+1508,1329,Jarthalowcz,Jarthalowcz
+1509,1330,Jartholowcz,Jartholowcz
+1510,1331,Jastrebarzka,Jastrebarzka-castrum cum pertinentiis
+1511,1332,Jaworowcz,Jaworowcz
+1512,1333,Jaworowcz ad Zenth Gergwara,Jaworowcz ad Zenth Gergwara
+1513,1334,Jawowcz Jalsowcz,Jawowcz (Jalsowcz*)
+1514,1335,Jawroch,Jawroch
+1515,1336,Jazenowcz,Jazenowcz
+1516,1337,Jazka,Jazka
+1517,1338,Jazka,Jazka-cum pertinentiis
+1518,1339,Jazthrabarzka,Jazthrabarzka
+1519,1340,Jazthrabarzka,Jazthrabarzka-castrum cum pertinentiis
+1520,1341,Jazthrabarzka,Jazthrabarzka-cum pertinentiis
+1521,1342,Jazthrebarzka,Jazthrebarzka
+1522,1343,Jazthrebarzka,Jazthrebarzka
+1523,1343,Lyppowecz,Lyppowecz cum pertinentiis
+1524,1344,Jazthrebarzka,Jazthrebarzka
+1525,1345,Jazthrebarzka,Jazthrebarzka
+1526,1345,Lyppowcz in Jazthrebarska et eorundem,Lyppowcz-oppidum in Jazthrebarska et eorundem pertinentiis
+1527,1346,Jazthrebarzka,Jazthrebarzka-castrum cum pertinentiis
+1528,1347,Jazthrebarzka cum opido,Jazthrebarzka-castrum cum pertinentiis cum opido
+1529,1348,Jazthrebarzka cum oppido,Jazthrebarzka-castrum cum pertinentiis cum oppido
+1530,1349,Jazthrebarzka cum suis judicatibus,Jazthrebarzka-castrum cum suis judicatibus
+1531,1349,Lypowcz,Lypowcz
+1532,1350,Jazthrebarzka;,Jazthrebarzka-castrum; oppidum
+1533,1351,Jazthrebynzky Werh,Jazthrebynzky Werh
+1534,1352,Jaztrabartzka,Jaztrabartzka
+1535,1353,Jaztrebarzka,Jaztrebarzka
+1536,1354,Jaztrebarzka,Jaztrebarzka cum pertinentiis
+1537,1355,Jaztrebarzka,Jaztrebarzka-castrum cum pertinentiis
+1538,1356,Jaztrebarzka,Jaztrebarzka-cum pertinentiis
+1539,1357,Jaztrebynzki Werh,Jaztrebynzki Werh
+1540,1358,Jaztrebynzkywerh,Jaztrebynzkywerh
+1541,1359,Jeghwdowcz,Jeghwdowcz
+1542,1360,Jegwdowch,Jegwdowch
+1543,1361,Jegwdowch,Jegwdowch
+1544,1361,Bothynch,Bothynch
+1545,1362,Jegwdowcz,Jegwdowcz
+1546,1363,Jegwdowcz,Jegwdowcz
+1547,1363,Benkowcz,Benkowcz
+1548,1364,Jegwdowcz,Jegwdowcz
+1549,1364,Botyncz,Botyncz
+1550,1365,Jegywdowch,Jegywdowch
+1551,1366,Jegywdowch,Jegywdowch
+1552,1366,Syslawych,Syslawych
+1553,1366,Jegywdowcz,Jegywdowcz
+1554,1367,Jegywdowcz,Jegywdowcz
+1555,1368,Jegywdowcz,Jegywdowcz
+1556,1368,Lochylnycza,Lochylnycza
+1557,1368,Chehy,Chehy
+1558,1368,Nowaky,Nowaky
+1559,1368,Bwzyn,Bwzyn
+1560,1369,Jegywdowcz,Jegywdowcz
+1561,1369,Syslawych,Syslawych
+1562,1370,Jegywdowcz,Jegywdowcz
+1563,1370,Sysslawychy,Sysslawychy
+1564,1371,Jelakoucz,Jelakoucz
+1565,1371,Zablathya,Zablathya
+1566,1372,Jelakowcz,Jelakowcz
+1567,1372,Zablatya,Zablatya
+1568,1373,Jelkowcz,Jelkowcz
+1569,1374,Jellye,Jellye
+1570,1375,Jelsowcz,Jelsowcz
+1571,1376,Jelye,Jelye
+1572,1377,Jemryhoucz,Jemryhoucz
+1573,1377,Othok,Othok
+1574,1378,Jemryhowcz,Jemryhowcz
+1575,1379,Jemryhowcz,Jemryhowcz
+1576,1379,Othok,Othok
+1577,1380,Jenderkowcz ad Garigh,Jenderkowcz ad Garigh
+1578,1381,Jenderkowcz Garych,Jenderkowcz sub Garych
+1579,1382,Jenderkowcz-ad Garych,Jenderkowcz-ad Garych
+1580,1383,Jendrassewcz,Jendrassewcz
+1581,1384,Jerosyn,Jerosyn
+1582,1385,Jeszenowcz,Jeszenowcz
+1583,1386,Jezenovcz,Jezenovcz
+1584,1386,Adamowcz,Adamowcz
+1585,1387,Jezenowcz,Jezenowcz
+1586,1388,Jezero,Jezero
+1587,1389,Jurkethyncz,Jurkethyncz
+1588,1390,Jurketincz,Jurketincz
+1589,1391,Jwgowcz,Jwgowcz
+1590,1391,Powsincz,Powsincz
+1591,1392,Jwrkethyncz,Jwrkethyncz
+1592,1393,Jwrketyncz,Jwrketyncz
+1593,1394,Jwrowlyan,Jwrowlyan
+1594,1395,Kalecz,Kalecz
+1595,1396,Kalecz Uterque,Kalecz Uterque
+1596,1397,Kalecz ad Galgoncza,Kalecz ad Galgoncza
+1597,1398,Kalecz ad Galguncha,Kalecz ad Galguncha
+1598,1399,Kalecz uterque,Kalecz uterque
+1599,1400,Kalecz-ad Galgonchacz,Kalecz-ad Galgonchacz
+1600,1401,Kalym,Kalym
+1601,1402,Kamacza,Kamacza
+1602,1403,Kamarcha,Kamarcha
+1603,1404,Kamarcza,Kamarcza
+1604,1405,Kamarya,Kamarya
+1605,1406,Kamarya,Kamarya
+1606,1406,Melesocz,Melesocz
+1607,1407,Kamechecz-ad Nagh Kemlek,Kamechecz-ad Nagh Kemlek
+1608,1408,Kamechnicza,Kamechnicza
+1609,1409,Kamechnycza,Kamechnycza
+1610,1410,Kamechnycza ad Nagkemlek,Kamechnycza ad Nagkemlek
+1611,1411,Kamechnycza-ad Nagh Kemlek,Kamechnycza-ad Nagh Kemlek
+1612,1412,Kamenie,Kamenie
+1613,1413,Kamenycza,Kamenycza
+1614,1414,Kapella,Kapella
+1615,1415,Kapolna,Kapolna
+1616,1415,Bednye,Bednye
+1617,1416,Kapolna,Kapolna
+1618,1416,Dobowycza,Dobowycza
+1619,1417,Kapolna,Kapolna
+1620,1417,Dobowycza,Dobowycza
+1621,1417,Othok,Othok
+1622,1417,Jemryhowcz,Jemryhowcz
+1623,1418,Kapolna,Kapolna
+1624,1418,Dwbowycza,Dwbowycza cum pertinentiis
+1625,1419,Kapolna,Kapolna
+1626,1419,Kylanoch,Kylanoch
+1627,1420,Kapronchensia bona,Kapronchensia bona
+1628,1421,Kaproncza,Kaproncza
+1629,1422,Kaproncza,Kaproncza-castrum cum pertinentiis
+1630,1423,Kaproncza-civitas,Kaproncza-civitas
+1631,1424,Kaproncza-oppidium,Kaproncza-oppidium
+1632,1425,Kaproncza,Kaproncza-pertinentiis
+1633,1426,Kaproncza-woyewodatus,Kaproncza-woyewodatus
+1634,1427,Kapruncza,Kapruncza
+1635,1428,Kapruncza-Waywodatus ad,Kapruncza-Waywodatus ad
+1636,1429,Kaprwncza,Kaprwncza
+1637,1430,Kaptholowcz,Kaptholowcz
+1638,1431,Karloucz,Karloucz
+1639,1432,Karlowcz,Karlowcz
+1640,1433,Karlowcz,Karlowcz Superior
+1641,1434,Karlowcz,Karlowcz cum pertinentiis
+1642,1435,Karpowcz,Karpowcz
+1643,1436,Kassyna,Kassyna
+1644,1437,Kasyna,Kasyna
+1645,1438,Kazmethyna,Kazmethyna
+1646,1439,Kebel,Kebel
+1647,1440,Kelemynoch,Kelemynoch
+1648,1441,Kenchelowcz,Kenchelowcz
+1649,1442,Kengelowcz,Kengelowcz
+1650,1443,Kengelowhcz,Kengelowhcz
+1651,1444,Kengyelowcz,Kengyelowcz
+1652,1445,Kepchancz,Kepchancz
+1653,1446,Kerhennyna,Kerhennyna
+1654,1447,Kerhennyna-waywodatus,Kerhennyna-waywodatus superior
+1655,1448,Kerhnyewyna,Kerhnyewyna
+1656,1449,Kerhtowcz,Kerhtowcz
+1657,1450,Kernyn,Kernyn
+1658,1451,Kernyn,Kernyn
+1659,1451,Mathwsalowcz,Mathwsalowcz
+1660,1452,Kerthowcz,Kerthowcz
+1661,1453,Kerztowcz,Kerztowcz
+1662,1454,Kerztynoucz,Kerztynoucz
+1663,1455,Kevstherowcz,Kevstherowcz
+1664,1456,Kis Kemlek-pertinencie ad,Kis Kemlek-pertinencie ad
+1665,1457,Kladye,Kladye
+1666,1458,Kladye,Kladye villa
+1667,1459,Klenocz,Klenocz
+1668,1460,Klenowcz,Klenowcz
+1669,1461,Klenowhch,Klenowhch
+1670,1461,Orehowcz,Orehowcz
+1671,1462,Klokochowcz,Klokochowcz
+1672,1463,Klokochowcz,Klokochowcz
+1673,1463,Milethyncz,Milethyncz
+1674,1464,Klokowcz,Klokowcz
+1675,1465,Klwch,Klwch
+1676,1466,Klwka,Klwka
+1677,1467,Klyncha Szela,Klyncha Szela
+1678,1468,Klyncha Zela,Klyncha Zela
+1679,1469,Klyncha szela,Klyncha szela
+1680,1470,Klynchaszela,Klynchaszela
+1681,1471,Klynchazela,Klynchazela
+1682,1472,Klywka,Klywka
+1683,1472,Kowachewcz,Kowachewcz
+1684,1473,Klywka,Klywka
+1685,1473,Kowachowcz,Kowachowcz
+1686,1474,Kneghyncz,Kneghyncz
+1687,1475,Knegyncz,Knegyncz
+1688,1476,Knesancz,Knesancz
+1689,1477,Knesech,Knesech
+1690,1478,Knesecz,Knesecz
+1691,1479,Knessancz,Knessancz
+1692,1480,Knesty,Knesty
+1693,1481,Knesyncz,Knesyncz
+1694,1482,Knezecz,Knezecz
+1695,1483,Knyegyncz,Knyegyncz
+1696,1484,Kobyle,Kobyle
+1697,1485,Kobylych,Kobylych
+1698,1486,Kobylychy,Kobylychy
+1699,1487,Kobylychy,Kobylychy
+1700,1487,Persynowcz,Persynowcz
+1701,1488,Kobylye,Kobylye
+1702,1489,Kochan,Kochan
+1703,1490,Kochan,Kochan
+1704,1491,Koche,Koche
+1705,1491,Lomnycha,Lomnycha
+1706,1492,Koche,Koche
+1707,1492,Lomnycza,Lomnycza
+1708,1493,Kochewcz,Kochewcz
+1709,1494,Kochycze,Kochycze
+1710,1495,Kochycze-insula,Kochycze-insula
+1711,1496,Kokorekowcz,Kokorekowcz
+1712,1497,Kolaryewcz,Kolaryewcz
+1713,1498,Kolaryewecz,Kolaryewecz
+1714,1499,Kolchewcz,Kolchewcz
+1715,1500,Kolchewczy Bosyako,Kolchewczy (Bosyako)
+1716,1501,Koledyncz,Koledyncz
+1717,1501,Kwzmyncz,Kwzmyncz
+1718,1502,Koledyncz,Koledyncz
+1719,1502,Kwzmyncz,Kwzmyncz
+1720,1502,Jelekowcz,Jelekowcz
+1721,1503,Komarcha,Komarcha
+1722,1504,Komarcza,Komarcza
+1723,1505,Komaryn,Komaryn
+1724,1506,Komor,Komor
+1725,1507,Komor,Komor
+1726,1507,Mwrkowcz,Mwrkowcz
+1727,1508,Komor,Komor
+1728,1508,Myrkowcz,Myrkowcz
+1729,1509,Komor,Komor
+1730,1509,Wladyzlowcz,Wladyzlowcz
+1731,1510,Komosowcz,Komosowcz
+1732,1511,Komozowcz,Komozowcz
+1733,1512,Konczka,Konczka
+1734,1513,Konschicza,Konschicza
+1735,1514,Konschycza,Konschycza
+1736,1515,Konsycza,Konsycza
+1737,1516,Konthoch Zenthpeter,Konthoch Zenthpeter
+1738,1517,Konthocz Zenth Miklos,Konthocz Zenth Miklos
+1739,1518,Konthocz Zenthmyklos,Konthocz Zenthmyklos
+1740,1519,Konthowcz,Konthowcz
+1741,1520,Konthowcz,Konthowcz -cum pertinentiis
+1742,1521,Konthowcz Zenth Myklos,Konthowcz Zenth Myklos
+1743,1522,Konthowcz Zenthmyklos,Konthowcz Zenthmyklos
+1744,1523,Konthowcz Zenthpeter,Konthowcz Zenthpeter
+1745,1524,Konthowcz,Konthowcz cum pertinentiis
+1746,1525,Konthowcz,Konthowcz-cum pertinentiis
+1747,1526,Konzka,Konzka
+1748,1527,Konzka-swpanathws,Konzka-swpanathws
+1749,1528,Konzka-woywodatus,Konzka-woywodatus
+1750,1529,Kopachowcz,Kopachowcz
+1751,1530,Kopakowcz,Kopakowcz
+1752,1531,Kopchyna,Kopchyna
+1753,1532,Kophachowcz,Kophachowcz
+1754,1533,Kopino,Kopino
+1755,1533,Sabnicha,Sabnicha
+1756,1534,Kopino,Kopino
+1757,1534,Sabpnicha,Sabpnicha
+1758,1535,Kopochowcz,Kopochowcz
+1759,1536,Kopozowcz,Kopozowcz
+1760,1537,Kopynno,Kopynno
+1761,1538,Korbawa,Korbawa
+1762,1539,Kordusowcz,Kordusowcz
+1763,1540,Kordussovcz,Kordussovcz
+1764,1541,Kordwssowcz,Kordwssowcz
+1765,1542,Kordwssowcz,Kordwssowcz
+1766,1542,Pethrossowcz,Pethrossowcz
+1767,1543,Koren,Koren
+1768,1544,Koren,Koren
+1769,1544,Zdelya,Zdelya
+1770,1545,Korennyak,Korennyak
+1771,1546,Korenyak,Korenyak
+1772,1547,Korenyak,Korenyak
+1773,1547,Belycz,Belycz
+1774,1548,Korlylowcz,Korlylowcz
+1775,1549,Koroska,Koroska
+1776,1550,Koroska,Koroska
+1777,1550,Bedowcz,Bedowcz
+1778,1551,Koruska,Koruska
+1779,1552,Korusta,Korusta
+1780,1553,Korylowcz,Korylowcz
+1781,1554,Korylowcz,Korylowcz
+1782,1554,Illowenyak,Illowenyak
+1783,1555,Korylowcz,Korylowcz
+1784,1555,Ilowenyak,Ilowenyak
+1785,1556,Korylowcz,Korylowcz
+1786,1556,Ilowenyako,Ilowenyako
+1787,1557,Korylowcz,Korylowcz
+1788,1557,Mraczlyn,Mraczlyn
+1789,1558,Korythno,Korythno
+1790,1558,Bolch,Bolch
+1791,1559,Korythno,Korythno
+1792,1559,Kebel,Kebel
+1793,1559,Dymytrowcz,Dymytrowcz
+1794,1560,Kos,Kos
+1795,1561,Koscowcz,Koscowcz
+1796,1562,Kosczycza,Kosczycza
+1797,1563,Koskolcz,Koskolcz
+1798,1564,Koskowcz,Koskowcz
+1799,1565,Kossoycza,Kossoycza
+1800,1566,Kosznycza,Kosznycza
+1801,1567,Kosztanyewecz,Kosztanyewecz
+1802,1567,Lomnycza,Lomnycza
+1803,1568,Kotenyak,Kotenyak
+1804,1568,Belycz,Belycz
+1805,1569,Kothchnyak,Kothchnyak
+1806,1570,Kothnyak,Kothnyak
+1807,1571,Kowachewcz,Kowachewcz
+1808,1572,Kowachowcz,Kowachowcz
+1809,1573,Kowachowcz,Kowachowcz
+1810,1573,Radoboye,Radoboye
+1811,1574,Koyenyk,Koyenyk
+1812,1574,Sythny Othok,Sythny Othok
+1813,1574,Koznycza,Koznycza
+1814,1574,Zelnycza,Zelnycza
+1815,1575,Koyenyk,Koyenyk-judicatus
+1816,1575,Koznycza,Koznycza
+1817,1576,Kozachyna,Kozachyna
+1818,1577,Kozachyna-waywodatus,Kozachyna-waywodatus inferior
+1819,1578,Kozachyna-waywodatus,Kozachyna-waywodatus superior
+1820,1579,Kozak,Kozak
+1821,1580,Koznicza,Koznicza
+1822,1581,Koznycha,Koznycha
+1823,1582,Koznycz,Koznycz
+1824,1582,Koyenyk,Koyenyk
+1825,1583,Koznycza,Koznycza
+1826,1584,Koznycza,Koznycza
+1827,1584,Koyenyk,Koyenyk
+1828,1585,Koznycza,Koznycza
+1829,1585,Lwka,Lwka
+1830,1586,Koznycza,Koznycza- judicatus
+1831,1586,Koyenyk,Koyenyk
+1832,1587,Koznycza,Koznycza-judicatus
+1833,1587,Koyenyk,Koyenyk
+1834,1588,Koznycze,Koznycze
+1835,1588,Koyenyk,Koyenyk
+1836,1589,Kozolowcz,Kozolowcz
+1837,1590,Koztanowcz,Koztanowcz
+1838,1591,Koztanyewcz,Koztanyewcz
+1839,1592,Koztanyewcz,Koztanyewcz
+1840,1593,Koztanyewcz,Koztanyewcz
+1841,1593,Lekenyk,Lekenyk
+1842,1593,Thernovcz,Thernovcz
+1843,1593,Lukawecz,Lukawecz
+1844,1593,Korylowcz,Korylowcz
+1845,1594,Koztanyewcz,Koztanyewcz
+1846,1594,Lomnycza,Lomnycza
+1847,1595,Koztanyewcz,Koztanyewcz
+1848,1595,Obres,Obres
+1849,1596,Koztanyewecz,Koztanyewecz
+1850,1597,Koztanyoucz,Koztanyoucz
+1851,1597,Rauen,Rauen
+1852,1598,Koztanyowcz,Koztanyowcz
+1853,1599,Koztanyowcz,Koztanyowcz
+1854,1600,Koztel,Koztel-castrum cum pertinentiis
+1855,1601,Koztell Krapiensibus,Koztell-castrum cum pertinentiis Krapiensibus
+1856,1602,Koztell Krapiniensibus,Koztell-castrum cum pertinentiis Krapiniensibus
+1857,1603,Kozthanyewcz,Kozthanyewcz
+1858,1604,Kozthanyewcz,Kozthanyewcz
+1859,1605,Kozthanyewcz,Kozthanyewcz
+1860,1605,Lomnycza,Lomnycza
+1861,1606,Kozthanyewecz,Kozthanyewecz
+1862,1606,Lomnycza,Lomnycza
+1863,1607,Kozthanyoucz,Kozthanyoucz
+1864,1608,Kozthanyowcz,Kozthanyowcz
+1865,1609,Kozthanyowcz,Kozthanyowcz
+1866,1610,Kozthanyowcz,Kozthanyowcz
+1867,1610,Lompnycza,Lompnycza
+1868,1611,Kozthel,Kozthel
+1869,1612,Kozthel,Kozthel-castrum cum pertinentiis
+1870,1613,Kozthel Krapiensibus,Kozthel-castrum cum pertinentiis Krapiensibus
+1871,1614,Kozthel,Kozthel-castrum
+1872,1614,portio Krapinensibus,portio in pertinentiis Krapinensibus
+1873,1615,Kozynschak,Kozynschak
+1874,1616,Kozynschiak,Kozynschiak
+1875,1617,Kozynschyak,Kozynschyak
+1876,1618,Kozynschyak Bosyako,Kozynschyak (Bosyako)
+1877,1619,Krachowcz,Krachowcz
+1878,1620,Krakowcz,Krakowcz
+1879,1621,Kralowcz,Kralowcz
+1880,1622,Kralyowcz,Kralyowcz
+1881,1623,Krapina,Krapina
+1882,1624,Krapina Kozthel,Krapina-castrum cum pertinentiis Kozthel
+1883,1625,Krapyna,Krapyna
+1884,1626,Krapyna,Krapyna-castrum cum pertinentiis
+1885,1627,Krapyna Krapiensibus,Krapyna-castrum cum pertinentiis Krapiensibus
+1886,1628,Krapyna,Krapyna-castrum cum pertinentiis
+1887,1628,Župnik plebanus,Župnik (plebanus)
+1888,1628,prebende,prebende
+1889,1629,Krawarczka,Krawarczka
+1890,1630,Krawaryna,Krawaryna
+1891,1631,Krawarzka,Krawarzka
+1892,1632,Krawarzka,Krawarzka cum pertinentiis
+1893,1633,Krayachowcz,Krayachowcz
+1894,1634,Krayowcz,Krayowcz
+1895,1635,Krenyn,Krenyn
+1896,1636,Krenyn,Krenyn
+1897,1636,Mathowcz,Mathowcz
+1898,1637,Krenyn,Krenyn
+1899,1637,Pothna M,Pothna M.
+1900,1638,Krysancz,Krysancz
+1901,1639,Krysancz,Krysancz
+1902,1639,Gredycze,Gredycze
+1903,1639,Prozenyk,Prozenyk
+1904,1640,Krysancz,Krysancz
+1905,1640,Prylezye,Prylezye
+1906,1641,Krysnychicha,Krysnychicha
+1907,1642,Krysnychicha ad Galgwncza,Krysnychicha ad Galgwncza
+1908,1643,Krysnychycza-ad Galgoncza,Krysnychycza-ad Galgoncza
+1909,1644,Krysoulyan,Krysoulyan
+1910,1645,Krysowlan,Krysowlan
+1911,1646,Krysowlan,Krysowlan
+1912,1647,Krysowlyan,Krysowlyan
+1913,1648,Krysowlyan,Krysowlyan
+1914,1649,Krysthalowcz,Krysthalowcz
+1915,1650,Kupynecz,Kupynecz
+1916,1651,Kupynno,Kupynno
+1917,1652,Kuscheroucz,Kuscheroucz
+1918,1653,Kuttnyak,Kuttnyak
+1919,1654,Kuzmyncz,Kuzmyncz
+1920,1654,Koldyncz cum Zablathya,Koldyncz cum Zablathya
+1921,1655,Kuzmyncz,Kuzmyncz
+1922,1655,Koledyncz,Koledyncz
+1923,1656,Kuzmyncz,Kuzmyncz
+1924,1656,Koledyncz,Koledyncz
+1925,1656,Zablathya,Zablathya
+1926,1657,Kwchan,Kwchan
+1927,1658,Kwche,Kwche
+1928,1659,Kwche,Kwche
+1929,1659,Lompnycza,Lompnycza
+1930,1660,Kwchye,Kwchye
+1931,1661,Kwchye,Kwchye
+1932,1661,Lownycza,Lownycza
+1933,1662,Kwkchowcz,Kwkchowcz
+1934,1663,Kwmyncz,Kwmyncz
+1935,1663,Koledyncz,Koledyncz
+1936,1664,Kwpchancz,Kwpchancz
+1937,1665,Kwpchanoz,Kwpchanoz
+1938,1666,Kwpchyna,Kwpchyna
+1939,1667,Kwpchyna ad Okych,Kwpchyna ad Okych
+1940,1668,Kwpchyna ad Okych,Kwpchyna-judicatus ad Okych
+1941,1669,Kwpchyno,Kwpchyno
+1942,1670,Kwpinno,Kwpinno
+1943,1671,Kwpozoucz,Kwpozoucz
+1944,1672,Kwpyncz,Kwpyncz
+1945,1673,Kwrilowcz,Kwrilowcz
+1946,1674,Kwscharowcz,Kwscharowcz
+1947,1675,Kwscharowcz,Kwscharowcz
+1948,1675,E289Bekethyncz,E289Bekethyncz
+1949,1676,Kwscheroucz,Kwscheroucz
+1950,1677,Kwscherowcz,Kwscherowcz
+1951,1678,Kwscherowcz,Kwscherowcz cum pertinentiis
+1952,1679,Kwscherowcz,Kwscherowcz-pertinentiis
+1953,1680,Kwsherowcz,Kwsherowcz
+1954,1680,Bekethyncz,Bekethyncz
+1955,1681,Kwskoucz,Kwskoucz
+1956,1682,Kwskowcz,Kwskowcz
+1957,1683,Kwstherowcz,Kwstherowcz
+1958,1684,Kwstherowcz,Kwstherowcz
+1959,1684,Prechnafew,Prechnafew
+1960,1685,Kwsthyarowcz,Kwsthyarowcz*
+1961,1686,Kwtennya,Kwtennya
+1962,1687,Kwthennya,Kwthennya
+1963,1688,Kwthenya,Kwthenya
+1964,1689,Kwthetincz,Kwthetincz
+1965,1690,Kwthetyncz,Kwthetyncz
+1966,1691,Kwthnak,Kwthnak
+1967,1692,Kwthnyak,Kwthnyak
+1968,1693,Kwtnak,Kwtnak
+1969,1694,Kwtthennya,Kwtthennya
+1970,1695,Kwzachyna,Kwzachyna
+1971,1696,Kwzmowcz,Kwzmowcz
+1972,1697,Kwzmyncz,Kwzmyncz
+1973,1698,Kwzmyncz,Kwzmyncz
+1974,1698,Koledyncz,Koledyncz
+1975,1699,Kwzmyncz,Kwzmyncz
+1976,1699,Zablathye,Zablathye
+1977,1700,Kyralocz,Kyralocz
+1978,1701,Kyralowcz,Kyralowcz-cum pertinentiis
+1979,1702,Kyralyowcz cum pertinientiis,Kyralyowcz cum pertinientiis
+1980,1703,Kys Kemlek,Kys Kemlek
+1981,1704,Kys Kemlek,Kys Kemlek
+1982,1704,Ryeka,Ryeka
+1983,1704,Deklessyncz,Deklessyncz
+1984,1705,Kys Lownyk,Kys Lownyk
+1985,1706,Kys Mlaka,Kys Mlaka
+1986,1707,Kys Thabor,Kys Thabor
+1987,1708,Kyskemlek,Kyskemlek
+1988,1709,Kyskemlek,Kyskemlek
+1989,1709,Ryeka,Ryeka
+1990,1709,Deklessyncz,Deklessyncz
+1991,1710,Kyskemlek,Kyskemlek
+1992,1710,Ryeka,Ryeka
+1993,1710,Deklessyncz ac eorundem ac plebanatu,Deklessyncz ac eorundem pertinentiis ac plebanatu
+1994,1711,Kyskemlek,Kyskemlek
+1995,1711,Ryeka,Ryeka
+1996,1711,Deklessyncz cum eorundem,Deklessyncz cum eorundem pertinentiis
+1997,1712,Kyskemlek,Kyskemlek
+1998,1712,Reka,fortalitium Reka cum pertinentiis
+1999,1713,Kysmlaka,Kysmlaka
+2000,1714,Kysmlaka,Kysmlaka
+2001,1714,Lochylnycza,Lochylnycza
+2002,1714,Chehi,Chehi
+2003,1714,Nowaky,Nowaky
+2004,1714,Syslawychy,Syslawychy
+2005,1714,Jegywdowcz,Jegywdowcz
+2006,1715,Kysmlaka,Kysmlaka
+2007,1715,Lochylnycza,Lochylnycza
+2008,1715,Chehy,Chehy
+2009,1715,Nowaki,Nowaki
+2010,1716,Kysmlaka,Kysmlaka
+2011,1716,Lochylnyza,Lochylnyza
+2012,1716,Chehy,Chehy
+2013,1716,Nowaky,Nowaky
+2014,1717,Labasowcz,Labasowcz
+2015,1718,Labassowcz,Labassowcz
+2016,1719,Labazowcz,Labazowcz
+2017,1720,Lachalowcz,Lachalowcz
+2018,1721,Ladamewrcz,Ladamewrcz
+2019,1722,Ladamewrcz,Ladamewrcz-cum pertinentiis
+2020,1723,Ladanye Jazthrebarzka,Ladanye- judicatus (Jazthrebarzka-castrum)
+2021,1724,Ladislawcz,Ladislawcz
+2022,1725,Ladomerch,Ladomerch cum pertinentiis
+2023,1726,Ladomercz,Ladomercz
+2024,1727,Ladomercz,Ladomercz cum pertinentiis
+2025,1728,Ladyzlawcz,Ladyzlawcz
+2026,1729,Ladyzlawcz,Ladyzlawcz
+2027,1729,Zlatyna,Zlatyna
+2028,1730,Laskaeghaz,Laskaeghaz
+2029,1731,Lastesin,Lastesin
+2030,1732,Lasthesin,Lasthesin
+2031,1733,Latesin,Latesin
+2032,1734,Lathcowyna,Lathcowyna
+2033,1735,Lathkowyna,Lathkowyna
+2034,1736,Lazachoucz,Lazachoucz
+2035,1737,Lazachowcz,Lazachowcz
+2036,1738,Lazachyowcz,Lazachyowcz
+2037,1739,Lazecz,Lazecz
+2038,1740,Lazen,Lazen
+2039,1741,Lazochowcz,Lazochowcz
+2040,1742,Lazthesyn,Lazthesyn
+2041,1743,Lazyna,Lazyna
+2042,1744,Lazyna ad Selyn,Lazyna ad Selyn
+2043,1745,Lebenyck,Lebenyck
+2044,1745,Thernowecz,Thernowecz
+2045,1746,Leczkowcz,Leczkowcz
+2046,1747,Lekanucz ad Lwkawcz,Lekanucz ad Lwkawcz
+2047,1748,Lekenek,Lekenek
+2048,1748,Thernowcz,Thernowcz
+2049,1749,Lekenik,Lekenik
+2050,1750,Lekennyk,Lekennyk
+2051,1751,Lekenyk,Lekenyk
+2052,1752,Lekenyk ad Lukawecz,Lekenyk ad castellum Lukawecz
+2053,1753,Lekenyk ad Lwkawecz,Lekenyk ad castellum Lwkawecz
+2054,1754,Lekenyk,Lekenyk
+2055,1754,Lwkawecz,Lwkawecz
+2056,1755,Lekenyk,Lekenyk
+2057,1755,Thernowcz,Thernowcz
+2058,1756,Lepa Wesz,Lepa Wesz
+2059,1757,Lepa Wez,Lepa Wez
+2060,1758,Lepaglava,Lepaglava
+2061,1759,Lepaglawa,Lepaglawa
+2062,1760,Lepaglawa-claustrum,Lepaglawa-claustrum
+2063,1761,Lepawech,Lepawech
+2064,1762,Lepawesz,Lepawesz
+2065,1763,Lepawez,Lepawez
+2066,1764,Lepenyak,Lepenyak
+2067,1765,Lepsincz,Lepsincz
+2068,1766,Lepsyncz,Lepsyncz
+2069,1767,Leschakowcz,Leschakowcz
+2070,1768,Leschan,Leschan
+2071,1769,Leskowcz,Leskowcz
+2072,1770,Lesnekheg,Lesnekheg
+2073,1771,Lestacowcz,Lestacowcz
+2074,1772,Lestakowcz,Lestakowcz
+2075,1773,Lestakowcz,Lestakowcz
+2076,1774,Lestakowcz,Lestakowcz
+2077,1774,Zwhodoll,Zwhodoll
+2078,1775,Lestchancz,Lestchancz
+2079,1775,Palynowcz ad Belam,Palynowcz ad Belam
+2080,1776,Lesthak,Lesthak
+2081,1777,Lesthakowcz,Lesthakowcz
+2082,1778,Lesthakowcz,Lesthakowcz
+2083,1779,Lesthakowcz,Lesthakowcz
+2084,1779,Berethyncz,Berethyncz
+2085,1779,Tharnowcz,Tharnowcz
+2086,1780,Lesthakowcz,Lesthakowcz
+2087,1780,Zwhodol,Zwhodol
+2088,1781,Lesthyan,Lesthyan
+2089,1782,Leszthakowcz,Leszthakowcz
+2090,1783,Lethowanych,Lethowanych
+2091,1784,Lethowanych uterque,Lethowanych uterque
+2092,1785,Lethowanychi,Lethowanychi
+2093,1786,Lethowanychi,Lethowanychi utraque
+2094,1787,Lethowanychy,Lethowanychy
+2095,1788,Letowanych,Letowanych
+2096,1789,Letowanycz,Letowanycz
+2097,1790,Letowanycz,Letowanycz utraque
+2098,1791,Lezkov,Lezkov
+2099,1792,Lezkovcz,Lezkovcz
+2100,1793,Libewsthycza,Libewsthycza
+2101,1794,Lipowcz,Lipowcz
+2102,1795,Lippa,Lippa
+2103,1796,Liudbregh,Liudbregh
+2104,1797,Lobor,Lobor
+2105,1798,Lobor,Lobor-castrum cum pertinentiis
+2106,1799,Lochan,Lochan
+2107,1800,Lochylnycza,Lochylnycza
+2108,1801,Lochylnycza,Lochylnycza
+2109,1801,Chehy,Chehy
+2110,1801,Jegywdowcz,Jegywdowcz
+2111,1801,Mlaka,Mlaka
+2112,1801,Nowaky,Nowaky
+2113,1801,Bwzyn,Bwzyn
+2114,1802,Lochylnycza,Lochylnycza
+2115,1802,Jegywdowcz,Jegywdowcz
+2116,1802,Mlaka,Mlaka
+2117,1802,Nowaky,Nowaky
+2118,1802,Bwzyn,Bwzyn
+2119,1803,Lochylnycza,Lochylnycza
+2120,1803,Odra,Odra
+2121,1804,Lochylnycza,Lochylnycza
+2122,1804,Podothochye,Podothochye
+2123,1804,Odra,Odra
+2124,1804,Bwzyn,Bwzyn
+2125,1805,Loka,Loka
+2126,1806,Loka,Loka
+2127,1807,Loka cum Recchycza,Loka cum Recchycza
+2128,1808,Loka cum Rechycza ad Zthenychnyak,Loka cum Rechycza ad castrum Zthenychnyak
+2129,1809,Lokawecz,Lokawecz
+2130,1810,Lokawecz,Lokawecz
+2131,1811,Lokawecz,Lokawecz cum pertinentiis
+2132,1812,Loky,Loky
+2133,1813,Lombardya,Lombardya
+2134,1814,Lomnycza,Lomnycza
+2135,1815,Lomnycza,Lomnycza
+2136,1815,Koche,Koche
+2137,1816,Lompnycza,Lompnycza
+2138,1817,Lompnycza,Lompnycza
+2139,1817,Kwchye,Kwchye
+2140,1818,Lose,Lose
+2141,1819,Lowchowcz,Lowchowcz
+2142,1820,Lowkowcz,Lowkowcz
+2143,1821,Lownicza,Lownicza
+2144,1822,Lubena,Lubena
+2145,1823,Lubewschycza ad Nagkemlek,Lubewschycza ad Nagkemlek
+2146,1824,Luchychowcz,Luchychowcz
+2147,1825,Lukawecz,Lukawecz
+2148,1826,Lukawecz inquilinini oko Lukavca,Lukawecz (inquilinini oko Lukavca)
+2149,1827,Lukawecz,Lukawecz-cum pertinentiis
+2150,1828,Lupoglaw,Lupoglaw
+2151,1829,Lupoglaw,Lupoglaw utraque
+2152,1830,Lwben,Lwben
+2153,1831,Lwbena,Lwbena
+2154,1832,Lwbenowcz,Lwbenowcz
+2155,1833,Lwbeschycza,Lwbeschycza
+2156,1834,Lwbewschycza,Lwbewschycza
+2157,1835,Lwbynowcz,Lwbynowcz
+2158,1836,Lwca ad Belam,Lwca ad Belam
+2159,1837,Lwchan,Lwchan
+2160,1838,Lwdbreg,Lwdbreg
+2161,1839,Lwdbreg,Lwdbreg-provincia inferior
+2162,1840,Lwdbreg,Lwdbreg-provincia superior
+2163,1841,Lwdbregh,Lwdbregh
+2164,1842,Lwdbregh-opidum,Lwdbregh-opidum-provincia inferior
+2165,1843,Lwdbregh,Lwdbregh-oppidum-provincia superior
+2166,1844,Lwka,Lwka
+2167,1845,Lwka ad Belam,Lwka ad Belam
+2168,1846,Lwka cum Rechycza ad Sthanysnyak,Lwka cum Rechycza ad Sthanysnyak
+2169,1847,Lwka cum Rechycza ad Ztenychnyak,Lwka cum Rechycza ad castrum Ztenychnyak
+2170,1848,Lwka,Lwka
+2171,1848,Rechyca ad Sthenychnyak,Rechyca ad Sthenychnyak
+2172,1849,Lwka,Lwka
+2173,1849,Rechycza,Rechycza
+2174,1850,Lwka,Lwka
+2175,1850,Reczycza ad Zthenychnyak,Reczycza ad Zthenychnyak
+2176,1851,Lwka-ad Zthenychnyak,Lwka-ad Zthenychnyak
+2177,1852,Lwkavacz,Lwkavacz Inferior
+2178,1853,Lwkavacz,Lwkavacz
+2179,1853,Kozthanyewcz,Kozthanyewcz
+2180,1854,Lwkavacz,Lwkavacz
+2181,1854,Obres,Obres
+2182,1855,Lwkawecz,Lwkawecz
+2183,1856,Lwkawecz,Lwkawecz
+2184,1857,Lwkawecz,Lwkawecz Inferior
+2185,1858,Lwkawecz,Lwkawecz Inferior
+2186,1858,Koszthanyewcz,Koszthanyewcz
+2187,1859,Lwkawecz,Lwkawecz Inferior
+2188,1859,Koztanyewcz,Koztanyewcz
+2189,1860,Lwkawecz,Lwkawecz Inferior
+2190,1860,Kozthanyewcz,Kozthanyewcz
+2191,1861,Lwkawecz,Lwkawecz cum pertinentiis
+2192,1862,Lwkawecz,Lwkawecz-cum pertinentiis
+2193,1863,Lwkowcz,Lwkowcz
+2194,1864,Lwpkowcz,Lwpkowcz
+2195,1865,Lwpoglawa,Lwpoglawa
+2196,1866,Lwpoglawa ad Iwancz,Lwpoglawa ad Iwancz
+2197,1867,Lwsye,Lwsye
+2198,1868,Lyepawesz,Lyepawesz
+2199,1869,Lyepawyez,Lyepawyez
+2200,1870,Lyplan,Lyplan
+2201,1871,Lyplyan,Lyplyan
+2202,1872,Lypovcz,Lypovcz
+2203,1873,Lypowcz,Lypowcz
+2204,1874,Lypowcz,Lypowcz
+2205,1875,Lypowecz,Lypowecz
+2206,1876,Lyppa,Lyppa
+2207,1877,Lyppincz,Lyppincz
+2208,1878,Lyppowcz,Lyppowcz
+2209,1879,Lyppowcz,Lyppowcz
+2210,1880,Lyppowcz,Lyppowcz pertinentie
+2211,1881,Lyppowcz,Lyppowcz
+2212,1881,Mellessowcz,Mellessowcz
+2213,1882,Lyppycha,Lyppycha
+2214,1883,Lyppycza,Lyppycza
+2215,1884,Lyppyncz,Lyppyncz
+2216,1885,Lyppyncz,Lyppyncz
+2217,1885,Mellessowcz,Mellessowcz
+2218,1886,Lypsycza,Lypsycza
+2219,1887,Lypsyncz,Lypsyncz
+2220,1888,Lypyncz,Lypyncz
+2221,1889,Lythowanich,Lythowanich
+2222,1890,Lythwanychy uterque ad Gara,Lythwanychy uterque ad Gara
+2223,1891,Lythwanychy uterque ad Gora,Lythwanychy uterque ad Gora
+2224,1892,Lywbeschycha-ad Nagh Kemlek,Lywbeschycha-ad Nagh Kemlek
+2225,1893,Lywbesthycza-ad Kemlek,Lywbesthycza-ad Kemlek
+2226,1894,Lywblyana,Lywblyana
+2227,1895,Lywdbreg,Lywdbreg
+2228,1896,Lywdbreg,Lywdbreg-castrum
+2229,1896,et,Provincia Superior et Inferior
+2230,1897,Lywdbreg,Lywdbreg-inferior provincia
+2231,1898,Lywdbreg,Lywdbreg-superior provincia
+2232,1899,Lywdbregh,Lywdbregh
+2233,1900,Lywdbregh,Lywdbregh cum pertinentiis
+2234,1901,Lywpkowcz,Lywpkowcz
+2235,1901,Zerdahel S,Zerdahel S.
+2236,1902,Lyzychyncz,Lyzychyncz
+2237,1903,Machkowcz,Machkowcz
+2238,1904,Machowcz,Machowcz
+2239,1905,Magalocz,Magalocz
+2240,1906,Magalowcz,Magalowcz
+2241,1907,Magerlak,Magerlak
+2242,1908,Magwrechya,Magwrechya
+2243,1909,Magyerlak,Magyerlak
+2244,1910,Mahowcz,Mahowcz
+2245,1911,Makowcz,Makowcz
+2246,1912,Malchewcz,Malchewcz
+2247,1913,Malchewcz,Malchewcz
+2248,1914,Malchewcz-de Reka,Malchewcz-de Reka
+2249,1915,Malchewczy,Malchewczy
+2250,1916,Malikowcz,Malikowcz
+2251,1917,Malkowch,Malkowch
+2252,1918,Manchewcz,Manchewcz
+2253,1919,Marchan,Marchan
+2254,1920,Marchyan,Marchyan
+2255,1921,Marcowcz,Marcowcz
+2256,1922,Marcowcz,Marcowcz
+2257,1922,Chemerowcz,Chemerowcz
+2258,1923,Margytholcz,Margytholcz
+2259,1924,Marhtonpathaka,Marhtonpathaka
+2260,1925,Markoucz,Markoucz
+2261,1926,Markowch,Markowch
+2262,1927,Markowcz,Markowcz
+2263,1928,Markwssewcz,Markwssewcz
+2264,1929,Marocha,Marocha
+2265,1930,Marocha Zent Iwan,Marocha Zent Iwan
+2266,1931,Marocha Zenth Iwan,Marocha Zenth Iwan
+2267,1932,Marochazenthiwan,Marochazenthiwan
+2268,1933,Marosolcz,Marosolcz
+2269,1934,Marosolcz,Marosolcz
+2270,1934,Krysolyan,Krysolyan
+2271,1935,Maroucha,Maroucha
+2272,1936,Marthon Pathaka,Marthon Pathaka
+2273,1937,Marthonpatha,Marthonpatha
+2274,1938,Marthonpathaca,Marthonpathaca
+2275,1939,Marthonpathaka,Marthonpathaka
+2276,1940,Marthynancz,Marthynancz
+2277,1941,Marthynche,Marthynche
+2278,1942,Marthyncz,Marthyncz
+2279,1943,Marthyncz,Marthyncz
+2280,1943,Gwbassewo,Gwbassewo
+2281,1944,Marthynczy,Marthynczy
+2282,1944,Gwbassewo,Gwbassewo
+2283,1945,Marthyndol,Marthyndol
+2284,1946,Marthynowcz,Marthynowcz
+2285,1947,Marthynyancz,Marthynyancz
+2286,1948,Marthynzka Wez,Marthynzka Wez
+2287,1949,Marthynzkawez,Marthynzkawez
+2288,1950,Marthynzky,Marthynzky
+2289,1951,Martin Dol,Martin Dol
+2290,1952,Martincz,Martincz
+2291,1953,Martindol,Martindol
+2292,1954,Martindoll,Martindoll
+2293,1955,Martinowcz,Martinowcz
+2294,1956,Martinuszkawez,Martinuszkawez
+2295,1957,Martinzka Wez,Martinzka Wez
+2296,1958,Martinzkawesz,Martinzkawesz
+2297,1959,Martinzkawez,Martinzkawez
+2298,1960,Martynancz,Martynancz
+2299,1961,Martyncz,Martyncz
+2300,1962,Martyncz,Martyncz
+2301,1962,Gubaszewo,Gubaszewo
+2302,1963,Martyndol,Martyndol
+2303,1964,Martynoucz,Martynoucz
+2304,1965,Martynyancz,Martynyancz
+2305,1966,Martynyancz,Martynyancz
+2306,1966,Kochycze,Kochycze
+2307,1966,Nowaky,Nowaky
+2308,1966,Werbanowcz,Werbanowcz
+2309,1967,Martynzka Wez,Martynzka Wez
+2310,1968,Martynzka Wyez,Martynzka Wyez
+2311,1969,Martynzkawez,Martynzkawez
+2312,1970,Maryancz,Maryancz
+2313,1971,Maryasovcz,Maryasovcz
+2314,1972,Maryassoucz,Maryassoucz
+2315,1973,Maryassowcz,Maryassowcz
+2316,1974,Maryassowcz,Maryassowcz
+2317,1974,Krysowlyan,Krysowlyan
+2318,1975,Marygodowcz,Marygodowcz
+2319,1976,Marygolthowcz,Marygolthowcz
+2320,1977,Maryncz,Maryncz
+2321,1978,Mathewsowcz,Mathewsowcz
+2322,1979,Mathewsowcz,Mathewsowcz
+2323,1979,Zerdahel,Zerdahel
+2324,1980,Mathwch,Mathwch
+2325,1981,Mathwsowcz,Mathwsowcz
+2326,1981,Marthynowcz,Marthynowcz
+2327,1982,Maycowcz,Maycowcz
+2328,1983,Maykowcz,Maykowcz
+2329,1984,Mechenycze,Mechenycze
+2330,1985,Medue,Medue
+2331,1986,Medvevara,Medvevara
+2332,1987,Medvewar,Medvewar
+2333,1988,Medwe,Medwe
+2334,1989,Medwe-bona castri,Medwe-bona castri
+2335,1990,Medwe bona,Medwe-castrum (bona)
+2336,1991,Medwe- ad,Medwe-pertinentie ad castrum
+2337,1992,Medwedwar,Medwedwar
+2338,1993,Medwedwara,Medwedwara cum pertinentiis
+2339,1994,Medwewar,Medwewar
+2340,1995,Medwewar,Medwewar
+2341,1995,Sczezhwpnycze,Sczezhwpnycze
+2342,1995,Zlanowch,Zlanowch-cum pertinentiis
+2343,1996,Medwewara,Medwewara
+2344,1997,Megereche,Megereche
+2345,1998,Megereche cum,Megereche cum provincia
+2346,1999,Megerlak,Megerlak
+2347,2000,Meglech,Meglech
+2348,2001,Meglich,Meglich
+2349,2002,Megwrechya,Megwrechya
+2350,2003,Megwrechye,Megwrechye
+2351,2004,Megwrechye,Megwrechye-oppidum
+2352,2005,Megye,Megye
+2353,2006,Megyerechye,Megyerechye
+2354,2007,Megyerlok,Megyerlok
+2355,2008,Megyrechya,Megyrechya
+2356,2009,Megywreche,Megywreche
+2357,2010,Megywrechye,Megywrechye
+2358,2011,Mekchenycze,Mekchenycze
+2359,2012,Mellesowcz,Mellesowcz
+2360,2013,Mellesowcz,Mellesowcz
+2361,2013,Palychna,Palychna
+2362,2014,Mellessowcz,Mellessowcz
+2363,2015,Melnesowcz,Melnesowcz
+2364,2016,Mendzent,Mendzent
+2365,2017,Mendzenth,Mendzenth
+2366,2018,Mendzenth,Mendzenth
+2367,2019,Meryna,Meryna
+2368,2020,Merynnya,Merynnya
+2369,2021,Mihalowcz,Mihalowcz
+2370,2022,Miholya,Miholya
+2371,2023,Miholya-prioratus Auranae,Miholya-prioratus Auranae
+2372,2024,Mikchewcz,Mikchewcz
+2373,2025,Mikechincz,Mikechincz
+2374,2026,Miketincz,Miketincz
+2375,2027,Mikwlych,Mikwlych
+2376,2028,Mikwlychy Medwe,Mikwlychy sub Medwe
+2377,2029,Milethyncz,Milethyncz
+2378,2030,Mindzenth,Mindzenth
+2379,2031,Mirina,Mirina
+2380,2032,Mirynna,Mirynna
+2381,2033,Mislenincz,Mislenincz
+2382,2034,Mlaka,Mlaka
+2383,2035,Mlaka,Mlaka
+2384,2036,Mlaka,Mlaka
+2385,2036,Lochylnycza,Lochylnycza
+2386,2037,Mlaka,Mlaka
+2387,2037,Lochynycha,Lochynycha
+2388,2038,Mlaka,Mlaka
+2389,2038,Nowaky,Nowaky
+2390,2038,Zenth Gergh,Zenth Gergh
+2391,2039,Mlaka,Mlaka
+2392,2039,Syslyanoychi,Syslyanoychi
+2393,2040,Mlaka,Mlaka
+2394,2040,Sysslyawychy,Sysslyawychy
+2395,2041,Mnochowcz,Mnochowcz
+2396,2042,Mochila,Mochila
+2397,2043,Mochrycha,Mochrycha
+2398,2044,Mochw,Mochw
+2399,2045,Mochyla,Mochyla
+2400,2046,Mochylo,Mochylo
+2401,2047,Modrowcz,Modrowcz
+2402,2048,Moghoyna-de Kaproncza,Moghoyna-de Kaproncza
+2403,2049,Mogowina ad Kaproncza,Mogowina ad Kaproncza
+2404,2050,Mogoyna,Mogoyna
+2405,2051,Mokrycza,Mokrycza
+2406,2052,Molwe ad Zenth Gergwara,Molwe ad Zenth Gergwara
+2407,2053,Molwycza,Molwycza
+2408,2054,Molwycze,Molwycze
+2409,2055,Molwycze ad Okych,Molwycze ad Okych
+2410,2056,Molwycze ad Okych,Molwycze-judicatus ad castrum Okych
+2411,2057,Molywa,Molywa
+2412,2058,Molywycza,Molywycza
+2413,2059,Monchewcz,Monchewcz
+2414,2060,Monchowcz,Monchowcz
+2415,2061,Monozlo,Monozlo
+2416,2062,Monozlo,Monozlo cum pertinentiis
+2417,2063,Monozlo,Monozlo-cum pertinentiis
+2418,2064,Monozlo,Monozlo-cum pertinentiss
+2419,2065,Monozlo,Monozlo-in pertinentiis
+2420,2066,Morawcz,Morawcz
+2421,2067,Morawecz,Morawecz
+2422,2068,Mosyna,Mosyna
+2423,2069,Mosynya,Mosynya
+2424,2070,Mosynya,Mosynya
+2425,2070,Meglecz,Meglecz
+2426,2071,Moykowcz,Moykowcz
+2427,2072,Mraczlin,Mraczlin
+2428,2072,Korylowcz,Korylowcz
+2429,2073,Mraczlyn,Mraczlyn
+2430,2074,Mraczlyn,Mraczlyn
+2431,2074,Korylowcz,Korylowcz
+2432,2075,Mwsyna,Mwsyna
+2433,2076,Myhalaowcz,Myhalaowcz
+2434,2076,Lypowcz,Lypowcz
+2435,2077,Myhalencz,Myhalencz
+2436,2078,Myhalewcz,Myhalewcz
+2437,2079,Myhalewcz,Myhalewcz*
+2438,2080,Myhalowcz,Myhalowcz
+2439,2081,Myhalyownicza,Myhalyownicza
+2440,2081,Lypowcz,Lypowcz
+2441,2082,Myhawlancz-ad Galgoncza,Myhawlancz-ad Galgoncza
+2442,2083,Myhola,Myhola
+2443,2084,Myholancz,Myholancz
+2444,2085,Myholcz,Myholcz
+2445,2086,Myholcz,Myholcz oppidum
+2446,2086,Fodorocz,Fodorocz
+2447,2087,Myholcz,Myholcz
+2448,2087,Fodrowcz,Fodrowcz
+2449,2088,Myholczi,Myholczi
+2450,2089,Myholnya,Myholnya
+2451,2090,Myholya,Myholya
+2452,2091,Myholyancz,Myholyancz
+2453,2092,Myhowlancz-ad Galgoncza,Myhowlancz-ad Galgoncza
+2454,2093,Mykchecz,Mykchecz-cum pertinentiis
+2455,2094,Mykchowcz,Mykchowcz cum pertinentiis
+2456,2095,Mykethincz,Mykethincz
+2457,2096,Mykethyncz,Mykethyncz
+2458,2097,Myketyncz,Myketyncz
+2459,2098,Mykolych,Mykolych
+2460,2099,Mykolychy,Mykolychy
+2461,2100,Mykoucz,Mykoucz
+2462,2101,Mykowcz,Mykowcz
+2463,2102,Mykowcz,Mykowcz
+2464,2103,Mykusewcz,Mykusewcz
+2465,2104,Mykwlch,Mykwlch
+2466,2105,Mykwlich,Mykwlich
+2467,2106,Mykwlwch,Mykwlwch
+2468,2107,Mykwlych,Mykwlych
+2469,2108,Mykwlychy,Mykwlychy
+2470,2109,Mylethincz,Mylethincz
+2471,2110,Mylethynch,Mylethynch
+2472,2111,Mylethynch,Mylethynch
+2473,2111,Kamarcha,Kamarcha
+2474,2112,Mylethyncz,Mylethyncz
+2475,2113,Mylethyncz,Mylethyncz
+2476,2113,Camarcha,Camarcha
+2477,2114,Myndchenth,Myndchenth
+2478,2115,Myndczenth,Myndczenth
+2479,2116,Myndczenth,Myndczenth cum pertinentiis
+2480,2117,Myndczenth,Myndczenth-cum pertinentiis
+2481,2118,Myndzeenth,Myndzeenth
+2482,2119,Myndzenth,Myndzenth
+2483,2120,Myndzenth,Myndzenth
+2484,2121,Myndzenth,Myndzenth
+2485,2122,Myndzenth-ad Racham,Myndzenth-ad Racham
+2486,2123,Mynthzenth,Mynthzenth
+2487,2124,Mynzenth,Mynzenth
+2488,2125,Myrenye,Myrenye
+2489,2126,Myrkocz,Myrkocz
+2490,2127,Myrkoucz,Myrkoucz
+2491,2128,Myrkowcz,Myrkowcz
+2492,2129,Myrkowcz,Myrkowcz
+2493,2129,Beleyczy,Beleyczy
+2494,2130,Myrkowcz,Myrkowcz
+2495,2130,Brezowa,Brezowa
+2496,2131,Myryna,Myryna
+2497,2132,Myryne,Myryne
+2498,2133,Myrynne,Myrynne
+2499,2134,Myrynnye,Myrynnye
+2500,2135,Myrynye,Myrynye
+2501,2136,Myrynye Zomzed,Myrynye (Zomzed-castrum)
+2502,2137,Myslenynch,Myslenynch
+2503,2138,Nag Gara,Nag Gara
+2504,2139,Nag Tapalowcz,Nag Tapalowcz
+2505,2140,Nagh Gara,Nagh Gara
+2506,2141,Nagh Kemlek,Nagh Kemlek
+2507,2142,Nagh Kemlek,Nagh Kemlek
+2508,2142,Brezowecz,Brezowecz
+2509,2143,Nagh Kemlek,Nagh Kemlek
+2510,2143,Gregwrowcz,Gregwrowcz
+2511,2144,Nagh Kemlek,Nagh Kemlek
+2512,2145,Nagh Mlaka,Nagh Mlaka
+2513,2146,Nagh Tabor,Nagh Tabor
+2514,2147,Nagh Thabor,Nagh Thabor
+2515,2148,Nagh Thapalocz,Nagh Thapalocz
+2516,2149,Nagh Thopalocz,Nagh Thopalocz
+2517,2150,Naghfalw,Naghfalw
+2518,2151,Naghkemlek,Naghkemlek
+2519,2152,Naghkemlek,Naghkemlek
+2520,2152,Brezowycza,Brezowycza
+2521,2153,Naghkemlek,Naghkemlek
+2522,2154,Naghmlaka,Naghmlaka
+2523,2155,Naghthapaloch,Naghthapaloch
+2524,2156,Naghy Kemlek,Naghy Kemlek
+2525,2156,Brezowycza,Brezowycza
+2526,2156,Gregwrowcz,Gregwrowcz
+2527,2157,NaghyMlaka,NaghyMlaka
+2528,2158,Nagkemlek,Nagkemlek
+2529,2159,Nagy Thabor,Nagy Thabor
+2530,2160,Nagykemlek,Nagykemlek
+2531,2161,Nagymlaka,Nagymlaka
+2532,2162,Nagythabor,Nagythabor
+2533,2163,Narth,Narth
+2534,2164,Nasenyna,Nasenyna
+2535,2165,Naseuyna,Naseuyna
+2536,2166,Nassenya,Nassenya
+2537,2167,Nassenyna,Nassenyna
+2538,2168,Nedelancz,Nedelancz
+2539,2168,Gayancz,Gayancz
+2540,2169,Nedelyancz,Nedelyancz
+2541,2169,Gayancz,Gayancz
+2542,2170,Nepesa,Nepesa
+2543,2171,Nesethyno,Nesethyno
+2544,2172,Nethech,Nethech
+2545,2173,Nethecz,Nethecz
+2546,2174,Nezethyno,Nezethyno
+2547,2175,Neznan,Neznan
+2548,2176,Neznanheg,Neznanheg
+2549,2177,Neznanhege,Neznanhege
+2550,2178,Neznanhegh,Neznanhegh
+2551,2179,Nezpesa,Nezpesa
+2552,2180,Nezpessa,Nezpessa
+2553,2181,Nezpest,Nezpest
+2554,2182,Nezpesya,Nezpesya
+2555,2183,Nobiles unius sessionis,Nobiles unius sessionis
+2556,2184,Nofkowcz,Nofkowcz
+2557,2185,Nouigrad,Nouigrad
+2558,2185,Zdenchecz,Zdenchecz
+2559,2186,Nouigrad,Nouigrad
+2560,2186,Zdenchecz,Zdenchecz
+2561,2186,Jezero,Jezero
+2562,2186,Martinzkawez,Martinzkawez
+2563,2187,Nouigrad cum pertinantiis,Nouigrad-castrum cum pertinantiis
+2564,2188,Nova Gemlech,Nova Villa sub Gemlech
+2565,2189,Nova Zenth Marthon,Nova Zenth Marthon
+2566,2190,Nove Chiche,Nove Chiche
+2567,2191,Nove Chyche,Nove Chyche
+2568,2192,Novechyche,Novechyche
+2569,2193,Novigrad,Novigrad
+2570,2194,Novigrad,Novigrad-castellum cum pertinentiis
+2571,2195,Nowa Zenth Marton,Nowa Zenth Marton
+2572,2196,Nowak,Nowak
+2573,2197,Nowak,Nowak
+2574,2198,Nowak ad Zenth Gergwara,Nowak ad Zenth Gergwara
+2575,2199,Nowak,Nowak
+2576,2199,Thernowycha,Thernowycha
+2577,2200,Nowak-ad Achynam,Nowak-ad Achynam
+2578,2201,Nowakowcz,Nowakowcz
+2579,2202,Nowakowecz,Nowakowecz
+2580,2203,Nowazenthmarton,Nowazenthmarton
+2581,2204,Nowe Chyche,Nowe Chyche
+2582,2205,Nowe Chychye,Nowe Chychye
+2583,2206,Nowechyche,Nowechyche
+2584,2207,Nowygrad,Nowygrad
+2585,2208,Nowygrad aliter Zdenchecz,Nowygrad aliter Zdenchecz
+2586,2209,Nowygrad,Nowygrad cum pertinentiis
+2587,2210,Nowygrad,Nowygrad
+2588,2210,Zdenchecz,Zdenchecz
+2589,2211,Nowygrad,Nowygrad-castellum cum pertinentiis
+2590,2212,Obchewch,Obchewch
+2591,2213,Obchewcz,Obchewcz
+2592,2214,Obed,Obed
+2593,2215,Obed-St. Trinitas,Obed-St. Trinitas
+2594,2216,Obranowcz Zenthmichael,Obranowcz Zenthmichael
+2595,2217,Obrecz,Obrecz
+2596,2218,Obrees,Obrees
+2597,2219,Obrees,Obrees
+2598,2220,Obres,Obres
+2599,2221,Obres,Obres
+2600,2222,Obres,Obres
+2601,2223,Obres,Obres
+2602,2223,Athak,Athak
+2603,2223,Temeryo,Temeryo
+2604,2224,Obres,Obres
+2605,2224,Chresnew,Chresnew
+2606,2225,Obres,Obres
+2607,2225,Koren,Koren
+2608,2226,Obres,Obres
+2609,2226,Koztanyewcz,Koztanyewcz
+2610,2227,Obres,Obres
+2611,2227,Kozthanyewcz,Kozthanyewcz
+2612,2228,Obres,Obres
+2613,2228,Lomnycza,Lomnycza
+2614,2229,Obres,Obres
+2615,2229,Welkowcz,Welkowcz
+2616,2230,Odra,Odra
+2617,2231,Odra Zenth Georgh,Odra Zenth Georgh
+2618,2232,Odra Zenth Ghergh,Odra Zenth Ghergh
+2619,2233,Odra,Odra
+2620,2233,Buzyn,Buzyn
+2621,2234,Odra,Odra
+2622,2234,Bwzyn,Bwzyn
+2623,2235,Odra,Odra
+2624,2235,Bwzyn,Bwzyn
+2625,2235,Syllyakowyna,Syllyakowyna
+2626,2236,Odra,Odra
+2627,2236,Sellyakowyna,Sellyakowyna
+2628,2237,Odra,Odra
+2629,2237,Syllyakowyna,Syllyakowyna
+2630,2238,Odra-Zenthgyergy,Odra-Zenthgyergy
+2631,2239,Odrazenthgergh,Odrazenthgergh
+2632,2240,Odrazenthghergh,Odrazenthghergh
+2633,2241,Okchewcz,Okchewcz
+2634,2242,Okych,Okych
+2635,2243,Okych,Okych cum pertinentiis
+2636,2244,Okych,Okych
+2637,2244,Tersych,Tersych
+2638,2245,Okych,Okych
+2639,2246,Okych,Okych-castrum
+2640,2246,Czwethkowychy,Czwethkowychy
+2641,2247,Okych,Okych-castrum
+2642,2247,Draganych,Draganych
+2643,2248,Okych,Okych-castrum
+2644,2248,Ladanye,Ladanye
+2645,2249,Okych,Okych-castrum
+2646,2249,Pwrgarya,Pwrgarya
+2647,2250,Okych,Okych-castrum
+2648,2250,Zdenchyna,Zdenchyna
+2649,2251,Okych,Okych-castrum
+2650,2251,Zthankowa,Zthankowa
+2651,2252,Okych cum pertinantiis,Okych-castrum cum pertinantiis
+2652,2253,Okych,Okych-castrum cum pertinentiis
+2653,2254,Okych et judicatibus,Okych-castrum cum pertinentiis et judicatibus
+2654,2255,Okych,Okych-castrum cum pertinentiis
+2655,2255,nobilitarii Kerezthynecz,curia nobilitarii Kerezthynecz
+2656,2256,Okych,Okych-castrum
+2657,2256,Molwicza,Molwicza
+2658,2257,Okych,Okych-cum pertinentiis
+2659,2258,Okych- castri et plebanorum,Okych-in pertinentiis castri et plebanorum
+2660,2259,Olywercz,Olywercz
+2661,2259,Kothnak,Kothnak
+2662,2260,Omellya,Omellya
+2663,2261,Omellye,Omellye
+2664,2262,Omelya,Omelya
+2665,2263,Omelye,Omelye
+2666,2264,Omilia,Omilia
+2667,2265,Omnii Sancti,Omnii Sancti
+2668,2266,Omnii Sancti Svi Sveti,Omnii Sancti (Svi Sveti
+2669,2266,Sesvete,Sesvete)
+2670,2267,Omnii Sancti ad Monozlo,Omnii Sancti ad Monozlo
+2671,2268,Omnii Sancti in Prodauiz,Omnii Sancti in Prodauiz
+2672,2269,Omnii Sancti-in portu,Omnii Sancti-in portu
+2673,2270,Omyla,Omyla
+2674,2271,Omylia,Omylia
+2675,2272,Omylya,Omylya
+2676,2273,Opathoucz,Opathoucz
+2677,2274,Opathowcz,Opathowcz
+2678,2275,Opathowina,Opathowina
+2679,2276,Opathowyna,Opathowyna
+2680,2277,Opathowyna,Opathowyna
+2681,2278,Opathowyna dempto Gorzko,Opathowyna (dempto Gorzko)
+2682,2279,Opathowyna,Opathowyna
+2683,2279,Kopam,Kopam
+2684,2280,Opathychyncz,Opathychyncz inferior
+2685,2281,Opathychyncz,Opathychyncz superior
+2686,2282,Opathynchyncz,Opathynchyncz-inferior
+2687,2283,Opathynchyncz,Opathynchyncz-superior
+2688,2284,Opathyncz,Opathyncz
+2689,2285,Opathyncz,Opathyncz Inferior
+2690,2286,Opathyncz,Opathyncz Superior
+2691,2287,Oporovcz,Oporovcz
+2692,2288,Oppathowyna,Oppathowyna
+2693,2289,Oppathowyna,Oppathowyna
+2694,2290,Oppathowyna,Oppathowyna
+2695,2290,Ad Kopam,Ad Kopam
+2696,2291,Oppathowyna,Oppathowyna
+2697,2291,Ad Koppam,Ad Koppam
+2698,2293,Opporowcz,Opporowcz
+2699,2294,Opporowcz ad Belam,Opporowcz ad Belam-castellum
+2700,2295,Orbona,Orbona
+2701,2296,Orbowcz,Orbowcz
+2702,2297,Orehocz,Orehocz
+2703,2298,Orehoucz,Orehoucz
+2704,2299,Orehoucz,Orehoucz
+2705,2300,Orehoucz,Orehoucz cum pertinentiis
+2706,2301,Orehoucz,Orehoucz
+2707,2301,Klenoucz,Klenoucz
+2708,2302,Orehoucz,Orehoucz
+2709,2302,Megye,Megye
+2710,2303,Orehouicza,Orehouicza
+2711,2303,Graberye,Graberye
+2712,2304,Orehouycza,Orehouycza
+2713,2305,Orehouycza,Orehouycza
+2714,2305,Borycheucz,Borycheucz
+2715,2306,Orehovcz,Orehovcz
+2716,2307,Orehowcz,Orehowcz
+2717,2308,Orehowcz,Orehowcz
+2718,2309,Orehowcz,Orehowcz
+2719,2310,Orehowcz Wlady,Orehowcz Wlady
+2720,2310,uterque Rawenyk,uterque Rawenyk
+2721,2311,Orehowcz Zent Peter,Orehowcz Zent Peter
+2722,2312,Orehowcz,Orehowcz
+2723,2312,Klemowcz,Klemowcz
+2724,2313,Orehowcz,Orehowcz
+2725,2313,Klenawcz,Klenawcz
+2726,2314,Orehowcz,Orehowcz
+2727,2314,Klenowcz,Klenowcz
+2728,2315,Orehowcz,Orehowcz
+2729,2315,Leczkowcz,Leczkowcz
+2730,2316,Orehowcz,Orehowcz
+2731,2316,Megye,Megye
+2732,2317,Orehowcz,Orehowcz
+2733,2317,Polyana,Polyana
+2734,2318,Orehowcz,Orehowcz
+2735,2318,Tharnowcz,Tharnowcz
+2736,2319,Orehowcz,Orehowcz
+2737,2319,Wlachyn,Wlachyn
+2738,2319,Rawennyk,utraque Rawennyk
+2739,2320,Orehowcz,Orehowcz
+2740,2320,Rawennyk,Rawennyk
+2741,2321,Orehowcz,Orehowcz
+2742,2321,Wlachyn,Wlachyn
+2743,2321,Rawennyk,utraque Rawennyk
+2744,2322,Orehowycza,Orehowycza
+2745,2323,Orehowycza,Orehowycza
+2746,2323,Borychewcz,Borychewcz
+2747,2324,Orehowycza,Orehowycza
+2748,2324,Boychewcz,Boychewcz
+2749,2325,Orehowycza,Orehowycza
+2750,2325,Graberye,Graberye
+2751,2326,Orehowycza-portio,Orehowycza-portio
+2752,2327,Oresya,Oresya
+2753,2328,Orosowcz,Orosowcz
+2754,2329,Orossowcz,Orossowcz
+2755,2330,Orossowcz,Orossowcz
+2756,2330,Chakawcz,Chakawcz
+2757,2331,Orozowcz,Orozowcz
+2758,2332,Orrosowcz,Orrosowcz
+2759,2333,Orthonowcz,Orthonowcz
+2760,2334,Ortunoucz,Ortunoucz
+2761,2335,Oskoucz,Oskoucz
+2762,2336,Oskowcz,Oskowcz
+2763,2337,Ostercz,Ostercz
+2764,2338,Ostercz,Ostercz-oppidum-cum pertinentiis
+2765,2339,Osthercz,Osthercz
+2766,2340,Othnya Zenth Pal,Othnya Zenth Pal
+2767,2341,Othok,Othok
+2768,2342,Othok,Othok
+2769,2343,Othok,Othok
+2770,2344,Otok,Otok
+2771,2345,Otthok,Otthok
+2772,2346,Otthok,Otthok
+2773,2347,Otthok,Otthok
+2774,2347,Jemryhowcz,Jemryhowcz
+2775,2348,Otthok- et,Otthok-superior et inferior
+2776,2348,Zenthilona,Zenthilona apud Zamobor
+2777,2349,Owar,Owar
+2778,2350,Owar ad Caproncza,Owar ad Caproncza
+2779,2351,Owar ad Koproncza,Owar ad Koproncza
+2780,2352,Owar-waywodatus,Owar-waywodatus
+2781,2353,Ozal,Ozal
+2782,2354,Ozal cum 7 judicatibus,Ozal-castrum cum 7 judicatibus
+2783,2355,Ozal cum pertinantiis,Ozal-castrum cum pertinantiis
+2784,2356,Ozal,Ozal-castrum cum pertinentiis
+2785,2357,Ozal et judicatibus,Ozal-castrum cum pertinentiis et judicatibus
+2786,2358,Ozall,Ozall
+2787,2359,Ozally,Ozally
+2788,2360,Oztercz,Oztercz
+2789,2361,Oztercz,Oztercz-castrum cum pertinentiis
+2790,2362,Ozterna,Ozterna
+2791,2363,Ozterwna,Ozterwna
+2792,2364,Ozterwna Bosyako,Ozterwna (Bosyako)
+2793,2365,Ozthercz,Ozthercz
+2794,2366,Ozthercz,Ozthercz-castrum cum pertinentiis
+2795,2367,Ozthercz,Ozthercz-provincia
+2796,2368,Oztherwna,Oztherwna
+2797,2369,Ozwgo,Ozwgo
+2798,2370,Ozwgyo,Ozwgyo
+2799,2371,Ozwgyo,Ozwgyo
+2800,2371,Zenthgergh,Zenthgergh
+2801,2372,Ozwgyo-cum Zenthgeorgh,Ozwgyo-cum Zenthgeorgh
+2802,2373,Palata,Palata
+2803,2374,Palatha,Palatha
+2804,2375,Palichna Zenthpeter,Palichna Zenthpeter
+2805,2376,Palotha,Palotha
+2806,2377,Palychna,Palychna
+2807,2378,Palychna Zenth Peter,Palychna Zenth Peter
+2808,2379,Palychna Zenth Pether,Palychna Zenth Pether
+2809,2380,Palychna Zenthpeter,Palychna Zenthpeter
+2810,2381,Palychna Zenthpeter,Palychna Zenthpeter
+2811,2381,Gradysthe,Gradysthe
+2812,2382,Palychna Zenthpether,Palychna Zenthpether
+2813,2383,Palychnazenth Peter,Palychnazenth Peter
+2814,2384,Panynch,Panynch
+2815,2384,Chernech,Chernech
+2816,2384,Antholowcz,Antholowcz
+2817,2384,Thremech,Thremech
+2818,2385,Parusovcz,Parusovcz
+2819,2386,Parusowcz,Parusowcz
+2820,2387,Parwsowcz,Parwsowcz
+2821,2388,Parwsowcz ad Belam,Parwsowcz ad Belam
+2822,2389,Parwzowcz,Parwzowcz
+2823,2389,Kwrenowcz,Kwrenowcz
+2824,2389,Blasowcz,Blasowcz
+2825,2390,Parwzowhcz,Parwzowhcz
+2826,2391,Pasahegh,Pasahegh
+2827,2392,Paschyn,Paschyn
+2828,2393,Paschyncz,Paschyncz
+2829,2394,Pasthincz,Pasthincz
+2830,2395,Pathak,Pathak
+2831,2396,Pathak,Pathak
+2832,2396,Sybrynowcz,Sybrynowcz
+2833,2397,Paulosancz,Paulosancz
+2834,2397,Bresowcz,Bresowcz
+2835,2398,Paulowcz,Paulowcz
+2836,2399,Pavkowcz,Pavkowcz
+2837,2400,Pawlochancz,Pawlochancz
+2838,2400,Brezowcz,Brezowcz
+2839,2401,Pawloucz,Pawloucz
+2840,2402,Pawlowcz,Pawlowcz
+2841,2402,Palche Polye,Palche Polye
+2842,2403,Pawlysewcz,Pawlysewcz
+2843,2404,Pawlyssowcz,Pawlyssowcz
+2844,2405,Peherio i Bedenycha,Peherio i Bedenycha
+2845,2406,Pekercz,Pekercz
+2846,2407,Pekercz-waywodatus,Pekercz-waywodatus inferior
+2847,2408,Pekercz-waywodatus medius,Pekercz-waywodatus medius
+2848,2409,Pekercz-waywodatus,Pekercz-waywodatus superior
+2849,2410,Pekerzerdahel,Pekerzerdahel
+2850,2411,Peklencze,Peklencze
+2851,2412,Peklencze-waywodatus,Peklencze-waywodatus inferior
+2852,2413,Peklencze-waywodatus,Peklencze-waywodatus superior
+2853,2414,Peklenycze,Peklenycze
+2854,2415,Pekrecz,Pekrecz
+2855,2416,Perchinowcz,Perchinowcz
+2856,2417,Perchinowcz cum Nagkemlek,Perchinowcz cum Nagkemlek
+2857,2418,Perchynowcz,Perchynowcz
+2858,2418,Bywrynowcz-ad Nagh Kemlek,Bywrynowcz-ad Nagh Kemlek
+2859,2419,Perhoch,Perhoch
+2860,2420,Persinowcz,Persinowcz
+2861,2421,Persynoucz,Persynoucz
+2862,2422,Persynowcz,Persynowcz
+2863,2423,Pertwssowcz,Pertwssowcz
+2864,2424,Peschenicza,Peschenicza
+2865,2425,Peschenycha,Peschenycha
+2866,2426,Peschenycza,Peschenycza
+2867,2427,Peschenycze,Peschenycze
+2868,2428,Peschienycza,Peschienycza
+2869,2429,Pestenne,Pestenne
+2870,2430,Pestenneye,Pestenneye
+2871,2431,Pesthenye,Pesthenye
+2872,2432,Pesthyene,Pesthyene
+2873,2433,Peszerwara,Peszerwara
+2874,2434,Peszeryo,Peszeryo
+2875,2435,Peteryanch,Peteryanch
+2876,2436,Peteryancz,Peteryancz
+2877,2437,Pethrossowcz,Pethrossowcz
+2878,2438,Pethrouyna,Pethrouyna
+2879,2439,Pethrowyna,Pethrowyna
+2880,2440,Pethrwssocz,Pethrwssocz
+2881,2441,Pethrwssowcz,Pethrwssowcz
+2882,2442,Pethrwssowcz,Pethrwssowcz
+2883,2443,Petrisowcz,Petrisowcz
+2884,2444,Petrosancz,Petrosancz
+2885,2445,Petrosowcz,Petrosowcz
+2886,2446,Petrovina,Petrovina
+2887,2447,Petrowch,Petrowch
+2888,2448,Petrowcz,Petrowcz
+2889,2449,Petrowcz,Petrowcz
+2890,2450,Petrowdolecz,Petrowdolecz
+2891,2451,Petrowina,Petrowina
+2892,2452,Petrowyna,Petrowyna
+2893,2453,Petrowyna,Petrowyna
+2894,2454,Petrowyna in Farkasowcz,Petrowyna in Farkasowcz
+2895,2455,Petrusoucz,Petrusoucz
+2896,2456,Petrussoucz,Petrussoucz
+2897,2457,Petrwsowcz,Petrwsowcz
+2898,2458,Petrwsowcz,Petrwsowcz
+2899,2459,Petrwssowcz,Petrwssowcz
+2900,2460,Petryancz,Petryancz
+2901,2461,Petthrowyna,Petthrowyna
+2902,2462,Petthrowyna,Petthrowyna
+2903,2463,Pezedolcz ad Belam,Pezedolcz ad Belam
+2904,2464,Pezerio,Pezerio
+2905,2465,Pezerwara,Pezerwara
+2906,2466,Pezerya,Pezerya
+2907,2467,Pezeryo,Pezeryo
+2908,2468,Pezeryo,Pezeryo
+2909,2468,Bukoucz,Bukoucz
+2910,2469,Philipfalwa,Philipfalwa
+2911,2470,Phylethyncz,Phylethyncz
+2912,2471,Pinchowcz,Pinchowcz
+2913,2472,Planina,Planina
+2914,2473,Planyna,Planyna
+2915,2474,Plawnyna,Plawnyna
+2916,2475,Pleszo,Pleszo
+2917,2476,Pleszo,Pleszo
+2918,2476,Gorycza,Gorycza
+2919,2477,Plezo,Plezo
+2920,2478,Plezo,Plezo
+2921,2478,Gorycza,Gorycza
+2922,2479,Pobresie,Pobresie
+2923,2480,Pobressie,Pobressie
+2924,2481,Pobresye,Pobresye
+2925,2482,Pobresye,Pobresye
+2926,2482,Thernye,Thernye
+2927,2482,Kerchy,Kerchy
+2928,2483,Pobresye,Pobresye
+2929,2483,Therye,Therye
+2930,2484,Pobrezye,Pobrezye
+2931,2485,Pobylo,Pobylo
+2932,2486,Podbresya,Podbresya
+2933,2487,Podbresye,Podbresye
+2934,2488,Podbresye,Podbresye
+2935,2489,Podbrezya,Podbrezya
+2936,2490,Podbrezye,Podbrezye
+2937,2491,Podbryzya,Podbryzya
+2938,2492,Podbwkowcz,Podbwkowcz
+2939,2493,Podgaycz,Podgaycz
+2940,2494,Podgorya,Podgorya
+2941,2495,Podgorya,Podgorya
+2942,2496,Podgorya-ad Zenthlelek,Podgorya-ad Zenthlelek
+2943,2497,Podgorya-plebanatus,Podgorya-plebanatus
+2944,2498,Podgorye-de Gorbonok,Podgorye-de Gorbonok
+2945,2499,Podgradie,Podgradie
+2946,2500,Podkraych,Podkraych
+2947,2501,Podkrayta,Podkrayta
+2948,2502,Podothoch,Podothoch
+2949,2502,Lwchylnycza,Lwchylnycza
+2950,2503,Podothoche,Podothoche
+2951,2504,Podothoche,Podothoche
+2952,2504,Odra Zenthgergh,Odra Zenthgergh
+2953,2505,Podothochie,Podothochie
+2954,2505,Odra,Odra
+2955,2505,Lochylnycza,Lochylnycza
+2956,2506,Podothochya,Podothochya
+2957,2507,Podothochye,Podothochye
+2958,2508,Podothochye,Podothochye
+2959,2508,Bwzyn,Bwzyn
+2960,2509,Podothochye,Podothochye
+2961,2509,Lochylnycza,Lochylnycza
+2962,2510,Podothochye,Podothochye
+2963,2510,Odra,Odra
+2964,2510,Bwzyn,Bwzyn
+2965,2510,Lochynlycza,Lochynlycza
+2966,2511,Podothochye,Podothochye
+2967,2511,Odra,Odra
+2968,2511,Bwzyn,Bwzyn
+2969,2511,Lwchylnycza,Lwchylnycza
+2970,2512,Podotoche,Podotoche
+2971,2512,Lwchylnycza,Lwchylnycza
+2972,2513,Podotoche,Podotoche
+2973,2513,Odra,Odra
+2974,2513,Bwzyn,Bwzyn
+2975,2513,Lochylnycza,Lochylnycza
+2976,2513,Lekenyk,Lekenyk
+2977,2514,Podotochie,Podotochie
+2978,2514,Luchilnycza,Luchilnycza
+2979,2515,Podotochye,Podotochye
+2980,2516,Podotochye,Podotochye
+2981,2516,Odra,Odra
+2982,2516,Bwzyn,Bwzyn
+2983,2516,Lochylnycza,Lochylnycza
+2984,2516,Lekenyk,Lekenyk
+2985,2517,Podwerh,Podwerh
+2986,2518,Poganchecz,Poganchecz
+2987,2519,Poganchez,Poganchez
+2988,2520,Poganchez,Poganchez
+2989,2520,Zenth Dienes,Zenth Dienes
+2990,2521,Poganecz,Poganecz
+2991,2522,Pohakowcz,Pohakowcz
+2992,2522,Czyglenycze,Czyglenycze
+2993,2523,Poklechan,Poklechan
+2994,2524,Poklechancz,Poklechancz
+2995,2525,Pokopye,Pokopye
+2996,2526,Pokopzky Verh,Pokopzky Verh
+2997,2527,Pokorenowcz,Pokorenowcz
+2998,2528,Pokorenowecz,Pokorenowecz
+2999,2529,Pokoronowcz,Pokoronowcz
+3000,2530,Pokwpia,Pokwpia
+3001,2531,Pokwpia,Pokwpia cum pertinentiis
+3002,2532,Pokwpsky Werh,Pokwpsky Werh
+3003,2533,Pokwpya,Pokwpya
+3004,2534,Pokwpya,Pokwpya cum pertinentiis
+3005,2535,Pokwpya,Pokwpya-pertinentiis
+3006,2536,Pokwpye,Pokwpye
+3007,2537,Pokwpye na dobrima topličke opatije,Pokwpye (na dobrima topličke opatije)
+3008,2538,Pokwpzky,Pokwpzky
+3009,2539,Pokwpzkywerh,Pokwpzkywerh
+3010,2540,Polana,Polana
+3011,2541,Polanya,Polanya
+3012,2542,Polatha,Polatha
+3013,2543,Polena,Polena
+3014,2544,Polosythycza,Polosythycza
+3015,2545,Polyana,Polyana
+3016,2546,Polyana,Polyana
+3017,2547,Polyana,Polyana
+3018,2547,Danadowcz,Danadowcz
+3019,2548,Polyana,Polyana
+3020,2548,Gwrgysche,Gwrgysche
+3021,2549,Polye,Polye
+3022,2550,Pomperiowcz,Pomperiowcz
+3023,2551,Pomperowcz,Pomperowcz
+3024,2552,Ponkowcz,Ponkowcz
+3025,2553,Popowcz,Popowcz
+3026,2554,Popowcz,Popowcz
+3027,2555,Popwd,Popwd
+3028,2556,Popwd Podgorya,Popwd Podgorya
+3029,2557,Posahecz,Posahecz
+3030,2558,Posaheg,Posaheg
+3031,2559,Posahegh,Posahegh
+3032,2560,Poszawye,Poszawye
+3033,2561,Pothkraycz,Pothkraycz
+3034,2562,Powsahegh,Powsahegh
+3035,2563,Powsevcz,Powsevcz
+3036,2564,Powsincz,Powsincz
+3037,2565,Powsynch,Powsynch
+3038,2566,Powsyncz,Powsyncz
+3039,2567,Powsyncz,Powsyncz
+3040,2568,Pozavye,Pozavye
+3041,2569,Pozawya,Pozawya
+3042,2570,Pozawye,Pozawye
+3043,2571,Pozrednye Zelo,Pozrednye Zelo
+3044,2572,Prachowcz,Prachowcz
+3045,2573,Praschowcz,Praschowcz
+3046,2574,Prasnicza,Prasnicza
+3047,2575,Prasnycha,Prasnycha
+3048,2576,Prasnycza,Prasnycza
+3049,2577,Prasnycza novum,Prasnycza-fortalitium novum
+3050,2578,Prassnycza,Prassnycza
+3051,2579,Prasthowcz,Prasthowcz
+3052,2580,Prasthyowcz,Prasthyowcz*
+3053,2581,Prastowcz,Prastowcz
+3054,2582,Praznycha,Praznycha
+3055,2583,Prebinowcz,Prebinowcz
+3056,2584,Prechech,Prechech
+3057,2585,Prechecz,Prechecz
+3058,2586,Predriho,Predriho
+3059,2587,Predryho,Predryho
+3060,2588,Pregory,Pregory
+3061,2589,Prelezye,Prelezye
+3062,2590,Prennar,Prennar
+3063,2591,Prepwsthowcz,Prepwsthowcz
+3064,2592,Prepwstowcz,Prepwstowcz
+3065,2593,Preseka,Preseka
+3066,2594,Preszechno,Preszechno
+3067,2595,Prethoka,Prethoka
+3068,2596,Pretrwsowcz,Pretrwsowcz
+3069,2597,Prewthoka,Prewthoka
+3070,2598,Prezechna,Prezechna
+3071,2599,Prezechnafew,Prezechnafew
+3072,2600,Prezechnafew,Prezechnafew*
+3073,2601,Prezechno,Prezechno
+3074,2602,Prezeka,Prezeka
+3075,2603,Prezeka ad Rokonog-vilicatus,Prezeka ad Rokonog-vilicatus
+3076,2604,Prezeka ad Rokonok-vilicatus,Prezeka ad Rokonok-vilicatus
+3077,2605,Prezeka,Prezeka
+3078,2605,Welyka,Welyka
+3079,2606,Prezeka-vilicatus,Prezeka-vilicatus
+3080,2607,Prezeka ad Rokonok,Prezeka-villicatus ad Rokonok
+3081,2608,Prezeka ad Rokonok pertinens,Prezeka-villicatus ad Rokonok pertinens
+3082,2609,Prezovicha Nagkemlek,Prezovicha-oppidum sub Nagkemlek
+3083,2610,Prikray,Prikray
+3084,2611,Prikray ad Zenthgeorghwara,Prikray ad Zenthgeorghwara
+3085,2612,Pristawcz,Pristawcz
+3086,2613,Priulaka,Priulaka
+3087,2614,Processus Georgii Pyzacz ultra Kwppam,Processus Georgii Pyzacz ultra Kwppam
+3088,2615,Procurancia domini episcopi Capella,Procurancia domini episcopi (Capella-villicatus)
+3089,2616,Prodauiz,Prodauiz
+3090,2617,Prodawyz,Prodawyz
+3091,2618,Progowcz,Progowcz
+3092,2619,Provinica domini episcopi,Provinica domini episcopi
+3093,2620,Prwgowcz,Prwgowcz
+3094,2621,Prybychy,Prybychy
+3095,2622,Prychrethye,Prychrethye
+3096,2623,Pryeszeka,Pryeszeka
+3097,2624,Pryezeka,Pryezeka
+3098,2625,Prygorya,Prygorya
+3099,2626,Prygorye,Prygorye
+3100,2627,Prykray,Prykray
+3101,2628,Prykray,Prykray
+3102,2629,Prykray ad Zenth Gergwara,Prykray ad Zenth Gergwara
+3103,2630,Prykraye,Prykraye
+3104,2631,Prystawcz,Prystawcz
+3105,2632,Pryztawcz,Pryztawcz
+3106,2633,Pryzthawcz,Pryzthawcz
+3107,2634,Pwhakowcz,Pwhakowcz
+3108,2635,Pwhakowcz,Pwhakowcz
+3109,2635,Czyglena,Czyglena
+3110,2636,Pwhakowcz,Pwhakowcz
+3111,2636,Czyglenycza,Czyglenycza
+3112,2637,Pwhakowcz,Pwhakowcz
+3113,2637,Zyglenycze,Zyglenycze
+3114,2638,Pwnek,Pwnek
+3115,2639,Pwnekowcz,Pwnekowcz
+3116,2640,Pwnekowcz,Pwnekowcz
+3117,2640,Myklwsowcz,Myklwsowcz
+3118,2641,Pwschya,Pwschya
+3119,2642,Pwztha Dwssycza,Pwztha Dwssycza
+3120,2642,Hergowych Uterque,Hergowych Uterque
+3121,2643,Pwztha Dwsycza,Pwztha Dwsycza
+3122,2644,Pwztha Dwsycza,Pwztha Dwsycza
+3123,2644,Hergoychy-ad Hrazthowycza,Hergoychy-ad Hrazthowycza pertinentes
+3124,2645,Pychulinch,Pychulinch
+3125,2646,Pychwlyncz,Pychwlyncz
+3126,2647,Pylethyncz,Pylethyncz
+3127,2648,Pyskopowczy,Pyskopowczy
+3128,2649,Pzaryewo,Pzaryewo
+3129,2650,Racchycza Zenth Istwan,Racchycza Zenth Istwan
+3130,2651,Racha,Racha
+3131,2652,Rachchya,Rachchya
+3132,2653,Rachycza Zenth Isthwan,Rachycza Zenth Isthwan
+3133,2654,Rachycza Zenth Istwan,Rachycza Zenth Istwan
+3134,2655,Rachycza Zenth Iwan,Rachycza Zenth Iwan
+3135,2656,Rachythoych,Rachythoych
+3136,2657,Radessych,Radessych
+3137,2658,Radessych,Radessych
+3138,2658,Dywrynowcz-ad Kemlek,Dywrynowcz-ad Kemlek
+3139,2659,Radhycza Zenth Iwan,Radhycza Zenth Iwan
+3140,2660,Radmancz,Radmancz
+3141,2661,Radmanczy,Radmanczy
+3142,2662,Radnak,Radnak
+3143,2663,Radoboya,Radoboya
+3144,2664,Radoysche,Radoysche
+3145,2665,Radoyschye,Radoyschye
+3146,2666,Radozlawcz,Radozlawcz
+3147,2667,Ragonok,Ragonok
+3148,2668,Ragonuk,Ragonuk-provincia superior
+3149,2669,Rahocza,Rahocza
+3150,2670,Rahowcza,Rahowcza
+3151,2671,Rakariae,Rakariae
+3152,2672,Rakarie,Rakarie
+3153,2673,Rakarya,Rakarya
+3154,2674,Rakarye,Rakarye
+3155,2675,Rakitowcz,Rakitowcz
+3156,2675,Pertwssewcz,Pertwssewcz
+3157,2676,Rakonok,Rakonok
+3158,2677,Rakonuk,Rakonuk
+3159,2678,Rakunuk,Rakunuk
+3160,2679,Rakunuk,Rakunuk superior
+3161,2680,Rakwsowcz,Rakwsowcz
+3162,2681,Rakythnicha,Rakythnicha
+3163,2682,Rakythnycza,Rakythnycza
+3164,2683,Rakythowch,Rakythowch
+3165,2683,Petrwssowch,Petrwssowch
+3166,2684,Rakythowcz,Rakythowcz
+3167,2685,Rakythowcz,Rakythowcz
+3168,2685,Nag Mlaka,Nag Mlaka
+3169,2686,Rakythowcz,Rakythowcz
+3170,2686,Pethrwssewcz,Pethrwssewcz
+3171,2687,Rakythowcz,Rakythowcz
+3172,2687,Pethrwssewcz,Pethrwssewcz
+3173,2687,Gerdowschyak,Gerdowschyak
+3174,2688,Rakythowcz,Rakythowcz
+3175,2688,Petrwssewcz,Petrwssewcz
+3176,2689,Rakythowcz,Rakythowcz
+3177,2689,Petrwssowcz,Petrwssowcz
+3178,2690,Rakythowcz,Rakythowcz
+3179,2690,Petthrwssewcz,Petthrwssewcz
+3180,2690,Gerdowschyak,Gerdowschyak
+3181,2691,Rakythowcz,Rakythowcz
+3182,2691,Pethrwssewcz,Pethrwssewcz
+3183,2692,Rakythowecz,Rakythowecz
+3184,2693,Rakytowcz,Rakytowcz
+3185,2694,Rakytowcz,Rakytowcz
+3186,2694,Nagh Mlaka,Nagh Mlaka
+3187,2695,Rakytowcz,Rakytowcz
+3188,2695,Petrwssowcz,Petrwssowcz
+3189,2696,Ramacha Welge,Ramacha Welge
+3190,2697,Ramachawelgh,Ramachawelgh
+3191,2698,Ramagawelge,Ramagawelge
+3192,2699,Rampolcz,Rampolcz
+3193,2700,Ranyncz,Ranyncz
+3194,2700,Chernecz,Chernecz
+3195,2700,Antholowcz,Antholowcz
+3196,2700,Thremecz,Thremecz
+3197,2701,Rassa,Rassa
+3198,2702,Rathkolcz,Rathkolcz
+3199,2703,Rathkowcz,Rathkowcz
+3200,2703,Germchar,Germchar
+3201,2704,Rathkowcz,Rathkowcz
+3202,2704,Germchiar,Germchiar
+3203,2705,Rathkowcz,Rathkowcz
+3204,2705,Gernchar,Gernchar
+3205,2706,Rathkowcz,Rathkowcz
+3206,2706,Karlowcz,Karlowcz
+3207,2707,Rathkowcz,Rathkowcz
+3208,2707,Kolarowcz,Kolarowcz
+3209,2708,Rathkowcz,Rathkowcz
+3210,2708,Kolarowcz,Kolarowcz
+3211,2708,Myrkowcz,Myrkowcz
+3212,2709,Rathkowcz,Rathkowcz
+3213,2709,Kolarowcz,Kolarowcz
+3214,2709,Rawno,Rawno
+3215,2710,Rathkowcz,Rathkowcz
+3216,2710,Myrkowcz,Myrkowcz
+3217,2711,Rathkowelge,Rathkowelge
+3218,2712,Ratkowcz,Ratkowcz
+3219,2712,Gerenchar,Gerenchar
+3220,2713,Ratkowcz,Ratkowcz
+3221,2713,Kolarowcz,Kolarowcz
+3222,2714,Ratthkoucz,Ratthkoucz
+3223,2714,Kolaroucz,Kolaroucz
+3224,2715,Rauencz,Rauencz
+3225,2715,Chernyncz,Chernyncz
+3226,2715,Anthalowcz,Anthalowcz
+3227,2715,Tremecz,Tremecz
+3228,2716,Raven,Raven
+3229,2717,Rawen,Rawen
+3230,2718,Rawen,Rawen
+3231,2718,Kozthanyowez,Kozthanyowez
+3232,2719,Ray,Ray
+3233,2720,Ray,Ray
+3234,2720,Chepyn,Chepyn
+3235,2721,Raykowcz,Raykowcz
+3236,2722,Raynok,Raynok
+3237,2723,Razmerowcz,Razmerowcz
+3238,2724,Raznethyne,Raznethyne
+3239,2725,Razossya,Razossya
+3240,2726,Razthoka,Razthoka
+3241,2727,Razthoke,Razthoke
+3242,2728,Razyna,Razyna
+3243,2729,Razyna,Razyna-oppidum cum pertinentiis
+3244,2730,Razynnya,Razynnya
+3245,2730,Kuzmyncz,Kuzmyncz
+3246,2730,Koledyncz cum eorundem,Koledyncz cum eorundem pertinentiis
+3247,2731,Razynnya,Razynnya
+3248,2731,Kuzmyncz,Kuzmyncz
+3249,2731,Koledyncz cum eorundem,Koledyncz cum eorundem pertinentiis
+3250,2731,Jelkowcz,Jelkowcz
+3251,2732,Razynnya,Razynnya
+3252,2732,Kwzmyncz,Kwzmyncz
+3253,2732,Koledyncz cum eorundem,Koledyncz cum eorundem pertinentiis
+3254,2733,Razynya,Razynya
+3255,2734,Razynya,Razynya cum pertinentiis
+3256,2735,Razynya,Razynya
+3257,2735,Gorycza,Gorycza
+3258,2736,Razynya,Razynya
+3259,2736,Kwzmyncz,Kwzmyncz cum pertinentiis
+3260,2737,Razynya,Razynya
+3261,2737,Kwzmyncz,Kwzmyncz
+3262,2737,Koledyncz,Koledyncz
+3263,2738,Razynya,Razynya
+3264,2738,Kwzmyncz,Kwzmyncz
+3265,2738,Koledyncz,Koledyncz
+3266,2738,Jelkowcz,Jelkowcz
+3267,2739,Recchycza,Recchycza
+3268,2740,Reche,Reche
+3269,2741,Reche-Suppanatus,Reche-Suppanatus
+3270,2742,Reche-Vayuodatus,Reche-Vayuodatus
+3271,2743,Rechycha,Rechycha
+3272,2744,Rechycza,Rechycza
+3273,2745,Rechycza,Rechycza
+3274,2745,Lwka,Lwka
+3275,2746,Regaryowecz,Regaryowecz
+3276,2747,Regowcz,Regowcz
+3277,2748,Regowecz,Regowecz
+3278,2749,Reka,Reka
+3279,2750,Reka Kys Kemlek,Reka cum pertinentiis Kys Kemlek
+3280,2751,Reka cum pertinetiis Kys Kemlek,Reka cum pertinetiis Kys Kemlek
+3281,2752,Reka,Reka
+3282,2752,Malchez,Malchez
+3283,2753,Remethe,Remethe
+3284,2754,Remethincz,Remethincz
+3285,2755,Remethincz,Remethincz
+3286,2755,Magerowcz,Magerowcz
+3287,2756,Remethynch prope Zagrabiam,Remethynch prope Zagrabiam
+3288,2757,Remethyncz,Remethyncz
+3289,2758,Remethyncz,Remethyncz
+3290,2758,Magerlak-ad Greben,Magerlak-ad castrum Greben
+3291,2759,Remethyncz- Garygh,Remethyncz- sub Garygh
+3292,2760,Remethyncz-ad Greben,Remethyncz-ad castrum Greben
+3293,2761,Remethyncz- Medwewar,Remethyncz-sub Medwewar
+3294,2762,Remetyncz,Remetyncz
+3295,2763,Repincz,Repincz
+3296,2764,Repych,Repych
+3297,2765,Repynch,Repynch
+3298,2766,Repyncz,Repyncz
+3299,2767,Repyncz,Repyncz-fortalitium
+3300,2767,Megye,Megye
+3301,2768,Rethkowcz,Rethkowcz
+3302,2768,Erdowcz,Erdowcz
+3303,2769,Rewche,Rewche
+3304,2770,Rewchycza,Rewchycza
+3305,2771,Rewchycza-ad Zthennychnyak,Rewchycza-ad Zthennychnyak
+3306,2772,Rodmanczy,Rodmanczy
+3307,2773,Rogaryewcz,Rogaryewcz
+3308,2774,Rogaryowcz,Rogaryowcz
+3309,2775,Rogozna,Rogozna
+3310,2776,Rokonak,Rokonak
+3311,2777,Rokonak,Rokonak castrum
+3312,2778,Rokonog,Rokonog-provincia superior
+3313,2779,Rokonok,Rokonok
+3314,2780,Rokonok,Rokonok
+3315,2781,Rokonok,Rokonok cum pertinentiis
+3316,2782,Rokonok,Rokonok-castrum
+3317,2783,Rokonok,Rokonok-castrum
+3318,2783,vilicatus,vilicatus
+3319,2784,Rokonok,Rokonok-castrum
+3320,2785,Rokonok,Rokonok-in pertinentiis
+3321,2786,Rokonok castri,Rokonok-oppidum castri
+3322,2787,Rokonok,Rokonok-oppidum cum pertinentiis
+3323,2788,Rokonok,Rokonok-oppidum
+3324,2788,Nyegouczy,Nyegouczy
+3325,2789,Rokonok,Rokonok-provincia superior
+3326,2790,Rokonok,Rokonok-superior provincia
+3327,2791,Rokonok- ad,Rokonok-superior provincia ad
+3328,2792,Rokonok Poganchecz,Rokonok-villicatus Poganchecz
+3329,2793,Rokonok,Rokonok-villicatus inferior
+3330,2794,Rokonok,Rokonok-villicatus superior
+3331,2795,Rokonuk,Rokonuk
+3332,2796,Rokwnuk,Rokwnuk
+3333,2797,Romethincz,Romethincz
+3334,2797,Garych,Garych
+3335,2797,Solyn,Solyn
+3336,2798,Rosanycza,Rosanycza
+3337,2799,Rosenik,Rosenik
+3338,2800,Rosenycza,Rosenycza
+3339,2801,Rosenyk,Rosenyk
+3340,2802,Rosewcz,Rosewcz
+3341,2803,Rosoncz,Rosoncz
+3342,2804,Rossethnyk,Rossethnyk
+3343,2805,Rostenycza,Rostenycza
+3344,2806,Rowno,Rowno
+3345,2807,Roycha,Roycha
+3346,2808,Royche,Royche
+3347,2809,Royche-supanatus,Royche-supanatus
+3348,2810,Royche-waywodatus,Royche-waywodatus
+3349,2811,Rwchlewcz,Rwchlewcz
+3350,2812,Rwdynwelge,Rwdynwelge
+3351,2813,Ryeka,Ryeka
+3352,2814,Ryeka,Ryeka
+3353,2815,Rypach,Rypach
+3354,2816,Sabacz,Sabacz
+3355,2817,Sabnicha,Sabnicha
+3356,2818,Sabnicza,Sabnicza
+3357,2819,Sabnycha,Sabnycha
+3358,2820,Sabnycza,Sabnycza
+3359,2821,Sabnycza Zenth Iwan,Sabnycza Zenth Iwan
+3360,2822,Sabnycza Zenthywan,Sabnycza Zenthywan
+3361,2823,Sabnycza,Sabnycza
+3362,2823,Mindchenth,Mindchenth
+3363,2824,Sabnycza,Sabnycza
+3364,2824,Bablyak,Bablyak
+3365,2824,Czyrquena,Czyrquena
+3366,2825,Sabnycza-in Markowcz,Sabnycza-in Markowcz
+3367,2826,Sabnyk Zenthberthalam,Sabnyk Zenthberthalam
+3368,2827,Salethyncz,Salethyncz
+3369,2828,Salgo,Salgo
+3370,2829,Salmocz,Salmocz
+3371,2830,Samobor,Samobor
+3372,2831,Sampssynowcz,Sampssynowcz
+3373,2832,Sampsynowcz,Sampsynowcz
+3374,2833,Samsonowcz,Samsonowcz
+3375,2834,Samssynowcz,Samssynowcz
+3376,2835,Samsynowcz,Samsynowcz
+3377,2836,Sancta Anna Wragoucz,Sancta Anna (Wragoucz)
+3378,2837,Sancta Clara,Sancta Clara
+3379,2838,Sancta Clara-area prope Zawam,Sancta Clara-area prope Zawam
+3380,2839,Sancta Elena,Sancta Elena
+3381,2840,Sancta Katharina,Sancta Katharina
+3382,2841,Sancta Maria Okych,Sancta Maria sub Okych
+3383,2842,Sancta Maria-plebanatus,Sancta Maria-plebanatus
+3384,2843,Sancte Anna,Sancte Anna
+3385,2844,Sancte Crucis,Sancte Crucis
+3386,2845,Sancte Crucis Insula,Sancte Crucis Insula
+3387,2846,Sancti Cosme,Sancti Cosme
+3388,2847,Sancti Cosme-ad Achynam,Sancti Cosme-ad Achynam
+3389,2848,Sancti Georgius-in Hemowcz,Sancti Georgius-in Hemowcz
+3390,2849,Sancti Martini-ad Zalathnok,Sancti Martini-ad Zalathnok
+3391,2850,Sancti Martinus,Sancti Martinus
+3392,2851,Sanctus Benedictus,Sanctus Benedictus
+3393,2852,Sanctus Cosma,Sanctus Cosma
+3394,2853,Sanctus Crux,Sanctus Crux
+3395,2854,Sanctus Dominicus,Sanctus Dominicus
+3396,2855,Sanctus Johannes in Prodawiz,Sanctus Johannes in Prodawiz
+3397,2856,Sanctus Nicolaus,Sanctus Nicolaus
+3398,2857,Sanctus Stephanus,Sanctus Stephanus
+3399,2858,Saranowcz,Saranowcz
+3400,2859,Sassyn,Sassyn
+3401,2860,Sassyna,Sassyna
+3402,2861,Sassyncz ad Thopozka,Sassyncz ad Thopozka
+3403,2862,Sassynna,Sassynna
+3404,2863,Sassynna ad Gora,Sassynna ad Gora
+3405,2864,Sasyn,Sasyn
+3406,2865,Sasyna,Sasyna
+3407,2866,Sasyna ad Gara,Sasyna ad Gara
+3408,2867,Sasyncz,Sasyncz
+3409,2868,Sasyncz ad Thopozka,Sasyncz ad Thopozka (predium)
+3410,2869,Sasyncz ad Thopozka pertinens,Sasyncz ad Thopozka pertinens (predium)
+3411,2870,Satran,Satran
+3412,2871,Scherbyncz,Scherbyncz
+3413,2871,Geremchar,Geremchar
+3414,2871,Rathkowcz,Rathkowcz
+3415,2872,Scherbyncz,Scherbyncz
+3416,2872,Geremchar,Geremchar
+3417,2872,Ratkowcz,Ratkowcz
+3418,2873,Scherbyncz,Scherbyncz
+3419,2873,Germchar,Germchar
+3420,2874,Scherbyncz,Scherbyncz
+3421,2874,Germchiary,Germchiary
+3422,2875,Scherbyncz,Scherbyncz
+3423,2875,Ghermchar,Ghermchar
+3424,2876,Scherbyncz,Scherbyncz
+3425,2876,Ratkowcz,Ratkowcz
+3426,2876,Bathyna,Bathyna
+3427,2877,Schitario,Schitario
+3428,2878,Schwkancz,Schwkancz
+3429,2879,Schytario,Schytario
+3430,2880,Schytaryevo,Schytaryevo
+3431,2881,Schytaryio,Schytaryio
+3432,2882,Schytaryio,Schytaryio
+3433,2882,Chernkowcz,Chernkowcz
+3434,2883,Schytaryo,Schytaryo
+3435,2884,Schytaryo,Schytaryo
+3436,2884,Chernkowcz,Chernkowcz
+3437,2885,Schytaryo,Schytaryo
+3438,2885,Chernokowcz,Chernokowcz
+3439,2886,Schytharyewo,Schytharyewo
+3440,2887,Schytharyo,Schytharyo
+3441,2888,Sczezhwpnycze,Sczezhwpnycze
+3442,2888,Zlanowch Medwewar,Zlanowch sub Medwewar
+3443,2889,Sebastyanowcz,Sebastyanowcz
+3444,2890,Selin,Selin cum pertinentiis
+3445,2891,Selyn,Selyn
+3446,2892,Selyn cum pertinenciis,Selyn cum pertinenciis
+3447,2893,Selyn,Selyn cum pertinentiis
+3448,2894,Selyn,Selyn-castrum
+3449,2894,Bwkewye,Bwkewye
+3450,2895,Selyn,Selyn-castrum
+3451,2895,Dernek,Dernek
+3452,2896,Selyn,Selyn-castrum
+3453,2896,Jagodno,Jagodno
+3454,2897,Selyn,Selyn-castrum
+3455,2897,Krawarska,Krawarska
+3456,2898,Selyn,Selyn-castrum
+3457,2898,Nowechyche,Nowechyche
+3458,2899,Selyn,Selyn-castrum
+3459,2899,Peschenycza,Peschenycza
+3460,2900,Selyn,Selyn-castrum
+3461,2900,Zablathya,Zablathya
+3462,2901,Selyn cum Krawarzka,Selyn-castrum cum Krawarzka
+3463,2901,Zablatya,Zablatya
+3464,2901,Horogwycza ad id,Horogwycza ad id pertinentiis
+3465,2902,Selyn cum judicatibus suarum,Selyn-castrum cum judicatibus pertinentiarum suarum
+3466,2903,Selyn,Selyn-castrum cum pertinentiis
+3467,2903,Kravarzka,Kravarzka
+3468,2903,Zablathya,Zablathya
+3469,2904,Selyn,Selyn-castrum cum pertinentiis
+3470,2904,Krawarzka,Krawarzka
+3471,2904,Zablathya,Zablathya
+3472,2905,Selyn,Selyn-castrum
+3473,2905,Welessewcz,Welessewcz
+3474,2905,Syllyakowyna,Syllyakowyna
+3475,2906,Selyn,Selyn-cum pertinentiis
+3476,2907,Selynok,Selynok
+3477,2908,Semocz,Semocz
+3478,2908,Zwhodol,Zwhodol
+3479,2909,Semoucz,Semoucz
+3480,2910,Semowcz,Semowcz
+3481,2911,Semowcz,Semowcz
+3482,2911,Zwhodol,Zwhodol
+3483,2912,Semowcz,Semowcz
+3484,2912,Zwhodoll,Zwhodoll
+3485,2913,Senkowcz,Senkowcz
+3486,2914,Serdethyncz,Serdethyncz
+3487,2915,Seryanwyncz,Seryanwyncz- judicatus inferior
+3488,2916,Seryawynch,Seryawynch
+3489,2917,Seryawyncz,Seryawyncz
+3490,2918,Sidina,Sidina
+3491,2919,Sidynna,Sidynna
+3492,2920,Simonoucz,Simonoucz
+3493,2921,Simonowcz,Simonowcz
+3494,2922,Simonwelge,Simonwelge
+3495,2923,Simwnowcz,Simwnowcz
+3496,2924,Sittomeria,Sittomeria
+3497,2925,Slywercz,Slywercz
+3498,2926,Sokowcz,Sokowcz
+3499,2927,Soploncza,Soploncza
+3500,2928,Soproncha,Soproncha
+3501,2929,Soproncza,Soproncza
+3502,2930,Sopronncza,Sopronncza
+3503,2931,Sosemberk,Sosemberk
+3504,2932,Sosen,Sosen
+3505,2933,Sosomberg,Sosomberg
+3506,2934,Sosomberk,Sosomberk
+3507,2935,Soswmberk,Soswmberk
+3508,2936,Spanicz,Spanicz
+3509,2937,Srachyncz,Srachyncz
+3510,2938,Steffancz,Steffancz
+3511,2939,Steffancz,Steffancz
+3512,2939,Zenth Kelemen,Zenth Kelemen
+3513,2940,Stenyowcz,Stenyowcz
+3514,2941,Stephancz,Stephancz
+3515,2942,Stephancz,Stephancz
+3516,2943,Stephancz,Stephancz
+3517,2943,Zenth Kelemen,Zenth Kelemen
+3518,2944,Sthepanowcz,Sthepanowcz
+3519,2944,Zywynossa,Zywynossa
+3520,2945,Stholnikowcz,Stholnikowcz
+3521,2946,Sthupicza,Sthupicza Inferior
+3522,2947,Sthupicza,Sthupicza Inferior cum pertinentiis
+3523,2948,Stwpnyk,Stwpnyk
+3524,2949,Supa,Supa
+3525,2950,Supancz,Supancz
+3526,2951,Opathyncz,Superior Opathyncz
+3527,2952,Wolawlya,Superior Wolawlya
+3528,2953,Superiori Dworysche,Superiori Dworysche
+3529,2954,Swkowcz,Swkowcz
+3530,2955,Swmechecz,Swmechecz
+3531,2956,Swpancz ad Zenth Gergwara,Swpancz ad Zenth Gergwara
+3532,2957,Swssomberk,Swssomberk
+3533,2958,Swystowcz,Swystowcz
+3534,2959,Sybrinowcz,Sybrinowcz
+3535,2960,Sybrynocz,Sybrynocz
+3536,2960,Jalsovcz,Jalsovcz
+3537,2961,Sybrynowcz,Sybrynowcz
+3538,2962,Sybrynowhcz,Sybrynowhcz
+3539,2963,Sydyna,Sydyna
+3540,2964,Sydynna,Sydynna
+3541,2965,Sylakowyna,Sylakowyna
+3542,2966,Syllyakowyna,Syllyakowyna
+3543,2966,Odra,Odra
+3544,2967,Sylyakowyna,Sylyakowyna
+3545,2967,Odra,Odra
+3546,2968,Symonowcz,Symonowcz
+3547,2969,Symonowcz,Symonowcz
+3548,2969,Zelyna,Zelyna
+3549,2970,Symonowecz,Symonowecz
+3550,2971,Symonwelge,Symonwelge
+3551,2972,Symuncheucz,Symuncheucz
+3552,2972,Zawersye,Zawersye
+3553,2973,Symwchowcz,Symwchowcz
+3554,2974,Symwnocz,Symwnocz
+3555,2975,Symwnowch,Symwnowch
+3556,2976,Symwnowcz,Symwnowcz
+3557,2977,Synchewcz,Synchewcz
+3558,2978,Sypak,Sypak
+3559,2979,Syprak,Syprak
+3560,2980,Syslawichy,Syslawichy
+3561,2981,Syslawych,Syslawych
+3562,2982,Syslawychi,Syslawychi
+3563,2983,Syslawychy,Syslawychy
+3564,2984,Syslyawchy,Syslyawchy
+3565,2985,Syslyawychy,Syslyawychy
+3566,2986,Syssyncz,Syssyncz
+3567,2987,Sysyncz,Sysyncz
+3568,2988,Sysynczy,Sysynczy
+3569,2989,Sysynowcz,Sysynowcz
+3570,2990,Sysynzc,Sysynzc
+3571,2991,Sythomeer,Sythomeer
+3572,2992,Sythomer,Sythomer
+3573,2993,Sythomerye,Sythomerye
+3574,2994,Sythomyer,Sythomyer
+3575,2995,Sytomerye,Sytomerye
+3576,2996,Sywecz,Sywecz
+3577,2997,Szyszek-judicati,Szyszek-castrum-oppidum-provincia-judicati
+3578,2998,Szyzek et,Szyzek-castrum-oppidum-provincia superior et inferior
+3579,2999,Tabor,Tabor
+3580,3000,Tarnovcz,Tarnovcz
+3581,3001,Temerye,Temerye
+3582,3001,Czezarowcz,Czezarowcz
+3583,3002,Temerye,Temerye
+3584,3002,Mylethyncz,Mylethyncz
+3585,3003,Terbennye,Terbennye
+3586,3004,Terbyne,Terbyne
+3587,3004,Lokawecz,Lokawecz
+3588,3005,Ternocz,Ternocz
+3589,3006,Ternocz,Ternocz
+3590,3006,Kochan,Kochan
+3591,3007,Ternowcz,Ternowcz
+3592,3008,Ternowycza,Ternowycza
+3593,3009,Tesnahege,Tesnahege
+3594,3010,Thabor,Thabor
+3595,3011,Thabor,Thabor-castrum cum pertinentiis
+3596,3012,Thalanoucz,Thalanoucz
+3597,3013,Thallocz,Thallocz
+3598,3014,Thallocz,Thallocz
+3599,3014,Lyppa,Lyppa
+3600,3014,Martinowcz,Martinowcz
+3601,3015,Thaloucz,Thaloucz
+3602,3016,Tharnocz,Tharnocz
+3603,3016,Berethyncz,Berethyncz
+3604,3017,Tharnocz,Tharnocz
+3605,3017,Kochan,Kochan
+3606,3018,Tharnowcz,Tharnowcz
+3607,3019,Tharnowcz,Tharnowcz
+3608,3020,Tharnowcz,Tharnowcz
+3609,3020,Berethyancz,Berethyancz
+3610,3021,Tharnowcz,Tharnowcz
+3611,3021,Berethyncz,Berethyncz
+3612,3022,Tharnowcz,Tharnowcz
+3613,3022,Kochan,Kochan
+3614,3023,Tharnowcz,Tharnowcz
+3615,3023,Kochyan,Kochyan
+3616,3024,Thassolcz,Thassolcz
+3617,3025,Thechenyk,Thechenyk
+3618,3026,Themennycze,Themennycze
+3619,3027,Themerye,Themerye
+3620,3028,Themerye,Themerye
+3621,3028,Zdenchan,Zdenchan
+3622,3029,Themerye,Themerye
+3623,3029,Zenth Iwan,Zenth Iwan
+3624,3030,Themeryen,Themeryen
+3625,3031,Themeryen,Themeryen
+3626,3031,Cherarocz,Cherarocz
+3627,3032,Therbenye,Therbenye
+3628,3032,Lwkaucz,Lwkaucz
+3629,3033,Therbenye,Therbenye
+3630,3033,Lwkawecz,Lwkawecz
+3631,3034,Therchech,Therchech
+3632,3035,Therchyan,Therchyan
+3633,3036,Thermchan ad Gemlech,Thermchan ad Gemlech
+3634,3037,Thernawa,Thernawa
+3635,3038,Thernawa,Thernawa
+3636,3038,Nowaki,Nowaki
+3637,3039,Thernocz,Thernocz
+3638,3040,Thernocz,Thernocz
+3639,3040,Korylowcz,Korylowcz
+3640,3041,Thernowcz,Thernowcz
+3641,3042,Thernowcz,Thernowcz
+3642,3043,Thernowcz,Thernowcz
+3643,3043,Berethyncz,Berethyncz
+3644,3044,Thernowcz,Thernowcz
+3645,3044,Beretyncz,Beretyncz
+3646,3045,Thernowcz,Thernowcz
+3647,3045,Kochan,Kochan
+3648,3046,Thernowcz,Thernowcz
+3649,3046,Korylowcz,Korylowcz
+3650,3047,Thernowcz,Thernowcz
+3651,3047,Rakythowcz,Rakythowcz
+3652,3048,Thernowcz,Thernowcz
+3653,3048,Rakythowcz,Rakythowcz
+3654,3048,Mraczlyn,Mraczlyn
+3655,3049,Thernowcz,Thernowcz
+3656,3049,Zobachlaz,Zobachlaz
+3657,3050,Therschan,Therschan
+3658,3051,Thersich,Thersich
+3659,3052,Thersthyan,Thersthyan
+3660,3053,Thersych,Thersych
+3661,3054,Thersych ad Okych,Thersych ad Okych
+3662,3055,Thersych ad Okych,Thersych-oppidum ad Okych
+3663,3056,Therzthenycze,Therzthenycze
+3664,3057,Thezthenycze,Thezthenycze
+3665,3058,Thomasdowcz,Thomasdowcz
+3666,3059,Thomasewcz,Thomasewcz
+3667,3060,Thomassewcz,Thomassewcz
+3668,3060,Cherncz,Cherncz
+3669,3060,Byskupowcz,Byskupowcz
+3670,3061,Thomassowcz,Thomassowcz
+3671,3062,Thoplicensis,Thoplicensis
+3672,3063,Thoplichicza,Thoplichicza
+3673,3064,Thoplychycza,Thoplychycza
+3674,3065,Thoplychycza,Thoplychycza
+3675,3066,Thoplycza,Thoplycza
+3676,3067,Thoplycza,Thoplycza
+3677,3068,Thoplycza,Thoplycza-oppidum
+3678,3069,Thoplyncycza,Thoplyncycza
+3679,3070,Thopolchazenthgergh,Thopolchazenthgergh
+3680,3071,Thopolyancz,Thopolyancz
+3681,3072,Thopozka,Thopozka
+3682,3073,Thorchecz,Thorchecz
+3683,3074,Thornava,Thornava
+3684,3075,Thossewczy,Thossewczy
+3685,3076,Thossowcz,Thossowcz
+3686,3077,Thothwsewyna,Thothwsewyna
+3687,3078,Thrakosthan,Thrakosthan
+3688,3079,Thrakosthyan,Thrakosthyan
+3689,3080,Thrakostyan,Thrakostyan
+3690,3081,Thrakwschyan,Thrakwschyan-castrum-cum pertinentiis
+3691,3082,Threm,Threm
+3692,3083,Thremecz,Thremecz
+3693,3084,Thremyschye,Thremyschye
+3694,3085,Threwm,Threwm
+3695,3086,Thryem,Thryem
+3696,3087,Thryen,Thryen
+3697,3088,Thwlowa,Thwlowa
+3698,3089,Thwran,Thwran
+3699,3090,Thwran,Thwran-castrum cum pertinentiis
+3700,3091,Thwrcoucz,Thwrcoucz
+3701,3092,Thwrkowcz,Thwrkowcz
+3702,3093,Thwrkowschyna,Thwrkowschyna
+3703,3094,Thwropolia,Thwropolia
+3704,3095,Thwsowch,Thwsowch
+3705,3096,Thybonyncz,Thybonyncz
+3706,3097,Toplichicza,Toplichicza
+3707,3098,Toplycza,Toplycza
+3708,3099,Toplycza,Toplycza
+3709,3100,Tothwssewyna,Tothwssewyna
+3710,3101,Trachyncz,Trachyncz
+3711,3102,Trachyncz-ad Achyna,Trachyncz-ad Achyna
+3712,3103,Tracostyan,Tracostyan
+3713,3104,Trakoschan,Trakoschan-castrum cum pertinentiis
+3714,3105,Trakoschyan,Trakoschyan
+3715,3106,Trakostan,Trakostan cum pertinentiis
+3716,3107,Trakostyan,Trakostyan
+3717,3108,Trambeth,Trambeth
+3718,3109,Trem,Trem
+3719,3110,Tremecz,Tremecz
+3720,3111,Tremlan,Tremlan
+3721,3112,Tremysche,Tremysche
+3722,3113,Trombetharyewcz,Trombetharyewcz
+3723,3114,Trumbetharyewcz,Trumbetharyewcz
+3724,3115,Tryem,Tryem
+3725,3116,Turan,Turan
+3726,3117,Turkousschyna aliter Zuhodol,Turkousschyna aliter Zuhodol
+3727,3118,Tussocz,Tussocz
+3728,3119,Twlowa,Twlowa
+3729,3120,Twssocz,Twssocz
+3730,3121,Twtwsewyna,Twtwsewyna inferior
+3731,3122,Twtwsewyna,Twtwsewyna superior
+3732,3123,Tzemerye Themerye?,Tzemerye (Themerye?)
+3733,3124,Ugra,Ugra
+3734,3125,Ugre,Ugre-Judicatus Inferior
+3735,3126,Ugre,Ugre-Judicatus Superior
+3736,3127,Varasd,Varasd
+3737,3128,Varasd suburbium,Varasd (suburbium*)
+3738,3129,Varasd-civitas,Varasd-civitas
+3739,3130,Varasd-civitas-suburbium,Varasd-civitas-suburbium
+3740,3131,Varasd-suburbium,Varasd-suburbium
+3741,3132,Varasdiensis-civitas,Varasdiensis-civitas
+3742,3133,Vechezlawcz,Vechezlawcz
+3743,3134,Velika,Velika
+3744,3135,Velyka,Velyka
+3745,3136,Velykagora,Velykagora
+3746,3137,Verbova,Verbova
+3747,3138,Verhowlan,Verhowlan
+3748,3139,Versynowcz in Berzewcze,Versynowcz in Berzewcze
+3749,3140,Vgra,Vgra
+3750,3141,Vicus Latinorum,Vicus Latinorum
+3751,3142,Vidincz,Vidincz
+3752,3143,Vidoucz,Vidoucz
+3753,3144,Vinarch,Vinarch
+3754,3145,Vinichno,Vinichno
+3755,3146,Vinicza,Vinicza
+3756,3147,Vinnichno,Vinnichno
+3757,3148,Vinno,Vinno
+3758,3149,Vokachincz,Vokachincz
+3759,3150,Vokowyna,Vokowyna cum pertinentiis
+3760,3151,Vokssyncz,Vokssyncz
+3761,3152,Volaullya,Volaullya Superior
+3762,3153,Volawlya,Volawlya Superior
+3763,3154,Volyncz,Volyncz
+3764,3155,Volyncz,Volyncz
+3765,3155,Chalyncz,Chalyncz
+3766,3156,Vrasylaz,Vrasylaz
+3767,3157,Vrbanowcz,Vrbanowcz
+3768,3158,Vrboucz,Vrboucz
+3769,3159,Vrboucz,Vrboucz-provincia superior
+3770,3160,Vrbowcz,Vrbowcz
+3771,3161,Vrbowcz,Vrbowcz
+3772,3162,Vrbowcz ad Rokonok,Vrbowcz -oppidum ad Rokonok
+3773,3163,Vrbowcz ad Rokonok,Vrbowcz ad Rokonok
+3774,3164,Vrbowcz ad,Vrbowcz-provincia ad
+3775,3165,Vrbowcz ad Rokonok,Vrbowcz-provincia ad Rokonok
+3776,3166,Vrnoucz,Vrnoucz
+3777,3167,Vrnowcz,Vrnowcz
+3778,3168,Vycha Zela,Vycha Zela
+3779,3169,Vydoucz,Vydoucz
+3780,3170,Vyhel,Vyhel
+3781,3171,Vyllo,Vyllo
+3782,3172,Vyllyo,Vyllyo
+3783,3173,Vynno,Vynno
+3784,3174,Vynnychno,Vynnychno
+3785,3175,Vyzoka,Vyzoka
+3786,3176,Wahtaryowcz ad Belam,Wahtaryowcz ad Belam
+3787,3177,Wakegh,Wakegh
+3788,3178,Wakowyna-casttelum,Wakowyna-casttelum
+3789,3178,Demerye,Demerye
+3790,3179,Wakowyna-casttelum,Wakowyna-casttelum
+3791,3179,Kopchyna,Kopchyna
+3792,3180,Wakowyna-casttelum,Wakowyna-casttelum
+3793,3180,Myxocz,Myxocz
+3794,3181,Wakowyna-casttelum,Wakowyna-casttelum
+3795,3181,Obres,Obres
+3796,3182,Wakowyna-casttelum,Wakowyna-casttelum
+3797,3182,Wokowyna,Wokowyna
+3798,3183,Wamhyda,Wamhyda
+3799,3184,Warallia,Warallia
+3800,3185,Warallya,Warallya
+3801,3186,Waska,Waska
+3802,3187,Waska,Waska Inferior
+3803,3188,Waska,Waska Inferior
+3804,3188,Dytrowcz,Dytrowcz
+3805,3189,Waska Zygeth,Waska Zygeth
+3806,3190,Waska-ad Zagyowcz,Waska-ad Zagyowcz
+3807,3191,Wasmegywrechye,Wasmegywrechye
+3808,3192,Wasmegywrechye,Wasmegywrechye predium
+3809,3193,Wasuaryowcz,Wasuaryowcz
+3810,3194,Waswarowcz,Waswarowcz
+3811,3195,Waswaryewcz,Waswaryewcz
+3812,3196,Waswaryowcz,Waswaryowcz
+3813,3197,Wechezlaucz,Wechezlaucz
+3814,3198,Wechezlawcz,Wechezlawcz
+3815,3199,Wechlawcz,Wechlawcz
+3816,3200,Wehowlan,Wehowlan
+3817,3201,Wehthocz,Wehthocz
+3818,3202,Welesewch ad Selin,Welesewch ad Selin
+3819,3203,Welessewacz,Welessewacz
+3820,3204,Welessewcz,Welessewcz
+3821,3205,Welike,Welike
+3822,3206,Welike ad Rokonok,Welike-villicatus ad Rokonok
+3823,3207,Welkovcz,Welkovcz
+3824,3208,Welkowcz,Welkowcz
+3825,3209,Wellesewcz,Wellesewcz
+3826,3210,Wellessewcz,Wellessewcz
+3827,3211,Welyka,Welyka
+3828,3212,Welyka Mlaka,Welyka Mlaka
+3829,3213,Welyke,Welyke
+3830,3214,Welyke,Welyke
+3831,3214,Dwlepzka,Dwlepzka
+3832,3215,Welyke antiquum,Welyke-oppidum antiquum
+3833,3216,Welyke,Welyke-oppidum cum pertinentiis
+3834,3217,Welyke novum,Welyke-oppidum novum
+3835,3218,Werbowa,Werbowa
+3836,3219,Werbowcz,Werbowcz
+3837,3220,Werbowo,Werbowo
+3838,3221,Werbowo ad Selyn,Werbowo ad Selyn
+3839,3222,Wereucze,Wereucze
+3840,3223,Wereucze-oppidi,Wereucze-oppidi
+3841,3224,Wereucze- Bwssocz,Wereucze-oppidum- Bwssocz
+3842,3224,Dobownyk,Dobownyk
+3843,3225,Werewcze,Werewcze
+3844,3226,Werewcze,Werewcze-oppidum
+3845,3227,Werewcze opidi,Werewcze-provincia opidi
+3846,3228,Werh,Werh
+3847,3229,Werh,Werh
+3848,3229,Zerdahel,Zerdahel
+3849,3230,Werhancz,Werhancz
+3850,3231,Werhoucz,Werhoucz
+3851,3232,Werhowch,Werhowch
+3852,3233,Werhowcz,Werhowcz
+3853,3234,Werhowcz,Werhowcz
+3854,3235,Werhowlan,Werhowlan
+3855,3236,Werhowlyan,Werhowlyan
+3856,3237,Werthlin,Werthlin
+3857,3238,Werthlyn ad Monozlo,Werthlyn ad Monozlo
+3858,3239,Wertlyn,Wertlyn
+3859,3240,Werussewych,Werussewych
+3860,3241,Werzynowcz,Werzynowcz
+3861,3242,Wethech,Wethech
+3862,3243,Wezelkowcz,Wezelkowcz
+3863,3244,Wezolkowcz,Wezolkowcz
+3864,3245,Wghrocz,Wghrocz
+3865,3246,Wgra,Wgra
+3866,3247,Wgra,Wgra cum pertinentiis
+3867,3248,Wgra,Wgra- judicatus inferior
+3868,3249,Wgra,Wgra- judicatus superior
+3869,3250,Wgre,Wgre
+3870,3251,Wgre,Wgre-judicatus inferior
+3871,3252,Wgre ad Seryawyncz,Wgre-judicatus inferior ad Seryawyncz
+3872,3253,Wgre,Wgre-judicatus superior
+3873,3254,Wgrocz ad Zagrabiense pertinens,Wgrocz ad castrum Zagrabiense pertinens
+3874,3255,Wgrocz-ad Zagrabiense pertinens,Wgrocz-ad castrum Zagrabiense pertinens
+3875,3255,Chwcher,Chwcher
+3876,3255,Seryawyncz,Seryawyncz
+3877,3255,Blagwssa,Blagwssa
+3878,3255,Urnowcz,Urnowcz
+3879,3255,Samssynowcz,Samssynowcz
+3880,3256,Wgrowcz,Wgrowcz
+3881,3257,Wgrynowcz,Wgrynowcz
+3882,3258,Wgrynowcz,Wgrynowcz
+3883,3258,E203Markowcz,E203Markowcz
+3884,3259,Widowcz,Widowcz
+3885,3260,Willyo,Willyo
+3886,3261,Winarcz,Winarcz
+3887,3262,Winichno,Winichno
+3888,3263,Winnagora,Winnagora
+3889,3264,Wkowyna,Wkowyna
+3890,3265,Wkowyna,Wkowyna cum pertinentiis
+3891,3266,Wkowyna cum pertinetiis,Wkowyna cum pertinetiis
+3892,3266,Kopchyna,Kopchyna
+3893,3266,Wraccza,Wraccza
+3894,3267,Wlachin,Wlachin
+3895,3268,Wlachin,Wlachin
+3896,3268,Rawenik,Rawenik
+3897,3269,Wlachin,Wlachin
+3898,3269,Rawennyk,Rawennyk
+3899,3270,Wlachyn,Wlachyn
+3900,3271,Wlachyn,Wlachyn
+3901,3271,Rawennyk,Rawennyk
+3902,3272,Wlachyn,Wlachyn
+3903,3272,Rawennyk,utraque Rawennyk
+3904,3273,Wlachyn,Wlachyn
+3905,3273,Rawenyk,utraque Rawenyk
+3906,3274,Wogrinencz,Wogrinencz
+3907,3274,Wlachyn,Wlachyn
+3908,3274,Rawennyk,utraque Rawennyk
+3909,3275,Wogrinowcz,Wogrinowcz
+3910,3276,Wogrynecz,Wogrynecz
+3911,3276,Wlachin,Wlachin
+3912,3277,Wogrynincz,Wogrynincz
+3913,3277,Rawennyk,utraque Rawennyk
+3914,3278,Wogrynocz,Wogrynocz
+3915,3279,Wogrynowcz,Wogrynowcz
+3916,3280,Wogrynowcz,Wogrynowcz
+3917,3280,Markowcz,Markowcz
+3918,3281,Wogrynyncz,Wogrynyncz
+3919,3281,Wlachyn,Wlachyn
+3920,3282,Wokomercz,Wokomercz
+3921,3283,Wokomerych,Wokomerych
+3922,3284,Wokowyna,Wokowyna
+3923,3285,Wokowyna,Wokowyna cum pertinentiis
+3924,3286,Wokowyna,Wokowyna-castellum
+3925,3286,Demerye,Demerye
+3926,3287,Wokowyna,Wokowyna-castellum
+3927,3287,Mykchewcz,Mykchewcz
+3928,3288,Wokowyna,Wokowyna-castellum
+3929,3288,Obres,Obres
+3930,3289,Wokowyna,Wokowyna-castellum
+3931,3290,Wokowyna,Wokowyna-castellum cum pertinentiis
+3932,3291,Wokowyna,Wokowyna-cum pertinentiis
+3933,3292,Wokowyna-pertinantinae casteli,Wokowyna-pertinantinae casteli
+3934,3293,Wolaulya,Wolaulya
+3935,3294,Wolaulya,Wolaulya
+3936,3295,Wolawla,Wolawla
+3937,3296,Wolawla,Wolawla Superior
+3938,3297,Wolawlia,Wolawlia
+3939,3298,Wolawlia et,Wolawlia et sub pertinentiis
+3940,3299,Wolawlya,Wolawlya
+3941,3300,Wolawlya,Wolawlya Superior
+3942,3301,Wolawlya Jazthrebarzka,Wolawlya- judicatus (Jazthrebarzka-castrum)
+3943,3302,Wolawya,Wolawya
+3944,3303,Wolawyla,Wolawyla
+3945,3304,Woloulya,Woloulya
+3946,3305,Wolowlya,Wolowlya
+3947,3306,Wolyawlya,Wolyawlya
+3948,3307,Wolyawlya,Wolyawlya Superior
+3949,3308,Wolyncz,Wolyncz
+3950,3309,Wolyncz,Wolyncz
+3951,3309,Babyncz,Babyncz
+3952,3310,Wolyncz,Wolyncz
+3953,3310,Chalyncz,Chalyncz
+3954,3311,Wolyncz,Wolyncz
+3955,3311,Chialyncz,Chialyncz
+3956,3312,Wolywercz,Wolywercz
+3957,3313,Wolywercz,Wolywercz
+3958,3313,Kothenyak,Kothenyak
+3959,3314,Woykowcz,Woykowcz
+3960,3315,Woynche,Woynche
+3961,3316,Woynowcz,Woynowcz
+3962,3317,Woznekowcz,Woznekowcz
+3963,3318,Wraccza,Wraccza
+3964,3319,Wrachya,Wrachya
+3965,3320,Wracza,Wracza
+3966,3321,Wradchya,Wradchya
+3967,3322,Wragoucz,Wragoucz
+3968,3323,Wragowcz,Wragowcz
+3969,3324,Wranydol Jazthrebarzka,Wranydol- judicatus (Jazthrebarzka-castrum)
+3970,3325,Wrapchia,Wrapchia
+3971,3326,Wrasi Laaz,Wrasi Laaz
+3972,3327,Wrasii Las,Wrasii Las
+3973,3328,Wrassylaz,Wrassylaz
+3974,3329,Wrasy Laz,Wrasy Laz
+3975,3330,Wrasy Laz-disctrictus,Wrasy Laz-disctrictus
+3976,3331,Wrasylasz,Wrasylasz
+3977,3332,Wrasylaz,Wrasylaz
+3978,3333,Wrasylaz,Wrasylaz (districtus)
+3979,3334,Wratcza ad Topozka,Wratcza ad Topozka
+3980,3335,Wrathcza,Wrathcza
+3981,3336,Wrathkowcz,Wrathkowcz
+3982,3337,Wrathysincz,Wrathysincz
+3983,3338,Wrathyssyncz,Wrathyssyncz
+3984,3339,Wratisincz,Wratisincz
+3985,3340,Wratza,Wratza
+3986,3341,Wrazylaz,Wrazylaz
+3987,3342,Wrazylaz ac,Wrazylaz-districtus ac provincia
+3988,3343,Wrbowcz,Wrbowcz
+3989,3344,Wrbowcz,Wrbowcz
+3990,3344,Poganecz,Poganecz
+3991,3345,Wrbowcz,Wrbowcz-oppidum cum pertinentiis
+3992,3346,Wrbowcz Michael Lewak in dicatione sua prescripta defalcatus facit fumos 89,Wrbowcz-provincia (Michael Lewak in dicatione sua prescripta defalcatus facit fumos 89
+3993,3346,5,5)
+3994,3347,Wreucze,Wreucze
+3995,3348,Wrnoch,Wrnoch
+3996,3349,Wrnocz,Wrnocz
+3997,3350,Wrnowcz,Wrnowcz
+3998,3351,Wugrynincz,Wugrynincz
+3999,3351,Wlachyn,Wlachyn
+4000,3351,uterque Ravenyk,uterque Ravenyk
+4001,3352,Wuzmoucz,Wuzmoucz
+4002,3353,Wycha Zela,Wycha Zela
+4003,3354,Wychazela,Wychazela
+4004,3355,Wychkowcz,Wychkowcz
+4005,3356,Wydowcz,Wydowcz
+4006,3357,Wydowcz,Wydowcz
+4007,3358,Wydowcz,Wydowcz
+4008,3358,Zent Illia,Zent Illia
+4009,3359,Wydyncz,Wydyncz
+4010,3360,Wyeghaz,Wyeghaz
+4011,3361,Wyel,Wyel
+4012,3362,Wyfalu ad Gemnecz,Wyfalu ad Gemnecz
+4013,3363,Wyfalw ad Gemlecz,Wyfalw ad Gemlecz
+4014,3364,Wyfalw- ad Gemlecz,Wyfalw- ad Gemlecz
+4015,3365,Wyhel,Wyhel
+4016,3366,Wynagora,Wynagora
+4017,3367,Wynarcz,Wynarcz
+4018,3368,Wynarcz-monialium,Wynarcz-monialium
+4019,3369,Wynnagora,Wynnagora
+4020,3370,Wynno,Wynno
+4021,3371,Wynnychno,Wynnychno
+4022,3372,Wynnychno,Wynnychno
+4023,3372,Graberyancz,Graberyancz
+4024,3373,Wynnychno,Wynnychno
+4025,3373,Haznarcz,Haznarcz
+4026,3374,Wynnycza,Wynnycza
+4027,3375,Wynnycza,Wynnycza
+4028,3375,Lipye,Lipye
+4029,3375,Korenyak,Korenyak
+4030,3376,Wynnycze,Wynnycze
+4031,3377,Wynnycze,Wynnycze-castrum cum pertinentiis
+4032,3378,Wynychno,Wynychno
+4033,3379,Wynychno,Wynychno
+4034,3379,Wyzoka,Wyzoka
+4035,3380,Wynycza,Wynycza
+4036,3381,Wynycza,Wynycza cum pertinentiis
+4037,3382,Wynycze,Wynycze
+4038,3383,Wyszoka,Wyszoka
+4039,3384,Wythkowcz,Wythkowcz
+4040,3385,Wyudwar,Wyudwar
+4041,3386,Wywaras,Wywaras
+4042,3387,Wywdwar,Wywdwar
+4043,3388,Wywodina,Wywodina-districtus cum pertinentiis
+4044,3388,Craysthychy,Craysthychy
+4045,3389,Wywodyna castri Ozel,Wywodyna cum pertinentiis castri Ozel
+4046,3389,Kraschyschy,Kraschyschy
+4047,3390,Wyzoka,Wyzoka
+4048,3391,Wzmowcz,Wzmowcz
+4049,3392,Yeresyn,Yeresyn
+4050,3393,Zaberdya,Zaberdya
+4051,3394,Zaberdye,Zaberdye
+4052,3395,Zablatta,Zablatta
+4053,3396,Zablatya,Zablatya
+4054,3397,Zablatye ad Selyn,Zablatye ad Selyn
+4055,3398,Zabok,Zabok
+4056,3399,Zabok,Zabok
+4057,3399,Gwbasewo,Gwbasewo
+4058,3400,Zabok,Zabok
+4059,3400,Gwbasowo,Gwbasowo
+4060,3400,Myrkowcz,Myrkowcz
+4061,3401,Zabok,Zabok
+4062,3401,Gwbassewo,Gwbassewo
+4063,3402,Zabok,Zabok
+4064,3402,Komor,Komor
+4065,3403,Zabok,Zabok
+4066,3403,Komor,Komor
+4067,3403,Hum,Hum
+4068,3404,Zabok,Zabok
+4069,3404,Komor,Komor
+4070,3404,Krysancz,Krysancz
+4071,3405,Zabok,Zabok
+4072,3405,Krysanch,Krysanch
+4073,3406,Zabok,Zabok
+4074,3406,Krysancz,Krysancz
+4075,3407,Zabok,Zabok
+4076,3407,Prylezye,Prylezye
+4077,3407,Gwbasseuo,Gwbasseuo
+4078,3408,Zabok,Zabok
+4079,3408,Wychazela,Wychazela
+4080,3409,Zadrok,Zadrok
+4081,3410,Zadroucz,Zadroucz
+4082,3411,Zadrowcz,Zadrowcz
+4083,3412,Zagolcza,Zagolcza
+4084,3413,Zagorya,Zagorya
+4085,3414,Zagrabia,Zagrabia-arx cum pertinentiis
+4086,3415,Zagrabia-comitatus,Zagrabia-comitatus
+4087,3416,Zagrabiensis-distcrictus,Zagrabiensis-distcrictus
+4088,3417,Zagyocza,Zagyocza
+4089,3418,Zagyowcza,Zagyowcza
+4090,3419,Zakowcza,Zakowcza
+4091,3420,Zalathnak,Zalathnak
+4092,3421,Zalathnok,Zalathnok
+4093,3422,Zamarsche,Zamarsche
+4094,3423,Zamerche,Zamerche
+4095,3424,Zamersche,Zamersche
+4096,3425,Zamerschie,Zamerschie
+4097,3426,Zamerschye,Zamerschye
+4098,3427,Zamerssye,Zamerssye
+4099,3428,Zamerssye,Zamerssye*
+4100,3429,Zamersthye,Zamersthye
+4101,3430,Zamersye,Zamersye
+4102,3431,Zamlacha,Zamlacha
+4103,3432,Zamlacha,Zamlacha
+4104,3432,Nedelyancz,Nedelyancz
+4105,3433,Zamlachya,Zamlachya
+4106,3434,Zamlachye,Zamlachye
+4107,3435,Zamladincz,Zamladincz
+4108,3436,Zamladyncz,Zamladyncz
+4109,3437,Zamlatthya,Zamlatthya
+4110,3438,Zamlattya,Zamlattya
+4111,3439,Zamlyacha,Zamlyacha
+4112,3439,Nedelyancz,Nedelyancz
+4113,3440,Zamobor,Zamobor
+4114,3441,Zamobor,Zamobor
+4115,3441,Kladye,villa Kladye
+4116,3442,Zamobor,Zamobor-castrum cum pertinentiis
+4117,3443,Zanowcz,Zanowcz
+4118,3444,Zanyenowcz,Zanyenowcz
+4119,3445,Zavamelleky,Zavamelleky
+4120,3446,Zaversya,Zaversya
+4121,3447,Zawamelleke,Zawamelleke
+4122,3448,Zawamelleke ad Monozlo,Zawamelleke ad Monozlo
+4123,3449,Zawamelleky,Zawamelleky
+4124,3450,Zawercza,Zawercza
+4125,3451,Zawersya,Zawersya
+4126,3452,Zawersye,Zawersye
+4127,3453,Zayezda,Zayezda
+4128,3454,Zazowcz,Zazowcz
+4129,3455,Zbel,Zbel
+4130,3455,Dolyancz,Dolyancz
+4131,3456,Zbelevo,Zbelevo
+4132,3456,Gorycza,Gorycza
+4133,3457,Zbelewo,Zbelewo
+4134,3457,Dolyancz,Dolyancz
+4135,3458,Zbellyo,Zbellyo
+4136,3459,Zbelo,Zbelo
+4137,3460,Zbelw,Zbelw
+4138,3461,Zbelw,Zbelw
+4139,3461,Dolyancz,Dolyancz
+4140,3462,Zbelyewo,Zbelyewo
+4141,3463,Zbelyo,Zbelyo
+4142,3464,Zdenchan,Zdenchan
+4143,3464,Thamadocz,Thamadocz
+4144,3465,Zdenchec ad Kaproncza,Zdenchec ad Kaproncza
+4145,3466,Zdenchecz,Zdenchecz
+4146,3467,Zdenchych ad Owar,Zdenchych ad Owar
+4147,3468,Zdencz,Zdencz
+4148,3469,Zebencz,Zebencz
+4149,3470,Zebenyancz,Zebenyancz
+4150,3471,Zebincz,Zebincz
+4151,3472,Zebyncz,Zebyncz
+4152,3473,Zedenchecz ad Kapruncza,Zedenchecz ad Kapruncza
+4153,3474,Zedinyncz,Zedinyncz
+4154,3475,Zehanowcz,Zehanowcz
+4155,3476,Zekowcz,Zekowcz
+4156,3477,Zela,Zela
+4157,3478,Zela,Zela
+4158,3479,Zela Bosyako,Zela (Bosyako)
+4159,3480,Zela,Zela
+4160,3480,Ozteruna,Ozteruna
+4161,3481,Zela,Zela
+4162,3481,Ozterwna,Ozterwna
+4163,3482,Zela,Zela
+4164,3482,Oztherwna,Oztherwna
+4165,3483,Zelche,Zelche
+4166,3484,Zelcz,Zelcz
+4167,3485,Zelcze,Zelcze
+4168,3486,Zelenawar,Zelenawar-cum pertinentiis
+4169,3487,Zelina,Zelina
+4170,3488,Zelina Zenth Myklos,Zelina Zenth Myklos
+4171,3489,Zelina,Zelina
+4172,3489,Bwkowcz,Bwkowcz
+4173,3490,Zelna,Zelna
+4174,3491,Zelnycza,Zelnycza
+4175,3492,Zelnycze,Zelnycze
+4176,3493,Zelnycze,Zelnycze-castrum cum pertinentiis
+4177,3494,Zelyan,Zelyan
+4178,3494,Pathak,Pathak
+4179,3495,Zelyancz,Zelyancz
+4180,3496,Zelyancz,Zelyancz
+4181,3496,Pothok,Pothok
+4182,3497,Zelyancz,Zelyancz
+4183,3497,Sybrynowcz,Sybrynowcz
+4184,3498,Zelyna,Zelyna
+4185,3499,Zelyna Zenthmyklos,Zelyna Zenthmyklos
+4186,3500,Zelyna Bobonok !,Zelyna in pertinentiis Bobonok (!)
+4187,3501,Zelyna Rakonok,Zelyna in pertinentiis Rakonok
+4188,3502,Zelyna,Zelyna
+4189,3502,Bwkowcz,Bwkowcz
+4190,3503,Zelynawar,Zelynawar
+4191,3504,Zelynawar,Zelynawar cum pertinentiis
+4192,3505,Zemche,Zemche
+4193,3506,Zemche Zenth Myhal,Zemche Zenth Myhal
+4194,3507,Zempche,Zempche
+4195,3508,Zempcze,Zempcze
+4196,3509,Zemzky Werh,Zemzky Werh
+4197,3510,Zemzkywerh,Zemzkywerh
+4198,3511,Zenaharazthya,Zenaharazthya
+4199,3512,Zenclara,Zenclara
+4200,3513,Zendywan,Zendywan
+4201,3514,Zenkovcz,Zenkovcz
+4202,3515,Zenkowcz,Zenkowcz
+4203,3516,Zent Dyenes,Zent Dyenes
+4204,3517,Zent Ilona,Zent Ilona
+4205,3518,Zent Jacab,Zent Jacab
+4206,3519,Zent Lewryncz,Zent Lewryncz
+4207,3520,Zent Marthon,Zent Marthon
+4208,3521,Zent Nedelye,Zent Nedelye
+4209,3522,Zentdienes,Zentdienes
+4210,3523,Zenth Adrian,Zenth Adrian
+4211,3524,Zenth Andras,Zenth Andras
+4212,3525,Zenth Anna,Zenth Anna
+4213,3526,Zenth Barthalam-insula,Zenth Barthalam-insula
+4214,3527,Zenth Benedek,Zenth Benedek
+4215,3528,Zenth Benedyk,Zenth Benedyk
+4216,3529,Zenth Bertalam,Zenth Bertalam
+4217,3529,Othok,Othok
+4218,3530,Zenth Berthalam,Zenth Berthalam
+4219,3531,Zenth Berthalam,Zenth Berthalam
+4220,3532,Zenth Berthalam,Zenth Berthalam cum pertinentiis
+4221,3533,Zenth Berthalam-insula,Zenth Berthalam-insula
+4222,3534,Zenth Berthalan,Zenth Berthalan
+4223,3535,Zenth Clara,Zenth Clara
+4224,3536,Zenth Cosma,Zenth Cosma
+4225,3537,Zenth Cozma Rasinja,Zenth Cozma (Rasinja)
+4226,3538,Zenth Demetrius,Zenth Demetrius
+4227,3539,Zenth Dienes,Zenth Dienes
+4228,3540,Zenth Dyanes,Zenth Dyanes
+4229,3541,Zenth Dyenes,Zenth Dyenes
+4230,3542,Zenth Dyenes ad Rokonok,Zenth Dyenes-villicatus ad Rokonok
+4231,3543,Zenth Ersebeth,Zenth Ersebeth
+4232,3544,Zenth Georgh,Zenth Georgh
+4233,3545,Zenth Gerg,Zenth Gerg
+4234,3546,Zenth Gerg ad Belam,Zenth Gerg ad Belam
+4235,3547,Zenth Gerg ad Kapruncza,Zenth Gerg ad Kapruncza
+4236,3548,Zenth Gerg ad Lwdbreg,Zenth Gerg ad Lwdbreg
+4237,3549,Zenth Gergh,Zenth Gergh
+4238,3550,Zenth Gergh ad Berzewcze,Zenth Gergh ad Berzewcze
+4239,3551,Zenth Gergwara,Zenth Gergwara
+4240,3552,Zenth Ilona,Zenth Ilona
+4241,3553,Zenth Ilona prope Zamobor,Zenth Ilona prope Zamobor
+4242,3554,Zenth Iwan,Zenth Iwan
+4243,3555,Zenth Iwan,Zenth Iwan
+4244,3556,Zenth Iwan,Zenth Iwan
+4245,3556,Krysnychya,Krysnychya
+4246,3557,Zenth Jacab,Zenth Jacab
+4247,3558,Zenth Jacab,Zenth Jacab
+4248,3559,Zenth Jacab,Zenth Jacab cum pertinentiis
+4249,3560,Zenth Jakab,Zenth Jakab
+4250,3561,Zenth Kelemen,Zenth Kelemen
+4251,3562,Zenth Kerest,Zenth Kerest
+4252,3563,Zenth Kerest,Zenth Kerest
+4253,3563,Sanctus Crux,Sanctus Crux
+4254,3564,Zenth Kerezth,Zenth Kerezth
+4255,3565,Zenth Kerezth,Zenth Kerezth
+4256,3566,Zenth Kerezth-de Achyna,Zenth Kerezth-de Achyna
+4257,3567,Zenth Kyral,Zenth Kyral
+4258,3568,Zenth Laczlo,Zenth Laczlo
+4259,3569,Zenth Leryncz,Zenth Leryncz
+4260,3570,Zenth Leryncz-pertinencie ad,Zenth Leryncz-pertinencie ad
+4261,3571,Zenth Lewlek,Zenth Lewlek
+4262,3572,Zenth Lewryncz,Zenth Lewryncz
+4263,3573,Zenth Marco,Zenth Marco
+4264,3574,Zenth Marghyth,Zenth Marghyth
+4265,3575,Zenth Marthon,Zenth Marthon
+4266,3576,Zenth Marthon,Zenth Marthon
+4267,3577,Zenth Marthon,Zenth Marthon
+4268,3578,Zenth Michael,Zenth Michael
+4269,3579,Zenth Mihal Komor,Zenth Mihal sub Komor
+4270,3580,Zenth Miklos,Zenth Miklos
+4271,3581,Zenth Mohal,Zenth Mohal
+4272,3582,Zenth Myhal,Zenth Myhal
+4273,3583,Zenth Myhal,Zenth Myhal
+4274,3584,Zenth Myklos,Zenth Myklos
+4275,3585,Zenth Myklos,Zenth Myklos
+4276,3586,Zenth Nedele,Zenth Nedele
+4277,3587,Zenth Nedelew,Zenth Nedelew
+4278,3588,Zenth Nedelye,Zenth Nedelye
+4279,3589,Zenth Pal,Zenth Pal
+4280,3590,Zenth Pal ad Zenth Gergwara,Zenth Pal ad Zenth Gergwara
+4281,3591,Zenth Wyd,Zenth Wyd
+4282,3592,Zenth Wyd,Zenth Wyd
+4283,3592,Chresnevo,Chresnevo
+4284,3593,Zenth Wyd,Zenth Wyd
+4285,3593,Zayezda,Zayezda
+4286,3594,ZenthMarthon,ZenthMarthon
+4287,3595,Zenthandras,Zenthandras
+4288,3596,Zenthbenedek,Zenthbenedek
+4289,3597,Zenthbertalam,Zenthbertalam
+4290,3598,Zenthbertalam,Zenthbertalam
+4291,3598,Othok,Othok
+4292,3599,Zenthbertalam,Zenthbertalam
+4293,3599,Otok,Otok
+4294,3600,Zenthdienes,Zenthdienes
+4295,3601,Zenthdomankws,Zenthdomankws
+4296,3601,Konska,Konska
+4297,3602,Zenthdyanes,Zenthdyanes
+4298,3603,Zenthdyenes,Zenthdyenes
+4299,3604,Zenthendre,Zenthendre
+4300,3605,Zenthendree,Zenthendree
+4301,3606,Zenthendrey,Zenthendrey
+4302,3607,Zenthersebeth,Zenthersebeth
+4303,3608,Zenthgeorg,Zenthgeorg
+4304,3609,Zenthgerg,Zenthgerg
+4305,3610,Zenthgergh,Zenthgergh
+4306,3611,Zenthgyergh,Zenthgyergh
+4307,3612,Zenthgyergh in Berzewcza,Zenthgyergh in Berzewcza
+4308,3613,Zenthilona,Zenthilona
+4309,3614,Zenthiwan,Zenthiwan
+4310,3615,Zenthjacab,Zenthjacab
+4311,3615,Obres,Obres
+4312,3616,Zenthkerezth,Zenthkerezth
+4313,3617,Zenthkyral,Zenthkyral
+4314,3618,Zenthlaczlo Dyanfeldi,Zenthlaczlo Dyanfeldi
+4315,3619,Zenthlazlo,Zenthlazlo
+4316,3620,Zenthlelek,Zenthlelek
+4317,3621,Zenthlelek,Zenthlelek-cum pertinentiis
+4318,3622,Zenthlerincz,Zenthlerincz
+4319,3623,Zenthlerycz,Zenthlerycz
+4320,3624,Zenthleryncz,Zenthleryncz
+4321,3625,Zenthleryncz-banatus,Zenthleryncz-banatus
+4322,3626,Zenthlewrnycz,Zenthlewrnycz
+4323,3627,Zenthlewryncz,Zenthlewryncz
+4324,3628,Zenthlewryncz,Zenthlewryncz cum pertinentiis
+4325,3629,Zenthmargith,Zenthmargith
+4326,3630,Zenthmarthon,Zenthmarthon
+4327,3631,Zenthmarthon,Zenthmarthon
+4328,3632,Zenthmarton,Zenthmarton
+4329,3633,Zenthmarton,Zenthmarton
+4330,3634,Zenthmihal,Zenthmihal
+4331,3635,Zenthmihal ad Zenthlazlo,Zenthmihal-villicatus ad Zenthlazlo
+4332,3636,Zenthmyhal,Zenthmyhal
+4333,3637,Zenthmyklos,Zenthmyklos
+4334,3638,Zenthmyklos,Zenthmyklos
+4335,3639,Zenthnedelye,Zenthnedelye
+4336,3640,Zenthpal,Zenthpal
+4337,3641,Zenthpal,Zenthpal-provincia superior
+4338,3642,Zenthpeter ad Owar,Zenthpeter ad Owar
+4339,3643,Zenthpether ad Kaproncza,Zenthpether ad Kaproncza
+4340,3644,Zenthwyd,Zenthwyd
+4341,3645,Zenthywan,Zenthywan
+4342,3646,Zentilona,Zentilona
+4343,3647,Zentmarthon Bosyako,Zentmarthon (Bosyako)
+4344,3648,Zentmarton,Zentmarton
+4345,3649,Zentt Dyenes,Zentt Dyenes
+4346,3650,Zentt Ivan,Zentt Ivan
+4347,3651,Zentt Leryncz,Zentt Leryncz
+4348,3652,Zentt Marton,Zentt Marton
+4349,3653,Zentt Nedellye,Zentt Nedellye
+4350,3654,Zenzki Werh,Zenzki Werh
+4351,3655,Zerchewcz,Zerchewcz
+4352,3656,Zerchewecz,Zerchewecz
+4353,3657,Zerdahel,Zerdahel
+4354,3658,Zerdahel,Zerdahel
+4355,3658,Koren,Koren
+4356,3659,Zerdahel,Zerdahel
+4357,3659,Meghwreche,Meghwreche
+4358,3660,Zerdahel,Zerdahel
+4359,3660,Megywrechye,Megywrechye
+4360,3661,Zeredyscha ad Zenth Gergwara,Zeredyscha ad Zenth Gergwara
+4361,3662,Zerkowcz,Zerkowcz
+4362,3663,Zersyncz,Zersyncz
+4363,3664,Zethnychky Werh,Zethnychky Werh
+4364,3665,Zethnychkywerh,Zethnychkywerh
+4365,3666,Zethws,Zethws
+4366,3667,Zetus,Zetus
+4367,3668,Zetws,Zetws
+4368,3669,Zeyana Harazthya,Zeyana Harazthya
+4369,3670,Zeyanahrazthya,Zeyanahrazthya
+4370,3671,Zeyanohrazthye,Zeyanohrazthye
+4371,3672,Ziszek et,Ziszek-castrum-oppidum-provincia superior et inferior
+4372,3673,Zizek,Zizek
+4373,3674,Zizek,Zizek-castrum
+4374,3675,Zizia,Zizia
+4375,3676,Zkakala,Zkakala
+4376,3677,Zkakalo,Zkakalo
+4377,3678,Zkakolo,Zkakolo
+4378,3679,Zlamnoucz,Zlamnoucz
+4379,3680,Zlamnowch,Zlamnowch
+4380,3681,Zlamnowcz,Zlamnowcz
+4381,3682,Zlanowcz,Zlanowcz
+4382,3683,Zlanowcz Medwe,Zlanowcz (Medwe)
+4383,3684,Zlanya,Zlanya
+4384,3685,Zlatar,Zlatar
+4385,3686,Zlatarya,Zlatarya
+4386,3687,Zlathar,Zlathar
+4387,3688,Zlatharya,Zlatharya
+4388,3689,Zlathina,Zlathina
+4389,3690,Zlathnok,Zlathnok
+4390,3691,Zlathyna,Zlathyna
+4391,3692,Zlathyna,Zlathyna
+4392,3693,Zlatina,Zlatina
+4393,3694,Zlattar,Zlattar
+4394,3695,Zlatyna,Zlatyna
+4395,3696,Zlauetych,Zlauetych
+4396,3697,Zlavetychi,Zlavetychi
+4397,3697,Raztok,Raztok
+4398,3698,Zlawchyna,Zlawchyna
+4399,3699,Zlawethych,Zlawethych
+4400,3700,Zlawethychy,Zlawethychy
+4401,3701,Zlawetichi,Zlawetichi
+4402,3702,Zlaweticzy,Zlaweticzy
+4403,3703,Zlawetych,Zlawetych
+4404,3704,Zlawetychi,Zlawetychi
+4405,3704,Raztok,Raztok
+4406,3705,Zlawschina,Zlawschina
+4407,3706,Zlawschyna,Zlawschyna
+4408,3707,Zlawstina,Zlawstina
+4409,3708,Zlayna,Zlayna
+4410,3709,Zlayno,Zlayno
+4411,3710,Zlobochya,Zlobochya
+4412,3711,Zlobochyna,Zlobochyna
+4413,3712,Zlobochyna,Zlobochyna
+4414,3712,Zwybowcz,Zwybowcz
+4415,3713,Zloboda,Zloboda
+4416,3714,Zloboda ad Monozlo,Zloboda ad Monozlo
+4417,3715,Zlobothycza,Zlobothycza
+4418,3716,Zmolyak,Zmolyak
+4419,3717,Zobkethyncz,Zobkethyncz
+4420,3718,Zobochyna,Zobochyna
+4421,3719,Zobothycza,Zobothycza
+4422,3720,Zolkethyncz,Zolkethyncz
+4423,3721,Zolnya,Zolnya
+4424,3722,Zombathel,Zombathel
+4425,3723,Zomnycza,Zomnycza
+4426,3724,Zomszedvara,Zomszedvara
+4427,3725,Zomzed,Zomzed cum pertinentiis
+4428,3726,Zomzed,Zomzed-castrum
+4429,3726,Berdowcz,Berdowcz
+4430,3727,Zomzed,Zomzed-castrum
+4431,3727,Nowak,Nowak
+4432,3728,Zomzed,Zomzed-castrum
+4433,3728,Podgorya,Podgorya
+4434,3729,Zomzed,Zomzed-castrum
+4435,3729,Pwscha,Pwscha
+4436,3730,Zomzed,Zomzed-castrum
+4437,3730,Zaprezechna,Zaprezechna
+4438,3731,Zomzed,Zomzed-castrum
+4439,3731,Ztenyowcz,Ztenyowcz
+4440,3732,Zomzed,Zomzed-castrum
+4441,3732,Ztopnyk,Ztopnyk
+4442,3733,Zomzedwar,Zomzedwar
+4443,3734,Zomzedwar,Zomzedwar-castrum cum pertinentiis
+4444,3735,Zomzedwara,Zomzedwara
+4445,3736,Zomzedwara,Zomzedwara cum pertinentiis
+4446,3737,Zomzedwara,Zomzedwara-castrum
+4447,3737,Berdowcz,Berdowcz
+4448,3738,Zomzedwara,Zomzedwara-castrum
+4449,3738,Judiacti Podgorya,Judiacti Podgorya
+4450,3738,Nowak,villa Nowak
+4451,3738,Jablanowcz,Jablanowcz
+4452,3739,Zomzedwara,Zomzedwara-castrum
+4453,3739,Judicati Podgorya,Judicati Podgorya
+4454,3739,Nowak,villa Nowak
+4455,3739,Jablanowcz,Jablanowcz
+4456,3740,Zomzedwara,Zomzedwara-castrum
+4457,3740,Judicati Ztenyowcz,Judicati Ztenyowcz
+4458,3740,Ztopnyk,Ztopnyk
+4459,3740,Nowak,Nowak
+4460,3740,Zapreszeche,Zapreszeche
+4461,3740,Berdowcz,Berdowcz
+4462,3740,Pwscha,Pwscha
+4463,3741,Zomzedwara,Zomzedwara-castrum
+4464,3741,Judicati podgorya,Judicati podgorya
+4465,3741,Nowak,villa Nowak
+4466,3741,Jablanowcz,Jablanowcz
+4467,3742,Zomzedwara,Zomzedwara-castrum
+4468,3742,Judicatibus Stenyowcz,Judicatibus Stenyowcz
+4469,3742,Stopnyk,Stopnyk
+4470,3742,Nowaky,Nowaky
+4471,3742,Zaprezeche,Zaprezeche
+4472,3742,Berdowcz,Berdowcz
+4473,3742,Pwscha,Pwscha
+4474,3743,Zomzedwara,Zomzedwara-castrum
+4475,3743,Nowak,Nowak
+4476,3744,Zomzedwara,Zomzedwara-castrum
+4477,3744,Podgoria,Podgoria
+4478,3745,Zomzedwara,Zomzedwara-castrum
+4479,3745,Podgorya,Podgorya
+4480,3746,Zomzedwara,Zomzedwara-castrum
+4481,3746,Podgorye,Podgorye
+4482,3747,Zomzedwara,Zomzedwara-castrum
+4483,3747,Puschya,Puschya
+4484,3748,Zomzedwara,Zomzedwara-castrum
+4485,3748,Pwscha,Pwscha
+4486,3749,Zomzedwara,Zomzedwara-castrum
+4487,3749,Pwsche,Pwsche
+4488,3750,Zomzedwara,Zomzedwara-castrum
+4489,3750,Zapreszechye,Zapreszechye
+4490,3751,Zomzedwara,Zomzedwara-castrum
+4491,3751,Zaprezechye,Zaprezechye
+4492,3752,Zomzedwara,Zomzedwara-castrum
+4493,3752,Ztenyowcz,Ztenyowcz
+4494,3753,Zomzedwara,Zomzedwara-castrum
+4495,3753,Ztopnyk,Ztopnyk
+4496,3754,Zomzedwara,Zomzedwara-castrum cum pertinentiis
+4497,3755,Zomzedwara excepta Jakowlya,Zomzedwara-castrum cum pertinentiis (excepta Jakowlya)
+4498,3756,Zomzedwara,Zomzedwara-cum pertinentiis
+4499,3757,Zomzewdwar,Zomzewdwar cum pertinentiis
+4500,3758,Zopya,Zopya
+4501,3759,Zotezka,Zotezka
+4502,3760,Zotezka,Zotezka
+4503,3760,Orehowycza,Orehowycza
+4504,3760,Graberye,Graberye
+4505,3760,Bwssyn,Bwssyn
+4506,3761,Zotheska,Zotheska
+4507,3761,Orehowycza,Orehowycza
+4508,3761,Graberye,Graberye
+4509,3761,Bwssyn,Bwssyn
+4510,3762,Zothezka,Zothezka
+4511,3763,Zothezka,Zothezka
+4512,3763,Orehowycza Graberye,Orehowycza Graberye
+4513,3763,Bwssyn,Bwssyn
+4514,3764,Zotyzka,Zotyzka
+4515,3765,Zrachyncz,Zrachyncz
+4516,3766,Zredistha,Zredistha
+4517,3767,Zrednawecz,Zrednawecz
+4518,3768,Zrednyawcz,Zrednyawcz
+4519,3769,Zrednyawez,Zrednyawez
+4520,3770,Zredysche,Zredysche
+4521,3771,Zredyscze,Zredyscze
+4522,3772,Zrepychak- insula,Zrepychak- insula
+4523,3773,Zrepychar,Zrepychar
+4524,3774,Zrepychar Insula,Zrepychar Insula
+4525,3775,Zrepychar-insula,Zrepychar-insula
+4526,3776,Zrewsowcz,Zrewsowcz
+4527,3777,Zromercz,Zromercz
+4528,3778,Zrwkowcz,Zrwkowcz
+4529,3779,Ztanowcz,Ztanowcz
+4530,3780,Ztare Chyche,Ztare Chyche
+4531,3781,Ztare Chychye,Ztare Chychye
+4532,3782,Zthalnykowcz,Zthalnykowcz
+4533,3783,Zthankowo ad Okych,Zthankowo ad Okych
+4534,3784,Zthankowo ad Okych,Zthankowo-judicatus ad Okych
+4535,3785,Zthara,Zthara
+4536,3786,Zthare Chiche,Zthare Chiche
+4537,3787,Zthare Chychae,Zthare Chychae
+4538,3788,Zthare Chyche,Zthare Chyche
+4539,3789,Zthare Chychye,Zthare Chychye
+4540,3790,Ztharsa,Ztharsa
+4541,3791,Zthassinowczy,Zthassinowczy
+4542,3792,Zthawethichy,Zthawethichy
+4543,3793,Zthermecz,Zthermecz
+4544,3794,Zthobycza,Zthobycza
+4545,3795,Ztholnycoucz,Ztholnycoucz
+4546,3796,Zthopnychky Werh,Zthopnychky Werh
+4547,3797,Zthrebynzky Werh,Zthrebynzky Werh
+4548,3798,Zthrelcha Szela,Zthrelcha Szela
+4549,3799,Zthrelchazela,Zthrelchazela
+4550,3800,Zthrelechko,Zthrelechko
+4551,3801,Zthrunga,Zthrunga
+4552,3802,Zthrwgha,Zthrwgha
+4553,3803,Zthwbycza,Zthwbycza
+4554,3804,Zthwpnik,Zthwpnik
+4555,3805,Zthwpnych-ad Zomzedwara,Zthwpnych-ad Zomzedwara
+4556,3806,Zthwpnyk,Zthwpnyk
+4557,3807,Ztolnykowcz,Ztolnykowcz
+4558,3808,Ztopnychky Werh,Ztopnychky Werh
+4559,3809,Ztopnychkywerh,Ztopnychkywerh
+4560,3810,Ztrelcha Zela,Ztrelcha Zela
+4561,3811,Ztrelchazela,Ztrelchazela
+4562,3812,Ztrelechko,Ztrelechko
+4563,3813,Ztreza,Ztreza
+4564,3814,Ztruga,Ztruga
+4565,3815,Ztrwga ad Zenth Gergwara,Ztrwga ad Zenth Gergwara
+4566,3816,Ztrwgha,Ztrwgha
+4567,3817,Ztubicza,Ztubicza Superior
+4568,3818,Zudoucz,Zudoucz
+4569,3819,Zudowcz,Zudowcz
+4570,3820,Zuha Mlacha,Zuha Mlacha
+4571,3821,Zuha Mlaka,Zuha Mlaka
+4572,3822,Zuhamlacha,Zuhamlacha
+4573,3823,Zuhodol,Zuhodol
+4574,3824,Zuhodol,Zuhodol
+4575,3825,Zwchowcz,Zwchowcz
+4576,3826,Zwdowchez,Zwdowchez
+4577,3826,Wynarcz,Wynarcz
+4578,3827,Zwdowcz,Zwdowcz
+4579,3828,Zwha Mlaka,Zwha Mlaka
+4580,3829,Zwhamlaka,Zwhamlaka
+4581,3830,Zwhodol,Zwhodol
+4582,3831,Zwhodol,Zwhodol
+4583,3832,Zwhodol,Zwhodol
+4584,3833,Zwinarcz,Zwinarcz
+4585,3834,Zwmzedwar,Zwmzedwar cum pertinentiis
+4586,3835,Zwmzedwara,Zwmzedwara cum pertinentiis
+4587,3836,Zwpya,Zwpya
+4588,3837,Zwsycha,Zwsycha
+4589,3838,Zwsycza ad Zenth Gergwara,Zwsycza ad Zenth Gergwara
+4590,3839,Zwsycze,Zwsycze
+4591,3840,Zwthezka,Zwthezka
+4592,3841,Zwybowcz,Zwybowcz
+4593,3842,Zwynarcz,Zwynarcz
+4594,3843,Zwynaricz,Zwynaricz
+4595,3844,Zwzicha,Zwzicha
+4596,3845,Zygeth,Zygeth
+4597,3846,Zylag,Zylag
+4598,3847,Zylag Zenth Gergh,Zylag Zenth Gergh
+4599,3848,Zylag-wayvodatus,Zylag-wayvodatus
+4600,3849,Zylagh,Zylagh
+4601,3850,Zylagh Zenthgyergh,Zylagh Zenthgyergh
+4602,3851,Zylagh-waywodatus,Zylagh-waywodatus
+4603,3852,Zylagh-waywodatus ad Valpo,Zylagh-waywodatus inferior ad castrum Valpo
+4604,3853,Zylagh-waywodatus ad Walpho,Zylagh-waywodatus superior ad castrum Walpho
+4605,3854,Zyrch,Zyrch
+4606,3855,Zyrch,Zyrch
+4607,3855,Podgorye,Podgorye
+4608,3856,Zyskan,Zyskan
+4609,3857,Zystan,Zystan
+4610,3858,Zysthyan,Zysthyan
+4611,3859,Zythecz,Zythecz
+4612,3860,Zyzek,Zyzek
+4613,3861,Zyzek,Zyzek-castrum
+4614,3862,Zyzek,Zyzek-castrum cum pertinentiis
+4615,3863,Zyzek,Zyzek-castrum
+4616,3863,Superiori,Superiori
+4617,3863,Inferiori,Inferiori provincia
+4618,3864,Zyzek,Zyzek-castrum
+4619,3865,Zyzek castri,Zyzek-provincia castri
+4620,3866,Zyzsthan,Zyzsthan

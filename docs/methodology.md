@@ -94,12 +94,12 @@ the places and the number/density of their selišta, intended to be generated
 from the database on user-defined criteria. (Toponym reconstruction draws on
 resources of the Institute for the Croatian Language and Linguistics.)
 
-## Known limitation carried into this repo
+## Multi-toponym cells (point 5)
 
-Per point 5, a single `place_historical` cell can contain **several toponyms**
-(e.g. `Zelina, Bwkowcz`, or `Zomzedwara-castrum / Judicati Ztenyowcz, Ztopnyk,
-Nowak…`). The place authority (`06_place_authority.py`) groups spelling variants
-but does **not** split a multi-toponym cell into separate searchable places, so
-a per-toponym search — which the compilers' own web system supports — is not yet
-reproduced here. Splitting these into a place-mention table is a candidate next
-step.
+A single `place_historical` cell can contain **several toponyms** (e.g.
+`Zelina, Bwkowcz`, or `Zomzedwara-castrum / Judicati Ztenyowcz, Ztopnyk,
+Nowak…`). `10_place_mentions.py` splits each cell into its component toponyms
+and writes the `place_mentions` table, so a toponym is findable whether it was
+recorded alone or grouped — reproducing the per-toponym search the compilers'
+own web system supports (`SELECT place_id FROM place_mentions WHERE toponym
+LIKE …`). The raw fragment is kept in `source_fragment`.

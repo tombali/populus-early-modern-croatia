@@ -95,3 +95,12 @@ Coordinate cache produced by `pipeline/08_geocode.py` (OSM Nominatim, Croatia).
 - `08_geocode.py` never re-queries a name already present (except rows whose
   `source` is `error`, which it retries), so manual rows are preserved.
 - To force a re-geocode of one name, delete its row and re-run `08_geocode.py`.
+
+## `person_overrides.csv`
+
+Overrides the automatic person name-normalisation
+(`pipeline/09_person_authority.py`). Columns: `person_id`, `group_key`,
+`canonical`. Persons sharing a `group_key` get the same `normalized_name`; use
+it to merge spelling variants that fold differently (e.g. a dropped vowel), or
+to set a preferred canonical spelling. Auto-merging is exact-fold only, so this
+is where cross-fold family-name merges go.

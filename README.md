@@ -48,11 +48,18 @@ Excel file is faithful to the data from the book, but hard to compute on: severa
 facts into one cell, values are untyped and inconsistently spelled, the
 geographic hierarchy repeats on every row, and there are no stable identifiers.
 
-**Coverage:** ~29 census campaigns, **1495-1596** · **11,792 entries** · 4
-counties · ~3,900 raw places (≈1,800 after variant merging) · ~4,250 taxpayers ·
-tax types *dica* (land tax) and *dimnica* (hearth tax). Each entry records a
-holder's parcel/estate in a place in one campaign, with counts of taxable and
-abandoned *selišta* (serf-plots / hearths; Lat. *porta*, *fumus*).
+**Coverage:**
+
+- ~29 census campaigns, **1495-1596**
+- **11,792 entries**
+- 4 counties
+- ~3,900 raw places (≈1,800 after variant merging)
+- ~4,250 taxpayers
+- tax types *dica* (land tax) and *dimnica* (hearth tax)
+
+Each entry records a holder's parcel/estate in a place in one campaign, with
+counts of taxable and abandoned *selišta* (serf-plots / hearths; Lat. *porta*,
+*fumus*).
 
 The original sheet is **11,814 rows × 15 columns** (the 15th column is empty),
 one row per taxpayer holding. The columns, in Croatian, were:
@@ -189,9 +196,10 @@ campaign/county/district/place/person foreign keys, `settlement_type`,
 `abandoned_selista` (+`abandoned_status`), and `inferred` (see below).
 
 **Dimensions / lookups:** `census_campaigns`, `counties`, `judicial_districts`,
-`places`, `persons`, `settlement_types`, `status_codes`, `title_codes`,
-`institution_codes`, plus the variant-reconciliation tables `place_authority`
-and `place_crosswalk`.
+`places`, `persons` (with `normalized_name`), `settlement_types`,
+`status_codes`, `title_codes`, `institution_codes`, plus the
+variant-reconciliation tables `place_authority` and `place_crosswalk`, and
+`place_mentions` (one row per toponym named in a place cell).
 
 **Views:**
 - `v_entries_full` - fully denormalised entries (raw values **and** the
@@ -218,6 +226,8 @@ pipeline/
   06_place_authority.py place variant reconciliation -> authority + crosswalk
                         (also fills lat/lon from the geocode cache)
   07_code_authority.py  code-list canonicalisation (adds `canonical` columns)
+  09_person_authority.py  fill persons.normalized_name (name variant merging)
+  10_place_mentions.py  split multi-toponym cells -> place_mentions table
   08_geocode.py         geocode modern_place via OSM Nominatim (network; optional,
                         cached; NOT in run_all)
   05_load_sqlite.py     apply db/schema.sql, load all CSVs, FK check
@@ -238,9 +248,9 @@ pipeline/       the ETL steps (stdlib-only; xlrd for the one read step)
 data/raw/       verbatim CSV dump of the .xls (+ source_row)
 data/interim/   cleaned rows, parse_issues.csv, code_merge_suggestions.csv
 data/clean/     one CSV per schema table (the CSV source of truth)
-data/manual/    curation inputs: place_overrides, code_overrides, geocode_cache
+data/manual/    curation inputs: place/code/person_overrides, geocode_cache
 db/schema.sql   star-schema DDL, indexes, analysis views
-db/tax_lists.sqlite   built database (gitignored; rebuild any time)
+db/tax_lists.sqlite   built database (committed; also rebuildable any time)
 docs/           data dictionary + methodology/codebook
 ```
 
@@ -294,6 +304,15 @@ SELECT COUNT(*) FROM v_entries_full WHERE inferred = 0;
 SELECT place_canonical, place_modern, lat, lon, SUM(taxable_selista) AS selista
 FROM v_entries_authority WHERE year = 1517 AND lat IS NOT NULL
 GROUP BY authority_id ORDER BY selista DESC;
+
+-- A family's holdings, spelling variants of the name merged
+SELECT person_normalized, SUM(taxable_selista) AS selista
+FROM v_entries_full WHERE person_normalized = 'Alapy' GROUP BY person_normalized;
+
+-- Toponym-level search: every place cell naming this toponym (alone or grouped)
+SELECT DISTINCT p.historical_name
+FROM place_mentions m JOIN places p ON p.place_id = m.place_id
+WHERE m.toponym LIKE '%Thewkowcz%';
 ```
 
 ## Curating the merges
@@ -320,13 +339,15 @@ and worked examples, then re-run `python pipeline/run_all.py`.
   identification (~1,200) or names Nominatim missed (~46, listed in
   `data/manual/geocode_cache.csv` with an empty `lat` for hand-filling; a few
   are pinned by hand with `source=manual`, e.g. Dolac = hist. Opatovina abbey).
-- **Person authority** - still open: ~531 groups of the same person spelled
-  differently. The place/code technique applies directly and would populate the
-  reserved `persons.normalized_name`. Widow/heir identification (compilers'
-  notes 7-8) needs archival research and can't be automated.
-- **Multi-toponym cells** - one `place_historical` can list several toponyms
-  (compilers' note 5); splitting them into a per-mention table would enable the
-  toponym-level search the compilers' own site supports.
+- **Person authority** - done: `persons.normalized_name` merges spelling
+  variants of a name (4,252 persons -> 3,565 normalized; 532 names had
+  variants), exposed as `person_normalized` in `v_entries_full`. This normalises
+  the *name*; disambiguating widows/heirs (compilers' notes 7-8) still needs
+  archival research and can't be automated.
+- **Multi-toponym cells** - done: `place_mentions` splits cells that name
+  several toponyms (compilers' note 5) into one row per toponym (4,620 mentions;
+  602 cells named >1), enabling the toponym-level search the compilers' own site
+  supports.
 - **Judge-name / provincia / abandoned_status variants** - minor (7 / 2 / 3
   groups); the same fold technique would reconcile them if wanted.
 - **Un-glossed code terms** - most `institution_codes.english` entries are still

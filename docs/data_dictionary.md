@@ -63,6 +63,7 @@ only explicitly-attested rows.
 | `institution_codes` | code list | `code`, `english`, `canonical`, `needs_review` |
 | `place_authority` | canonical place (variant-merged) | `authority_id`, `canonical_name`, `modern_place`, `county_id`, `n_variants`, `n_entries`, `method`, `needs_review`, `lat`, `lon` |
 | `place_crosswalk` | raw place → authority | `place_id`, `authority_id`, `method`, `needs_review` |
+| `place_mentions` | one toponym named in a place cell | `mention_id`, `place_id`, `toponym`, `source_fragment` |
 
 **Views**: `v_entries_full` (denormalised entries for export/charting);
 `v_burden_by_county_year` (taxable & abandoned selišta by county × year ×
@@ -142,8 +143,15 @@ step 2.
 - **Place orthography** *is* reconciled via `place_authority` /
   `place_crosswalk` (see above) — group by `authority_id` or
   `place_canonical` to aggregate a toponym across its spelling variants.
-  **Person** orthography is *not* yet merged (`Chapalowcz` / `Chapolowcz`);
-  `persons.normalized_name` is the intended home for that future pass.
+- **Person orthography** *is* reconciled via `persons.normalized_name`
+  (`09_person_authority.py`, exact-fold of the full name + optional
+  `data/manual/person_overrides.csv`); group by `person_normalized` in
+  `v_entries_full`. This normalises the *name*, not the *person* — true
+  disambiguation of widows/heirs (notes 7-8) needs archival research.
+- **Multi-toponym cells**: `place_mentions` splits a `place_historical` that
+  names several toponyms (note 5) into one row per toponym, so a name is
+  searchable whether recorded alone or grouped (`SELECT place_id FROM
+  place_mentions WHERE toponym LIKE …`). `source_fragment` keeps the raw piece.
 - **Geocoding deferred**: `places.lat` / `lon` are present but null; ~1,844
   places lack a modern identification (see `validate.py` report).
 - **Inferred values**: the compilers' `*` marker (an editorially inferred
@@ -152,9 +160,6 @@ step 2.
 - **Year anomalies**: all 23 census years the compilers list as processed are
   present; two extra single-row years (`1578`, `1675`) are not in that list and
   are flagged by `validate.py` as likely typos (kept verbatim).
-- **Multi-toponym cells**: one `place_historical` may list several toponyms
-  (e.g. `Zelina, Bwkowcz`); variant merging groups spellings but does not split
-  these into separate searchable places — see `docs/methodology.md`.
 - **Parse issues** (currently 1: a folio-only annotation with no year) are
   logged to `data/interim/parse_issues.csv` — never silently dropped.
 - County glosses fixed one malformed source value (`Zagrebčka` → Zagreb);

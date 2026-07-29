@@ -39,6 +39,8 @@ LOAD_ORDER = [
     ("place_crosswalk", "place_crosswalk.csv",
      ["place_id", "historical_name", "county_id", "authority_id",
       "method", "needs_review"]),
+    ("place_mentions", "place_mentions.csv",
+     ["mention_id", "place_id", "toponym", "source_fragment"]),
     ("tax_entries", "tax_entries.csv", None),  # None -> use CSV header order
 ]
 

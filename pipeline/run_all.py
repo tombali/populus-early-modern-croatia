@@ -8,6 +8,7 @@ import sys
 STEPS = [
     "01_extract", "02_clean_split", "03_build_dimensions",
     "04_build_fact", "06_place_authority", "07_code_authority",
+    "09_person_authority", "10_place_mentions",
     "05_load_sqlite", "validate",
 ]
 

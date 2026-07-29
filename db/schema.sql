@@ -6,6 +6,7 @@ DROP VIEW  IF EXISTS v_entries_authority;
 DROP VIEW  IF EXISTS v_places_needing_review;
 DROP VIEW  IF EXISTS v_entries_full;
 DROP VIEW  IF EXISTS v_burden_by_county_year;
+DROP TABLE IF EXISTS place_mentions;
 DROP TABLE IF EXISTS place_crosswalk;
 DROP TABLE IF EXISTS place_authority;
 DROP TABLE IF EXISTS tax_entries;
@@ -119,6 +120,17 @@ CREATE TABLE place_crosswalk (
 );
 CREATE INDEX ix_crosswalk_authority ON place_crosswalk(authority_id);
 
+-- One row per toponym named in a place cell, so a toponym is findable whether
+-- it was recorded alone or grouped with others (compilers' note 5).
+CREATE TABLE place_mentions (
+    mention_id      INTEGER PRIMARY KEY,
+    place_id        INTEGER REFERENCES places(place_id),
+    toponym         TEXT NOT NULL,   -- bare toponym (qualifiers stripped)
+    source_fragment TEXT             -- the raw comma/slash fragment it came from
+);
+CREATE INDEX ix_mentions_place   ON place_mentions(place_id);
+CREATE INDEX ix_mentions_toponym ON place_mentions(toponym);
+
 CREATE INDEX ix_entries_campaign ON tax_entries(campaign_id);
 CREATE INDEX ix_entries_county   ON tax_entries(county_id);
 CREATE INDEX ix_entries_place    ON tax_entries(place_id);
@@ -134,7 +146,7 @@ SELECT e.entry_id, e.source_row,
        e.provincia, d.judge_name,
        p.historical_name AS place, e.settlement_type,
        p.modern_place, p.modern_uncertain,
-       pe.first_name, pe.surname,
+       pe.first_name, pe.surname, pe.normalized_name AS person_normalized,
        e.family_status,      sc.canonical AS family_status_canonical,
        e.title,              tc.canonical AS title_canonical,
        e.institution_office, ic.canonical AS institution_canonical,
