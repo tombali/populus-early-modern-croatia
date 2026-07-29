@@ -23,11 +23,12 @@ from collections import Counter, defaultdict
 from difflib import SequenceMatcher
 
 from authority_lib import UnionFind, fold, vowel_skeleton
-from common import CLEAN_DIR, ROOT, ensure_dirs
+from common import CLEAN_DIR, ROOT, ensure_dirs, geocode_query
 
 PLACES_CSV = os.path.join(CLEAN_DIR, "places.csv")
 ENTRIES_CSV = os.path.join(CLEAN_DIR, "tax_entries.csv")
 OVERRIDES_CSV = os.path.join(ROOT, "data", "manual", "place_overrides.csv")
+GEOCODE_CACHE = os.path.join(ROOT, "data", "manual", "geocode_cache.csv")
 AUTHORITY_CSV = os.path.join(CLEAN_DIR, "place_authority.csv")
 CROSSWALK_CSV = os.path.join(CLEAN_DIR, "place_crosswalk.csv")
 
@@ -65,10 +66,23 @@ def load_overrides():
     return pid_group, group_meta
 
 
+def load_geocode_cache():
+    """query string -> (lat, lon) from the geocode cache, if it exists."""
+    if not os.path.exists(GEOCODE_CACHE):
+        return {}
+    out = {}
+    with open(GEOCODE_CACHE, encoding="utf-8") as fh:
+        for r in csv.DictReader(fh):
+            if r.get("lat") and r.get("lon"):
+                out[r["query"]] = (r["lat"], r["lon"])
+    return out
+
+
 def main():
     ensure_dirs()
     places = load_places()
     counts = entry_counts()
+    geocode = load_geocode_cache()
     for p in places:
         p["fold"] = fold(p["historical_name"])
         p["n_entries"] = counts.get(p["place_id"], 0)
@@ -196,9 +210,11 @@ def main():
             method = "orthographic-fuzzy"
         needs_review = 1 if (method == "orthographic-fuzzy" or conflict) else 0
 
+        lat, lon = geocode.get(geocode_query(modern), ("", ""))
+
         auth_rows.append([aid, canonical_name, modern, cid, len(members),
                           sum(m["n_entries"] for m in members), method,
-                          needs_review])
+                          needs_review, lat, lon])
         for m in members:
             cross_rows.append([m["place_id"], m["historical_name"], cid, aid,
                                method, needs_review])
@@ -210,7 +226,7 @@ def main():
         w = csv.writer(fh)
         w.writerow(["authority_id", "canonical_name", "modern_place",
                     "county_id", "n_variants", "n_entries", "method",
-                    "needs_review"])
+                    "needs_review", "lat", "lon"])
         w.writerows(auth_rows)
     with open(CROSSWALK_CSV, "w", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)
@@ -220,8 +236,10 @@ def main():
 
     merged = sum(1 for r in auth_rows if r[4] > 1)
     review = sum(1 for r in auth_rows if r[7] == 1)
+    geocoded = sum(1 for r in auth_rows if r[8])
     print(f"  place_authority.csv: {len(auth_rows)} authorities "
-          f"({merged} group >1 spelling; {review} need review)")
+          f"({merged} group >1 spelling; {review} need review; "
+          f"{geocoded} geocoded)")
     print(f"  place_crosswalk.csv: {len(cross_rows)} places -> authorities")
     print(f"  collapsed {len(places)} raw places into {len(auth_rows)} "
           f"({len(places) - len(auth_rows)} variant rows merged)")

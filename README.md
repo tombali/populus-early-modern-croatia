@@ -4,6 +4,17 @@ Structured, analysis-ready version of the tax censuses published in Ivan Kampuš
 & Josip Adamček, *Popisi i obračuni poreza u Hrvatskoj u XV. i XVI. stoljeću*
 (tax censuses and accounts of Croatia, 15th-16th c.).
 
+This repo turns the Excel transcription of the data in the book into a clean, typed, normalised **star schema** - a
+`tax_entries` fact table plus dimension/lookup tables - delivered as UTF-8 CSVs
+(the source of truth) and a built **SQLite** database, produced by a
+reproducible, **pure-Python** pipeline. Nothing from the source is discarded:
+every cleaned row keeps its original Excel row number, and raw spellings are
+preserved alongside the merged/canonical forms used for analysis.
+
+---
+
+## Credits
+
 The original Excel transcription comes from the **Department of Croatian
 History / demography section, Faculty of Humanities and Social Sciences,
 University of Zagreb (FFZG)**:
@@ -22,14 +33,6 @@ The transcription was carried out within:
   <http://zprojekti.mzos.hr/Home_hr.htm>);
 - the compulsory course *"Hrvatska povijest u ranom novom vijeku"*, Odsjek za
   povijest, Filozofski fakultet u Zagrebu.
-
-
-This repo turns the results of this project into a clean, typed, normalised **star schema** - a
-`tax_entries` fact table plus dimension/lookup tables - delivered as UTF-8 CSVs
-(the source of truth) and a built **SQLite** database, produced by a
-reproducible, **pure-Python** pipeline. Nothing from the source is discarded:
-every cleaned row keeps its original Excel row number, and raw spellings are
-preserved alongside the merged/canonical forms used for analysis.
 
 ---
 
@@ -190,7 +193,8 @@ and `place_crosswalk`.
 **Views:**
 - `v_entries_full` - fully denormalised entries (raw values **and** the
   `*_canonical` code columns) for export/charting;
-- `v_entries_authority` - entries with the variant-merged canonical place;
+- `v_entries_authority` - entries with the variant-merged canonical place and
+  its geocoded `lat`/`lon`;
 - `v_burden_by_county_year` - taxable & abandoned selišta by county × year × type;
 - `v_places_needing_review` - low-confidence place groups awaiting confirmation.
 
@@ -211,10 +215,13 @@ pipeline/
   03_build_dimensions.py  dedupe into dimension/lookup tables + surrogate keys
   04_build_fact.py      assemble tax_entries with foreign keys
   06_place_authority.py place variant reconciliation -> authority + crosswalk
+                        (also fills lat/lon from the geocode cache)
   07_code_authority.py  code-list canonicalisation (adds `canonical` columns)
+  08_geocode.py         geocode modern_place via OSM Nominatim (network; optional,
+                        cached; NOT in run_all)
   05_load_sqlite.py     apply db/schema.sql, load all CSVs, FK check
   validate.py           reconcile counts/sums, FK + coverage checks, report
-  run_all.py            run the whole chain in order
+  run_all.py            run the whole chain in order (01-04, 06, 07, 05, validate)
 ```
 
 Every transform is traceable to the source via `source_row`, and validation
@@ -230,7 +237,7 @@ pipeline/       the ETL steps (stdlib-only; xlrd for the one read step)
 data/raw/       verbatim CSV dump of the .xls (+ source_row)
 data/interim/   cleaned rows, parse_issues.csv, code_merge_suggestions.csv
 data/clean/     one CSV per schema table (the CSV source of truth)
-data/manual/    human curation inputs (place_overrides.csv, code_overrides.csv)
+data/manual/    curation inputs: place_overrides, code_overrides, geocode_cache
 db/schema.sql   star-schema DDL, indexes, analysis views
 db/tax_lists.sqlite   built database (gitignored; rebuild any time)
 docs/           data dictionary + methodology/codebook
@@ -281,6 +288,11 @@ SELECT code, canonical FROM institution_codes WHERE needs_review = 1;
 
 -- Strict analysis: exclude editorially-inferred (*) rows
 SELECT COUNT(*) FROM v_entries_full WHERE inferred = 0;
+
+-- Mapping: taxable selišta per geocoded location in 1517
+SELECT place_canonical, place_modern, lat, lon, SUM(taxable_selista) AS selista
+FROM v_entries_authority WHERE year = 1517 AND lat IS NOT NULL
+GROUP BY authority_id ORDER BY selista DESC;
 ```
 
 ## Curating the merges
@@ -297,9 +309,12 @@ and worked examples, then re-run `python pipeline/run_all.py`.
 
 ## Known limitations & next steps
 
-- **Geocoding** - `places.lat` / `lon` exist but are null; ~1,844 places lack a
-  modern identification. `place_authority.modern_place` deduplicates the target
-  list to ~1,800 places to geocode for mapping.
+- **Geocoding** - done: `place_authority.lat` / `lon` are filled from
+  `modern_place` via OSM Nominatim (`08_geocode.py`). 531 of 605 authorities
+  with a modern name are located, making **7,230 of 11,792 entries (61%)
+  mappable** via `v_entries_authority`. The remaining gaps are authorities with
+  no modern identification (~1,200) or names Nominatim missed (~46, listed in
+  `data/manual/geocode_cache.csv` with an empty `lat` for hand-filling).
 - **Person authority** - still open: ~531 groups of the same person spelled
   differently. The place/code technique applies directly and would populate the
   reserved `persons.normalized_name`. Widow/heir identification (compilers'

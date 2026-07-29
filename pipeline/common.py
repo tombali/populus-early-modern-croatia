@@ -69,3 +69,17 @@ def norm_ws(s):
 
 def blank(s):
     return norm_ws(s) == ""
+
+
+def geocode_query(modern):
+    """Normalise a `modern_place` value into a geocoder query string.
+
+    Takes the first toponym of a compound value and drops the '?' uncertainty
+    marker. Returns "" when there is nothing to geocode.
+    """
+    m = norm_ws(modern)
+    if not m or m == "?":
+        return ""
+    m = m.split(",")[0].strip()          # first toponym of a compound value
+    m = re.sub(r"\s*\([^)]*\)", "", m)    # drop qualifiers like "(INF.)"
+    return m.rstrip("?").strip()

@@ -112,6 +112,12 @@ def main():
                         "WHERE needs_review = 1").fetchone()[0]
     print(f"  place authorities: {n_auth} (from {n_places} raw places; "
           f"{n_rev} need review — see v_places_needing_review)")
+    with_modern = cur.execute("SELECT COUNT(*) FROM place_authority "
+                              "WHERE modern_place <> ''").fetchone()[0]
+    geocoded = cur.execute("SELECT COUNT(*) FROM place_authority "
+                           "WHERE lat IS NOT NULL").fetchone()[0]
+    print(f"  geocoded authorities: {geocoded} of {with_modern} with a "
+          f"modern name (run pipeline/08_geocode.py to fill more)")
     for tbl in ("counties", "census_campaigns", "judicial_districts",
                 "places", "persons", "tax_entries"):
         n = cur.execute(f"SELECT COUNT(*) FROM {tbl}").fetchone()[0]

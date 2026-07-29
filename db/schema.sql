@@ -45,9 +45,8 @@ CREATE TABLE places (
     historical_name  TEXT NOT NULL,   -- toponym as spelled in the source
     county_id        INTEGER REFERENCES counties(county_id),
     modern_place     TEXT,            -- present-day identification (may be empty)
-    modern_uncertain INTEGER,         -- 1 if the identification is marked '?'
-    lat              REAL,            -- reserved for a later geocoding phase
-    lon              REAL
+    modern_uncertain INTEGER          -- 1 if the identification is marked '?'
+    -- coordinates live on place_authority (the deduplicated grain)
 );
 
 CREATE TABLE persons (
@@ -105,7 +104,9 @@ CREATE TABLE place_authority (
     n_variants     INTEGER,            -- distinct raw place rows in this group
     n_entries      INTEGER,            -- tax entries falling under this place
     method         TEXT,               -- how the group was formed
-    needs_review   INTEGER             -- 1 = fuzzy/conflicting, confirm by hand
+    needs_review   INTEGER,            -- 1 = fuzzy/conflicting, confirm by hand
+    lat            REAL,               -- geocoded from modern_place (OSM/Nominatim)
+    lon            REAL
 );
 
 CREATE TABLE place_crosswalk (
@@ -170,6 +171,7 @@ SELECT e.entry_id, e.source_row,
        pa.authority_id,
        pa.canonical_name AS place_canonical,
        pa.modern_place   AS place_modern,
+       pa.lat, pa.lon,
        p.historical_name AS place_historical,
        e.settlement_type,
        e.taxable_selista, e.abandoned_selista

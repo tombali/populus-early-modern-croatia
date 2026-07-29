@@ -55,13 +55,13 @@ only explicitly-attested rows.
 | `census_campaigns` | year × tax_type (× note) | `year`, `year_circa`, `year_note`, `tax_type` |
 | `counties` | county | `name_hr`, `comitatus_latin` |
 | `judicial_districts` | judge within a county | `judge_name`, `county_id` |
-| `places` | toponym within a county | `historical_name`, `county_id`, `modern_place`, `modern_uncertain`, `lat`, `lon` |
+| `places` | toponym within a county | `historical_name`, `county_id`, `modern_place`, `modern_uncertain` |
 | `persons` | first name + surname | `first_name`, `surname`, `normalized_name` |
 | `settlement_types` | code list | `code`, `latin`, `english` |
 | `status_codes` | code list | `code`, `english`, `canonical`, `needs_review` |
 | `title_codes` | code list | `code`, `english`, `canonical`, `needs_review` |
 | `institution_codes` | code list | `code`, `english`, `canonical`, `needs_review` |
-| `place_authority` | canonical place (variant-merged) | `authority_id`, `canonical_name`, `modern_place`, `county_id`, `n_variants`, `n_entries`, `method`, `needs_review` |
+| `place_authority` | canonical place (variant-merged) | `authority_id`, `canonical_name`, `modern_place`, `county_id`, `n_variants`, `n_entries`, `method`, `needs_review`, `lat`, `lon` |
 | `place_crosswalk` | raw place → authority | `place_id`, `authority_id`, `method`, `needs_review` |
 
 **Views**: `v_entries_full` (denormalised entries for export/charting);
@@ -90,6 +90,18 @@ formed; `needs_review = 1` marks fuzzy or conflicting groups to curate via the
 override file (see `data/manual/README.md`). Example: `Zalathnok`, `Zlathnok`
 and `Zalathnak` now share one authority, so the town's selišta form a single
 series across 1507/1513/1517.
+
+### Geocoding
+
+`place_authority.lat` / `lon` hold coordinates geocoded from `modern_place`
+(via OpenStreetMap Nominatim, restricted to Croatia). Because coordinates are a
+property of the modern identification, they live on the deduplicated authority,
+not on each raw spelling — `places` no longer carries `lat`/`lon`. The
+`v_entries_authority` view exposes `lat`/`lon` per entry for mapping. Run
+`pipeline/08_geocode.py` (a network step, not part of `run_all`) to build/refresh
+the cache `data/manual/geocode_cache.csv`; `06_place_authority.py` then reads
+that cache. The cache is hand-editable — set a row's `source` to `manual` to pin
+a correction, or add a row for a name Nominatim missed.
 
 ## Code-list canonicalisation (variant reconciliation for controlled vocab)
 

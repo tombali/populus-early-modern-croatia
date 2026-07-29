@@ -83,3 +83,15 @@ institution_codes,Nobiles Campi Zagrabiensis,nobiles-campi-zagrabiensis,Turopolj
 institution_codes,Nobiles campi,nobiles-campi-zagrabiensis,Turopoljska plemenita općina (Nobiles Campi Zagrabiensis)
 institution_codes,Nobiles campi Zagrabiensis,nobiles-campi-zagrabiensis,Turopoljska plemenita općina (Nobiles Campi Zagrabiensis)
 ```
+
+## `geocode_cache.csv`
+
+Coordinate cache produced by `pipeline/08_geocode.py` (OSM Nominatim, Croatia).
+`06_place_authority.py` reads it to fill `place_authority.lat` / `lon`. Columns:
+`query`, `lat`, `lon`, `display_name`, `source`.
+
+- A row with empty `lat` is a name Nominatim could not match — **fill `lat`/`lon`
+  by hand and set `source` to `manual`** to pin it.
+- `08_geocode.py` never re-queries a name already present (except rows whose
+  `source` is `error`, which it retries), so manual rows are preserved.
+- To force a re-geocode of one name, delete its row and re-run `08_geocode.py`.

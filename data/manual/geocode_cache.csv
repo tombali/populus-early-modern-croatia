@@ -1,0 +1,360 @@
+query,lat,lon,display_name,source
+ADAMOVEC,45.9044495,16.1633161,"Adamovec, Grad Zagreb, 10363, Hrvatska",nominatim
+AUGUSTANOVEC,45.4748574,15.9383109,"Auguštanovec, Općina Pokupsko, Zagrebačka županija, Hrvatska",nominatim
+BABINEC,46.3718386,16.1094420,"Babinec, Općina Cestica, Varaždinska županija, Hrvatska",nominatim
+BABČA,,,,nominatim
+BARTOLOVEC,46.2970896,16.4351454,"Bartolovec, Općina Trnovec Bartolovečki, Varaždinska županija, Hrvatska",nominatim
+BEDENICA,46.0326343,16.2432436,"Općina Bedenica, Zagrebačka županija, 10381, Hrvatska",nominatim
+BEKETINEC,46.0084551,16.4188499,"Beketinec, Grad Križevci, Koprivničko-križevačka županija, Hrvatska",nominatim
+BELA,46.2074177,16.2552179,"Bela, Grad Novi Marof, Varaždinska županija, Hrvatska",nominatim
+BELEC,46.1317740,16.1205009,"Belec, Grad Zlatar, Krapinsko-zagorska županija, 49254, Hrvatska",nominatim
+BELETINEC,46.2220831,16.3110767,"Beletinec, Općina Sveti Ilija, Varaždinska županija, Hrvatska",nominatim
+BELOSLAVEC,46.0350995,16.2204103,"Beloslavec, Općina Bedenica, Zagrebačka županija, Hrvatska",nominatim
+BERETINEC,46.2481631,16.3052152,"Općina Beretinec, Varaždinska županija, 42201, Hrvatska",nominatim
+BERISLAVEC,45.9712828,16.2662788,"Berislavec, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
+BISAG,46.0337432,16.2989057,"Bisag, Općina Breznica, Varaždinska županija, 42226, Hrvatska",nominatim
+BISKUPEC,46.2856962,16.3354777,"Biškupec, Varaždin, Grad Varaždin, Varaždinska županija, 42104, Hrvatska",nominatim
+BISTRA,45.9380767,15.8935939,"Bistra, Općina Jakovlje, Općina Bistra, Zagrebačka županija, Hrvatska",nominatim
+BISTRICA,45.7390940,17.6112844,"Bistrica, Grad Slatina, Virovitičko-podravska županija, Hrvatska",nominatim
+BIŠKUPEC,46.2856962,16.3354777,"Biškupec, Varaždin, Grad Varaždin, Varaždinska županija, 42104, Hrvatska",nominatim
+BLAGUŠA,45.9296834,16.1304378,"Blaguša, Grad Zagreb, Hrvatska",nominatim
+BLATNICA,45.8303048,16.7396647,"Blatnica, Općina Štefanje, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+BLIZNEC,45.8678872,15.9789103,"Bliznec, Mjesni odbor Gračani, Gradska četvrt Podsljeme, Zagreb, Grad Zagreb, 10168, Hrvatska",nominatim
+BOBOVICA,45.8308388,15.7142327,"Bobovica, Grad Samobor, Zagrebačka županija, Hrvatska",nominatim
+BOGAČEVO,46.0856167,16.4332486,"Bogačevo, Općina Sveti Petar Orehovec, Koprivničko-križevačka županija, Hrvatska",nominatim
+BOLČ,45.8823981,16.6723395,"Bolč, Općina Farkaševac, Zagrebačka županija, Hrvatska",nominatim
+BORKOVEC,46.1080568,16.0835029,"Borkovec, Grad Zlatar, Krapinsko-zagorska županija, Hrvatska",nominatim
+BORČEC,45.8344953,15.8842604,"Borčec, Mjesni odbor Perjavica - Borčec, Gradska četvrt Podsused - Vrapče, Zagreb, Grad Zagreb, 10090, Hrvatska",nominatim
+BOTINEC,45.7457131,15.9328470,"Botinec, Mjesni odbor Botinec, Gradska četvrt Novi Zagreb - zapad, Botinec, Grad Zagreb, 10256, Hrvatska",nominatim
+BOŽJAKOVINA,45.8172252,16.2956556,"Božjakovina, Općina Brckovljani, Zagrebačka županija, Hrvatska",nominatim
+BRDOVEC,45.8692724,15.7622811,"Općina Brdovec, Zagrebačka županija, Hrvatska",nominatim
+BREZOVEC,46.5223042,16.3532096,"Brezovec, Općina Sveti Martin na Muri, Međimurska županija, 40313, Hrvatska",nominatim
+BREZOVICA,45.7277707,15.9100676,"Brezovica, Grad Zagreb, Hrvatska",nominatim
+BRKAŠEVINA,,,,nominatim
+BROKUNJEVEC,,,,nominatim
+BROKUNJOVEC,,,,nominatim
+BUDINŠČINA,46.1269062,16.2037628,"Općina Budinšćina, Krapinsko-zagorska županija, 49284, Hrvatska",nominatim
+BUKOVEC,46.4818726,16.3508274,"Bukovec, Općina Selnica, Međimurska županija, 40314, Hrvatska",nominatim
+BUKOVŠĆAK,45.9055538,15.8017033,"Bukovščak, Pojatno, Grad Zaprešić, Zagrebačka županija, 10492, Hrvatska",nominatim
+BUZIN,45.7498707,15.9953199,"Buzin, Grad Zagreb, 10175, Hrvatska",nominatim
+CERJE,45.7781010,15.6937521,"Cerje Samoborsko, Grad Samobor, Zagrebačka županija, Hrvatska",nominatim
+CERKOVEC,,,,nominatim
+CESARGRAD,46.0601275,15.7222748,"Cesargrad, D205, Mihanovićev Dol, Grad Klanjec, Krapinsko-zagorska županija, 49290, Hrvatska",nominatim
+CIGLENICA,45.5561235,16.9372757,"Ciglenica, Grad Garešnica, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+CIRKVENA,45.9351219,16.6580807,"Cirkvena, Općina Sveti Ivan Žabno, Koprivničko-križevačka županija, 48213, Hrvatska",nominatim
+CRKVA SV. NIKOLE U POLJANICI BISTRANSKOJ,,,,nominatim
+CVETKOVIĆ,45.6507558,15.6470067,"Cvetković, Grad Jastrebarsko, Zagrebačka županija, Hrvatska",nominatim
+DEMERJE,45.7318815,15.8828849,"Demerje, Grad Zagreb, Hrvatska",nominatim
+DIJANEŠ,45.9028524,16.3558440,"Dijaneš, Grad Vrbovec, Zagrebačka županija, Hrvatska",nominatim
+DIMITROVEC,,,,nominatim
+DOLAJNA,,,,nominatim
+DOMAGOVIĆ,45.6287181,15.6380048,"Domagović, Grad Jastrebarsko, Zagrebačka županija, Hrvatska",nominatim
+DONJA BUKOVICA,45.6856551,17.8071027,"Donja Bukovica, Općina Nova Bukovica, Virovitičko-podravska županija, Hrvatska",nominatim
+DONJA LOMNICA,45.7117085,16.0205866,"Donja Lomnica, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+DONJA STUBICA,45.9801727,15.9722428,"Donja Stubica, Grad Donja Stubica, Krapinsko-zagorska županija, 49240, Hrvatska",nominatim
+DRAGANIĆI,45.6020350,15.5991321,"Draganići, Mjesni odbor Draganići, Općina Draganić, Karlovačka županija, 47201, Hrvatska",nominatim
+DRAGONOŽEC,45.6610681,15.9471656,"Donji Dragonožec, Grad Zagreb, Hrvatska",nominatim
+DRENOVA,45.3525337,14.4297354,"Mjesni odbor Drenova, Rijeka, Grad Rijeka, Primorsko-goranska županija, 51112, Hrvatska",nominatim
+DRUŠKOVEC,46.2567406,16.1494558,"Druškovec, Općina Maruševec, Varaždinska županija, Hrvatska",nominatim
+DRUŽKOVEC,,,,nominatim
+DUBOVEC,46.0227789,16.0303744,"Dubovec, Općina Gornja Stubica, Krapinsko-zagorska županija, Hrvatska",nominatim
+DUBOVICA,46.2880157,16.6916075,"Dubovica, Općina Veliki Bukovec, Varaždinska županija, Hrvatska",nominatim
+DULEPSKA,45.8945450,16.3426353,"Dulepska, Grad Vrbovec, Zagrebačka županija, Hrvatska",nominatim
+DUŽICA,45.5381486,16.2364540,"Dužica, Općina Lekenik, Sisačko-moslavačka županija, Hrvatska",nominatim
+DVORIŠĆE,45.3700258,16.0992962,"Dvorišće, Grad Glina, Sisačko-moslavačka županija, Hrvatska",nominatim
+ERDOVEC,46.0298298,16.4813125,"Erdovec, Grad Križevci, Koprivničko-križevačka županija, Hrvatska",nominatim
+FERKULJEVEC,,,,nominatim
+FODOROVEC,,,,nominatim
+FUKA,45.8834337,16.5273282,"Fuka, Općina Gradec, Zagrebačka županija, Hrvatska",nominatim
+GALGOVO,45.7436947,15.7490376,"Galgovo, Grad Samobor, Zagrebačka županija, Hrvatska",nominatim
+GLAVNICA,45.9394273,16.1427946,"Glavnica Donja, Grad Zagreb, Hrvatska",nominatim
+GLOBOČEC,46.0154688,16.1581992,"Globočec, Općina Marija Bistrica, Krapinsko-zagorska županija, Hrvatska",nominatim
+GLOGOVNICA,45.9671904,16.5272109,"Glogovnica, Koprivničko-križevačka županija, Hrvatska",nominatim
+GOJANEC,46.2859049,16.3029011,"Gojanec, Grad Varaždin, Varaždinska županija, Hrvatska",nominatim
+GORICA,44.3973031,15.1188952,"Gorica, Grad Pag, Zadarska županija, Hrvatska",nominatim
+GORIČANOVEC,46.1816180,15.8121486,"Goričanovec, Općina Đurmanec, Krapinsko-zagorska županija, Hrvatska",nominatim
+GORNJA BISTRA,45.9198183,15.8986398,"Gornja Bistra, Općina Bistra, Zagrebačka županija, Hrvatska",nominatim
+GORNJA BUKOVICA,,,,nominatim
+GORNJA STUBICA,45.9749888,16.0175181,"Općina Gornja Stubica, Krapinsko-zagorska županija, 49245, Hrvatska",nominatim
+GOSTOVIĆ,45.9283718,16.4445035,"Gostović, Grad Vrbovec, Zagrebačka županija, Hrvatska",nominatim
+GOTALOVEC,46.1566949,16.2192725,"Gotalovec, Općina Budinšćina, Krapinsko-zagorska županija, Hrvatska",nominatim
+GRABE,46.0747054,16.0078977,"Grabe, Općina Bedekovčina, Krapinsko-zagorska županija, Hrvatska",nominatim
+GRABRIĆ,45.9008124,16.5057456,"Grabrić, Općina Gradec, Zagrebačka županija, Hrvatska",nominatim
+GRADAC,43.1064526,17.3416928,"Općina Gradac, Splitsko-dalmatinska županija, Hrvatska",nominatim
+GRADEC,45.9128930,16.4773933,"Općina Gradec, Zagrebačka županija, 10345, Hrvatska",nominatim
+GRADNA,45.8231264,15.7332226,"Gradna, Grad Samobor, Zagrebačka županija, Hrvatska",nominatim
+GRAČANI,45.8586811,15.9731665,"Mjesni odbor Gračani, Gradska četvrt Podsljeme, Zagreb, Grad Zagreb, Hrvatska",nominatim
+GRAČINA,45.9750918,16.5665995,"Gračina, Grad Križevci, Koprivničko-križevačka županija, Hrvatska",nominatim
+GREBEN,45.1302063,14.2924830,"Greben, Grad Cres, Primorsko-goranska županija, Hrvatska",nominatim
+GREGUROVEC,46.0614896,15.8556754,"Gregurovec, Općina Krapinske Toplice, Krapinsko-zagorska županija, Hrvatska",nominatim
+GRIČ,45.8162301,15.9735992,"Mjesni odbor Gornji grad, Gradska četvrt Gornji grad - Medveščak, Zagreb, Grad Zagreb, 10103, Hrvatska",nominatim
+GUBAŠEVO,46.0198728,15.8656988,"Gubaševo, Grad Zabok, Krapinsko-zagorska županija, Hrvatska",nominatim
+GUŠĆEROVEC,46.0539835,16.4846780,"Guščerovec, Općina Sveti Petar Orehovec, Koprivničko-križevačka županija, Hrvatska",nominatim
+HAGANJ,45.9147515,16.5787186,"Haganj, Općina Gradec, Zagrebačka županija, Hrvatska",nominatim
+HRAŠTJE,45.9782359,16.2688640,"Hrastje, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
+HRAŠĆE,45.9370898,16.1716894,"Hrašće, Mjesni odbor Moravče, Gradska četvrt Sesvete, Moravče, Grad Zagreb, 10363, Hrvatska",nominatim
+HRELIĆ,45.7618846,16.0038669,"Mjesni odbor Hrelić, Gradska četvrt Novi Zagreb - istok, Zagreb, Grad Zagreb, Hrvatska",nominatim
+HRUŠEVAC,,,,nominatim
+HUDI BITEK,45.7097190,15.8958866,"Hudi Bitek, Grad Zagreb, Hrvatska",nominatim
+HUM,45.3485260,14.0503632,"Hum, Grad Buzet, Istarska županija, Hrvatska",nominatim
+IMBRIOVEC,46.2563933,16.8216410,"Imbriovec, Općina Đelekovec, Koprivničko-križevačka županija, Hrvatska",nominatim
+IVANEC,46.2239676,16.1244407,"Grad Ivanec, Varaždinska županija, Hrvatska",nominatim
+JAKOPOVEC,46.2456352,16.4116646,"Jakopovec, Općina Jalžabet, Varaždinska županija, Hrvatska",nominatim
+JAKOVLJE,45.9403945,15.8462367,"Općina Jakovlje, Zagrebačka županija, 10297, Hrvatska",nominatim
+JAKUŠEVEC,45.7605543,16.0162815,"Mjesni odbor Jakuševec, Gradska četvrt Novi Zagreb - istok, Zagreb, Grad Zagreb, Hrvatska",nominatim
+JALŠEVEC,45.8746122,16.0800529,"Jalševec, Mjesni odbor Branovec - Jalševec, Gradska četvrt Gornja Dubrava, Zagreb, Grad Zagreb, 20040, Hrvatska",nominatim
+JAMNICA,45.6561266,15.6505097,"Jamnica, Donja Jaska, Jastrebarsko, Grad Jastrebarsko, Zagrebačka županija, Hrvatska",nominatim
+JAREBIĆ,,,,nominatim
+JASTREBARSKO,45.6716565,15.6503928,"Jastrebarsko, Grad Jastrebarsko, Zagrebačka županija, 10450, Hrvatska",nominatim
+JESENOVEC,45.9191269,16.1428838,"Jesenovec, Grad Zagreb, Hrvatska",nominatim
+JEŽDOVEC,45.7766808,15.8460330,"Ježdovec, Grad Zagreb, Hrvatska",nominatim
+JURKETINEC,46.2829955,16.2184004,"Jurketinec, Općina Maruševec, Varaždinska županija, Hrvatska",nominatim
+KABEL,45.8380099,16.0553609,"NK Dubrava Tim Kabel, Dankovečka ulica, Dubrava, Mjesni odbor Klaka, Gradska četvrt Gornja Dubrava, Zagreb, Grad Zagreb, 10141, Hrvatska",nominatim
+KALNIK,46.1278483,16.4642668,"Općina Kalnik, Koprivničko-križevačka županija, 48269, Hrvatska",nominatim
+KAMEŠNICA,46.1259242,16.5030959,"Kamešnica, Općina Kalnik, Koprivničko-križevačka županija, Hrvatska",nominatim
+KAPELA,45.9880567,16.8516581,"Općina Kapela, Bjelovarsko-bilogorska županija, 43203, Hrvatska",nominatim
+KAPTOL,45.4312007,17.7251014,"Općina Kaptol, Požeško-slavonska županija, 34334, Hrvatska",nominatim
+KARLOVEC,45.4892522,15.5486303,"Karlovac, Grad Karlovac, Karlovačka županija, Hrvatska",nominatim
+KAŠINA,45.9096473,16.1244822,"Kašina, Grad Zagreb, Hrvatska",nominatim
+KLADJE,45.7783575,15.7327973,"Kladje, Grad Samobor, Zagrebačka županija, Hrvatska",nominatim
+KLENOVEC,45.7820481,15.7736792,"Klenovec, Jagnjić Dol, Grad Sveta Nedelja, Zagrebačka županija, 10431, Hrvatska",nominatim
+KLINČA SELA,45.6922436,15.7435946,"Općina Klinča Sela, Zagrebačka županija, 10452, Hrvatska",nominatim
+KLJUKA,,,,nominatim
+KLOKOČEVEC,45.8336653,15.7024738,"Klokočevec Samoborski, Grad Samobor, Zagrebačka županija, Hrvatska",nominatim
+KNEGINEC,46.2519229,16.3752355,"Općina Gornji Kneginec, Varaždinska županija, 42204, Hrvatska",nominatim
+KOBILIĆ,45.7319711,16.1012819,"Kobilić, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+KOLEDINEC,46.2390102,16.7698452,"Koledinec, Općina Rasinja, Koprivničko-križevačka županija, Hrvatska",nominatim
+KOMOR,46.1052820,16.0122757,"Veliki Komor, Općina Mače, Krapinsko-zagorska županija, Hrvatska",nominatim
+KONJŠĆICA,,,,nominatim
+KOPRIVNICA,46.1623335,16.8307909,"Grad Koprivnica, Koprivničko-križevačka županija, Hrvatska",nominatim
+KOPČEVEC,45.8039982,16.2147302,"Kopčevec, Grad Dugo Selo, Zagrebačka županija, Hrvatska",nominatim
+KORENJAK,46.2854423,16.1595849,"Korenjak, Općina Maruševec, Varaždinska županija, Hrvatska",nominatim
+KOSNICA,45.7439644,16.1187277,"Kosnica, Črnkovec, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+KOSTANJEVAC,45.7002048,15.4713202,"Kostanjevac, Općina Žumberak, Zagrebačka županija, Hrvatska",nominatim
+KOSTANJEVEC,45.6439992,15.9912865,"Kostanjevec, Grad Velika Gorica, Zagrebačka županija, 10412, Hrvatska",nominatim
+KOSTEL,46.1839785,15.7256223,"Kostel, Grad Pregrada, Krapinsko-zagorska županija, Hrvatska",nominatim
+KOZINŠĆAK,45.8148367,16.2605310,"Kozinščak, Grad Dugo Selo, Zagrebačka županija, Hrvatska",nominatim
+KOŠKOVEC,46.2506981,16.1643217,"Koškovec, Općina Maruševec, Varaždinska županija, Hrvatska",nominatim
+KRALJEVEC,45.8319118,15.9678189,"Mjesni odbor Kraljevec, Gradska četvrt Gornji grad - Medveščak, Zagreb, Grad Zagreb, Hrvatska",nominatim
+KRAPINA,46.1640284,15.8700586,"Krapina, Grad Krapina, Krapinsko-zagorska županija, 49000, Hrvatska",nominatim
+KRAVARSKO,45.5859672,16.0477669,"Kravarsko, Općina Kravarsko, Zagrebačka županija, Hrvatska",nominatim
+KRAŠIĆ,45.6540864,15.5174579,"Krašić, Općina Krašić, Zagrebačka županija, Hrvatska",nominatim
+KRIŽ,45.6632061,16.5204571,"Općina Križ, Zagrebačka županija, Hrvatska",nominatim
+KRIŽANEC,46.2435784,16.3467678,"Križanec, Općina Sveti Ilija, Varaždinska županija, Hrvatska",nominatim
+KRIŽEVCI,46.0247391,16.5457794,"Grad Križevci, Koprivničko-križevačka županija, Hrvatska",nominatim
+KRIŽEVCI (INF.),,,,nominatim
+KRIŽEVCI (SUP.),,,,nominatim
+KRIŽOVLJAN,46.2644305,16.5559503,"Križovljan, Općina Martijanec, Varaždinska županija, Hrvatska",nominatim
+KUPINOVEC,,,,nominatim
+KUPČINA,45.6180244,15.5953926,"Kupčina, Zagrebačka županija, Hrvatska",nominatim
+KURILOVEC,45.7022546,16.0717133,"Gradska četvrt Kurilovec, Velika Gorica, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+KUTNJAK,46.2717025,16.7807856,"Kutnjak, Općina Legrad, Koprivničko-križevačka županija, Hrvatska",nominatim
+KUZMINEC,46.1577353,15.9628378,"Kuzminec, Općina Mihovljan, Krapinsko-zagorska županija, Hrvatska",nominatim
+KUĆE,45.6761398,16.1423026,"Kuče, Grad Velika Gorica, Zagrebačka županija, 10419, Hrvatska",nominatim
+KUČAN,46.2894984,16.3709440,"Kućan Marof, Grad Varaždin, Varaždinska županija, Hrvatska",nominatim
+KUČE,45.6761398,16.1423026,"Kuče, Grad Velika Gorica, Zagrebačka županija, 10419, Hrvatska",nominatim
+LADISLAVEC,46.1086074,16.0627954,"Ladislavec, Grad Zlatar, Krapinsko-zagorska županija, Hrvatska",nominatim
+LADOMER,,,,nominatim
+LAZINA,45.6056115,15.6190051,"Lazina, Mjesni odbor Lazina - Franjetići, Općina Draganić, Karlovačka županija, 47201, Hrvatska",nominatim
+LAŠKA VES,,,,nominatim
+LEKENIK,45.5842704,16.2106191,"Općina Lekenik, Sisačko-moslavačka županija, Hrvatska",nominatim
+LEKENIK. LUKAVEC,,,,nominatim
+LEPA VES,46.0101068,15.9920646,"Lepa Ves, Grad Donja Stubica, Krapinsko-zagorska županija, Hrvatska",nominatim
+LEPOGLAVA,46.2075318,16.0441744,"Grad Lepoglava, Varaždinska županija, Hrvatska",nominatim
+LETOVANIĆ,45.5078202,16.1989220,"Letovanić, Općina Lekenik, Sisačko-moslavačka županija, Hrvatska",nominatim
+LIKAVEC,,,,nominatim
+LIPOVEC,46.0529847,16.1323970,"Lipovec, Općina Zlatar Bistrica, Krapinsko-zagorska županija, Hrvatska",nominatim
+LJUBLJANICA,45.5576710,16.3991548,"Ljubljanica, Općina Martinska Ves, Sisačko-moslavačka županija, Hrvatska",nominatim
+LOBOR,46.1505926,16.0654152,"Općina Lobor, Krapinsko-zagorska županija, 49253, Hrvatska",nominatim
+LOMNICA,45.7073993,15.9074807,"Lomnica, Hudi Bitek, Grad Zagreb, Hrvatska",nominatim
+LOVREČINA,43.3693151,16.6653110,"Lovrečina, Postira, Općina Postira, Splitsko-dalmatinska županija, Hrvatska",nominatim
+LUBINOVEC,,,,nominatim
+LUDBREG,46.2495239,16.6180913,"Ludbreg, Grad Ludbreg, Varaždinska županija, 42230, Hrvatska",nominatim
+LUKA,45.9592451,15.8204098,"Općina Luka, Zagrebačka županija, Hrvatska",nominatim
+LUKAVEC,45.7011134,15.9936241,"Lukavec, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+LUKAVEC. OBREŽ,,,,nominatim
+LUPOGLAV,45.3535500,14.1063185,"Općina Lupoglav, Istarska županija, Hrvatska",nominatim
+LUČELNICA,45.5936967,15.9245536,"Lučelnica, Općina Pisarovina, Zagrebačka županija, Hrvatska",nominatim
+MAJKOVEC,45.8787779,16.2805576,"Majkovec, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
+MALA MLAKA,45.7289925,15.9772101,"Mala Mlaka, Grad Zagreb, Hrvatska",nominatim
+MALI TABOR,46.2146835,15.6777004,"Mali Tabor, Općina Hum na Sutli, Krapinsko-zagorska županija, Hrvatska",nominatim
+MARIGUTIĆ,46.1061764,16.1700226,"Marigutić, Općina Budinšćina, Krapinsko-zagorska županija, Hrvatska",nominatim
+MARKOVAC,45.2924168,13.7117218,"Markovac, Općina Višnjan, Istarska županija, Hrvatska",nominatim
+MARKUŠEVEC,45.8758347,16.0148138,"Mjesni odbor Markuševec, Gradska četvrt Podsljeme, Zagreb, Grad Zagreb, 10166, Hrvatska",nominatim
+MARTIANEC,,,,nominatim
+MARTINEC,45.5301703,15.4268930,"Martinec, Završje Netretićko, Općina Netretić, Karlovačka županija, 47271, Hrvatska",nominatim
+MARTINEC (OREHOVIČKI),46.0891232,15.9626404,"Martinec Orehovički, Općina Bedekovčina, Krapinsko-zagorska županija, Hrvatska",nominatim
+MARTINKI,,,,nominatim
+MARTINSKA VES,45.5864252,16.3708155,"Općina Martinska Ves, Sisačko-moslavačka županija, 44201, Hrvatska",nominatim
+MARUŠEVEC,46.2807993,16.1839860,"Općina Maruševec, Varaždinska županija, 42243, Hrvatska",nominatim
+MARČAN,46.3313541,16.1505918,"Marčan, Općina Vinica, Varaždinska županija, Hrvatska",nominatim
+MEDVEDGRAD,45.8695479,15.9408864,"Medvedgrad, Wild Boar, Mjesni odbor Medvedgrad, Gradska četvrt Črnomerec, Zagreb, Grad Zagreb, 10168, Hrvatska",nominatim
+MERENJE,45.9547190,15.7855215,"Merenje, Grad Zaprešić, Zagrebačka županija, Hrvatska",nominatim
+MEĐA,46.0505204,16.4656877,"Međa, Općina Sveti Petar Orehovec, Koprivničko-križevačka županija, Hrvatska",nominatim
+MIHOLEC,46.0545405,16.4462061,"Miholec, Općina Sveti Petar Orehovec, Koprivničko-križevačka županija, 48267, Hrvatska",nominatim
+MIHOLJEC,,,,nominatim
+MIKOVEC,46.0879775,16.4765791,"Mikovec, Općina Sveti Petar Orehovec, Koprivničko-križevačka županija, Hrvatska",nominatim
+MIKULIĆI,42.4810173,18.4106355,"Mikulići, Općina Konavle, Dubrovačko-neretvanska županija, Hrvatska",nominatim
+MIRKOVEC,46.0540852,15.9325918,"Mirkovec, Općina Sveti Križ Začretje, Krapinsko-zagorska županija, Hrvatska",nominatim
+MIČEVEC,45.7529444,16.0531946,"Mičevec, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+MLAKA,45.3351968,14.4188247,"Mjesni odbor Mlaka, Rijeka, Grad Rijeka, Primorsko-goranska županija, Hrvatska",nominatim
+MOLVICE,45.7688258,15.7544397,"Molvice, Grad Samobor, Zagrebačka županija, Hrvatska",nominatim
+MRACLIN,45.6667778,16.0967312,"Mraclin, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+NEDELJANEC,46.2890570,16.2912974,"Nedeljanec, Općina Vidovec, Varaždinska županija, Hrvatska",nominatim
+NESPEŠ,45.9445742,16.2007596,"Nespeš, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
+NOVAKI,45.7968280,15.8022318,"Novaki, Grad Sveta Nedelja, Zagrebačka županija, Hrvatska",nominatim
+NOVE ČIČE,45.7033996,16.1271734,"Novo Čiče, Croatia, Posavska, Novo Čiče, Grad Velika Gorica, Zagrebačka županija, 10415, Hrvatska",nominatim
+NOVIGRAD,45.3159178,13.5630277,"Grad Novigrad, Istarska županija, Hrvatska",nominatim
+NOVO MJESTO,45.9534304,16.2891326,"Novo Mjesto, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
+OBEDIŠĆE,45.6346535,16.5520264,"Obedišće, Općina Križ, Zagrebačka županija, Hrvatska",nominatim
+OBREŠKA,45.7852319,16.4522465,"Donja Obreška, Općina Kloštar Ivanić, Zagrebačka županija, Hrvatska",nominatim
+OBREŽ,46.1182956,16.4352972,"Obrež Kalnički, Općina Kalnik, Koprivničko-križevačka županija, 48269, Hrvatska",nominatim
+ODRA,45.6053445,16.2654025,"Odra, Zagrebačka županija, Hrvatska",nominatim
+OKIĆ,45.3690370,15.6615393,"Okić, Grad Karlovac, Karlovačka županija, Hrvatska",nominatim
+OPATIJA,45.3349238,14.3067834,"Grad Opatija, Primorsko-goranska županija, Hrvatska",nominatim
+OPATINEC,45.7172645,16.3718025,"Opatinec, Grad Ivanić-Grad, Zagrebačka županija, Hrvatska",nominatim
+OPATOVEC,,,,nominatim
+OPOROVEC,46.3299822,16.6746218,"Oporovec, Grad Prelog, Međimurska županija, Hrvatska",nominatim
+OREHOVEC,46.1838164,16.3763679,"Orehovec, Grad Novi Marof, Varaždinska županija, Hrvatska",nominatim
+OREHOVEC SVETI PETAR,46.0721813,16.4613862,"Orehovec, Općina Sveti Petar Orehovec, Koprivničko-križevačka županija, Hrvatska",nominatim
+OREHOVICA,46.3321970,16.5063245,"Orehovica, Općina Orehovica, Međimurska županija, 40322, Hrvatska",nominatim
+OSTRNA,45.7941141,16.2711123,"Ostrna, Zagrebačka ulica, Velika Ostrna, Grad Dugo Selo, Zagrebačka županija, 10370, Hrvatska",nominatim
+OTOK,43.6873300,16.7335077,"Općina Otok, Splitsko-dalmatinska županija, 21241, Hrvatska",nominatim
+OZALJ,45.6126311,15.4778880,"Grad Ozalj, Karlovačka županija, Hrvatska",nominatim
+OŠTRC,45.7454594,15.3141054,"Oštrc, Grad Ozalj, Karlovačka županija, 47285, Hrvatska",nominatim
+PARUŽEVAC,45.8283122,16.4817638,"Paruževac, Općina Dubrava, Zagrebačka županija, Hrvatska",nominatim
+PETROVINA,45.6748118,15.5791240,"Petrovina, Grad Jastrebarsko, Zagrebačka županija, Hrvatska",nominatim
+PETRUŠEVEC,46.1213711,16.1387745,"Petruševec, Grad Zlatar, Krapinsko-zagorska županija, Hrvatska",nominatim
+PEŠĆENICA,45.6030434,16.1662285,"Pešćenica, Općina Lekenik, Sisačko-moslavačka županija, Hrvatska",nominatim
+PLANINA,45.4687226,14.5666655,"Planina, Gerovo, Grad Čabar, Primorsko-goranska županija, Hrvatska",nominatim
+PLESO,45.7402719,16.0722475,"Zračna luka Franjo Tuđman, Zobecova ulica, Gradska četvrt Rakarje, Velika Gorica, Grad Velika Gorica, Zagrebačka županija, 10150, Hrvatska",nominatim
+PODBREŽJE,45.6285366,15.5003741,"Podbrežje, Grad Ozalj, Karlovačka županija, Hrvatska",nominatim
+PODGORJA,,,,nominatim
+PODJALES,45.9374572,16.4907554,"Podjales, Općina Gradec, Zagrebačka županija, Hrvatska",nominatim
+PODOTOČJE,45.6820159,16.1310759,"Podotočje, Gornje Podotočje, Grad Velika Gorica, Zagrebačka županija, 10419, Hrvatska",nominatim
+POGANČEC,45.9410419,16.3898555,"Pogančec, Općina Preseka, Zagrebačka županija, Hrvatska",nominatim
+POKUPSKO,45.4852572,15.9919061,"Pokupsko, Općina Pokupsko, Zagrebačka županija, Hrvatska",nominatim
+POLJANA,45.4684931,16.9812043,"Poljana, Grad Lipik, Požeško-slavonska županija, 34543, Hrvatska",nominatim
+POLJE (KOD KRIŽA),,,,nominatim
+POMNEROVAC,,,,nominatim
+POTOK,45.3320652,14.4301942,"Mjesni odbor Potok, Rijeka, Grad Rijeka, Primorsko-goranska županija, Hrvatska",nominatim
+PRAŠČEVAC,45.9195895,16.6499108,"Prašćevac, Općina Farkaševac, Zagrebačka županija, 10344, Hrvatska",nominatim
+PREPUŠTOVEC,45.8969236,16.1337767,"Prepuštovec, Grad Zagreb, Hrvatska",nominatim
+PRESEKA,45.9754150,16.3872226,"Općina Preseka, Zagrebačka županija, Hrvatska",nominatim
+PRESEČNO,46.1964754,16.3469746,"Presečno, Grad Novi Marof, Varaždinska županija, Hrvatska",nominatim
+PREČEC,45.7614497,16.3527958,"Prečec, Općina Brckovljani, Zagrebačka županija, Hrvatska",nominatim
+PRIGORJE,46.1805003,15.7940169,"Prigorje, Općina Đurmanec, Krapinsko-zagorska županija, Hrvatska",nominatim
+PSARJEVO,45.9434583,16.2203369,"Donje Psarjevo, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
+PUŠĆA,46.1173864,15.6364471,"Pušća, Općina Zagorska Sela, Krapinsko-zagorska županija, Hrvatska",nominatim
+RAKARJE,45.7260048,16.0869098,"Gradska četvrt Rakarje, Velika Gorica, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+RAKITNICA,45.9986947,16.9155433,"Rakitnica, Općina Virje, Koprivničko-križevačka županija, Hrvatska",nominatim
+RAKITOVEC,45.6579460,16.1409029,"Rakitovec, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+RAKOVAC,45.7518357,15.4326348,"Rakovac, Žumberak, Općina Žumberak, Zagrebačka županija, 10457, Hrvatska",nominatim
+RAKOVEC,45.9317159,16.3179738,"Općina Rakovec, Zagrebačka županija, Hrvatska",nominatim
+RASINJA,46.1879999,16.7085329,"Rasinja, Općina Rasinja, Koprivničko-križevačka županija, Hrvatska",nominatim
+RASTOKI,45.6894353,15.5702461,"Rastoki, Grad Jastrebarsko, Zagrebačka županija, Hrvatska",nominatim
+RATKOVEC,46.1181671,16.0847006,"Ratkovec, Grad Zlatar, Krapinsko-zagorska županija, Hrvatska",nominatim
+RAVEN,45.4271449,13.9295329,"Marsgnach; Raven, Abrami, Baredine, Grad Buzet, Istarska županija, Hrvatska",nominatim
+REMETE,45.8516459,15.9901070,"Mjesni odbor Remete, Gradska četvrt Maksimir, Zagreb, Grad Zagreb, Hrvatska",nominatim
+REMETINEC,45.7661187,15.9387099,"Mjesni odbor Remetinec, Gradska četvrt Novi Zagreb - zapad, Zagreb, Grad Zagreb, Hrvatska",nominatim
+REPINEC,45.9520875,16.4941822,"Repinec, Općina Gradec, Zagrebačka županija, Hrvatska",nominatim
+REČICA,45.5082501,15.6617627,"Rečica, Grad Karlovac, Karlovačka županija, Hrvatska",nominatim
+RIJEKA,45.3267976,14.4422080,"Grad Rijeka, Primorsko-goranska županija, Hrvatska",nominatim
+ROŽENICA,45.5438055,16.0095091,"Roženica, Općina Pokupsko, Zagrebačka županija, Hrvatska",nominatim
+SAMOBOR,45.8018625,15.7097105,"Grad Samobor, Zagrebačka županija, Hrvatska",nominatim
+SELA,45.5084333,16.3019739,"Sela, Grad Sisak, Sisačko-moslavačka županija, Hrvatska",nominatim
+SELNICA,46.4939735,16.3982282,"Općina Selnica, Međimurska županija, 40314, Hrvatska",nominatim
+SEMOVEC,46.3008848,16.4777174,"Šemovec, Općina Trnovec Bartolovečki, Varaždinska županija, Hrvatska",nominatim
+SENKOVČICA,,,,nominatim
+SETUŠ,45.5489811,16.3950122,"Setuš, Općina Martinska Ves, Sisačko-moslavačka županija, Hrvatska",nominatim
+SISAK,45.4891750,16.3746041,"Grad Sisak, Sisačko-moslavačka županija, Hrvatska",nominatim
+SLANOVEC,45.8798808,16.0381993,"Slanovec, Mjesni odbor Dankovec, Gradska četvrt Gornja Dubrava, Zagreb, Grad Zagreb, 10166, Hrvatska",nominatim
+SLAVETIĆ,45.7017725,15.5398413,"Slavetić, Grad Jastrebarsko, Zagrebačka županija, Hrvatska",nominatim
+SRAČINEC,46.3322794,16.2719433,"Općina Sračinec, Varaždinska županija, 42209, Hrvatska",nominatim
+STARA KAPELA,45.8909545,16.6063210,"Stara Kapela, Općina Dubrava, Zagrebačka županija, Hrvatska",nominatim
+STARO ČIĆE,45.6925414,16.1179872,"Staro Čiče, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+STENJEVEC,45.8025481,15.8857775,"Gradska četvrt Stenjevec, Zagreb, Grad Zagreb, Hrvatska",nominatim
+STRELEČKO,45.5191373,16.3933400,"Strelečko, Općina Martinska Ves, Sisačko-moslavačka županija, Hrvatska",nominatim
+STUBICA,45.3854647,15.1023887,"Stubica, Grad Vrbovsko, Primorsko-goranska županija, Hrvatska",nominatim
+STUPNIK,45.7465555,15.8434018,"Općina Stupnik, Zagrebačka županija, 10255, Hrvatska",nominatim
+SUDOVEC,46.1058330,16.3630500,"Sudovec, Grad Novi Marof, Varaždinska županija, Hrvatska",nominatim
+SUDOVEC I VINAREC,,,,nominatim
+SUSEDGRAD,45.8209845,15.8307946,"Susedgrad, Staza 1, Mjesni odbor Podsused, Gradska četvrt Podsused - Vrapče, Zagreb, Grad Zagreb, 10172, Hrvatska",nominatim
+SV. IVAN,42.6399785,18.1123794,"Sv. Ivan, Od Pustijerne, Grad, Gradski kotar Grad, Dubrovnik, Grad Dubrovnik, Dubrovačko-neretvanska županija, 20108, Hrvatska",nominatim
+SV. KLARA,43.6031718,16.7035445,"Sv. Klara, 67042, Rakičani, Vojnić Sinjski, Grad Trilj, Splitsko-dalmatinska županija, Hrvatska",nominatim
+SV. MARTIN,43.4782366,16.5702532,"Podstrana – Sv. Martin, Općina Podstrana, Splitsko-dalmatinska županija, Hrvatska",nominatim
+SV. NEDJELJA,45.2220020,15.2378622,"Sv. Nedjelja, 34133, Dujmići, Ribarići, Grad Ogulin, Karlovačka županija, 47302, Hrvatska",nominatim
+SV. ĐURĐ,,,,nominatim
+SVETA HELENA,45.9028307,16.2628026,"Sveta Helena, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
+SVETI IVAN ŽABNO,45.9464805,16.6055861,"Sveti Ivan Žabno, Općina Sveti Ivan Žabno, Koprivničko-križevačka županija, Hrvatska",nominatim
+SVETI PETAR ČVRSNEC,,,,nominatim
+SVINJAREC,45.8022580,16.5670104,"Svinjarec, Općina Dubrava, Zagrebačka županija, Hrvatska",nominatim
+TABOR,45.3110585,14.5361021,"Tabor, Bakar, Grad Bakar, Primorsko-goranska županija, 51222, Hrvatska",nominatim
+TKALEC,46.0268307,16.2991847,"Tkalec, Općina Breznica, Varaždinska županija, Hrvatska",nominatim
+TOPLICA,45.2943011,15.9707037,"Općina Topusko, Sisačko-moslavačka županija, 44415, Hrvatska",nominatim
+TRAKOŠĆAN,46.2589761,15.9482046,"Trakošćan, Općina Bednja, Varaždinska županija, Hrvatska",nominatim
+TRNOVEC,46.3824617,16.3111314,"Trnovec, Općina Nedelišće, Međimurska županija, Hrvatska",nominatim
+TURKOVČINA,46.0440084,16.2455029,"Turkovčina, Općina Bedenica, Zagrebačka županija, Hrvatska",nominatim
+TUČENIK,45.9372472,16.5434988,"Tučenik, Općina Gradec, Zagrebačka županija, Hrvatska",nominatim
+VARAŽDIN,46.3079645,16.3378198,"Grad Varaždin, Varaždinska županija, Hrvatska",nominatim
+VELEŠOVEC,,,,nominatim
+VELIKA,45.4435462,17.6650333,"Općina Velika, Požeško-slavonska županija, Hrvatska",nominatim
+VELIKA MLAKA,45.7359614,16.0300097,"Velika Mlaka, Grad Velika Gorica, Zagrebačka županija, 10408, Hrvatska",nominatim
+VELIKI TABOR,46.1546586,15.6513664,"Veliki Tabor, 22005, Hum Košnički, Općina Desinić, Krapinsko-zagorska županija, 49216, Hrvatska",nominatim
+VIDOVEC,46.2863481,16.2504203,"Općina Vidovec, Varaždinska županija, 42205, Hrvatska",nominatim
+VINAREC,46.1005165,16.4466304,"Vinarec, Općina Sveti Petar Orehovec, Koprivničko-križevačka županija, Hrvatska",nominatim
+VINARI,45.7483221,16.4167433,"Vinari, Kloštar Ivanić, Općina Kloštar Ivanić, Zagrebačka županija, 10312, Hrvatska",nominatim
+VINICA,46.3399991,16.1525126,"Općina Vinica, Varaždinska županija, 42207, Hrvatska",nominatim
+VINIČNO,46.0780080,16.3007264,"Vinično, Općina Visoko, Varaždinska županija, Hrvatska",nominatim
+VINO,43.3570417,16.9517319,"Vino, Ulica Zrinsko - Frankopanska, Topići, Baška Voda, Općina Baška Voda, Splitsko-dalmatinska županija, 21320, Hrvatska",nominatim
+VISOKA,43.6892290,16.2165762,"Visoka, Općina Unešić, Šibensko-kninska županija, Hrvatska",nominatim
+VIČA SELA,46.0509367,15.8627553,"Viča Sela, Općina Krapinske Toplice, Krapinsko-zagorska županija, Hrvatska",nominatim
+VOJNOVEC,46.1524947,16.0417153,"Vojnovec Loborski, Općina Lobor, Krapinsko-zagorska županija, Hrvatska",nominatim
+VOLAVJE,45.6550577,15.6058087,"Volavje, Grad Jastrebarsko, Zagrebačka županija, Hrvatska",nominatim
+VRAPČE,45.8129884,15.9062064,"Vrapče, Mjesni odbor Vrapče - centar, Gradska četvrt Podsused - Vrapče, Zagreb, Grad Zagreb, 10090, Hrvatska",nominatim
+VRATEČKO,45.4613653,16.1118753,"Vratečko, Grad Petrinja, Sisačko-moslavačka županija, Hrvatska",nominatim
+VRAŽJI LAZ,,,,nominatim
+VRBOVEC,45.8856479,16.4181159,"Grad Vrbovec, Zagrebačka županija, Hrvatska",nominatim
+VRBOVO,46.0773588,16.2326727,"Vrbovo, Općina Hraščina, Krapinsko-zagorska županija, Hrvatska",nominatim
+VUGROVEC,45.8814373,16.1087226,"Vugrovec, Grad Zagreb, Hrvatska",nominatim
+VUKOMEREC,45.8088928,16.0445355,"Vukomerec, Mjesni odbor Borongaj - Lugovi, Gradska četvrt Peščenica - Žitnjak, Zagreb, Grad Zagreb, 10148, Hrvatska",nominatim
+VUKOVINA,45.6823954,16.1112977,"Vukovina, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+VURNOVEC,45.8886646,16.1366229,"Vurnovec, Grad Zagreb, Hrvatska",nominatim
+ZABLATJE,46.2657692,16.8120279,"Zablatje, Općina Legrad, Koprivničko-križevačka županija, Hrvatska",nominatim
+ZABOK,46.0256860,15.9036337,"Grad Zabok, Krapinsko-zagorska županija, 49210, Hrvatska",nominatim
+ZABRĐE,42.8604287,17.5880590,"Zabrđe, Općina Ston, Dubrovačko-neretvanska županija, Hrvatska",nominatim
+ZADROVEC,,,,nominatim
+ZAJEZDA,46.1556766,16.1900984,"Zajezda, Općina Budinšćina, Krapinsko-zagorska županija, Hrvatska",nominatim
+ZAMERŠJE,,,,nominatim
+ZAMLAČA,45.0891432,16.3839427,"Zamlača, Općina Dvor, Sisačko-moslavačka županija, Hrvatska",nominatim
+ZAPREŠIĆ,45.8572728,15.8050436,"Grad Zaprešić, Zagrebačka županija, Hrvatska",nominatim
+ZAVRŠJE,45.3732316,13.7738441,"Završje, Općina Grožnjan, Istarska županija, Hrvatska",nominatim
+ZBELAVA,46.2817876,16.4037313,"Zbelava, Grad Varaždin, Varaždinska županija, Hrvatska",nominatim
+ZELINA,45.9597901,16.2430942,"Sveti Ivan Zelina, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
+ZLATAR,46.0926454,16.0770763,"Grad Zlatar, Krapinsko-zagorska županija, Hrvatska",nominatim
+ZREPIČAR,,,,nominatim
+ČALINEC,46.2890601,16.1806256,"Čalinec, Općina Maruševec, Varaždinska županija, Hrvatska",nominatim
+ČANJEVO,46.1063890,16.3394440,"Čanjevo, Općina Visoko, Varaždinska županija, Hrvatska",nominatim
+ČAZMA,45.7483719,16.6132008,"Čazma, Grad Čazma, Bjelovarsko-bilogorska županija, 43240, Hrvatska",nominatim
+ČRNKOVEC,45.7506386,16.1197623,"Črnkovec, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+ČRNOMEREC,45.8273818,15.9335542,"Gradska četvrt Črnomerec, Zagreb, Grad Zagreb, Hrvatska",nominatim
+ČUČERJE,45.8935990,16.0595434,"Mjesni odbor Čučerje, Gradska četvrt Gornja Dubrava, Zagreb, Grad Zagreb, Hrvatska",nominatim
+ČVRSNEC,,,,nominatim
+ĐELEKOVEC,46.2506365,16.8637838,"Općina Đelekovec, Koprivničko-križevačka županija, Hrvatska",nominatim
+ŠAŠINOVEC,45.8505596,16.1655408,"Šašinovec, Grad Zagreb, Hrvatska",nominatim
+ŠILJAKOVINA,45.6337476,16.0228458,"Šiljakovina, Grad Velika Gorica, Zagrebačka županija, 10413, Hrvatska",nominatim
+ŠIMUNOVEC,,,,nominatim
+ŠIPAK,44.4054867,15.7685272,"Šipak, Općina Gračac, Zadarska županija, Hrvatska",nominatim
+ŠIŠINEC,45.4502378,16.0791404,"Šišinec, Općina Lekenik, Sisačko-moslavačka županija, Hrvatska",nominatim
+ŠIŠLJAVIĆ,45.5193724,15.7593968,"Šišljavić, Grad Karlovac, Karlovačka županija, Hrvatska",nominatim
+ŠTEFANEC,46.3739803,16.4938973,"Štefanec, Grad Čakovec, Međimurska županija, Hrvatska",nominatim
+ŠUŠOMBERG,,,,nominatim
+ŠUŠOMBERK,,,,nominatim
+ŠĆERBINEC,,,,nominatim
+ŠČITARJEVO,45.7688858,16.1170565,"Šćitarjevo, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+ŽAŽINA,45.5136849,16.2501045,"Žažina, Općina Lekenik, Sisačko-moslavačka županija, 44217, Hrvatska",nominatim
+ŽELIN,45.7024011,16.1323421,"Želin, Novo Čiče, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+ŽERJAVINEC,45.8688625,16.1650186,"Žerjavinec, Grad Zagreb, Hrvatska",nominatim
+ŽITOMIR,46.0171515,16.1966643,"Žitomir, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
+DOLAC,45.3054175,17.5763877,"Dolac, Općina Brestovac, Požeško-slavonska županija, Hrvatska",nominatim
+POLJE,45.0784193,15.6607043,"Polje, Grad Slunj, Karlovačka županija, Hrvatska",nominatim

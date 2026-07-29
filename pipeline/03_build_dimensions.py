@@ -73,10 +73,12 @@ def main():
                   if modern_by_place[k] else "")
         uncertain = "1" if uncertain_by_place[k] else ""
         place_rows.append([place_id[k], k[0], county_id[(k[1], k[2])],
-                           modern, uncertain, "", ""])  # lat, lon deferred
+                           modern, uncertain])
+    # Coordinates live on place_authority (the deduplicated grain), filled by
+    # 06_place_authority.py from the geocode cache — not per raw spelling here.
     write_csv("places.csv",
               ["place_id", "historical_name", "county_id", "modern_place",
-               "modern_uncertain", "lat", "lon"], place_rows)
+               "modern_uncertain"], place_rows)
 
     # --- persons ------------------------------------------------------------
     person_keys = sorted({(r["first_name"], r["surname"]) for r in rows
