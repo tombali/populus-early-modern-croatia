@@ -94,14 +94,20 @@ series across 1507/1513/1517.
 ### Geocoding
 
 `place_authority.lat` / `lon` hold coordinates geocoded from `modern_place`
-(via OpenStreetMap Nominatim, restricted to Croatia). Because coordinates are a
-property of the modern identification, they live on the deduplicated authority,
-not on each raw spelling — `places` no longer carries `lat`/`lon`. The
-`v_entries_authority` view exposes `lat`/`lon` per entry for mapping. Run
-`pipeline/08_geocode.py` (a network step, not part of `run_all`) to build/refresh
-the cache `data/manual/geocode_cache.csv`; `06_place_authority.py` then reads
-that cache. The cache is hand-editable — set a row's `source` to `manual` to pin
-a correction, or add a row for a name Nominatim missed.
+(via OpenStreetMap Nominatim). A match is accepted only if its modern županija
+is one the tax lists cover (`ALLOWED_COUNTIES` in `08_geocode.py`: Grad Zagreb,
+Zagrebačka, Krapinsko-zagorska, Sisačko-moslavačka, Karlovačka, Varaždinska,
+Koprivničko-križevačka, Bjelovarsko-bilogorska, Virovitičko-podravska), which
+rejects same-name places elsewhere in Croatia. Several query variants are tried
+per name to recover compound (`LEKENIK. LUKAVEC`), abbreviated (`SV. ĐURĐ`) and
+parenthetical forms. Because coordinates are a property of the modern
+identification, they live on the deduplicated authority, not on each raw
+spelling — `places` no longer carries `lat`/`lon`. The `v_entries_authority`
+view exposes `lat`/`lon` per entry for mapping. Run `pipeline/08_geocode.py`
+(a network step, not part of `run_all`) to build/refresh the cache
+`data/manual/geocode_cache.csv`; `06_place_authority.py` then reads that cache.
+The cache is hand-editable — set a row's `source` to `manual` to pin a
+correction, or add a row for a name Nominatim missed.
 
 ## Code-list canonicalisation (variant reconciliation for controlled vocab)
 

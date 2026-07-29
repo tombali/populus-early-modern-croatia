@@ -4,12 +4,19 @@ Structured, analysis-ready version of the tax censuses published in Ivan Kampuš
 & Josip Adamček, *Popisi i obračuni poreza u Hrvatskoj u XV. i XVI. stoljeću*
 (tax censuses and accounts of Croatia, 15th-16th c.).
 
-This repo turns the Excel transcription of the data in the book into a clean, typed, normalised **star schema** - a
-`tax_entries` fact table plus dimension/lookup tables - delivered as UTF-8 CSVs
-(the source of truth) and a built **SQLite** database, produced by a
-reproducible, **pure-Python** pipeline. Nothing from the source is discarded:
-every cleaned row keeps its original Excel row number, and raw spellings are
-preserved alongside the merged/canonical forms used for analysis.
+This project turns the Excel transcription of the data from the Adamček and Kampuš book into a
+clean, analysis-ready dataset:
+
+- **Normalised star schema** - a `tax_entries` fact table plus dimension and
+  lookup tables, with typed columns and stable identifiers.
+- **Two delivery formats** - UTF-8 CSVs as the source of truth, plus a built
+  **SQLite** database with ready-made analysis views.
+- **Reproducible, pure-Python pipeline** - one command rebuilds everything;
+  no heavyweight dependencies.
+- **Nothing from the source is discarded** - every cleaned row keeps its
+  original Excel row number for traceability.
+- **Raw spellings preserved** - kept verbatim alongside the merged/canonical
+  forms used for analysis, so fidelity and usability coexist.
 
 ---
 
@@ -310,11 +317,15 @@ and worked examples, then re-run `python pipeline/run_all.py`.
 ## Known limitations & next steps
 
 - **Geocoding** - done: `place_authority.lat` / `lon` are filled from
-  `modern_place` via OSM Nominatim (`08_geocode.py`). 531 of 605 authorities
-  with a modern name are located, making **7,230 of 11,792 entries (61%)
-  mappable** via `v_entries_authority`. The remaining gaps are authorities with
-  no modern identification (~1,200) or names Nominatim missed (~46, listed in
-  `data/manual/geocode_cache.csv` with an empty `lat` for hand-filling).
+  `modern_place` via OSM Nominatim (`08_geocode.py`). Matches are accepted only
+  inside the counties the lists cover (so a same-name place elsewhere in Croatia
+  is rejected, not mis-mapped), and several query variants are tried per name.
+  517 of 605 authorities with a modern name are located, making **7,136 of
+  11,792 entries (60%) mappable** via `v_entries_authority`; all coordinates lie
+  within the covered region. The remaining gaps are authorities with no modern
+  identification (~1,200) or names Nominatim missed (~46, listed in
+  `data/manual/geocode_cache.csv` with an empty `lat` for hand-filling; a few
+  are pinned by hand with `source=manual`, e.g. Dolac = hist. Opatovina abbey).
 - **Person authority** - still open: ~531 groups of the same person spelled
   differently. The place/code technique applies directly and would populate the
   reserved `persons.normalized_name`. Widow/heir identification (compilers'
