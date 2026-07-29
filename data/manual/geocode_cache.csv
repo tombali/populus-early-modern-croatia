@@ -103,6 +103,7 @@ county,query,lat,lon,display_name,source
 1,RAKITNICA,45.8332906,16.6861952,"Rakitnica, Blatnica, Općina Štefanje, Bjelovarsko-bilogorska županija, 43246, Hrvatska",nominatim
 1,RAKOVAC,46.2592379,16.4390278,"Rakovac, Kelemen, Općina Jalžabet, Varaždinska županija, Hrvatska",nominatim
 1,RAKOVEC,46.1746769,16.4228180,"Rakovec, Općina Ljubešćica, Varaždinska županija, Hrvatska",nominatim
+1,Rakovec,45.9333,16.3167,"Rakovec (hist. Rokonok/Rakonok oppidum near Vrbovec), Općina Rakovec, Zagrebačka županija",manual
 1,RASINJA,46.1879999,16.7085329,"Rasinja, Općina Rasinja, Koprivničko-križevačka županija, Hrvatska",nominatim
 1,RAVEN,45.9888598,16.4849942,"Mali Raven, Grad Križevci, Koprivničko-križevačka županija, Hrvatska",nominatim
 1,REMETINEC,45.9270441,16.5534121,"Remetinec, Općina Gradec, Zagrebačka županija, Hrvatska",nominatim
@@ -113,7 +114,7 @@ county,query,lat,lon,display_name,source
 1,STARA KAPELA,45.8909545,16.6063210,"Stara Kapela, Općina Dubrava, Zagrebačka županija, Hrvatska",nominatim
 1,SUDOVEC,46.1058330,16.3630500,"Sudovec, Grad Novi Marof, Varaždinska županija, Hrvatska",nominatim
 1,SUDOVEC I VINAREC,46.1058330,16.3630500,"[via 'SUDOVEC'] Sudovec, Grad Novi Marof, Varaždinska županija, Hrvatska",nominatim
-1,SV. KLARA,,,"(no confident match near Križevci seat; red fallback)",manual
+1,SV. KLARA,,,(no confident match near Križevci seat; red fallback),manual
 1,SV. MARTIN,45.9982709,16.5197248,"[via 'Sveti MARTIN'] Sveti Martin, Grad Križevci, Koprivničko-križevačka županija, Hrvatska",nominatim
 1,SV. ĐURĐ,46.2812323,16.6055042,"[via 'Sveti ĐURĐ'] Općina Sveti Đurđ, Varaždinska županija, Hrvatska",nominatim
 1,SVETI IVAN ŽABNO,45.9464805,16.6055861,"Sveti Ivan Žabno, Općina Sveti Ivan Žabno, Koprivničko-križevačka županija, Hrvatska",nominatim
@@ -269,7 +270,7 @@ county,query,lat,lon,display_name,source
 4,BUKOVŠĆAK,45.9055538,15.8017033,"Bukovščak, Pojatno, Grad Zaprešić, Zagrebačka županija, 10492, Hrvatska",nominatim
 4,BUZIN,45.7498707,15.9953199,"Buzin, Grad Zagreb, 10175, Hrvatska",nominatim
 4,CERJE,45.8296604,16.1914690,"Cerje, Grad Zagreb, Hrvatska",nominatim
-4,CRKVA SV. NIKOLE U POLJANICI BISTRANSKOJ,45.9014815,15.8763222,"Poljanica Bistranska",manual
+4,CRKVA SV. NIKOLE U POLJANICI BISTRANSKOJ,45.9014815,15.8763222,Poljanica Bistranska,manual
 4,CVETKOVIĆ,45.6507558,15.6470067,"Cvetković, Grad Jastrebarsko, Zagrebačka županija, Hrvatska",nominatim
 4,DEMERJE,45.7318815,15.8828849,"Demerje, Grad Zagreb, Hrvatska",nominatim
 4,DOLAC,45.8142928,15.9772391,"Dolac, Zagreb",manual
@@ -435,3 +436,48 @@ county,query,lat,lon,display_name,source
 4,ŽELIN,45.7150002,16.0860883,"Želin, Gradska četvrt Stari grad, Velika Gorica, Grad Velika Gorica, Zagrebačka županija, 10410, Hrvatska",nominatim
 4,ŽERJAVINEC,45.8688625,16.1650186,"Žerjavinec, Grad Zagreb, Hrvatska",nominatim
 4,ŽITOMIR,46.0171515,16.1966643,"Žitomir, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
+1,Botinovec,46.2063162,16.7707449,"Botinovec, Općina Koprivnički Ivanec, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Bradna,46.070511,16.692291,"[map: E near Velika/Mala Branjska] Velika Branjska, Općina Sokolovac, Koprivničko-križevačka županija, Hrvatska",pavles-approx
+1,Brezovica,46.0752302,17.0755450,"Brezovica, Grkine, Grad Đurđevac, Koprivničko-križevačka županija, 48350, Hrvatska",nominatim
+1,Buščinec,45.882398,16.672339,"[approx: kraj Bolča] Bolč, Općina Farkaševac, Zagrebačka županija, Hrvatska",pavles-approx
+1,Doljanec,45.9908688,16.4493156,"Doljanec, Grad Križevci, Koprivničko-križevačka županija, 48265, Hrvatska",nominatim
+1,Gunjak,46.020737,16.649432,"[approx: čvrstečki kraj] Rašćani, Općina Sveti Ivan Žabno, Koprivničko-križevačka županija, 48264, Hrvatska",pavles-approx
+1,Hotko,45.751556,17.049732,"[approx: u blizini Grđevca] Veliki Grđevac, Općina Veliki Grđevac, Bjelovarsko-bilogorska županija, Hrvatska",pavles-approx
+1,Hrsovo,45.9383045,16.6850385,"Hrsovo, Općina Sveti Ivan Žabno, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Husarec,45.969039,16.539956,"[approx: kraj Poljane Križevačke] Poljana Križevačka, Grad Križevci, Koprivničko-križevačka županija, Hrvatska",pavles-approx
+1,KLOKOČEVEC,45.8336653,15.7024738,"Klokočevec Samoborski, Grad Samobor, Zagrebačka županija, Hrvatska",nominatim
+1,Kloštar Podravski,45.9838583,17.1570683,"Općina Kloštar Podravski, Koprivničko-križevačka županija, 48362, Hrvatska",nominatim
+1,Lukovec,46.1904178,16.6815076,"Lukovec, Općina Rasinja, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Miketinec,,,(unresolved; identification only),pavles
+1,Mindszent,45.745073,17.517561,"[approx: JI od Breznice] Brežnica, Virovitičko-podravska županija, Hrvatska",pavles-approx
+1,Močila,46.052442,16.672678,"[approx: kod Sesveta i Budrovca] Velike Sesvete, Grad Križevci, Koprivničko-križevačka županija, Hrvatska",pavles-approx
+1,Podgorje,45.961240,17.063643,"[approx: kod Sirove Katalene / M. Črešnjevice] Sirova Katalena, Grad Đurđevac, Koprivničko-križevačka županija, Hrvatska",pavles-approx
+1,Powasahegh,46.149050,16.615185,"[approx: oko V. Poganca] Veliki Poganac, Općina Rasinja, Koprivničko-križevačka županija, Hrvatska",pavles-approx
+1,Progovec,,,(unresolved; identification only),pavles
+1,Račica,46.104251,16.863839,"[approx: Sv. Stjepan, J strana Bilogore] Glogovac, Općina Koprivnički Bregi, Koprivničko-križevačka županija, 48324, Hrvatska",pavles-approx
+1,Raščani,46.0207373,16.6494324,"Rašćani, Općina Sveti Ivan Žabno, Koprivničko-križevačka županija, 48264, Hrvatska",nominatim
+1,Slanje,46.232576,16.547263,"Slanje, Općina Martijanec, Varaždinska županija, Hrvatska",pavles
+1,Sveti Petar,46.1380368,16.6640447,"Sveti Petar, Općina Sokolovac, Koprivničko-križevačka županija, 48306, Hrvatska",nominatim
+1,Velike Sesvete,46.055600,16.671700,Velike Sesvete (user-provided),manual
+1,Vitkovec,45.935122,16.658081,"[approx: čvrstečko-cirkvenski kraj] Cirkvena, Općina Sveti Ivan Žabno, Koprivničko-križevačka županija, 48213, Hrvatska",pavles-approx
+1,Zdenci,,,(unresolved; identification only),pavles
+1,Zdenčec,45.8113685,16.6806382,"Zdenčec, Grad Čazma, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+3,Peteranec,46.1883011,16.8841455,"Peteranec, Općina Peteranec, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Miletinec,45.933300,16.733300,Miletinec (user-provided),manual
+2,Sutinske Toplice,46.113900,16.008900,Sutinske Toplice (user-provided),manual
+1,Međurić,45.456900,16.938100,Međurić (user-provided),manual
+1,Voćin,45.616700,17.550000,Voćin (user-provided),manual
+1,Stari Gradec,45.924700,17.292500,Stari Gradec (user-provided),manual
+1,Patkovac,45.853900,16.929400,Patkovac (user-provided),manual
+1,Severin,45.833300,16.966700,Severin (user-provided),manual
+1,Kenđelovec,45.945945,16.673362,"Kenđelovec, Općina Sveti Ivan Žabno, Koprivničko-križevačka županija, Hrvatska",pavles
+1,Većeslavec,46.041918,16.694171,"Većeslavec, Grad Križevci, Koprivničko-križevačka županija, Hrvatska",pavles
+1,Donji Miklouš,45.721007,16.691019,"Donji Miklouš, Grad Čazma, Bjelovarsko-bilogorska županija, Hrvatska",pavles
+1,Subotica Podravska,46.190167,16.741323,"Subotica Podravska, Općina Rasinja, Koprivničko-križevačka županija, Hrvatska",pavles
+1,Gudovec,45.881140,16.784635,"Gudovac, Grad Bjelovar, Bjelovarsko-bilogorska županija, 43251, Hrvatska",pavles
+1,Breznica,45.745073,17.517561,"Brežnica, Virovitičko-podravska županija, Hrvatska",pavles
+1,Mali Bukovec,46.285702,16.738299,"Općina Mali Bukovec, Varaždinska županija, Hrvatska",pavles
+1,Mlaka,45.904094,16.293197,"Mlaka, Općina Rakovec, Zagrebačka županija, Hrvatska",pavles
+3,Botovo,46.219678,16.919261,"Botovo, Općina Drnje, Koprivničko-križevačka županija, 48322, Hrvatska",pavles
+3,Brežanec,46.151615,16.828087,"Mjesni odbor Brežanec, Koprivnica, Grad Koprivnica, Koprivničko-križevačka županija, Hrvatska",pavles
+1,Mogovina,46.212333,16.770791,"[approx] Grad Koprivnica, Koprivničko-križevačka županija, Hrvatska",pavles-approx

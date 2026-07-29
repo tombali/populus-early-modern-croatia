@@ -1,0 +1,1204 @@
+county,authority_id,canonical_name,place_ids,raw_spellings,years,n_entries
+Križevačka županija,984,Mylethyncz,2029 2109 2110 2112,Milethyncz | Mylethincz | Mylethynch | Mylethyncz,"1495, 1507, 1513, 1520",58
+Križevačka županija,1154,Pesthenye,2429 2430 2431 2432,Pestenne | Pestenneye | Pesthenye | Pesthyene,"1495, 1507, 1513, 1517",45
+Križevačka županija,976,Myndzenth,2017 2030 2118 2119 2123 2124,Mendzenth | Mindzenth | Myndzeenth | Myndzenth | Mynthzenth | Mynzenth,"1495, 1507, 1512, 1513, 1517, 1520, 1533",43
+Zagrebačka županija,1048,Nobiles unius sessionis,2183,Nobiles unius sessionis,1553,41
+Varaždinska županija,1755,Zotezka,3759 3762,Zotezka | Zothezka,"1533, 1543, 1553, 1554, 1567, 1568, 1570, 1576, 1582",40
+Križevačka županija,933,Megwrechye,1908 1997 2002 2003 2006 2008 2009 2010,Magwrechya | Megereche | Megwrechya | Megwrechye | Megyerechye | Megyrechya | Megywreche | Megywrechye,"1495, 1507, 1513, 1517, 1543",29
+Križevačka županija,5,Achyna,5,Achyna,"1495, 1507, 1513, 1517",27
+Križevačka županija,488,Gerecz,954,Gerecz,"1495, 1507, 1513, 1517",27
+Križevačka županija,155,Bwthkafeld,327 416 417 418 420,Bothkafeld | Bwthkafeld | Bwthkafelde | Bwthkafewlde | Bwtkafeld,"1495, 1507, 1513, 1517",24
+Križevačka županija,1122,Palychna Zenth Peter,2375 2378 2379 2380 2382 2383,Palichna Zenthpeter | Palychna Zenth Peter | Palychna Zenth Pether | Palychna Zenthpeter | Palychna Zenthpether | Palychnazenth Peter,"1495, 1507, 1513, 1517",24
+Križevačka županija,1697,Zenthmyklos,3584 3637,Zenth Myklos | Zenthmyklos,"1495, 1507, 1513, 1517",23
+Križevačka županija,1676,Zenthersebeth,3543 3607,Zenth Ersebeth | Zenthersebeth,"1495, 1507, 1513, 1517",20
+Zagrebačka županija,1488,Threm,3082 3086 3109 3115,Threm | Thryem | Trem | Tryem,"1507, 1509, 1517, 1543, 1546, 1553, 1554, 1567, 1568, 1570, 1573, 1574, 1579, 1582, 1596",20
+Križevačka županija,232,Chakowcz,481,Chakowcz,"1495, 1507, 1513, 1517",19
+Križevačka županija,943,Marthonpathaka,1924 1936 1937 1938 1939,Marhtonpathaka | Marthon Pathaka | Marthonpatha | Marthonpathaca | Marthonpathaka,"1495, 1507, 1513, 1517",19
+Križevačka županija,1006,Monozlo,2061,Monozlo,"1507, 1512, 1513, 1520",19
+Križevačka županija,1221,Prasnycza,2574 2575 2576 2578,Prasnicza | Prasnycha | Prasnycza | Prassnycza,"1495, 1507, 1512, 1520, 1570",19
+Križevačka županija,1715,Zerdahel,3657,Zerdahel,"1495, 1507, 1512, 1513, 1517, 1520",19
+Varaždinska županija,1552,Welkowcz,3207 3208,Welkovcz | Welkowcz,"1507, 1543, 1567, 1568, 1570, 1576, 1582, 1596",19
+Križevačka županija,1681,Zenth Kerest,3562 3564 3616,Zenth Kerest | Zenth Kerezth | Zenthkerezth,"1507, 1512, 1513",18
+Zagrebačka županija,1660,Zethnychky Werh,3509 3510 3654 3664 3665 3796 3808 3809,Zemzky Werh | Zemzkywerh | Zenzki Werh | Zethnychky Werh | Zethnychkywerh | Zthopnychky Werh | Ztopnychky Werh | Ztopnychkywerh,"1570, 1573, 1574, 1576, 1579",18
+Križevačka županija,75,Belowarcz,150 169 170 171,Belawarcz | Belowarch | Belowarcz | Belowarcz*,"1495, 1500, 1507, 1512, 1513, 1520, 1533, 1543, 1554",17
+Križevačka županija,1621,Zalathnok,3420 3421 3690,Zalathnak | Zalathnok | Zlathnok,"1495, 1507, 1513, 1517",17
+Virovitička županija,1555,Werewcze,3222 3225 3347,Wereucze | Werewcze | Wreucze,"1507, 1513, 1517, 1520",17
+Zagrebačka županija,873,Lekanucz ad Lwkawcz,1747,Lekanucz ad Lwkawcz,1509,17
+Križevačka županija,63,Bednye,124 128,Bedenye | Bednye,"1507, 1513, 1573, 1574, 1576, 1579",16
+Križevačka županija,509,Gordowa,993 994,Gordova | Gordowa,"1495, 1507, 1513",16
+Križevačka županija,621,Hwzarcz,1218,Hwzarcz,"1495, 1507, 1512, 1513, 1520",16
+Križevačka županija,664,Janosowcz,1318 1320 1321,Janosowcz | Janusowcz | Janussowcz,"1507, 1513, 1517",16
+Križevačka županija,864,Lazthesyn,1731 1732 1733 1742,Lastesin | Lasthesin | Latesin | Lazthesyn,"1495, 1507, 1513, 1517",16
+Križevačka županija,374,Dobrowych,717 718 719 720,Dobrowoych | Dobrowych | Dobrowyncz | Dobryncz,"1495, 1507, 1513, 1517",15
+Križevačka županija,1243,Prodawyz,2616 2617,Prodauiz | Prodawyz,"1507, 1513, 1520",15
+Križevačka županija,1266,Racha,2651 2652,Racha | Rachchya,"1495, 1507, 1513, 1517",15
+Križevačka županija,1489,Tremecz,3083 3110,Thremecz | Tremecz,"1507, 1512, 1513, 1520",15
+Virovitička županija,1398,Simonwelge,2922 2971,Simonwelge | Symonwelge,"1507, 1513, 1517, 1520",15
+Zagrebačka županija,1237,Prykraye,2610 2628 2630,Prikray | Prykray | Prykraye,"1543, 1553, 1573, 1574, 1576, 1579",15
+Zagrebačka županija,1318,Ryeka,2749 2814,Reka | Ryeka,"1568, 1570, 1573, 1574, 1576, 1579, 1582, 1596",15
+Križevačka županija,532,Gragena,1045 1046 1047,Gragena | Gragenna | Gragenya,"1495, 1507, 1512, 1513, 1520",14
+Križevačka županija,1786,Zwha Mlaka,3821 3828 3829,Zuha Mlaka | Zwha Mlaka | Zwhamlaka,"1495, 1507, 1513, 1517",14
+Varaždinska županija,1729,Zlathyna,3692 3693,Zlathyna | Zlatina,"1513, 1543, 1553, 1567, 1568, 1570, 1576, 1582, 1596",14
+Križevačka županija,80,Belosowcz,159 166 168 179,Belesowcz | Bellessowcz | Belosowcz | Belwsowcz,"1495, 1507, 1513, 1517, 1520",13
+Križevačka županija,434,Erwencze,849,Erwencze,"1495, 1507, 1517",13
+Križevačka županija,634,Iwanusowcz,1237 1248 1249 1250 1251 1252,Inwsowcz | Iwannussowcz | Iwanosowcz | Iwanowcz | Iwanusowcz | Iwanwssowcz,"1495, 1507, 1512, 1513, 1517, 1520",13
+Križevačka županija,1402,Soploncza,2927,Soploncza,"1495, 1513, 1517",13
+Varaždinska županija,1038,Nassenyna,2164 2167,Nasenyna | Nassenyna,"1533, 1553, 1554, 1567, 1570, 1576, 1582",13
+Križevačka županija,48,Bakowcza,99 100,Bakowcha | Bakowcza,"1507, 1513, 1517",12
+Križevačka županija,282,Christalocz,571 572 636 637 638 639 641,Christalocz | Christhalowcz | Cristallowcz | Cristalowcz | Cristhalowcz | Cristocz | Crysthalowcz,"1495, 1507, 1517",12
+Križevačka županija,1177,Podgorya,2494,Podgorya,"1495, 1507, 1512, 1513, 1517, 1520",12
+Križevačka županija,1211,Posaheg,2558 2559 2562,Posaheg | Posahegh | Powsahegh,"1495, 1507, 1512, 1513, 1520, 1533",12
+Križevačka županija,1740,Zobothycza,3715 3719,Zlobothycza | Zobothycza,"1495, 1507, 1513, 1520",12
+Varaždinska županija,246,Cheperlyncz,509,Cheperlyncz,"1543, 1553, 1554, 1567, 1568, 1570",12
+Virovitička županija,892,Lyppa,1795 1876,Lippa | Lyppa,"1507, 1513, 1517, 1520",12
+Virovitička županija,1572,Wlachin,3267 3270,Wlachin | Wlachyn,"1507, 1513, 1517, 1520",12
+Zagrebačka županija,55,Barachka,111 112,Barachka | Baraczka,"1566, 1567",12
+Zagrebačka županija,369,Dobrawa,711,Dobrawa,"1570, 1574, 1579",12
+Zagrebačka županija,1494,Thwran,3089 3116,Thwran | Turan,"1573, 1574, 1576, 1579, 1582, 1596",12
+Križevačka županija,175,Brezoycza,359 366 368,Brezoycza | Brezthoycza | Breztoycha,"1495, 1513, 1520, 1533",11
+Križevačka županija,557,Gwrgewcz,1093 1106 1107 1108 1113 1115 1116 1117,Gurgekowcz | Gwrgenowcz | Gwrgeroucz | Gwrgewcz | Gywgyekowcz | Gywrgyekowcz | Gywrgykowchecz | Gywrgykowcz,"1507, 1512, 1513, 1520",11
+Križevačka županija,841,Kwtthennya,1686 1687 1688 1694,Kwtennya | Kwthennya | Kwthenya | Kwtthennya,"1495, 1507, 1517",11
+Križevačka županija,872,Leskowcz,1746 1767 1769 1772 1777 1782 1792,Leczkowcz | Leschakowcz | Leskowcz | Lestakowcz | Lesthakowcz | Leszthakowcz | Lezkovcz,"1495, 1507, 1513, 1517, 1520",11
+Križevačka županija,982,Mykethyncz,2026 2095 2096 2097,Miketincz | Mykethincz | Mykethyncz | Myketyncz,"1507, 1512, 1513, 1520, 1533",11
+Varaždinska županija,196,"Bwdyndol, Hansewcz",395,"Bwdyndol, Hansewcz","1553, 1554, 1567, 1568, 1570, 1582",11
+Virovitička županija,1705,Zenthendree,3604 3605 3606,Zenthendre | Zenthendree | Zenthendrey,"1507, 1513, 1517, 1520",11
+Zagrebačka županija,662,Jendrassewcz,1315 1316 1383,Jandrasseucz | Jandrassewcz | Jendrassewcz,"1570, 1573, 1574, 1576, 1579, 1582, 1596",11
+Zagrebačka županija,1078,Omelya,2260 2262,Omellya | Omelya,"1553, 1566, 1567, 1568, 1570",11
+Križevačka županija,64,Bedowcz,125 132 133,Bedkowcz | Bedowcz | Bedowhcz,"1512, 1513, 1520",10
+Križevačka županija,207,Byenyk,425 426,Byenik | Byenyk,"1495, 1507, 1512, 1513, 1520",10
+Križevačka županija,535,Grayan,1050,Grayan,"1495, 1507, 1512, 1513, 1520, 1533",10
+Križevačka županija,556,Gwnnyak,1092 1103 1104 1105,Gunnyak | Gwnnak | Gwnnyak | Gwnyak,"1495, 1507, 1513, 1520",10
+Križevačka županija,714,Kengelowcz,1442 1443 1444,Kengelowcz | Kengelowhcz | Kengyelowcz,"1495, 1512, 1513, 1520",10
+Križevačka županija,993,Mochyla,2042 2045,Mochila | Mochyla,"1495, 1507, 1513",10
+Križevačka županija,1330,Rogozna,2775,Rogozna,"1495, 1507, 1513, 1517",10
+Križevačka županija,1782,Ztreza,3813,Ztreza,"1495, 1507, 1513, 1520",10
+Križevačka županija,1799,Zygeth,3845,Zygeth,"1507, 1513, 1517",10
+Varaždinska županija,1528,Wolyncz,3154 3308,Volyncz | Wolyncz,"1543, 1553, 1554, 1567, 1568, 1576",10
+Zagrebačka županija,1079,Omelye,2261 2263,Omellye | Omelye,"1520, 1543, 1546, 1554, 1570, 1579, 1582, 1596",10
+Križevačka županija,188,Bwdrowcz,383 389 390 392,Budrowcz | Bwdowcz | Bwdrocz | Bwdrowcz,"1495, 1507, 1513, 1517",9
+Križevačka županija,227,Chapalowcz,475 489 490,Captholowcz | Chapalowcz | Chapolowcz,"1495, 1507, 1513, 1517",9
+Križevačka županija,353,Desnycze,692,Desnycze,"1495, 1507, 1517, 1533",9
+Križevačka županija,544,Gregwryewyna,1067 1080,Gregoryewyna | Gregwryewyna,"1495, 1507, 1513, 1517",9
+Križevačka županija,591,Hothko,1158,Hothko,"1507, 1513, 1517",9
+Križevačka županija,769,Kopachowcz,1529 1535,Kopachowcz | Kopochowcz,"1495, 1507, 1513, 1517, 1520",9
+Križevačka županija,1091,Orbona,2295,Orbona,"1495, 1507, 1513, 1517",9
+Križevačka županija,1206,Popowcz,2553,Popowcz,"1495, 1507, 1517, 1520",9
+Križevačka županija,1298,Ray,2719,Ray,"1507, 1512, 1513, 1517, 1520",9
+Križevačka županija,1452,Themerye,3027,Themerye,"1495, 1507, 1513",9
+Križevačka županija,1634,Zazowcz,3454,Zazowcz,"1495, 1507, 1513, 1517",9
+Križevačka županija,1699,Zenthpal,3589 3640,Zenth Pal | Zenthpal,"1495, 1507, 1513, 1517, 1520, 1533, 1543",9
+Križevačka županija,1804,Zyrch,3854,Zyrch,"1495, 1507, 1517",9
+Virovitička županija,202,Bwssocz,407 408 409,Bwsowcz | Bwssocz | Bwssowcz,"1507, 1513, 1517, 1520",9
+Virovitička županija,624,Ilowa,1222,Ilowa,"1513, 1517, 1520",9
+Zagrebačka županija,678,Jaztrebynzkywerh,1351 1357 1358,Jazthrebynzky Werh | Jaztrebynzki Werh | Jaztrebynzkywerh,"1574, 1576, 1579",9
+Zagrebačka županija,1080,Omylya,2264 2270 2271 2272,Omilia | Omyla | Omylia | Omylya,"1507, 1509, 1517, 1573, 1574, 1576",9
+Zagrebačka županija,1087,Oppathowyna,2277 2289,Opathowyna | Oppathowyna,"1570, 1573",9
+Križevačka županija,21,Also Soploncza,33 34 35 66,Also Soploncza | Also Soproncha | Also Soproncza | Alsw Soproncza,"1507, 1513, 1517",8
+Križevačka županija,65,Bedna,126 127,Bedna | Bednya,"1495, 1507, 1520",8
+Križevačka županija,92,Benedikowcz,186 187 188,Benedikowcz | Benedykow | Benedykowcz,"1513, 1520",8
+Križevačka županija,131,Bliznafew,254 259 260 457,Bliznafew | Blyznafew | Blyznaffew | Byznafew,"1495, 1507, 1512, 1513, 1520",8
+Križevačka županija,281,Chresno,568 569,Chresno | Chresnyo,"1507, 1513, 1517",8
+Križevačka županija,381,Dombro,738,Dombro,"1507, 1512, 1513, 1520",8
+Križevačka županija,441,Felse Chezmyche,859 860,Felse Chezmyche | Felse Chezmycze,"1495, 1513",8
+Križevačka županija,451,Felsew Soploncza,875 876 877 904,Felsew Soploncza | Felsew Soproncha | Felsew Soproncza | Fewlsew Soproncza,"1507, 1513, 1517",8
+Križevačka županija,590,Horzowa,1157,Horzowa,"1495, 1507, 1512, 1513, 1520",8
+Križevačka županija,766,Konzka,1526,Konzka,"1507, 1513, 1543",8
+Križevačka županija,779,Koren,1543,Koren,"1495, 1507, 1513, 1520",8
+Križevačka županija,909,Lowkowcz,1820 1863 1864,Lowkowcz | Lwkowcz | Lwpkowcz,"1507, 1512, 1513, 1520",8
+Križevačka županija,1007,Monozlo cum pertinentiis,2062 2063 2064 2065,Monozlo cum pertinentiis | Monozlo-cum pertinentiis | Monozlo-cum pertinentiss | Monozlo-in pertinentiis,"1507, 1512, 1513, 1517, 1520, 1543",8
+Križevačka županija,1037,Narth,2163,Narth,"1507, 1512, 1513, 1520",8
+Križevačka županija,1215,Powsincz,2564 2566,Powsincz | Powsyncz,"1495, 1507, 1517",8
+Križevačka županija,1403,Soproncha,2928 2929 2930,Soproncha | Soproncza | Sopronncza,1507,8
+Križevačka županija,1638,Zdenchecz,3466,Zdenchecz,"1495, 1513, 1520",8
+Križevačka županija,1738,Zloboda,3713,Zloboda,"1507, 1512, 1513, 1520",8
+Varaždinska županija,777,Kordwssowcz,1539 1540 1541,Kordusowcz | Kordussovcz | Kordwssowcz,"1553, 1554, 1567, 1568, 1570, 1576, 1582, 1596",8
+Virovitička županija,1032,Nagh Thopalocz,2139 2148 2149 2155,Nag Tapalowcz | Nagh Thapalocz | Nagh Thopalocz | Naghthapaloch,"1507, 1513, 1517, 1520",8
+Virovitička županija,1156,Peteryancz,2435 2436 2460,Peteryanch | Peteryancz | Petryancz,"1507, 1513, 1517, 1520",8
+Virovitička županija,1160,Petrowcz,2447 2449,Petrowch | Petrowcz,"1507, 1513, 1517, 1520",8
+Zagrebačka županija,406,Dubrawa,784 789,Dubrawa | Dwbrawa,"1573, 1576",8
+Zagrebačka županija,408,Dworany,786 802,Duoryany | Dworany,"1567, 1568, 1570, 1573, 1576, 1579, 1596",8
+Zagrebačka županija,1085,Omnii Sancti-in portu,2269,Omnii Sancti-in portu,1553,8
+Zagrebačka županija,1178,Podgorya,2495,Podgorya,"1553, 1554, 1582",8
+Križevačka županija,86,Belwdowyna,175 178,Beludowyna | Belwdowyna,"1507, 1517, 1533",7
+Križevačka županija,161,Bradna,337,Bradna,"1495, 1507, 1512, 1513, 1533",7
+Križevačka županija,191,Bwschyncz,386 406,Bwchyncz | Bwschyncz,"1495, 1513, 1543",7
+Križevačka županija,442,Felse Izdencz,861 872 873,Felse Izdencz | Felsew Hyzdencz | Felsew Izdencz,"1495, 1507, 1517, 1533",7
+Križevačka županija,476,Garazdyncz,938 979,Garazdyncz | Gorazdyncz,"1507, 1517, 1533",7
+Križevačka županija,575,Hemowcz,1134,Hemowcz,"1512, 1513, 1520",7
+Križevačka županija,589,Horeowcz,1156,Horeowcz,1517,7
+Križevačka županija,671,Jartholowcz,1329 1330,Jarthalowcz | Jartholowcz,"1495, 1507, 1517",7
+Križevačka županija,720,Kernyn,1450,Kernyn,"1507, 1520",7
+Križevačka županija,869,Lazen,1740,Lazen,"1507, 1512, 1513, 1520",7
+Križevačka županija,922,Lypyncz,1877 1884 1887 1888,Lyppincz | Lyppyncz | Lypsyncz | Lypyncz,"1495, 1507, 1517, 1520",7
+Križevačka županija,1385,Schwkancz,2878,Schwkancz,"1495, 1507, 1517",7
+Križevačka županija,1395,Sydyna,2918 2919 2963 2964,Sidina | Sidynna | Sydyna | Sydynna,"1495, 1507, 1513, 1520",7
+Križevačka županija,1590,Wragowcz,3322 3323,Wragoucz | Wragowcz,"1495, 1507, 1517, 1533",7
+Križevačka županija,1642,Zebenyancz,3470,Zebenyancz,"1495, 1507, 1513, 1517",7
+Križevačka županija,1643,Zebyncz,3471 3472,Zebincz | Zebyncz,"1507, 1512, 1513, 1520",7
+Virovitička županija,363,Dobownyk,704,Dobownyk,"1507, 1513, 1517, 1520",7
+Zagrebačka županija,209,Bygzad,428 430,Bygzaad | Bygzad,"1509, 1543, 1567, 1568",7
+Križevačka županija,24,Also Zemche,41 42,Also Zemche | Also Zempche,"1507, 1517",6
+Križevačka županija,91,Benedicoucz,184 185,Benedicoucz | Benedicowcz,"1507, 1512",6
+Križevačka županija,245,Chemernicha,506 507 508,Chemernicha | Chemernicza | Chemernycha,"1512, 1513, 1520",6
+Križevačka županija,378,Dolyancz,727,Dolyancz,"1495, 1507, 1513, 1520",6
+Križevačka županija,396,Drasowch,765 768 769 770,Drascowcz | Draskowcz | Drasowch | Drasowcz,"1495, 1507, 1513, 1517, 1520",6
+Križevačka županija,438,Farkadyn,855,Farkadyn,"1513, 1517",6
+Križevačka županija,469,Fylethyncz,921 2470,Fylethyncz | Phylethyncz,"1495, 1507, 1512, 1513, 1520",6
+Križevačka županija,561,Gywrsyncz,1109 1119,Gwrsincz | Gywrsyncz,"1512, 1513, 1520",6
+Križevačka županija,819,Krawaryna,1630,Krawaryna,"1507, 1517",6
+Križevačka županija,1008,Morawcz,2066 2067,Morawcz | Morawecz,"1495, 1507, 1513, 1520",6
+Križevačka županija,1054,Nowa Zenth Marton,2189 2195 2203,Nova Zenth Marthon | Nowa Zenth Marton | Nowazenthmarton,"1495, 1507, 1513",6
+Križevačka županija,1224,Praznycha,2582,Praznycha,1513,6
+Križevačka županija,1265,Rachycza Zenth Istwan,2650 2653 2654 2655,Racchycza Zenth Istwan | Rachycza Zenth Isthwan | Rachycza Zenth Istwan | Rachycza Zenth Iwan,"1495, 1507, 1513, 1517",6
+Križevačka županija,1300,Raykowcz,2721,Raykowcz,"1507, 1512, 1513, 1520",6
+Križevačka županija,1516,Wehowlan,3138 3200 3235 3236,Verhowlan | Wehowlan | Werhowlan | Werhowlyan,"1512, 1513, 1520",6
+Križevačka županija,1584,Wychkowcz,3314 3355 3384,Woykowcz | Wychkowcz | Wythkowcz,"1507, 1517",6
+Križevačka županija,1685,Zenthkyral,3567 3617,Zenth Kyral | Zenthkyral,"1495, 1507, 1513, 1517",6
+Križevačka županija,1686,Zenth Laczlo,3568,Zenth Laczlo,"1507, 1513",6
+Križevačka županija,1709,Zenthlelek,3620,Zenthlelek,"1495, 1517, 1533",6
+Križevačka županija,1728,Zlathyna,3689 3691 3695,Zlathina | Zlathyna | Zlatyna,"1495, 1512, 1513, 1520",6
+Križevačka županija,1736,Zlobochyna,3710 3711 3718,Zlobochya | Zlobochyna | Zobochyna,"1507, 1513, 1520",6
+Križevačka županija,1780,Ztruga,3801 3802 3814 3816,Zthrunga | Zthrwgha | Ztruga | Ztrwgha,"1507, 1513, 1520",6
+Varaždinska županija,1345,Sabacz,2816,Sabacz,"1567, 1568, 1570, 1576, 1582, 1596",6
+Virovitička županija,719,Kerhtowcz,1449 1452 1453,Kerhtowcz | Kerthowcz | Kerztowcz,"1507, 1513, 1517, 1520",6
+Zagrebačka županija,1151,Persynowcz,2422,Persynowcz,"1553, 1554",6
+Zagrebačka županija,1234,Prethoka,2595 2597,Prethoka | Prewthoka,"1517, 1520",6
+Zagrebačka županija,1741,Zmolyak,3716,Zmolyak,"1570, 1573, 1574, 1576, 1579, 1582",6
+Križevačka županija,50,Bancz,102 103,Bancz | Banczy,"1495, 1507, 1517",5
+Križevačka županija,67,Bednye seu Bwkowcz,130 131,Bednye seu Bukoucz | Bednye seu Bwkowcz,"1582, 1596",5
+Križevačka županija,85,Belyowcz,167 180 181,Bellyanowcz | Belyancz | Belyowcz,"1495, 1507, 1517",5
+Križevačka županija,158,Bothynowcz,332 419 422,Bothynowcz | Bwthynowcz | Bwyanowcz,"1495, 1507, 1513, 1520",5
+Križevačka županija,163,Bragasowcz,339 340,Bragasoucz | Bragasowcz,"1495, 1507",5
+Križevačka županija,167,Bresnycze,345 347,Bresnycha | Bresnycze,"1507, 1513",5
+Križevačka županija,206,Bwyowcz,423,Bwyowcz,1517,5
+Križevačka županija,342,Darnocz-cum pertinenciis,674 676 677 678 679,Darnocz-cum pertinenciis | Darnowcz cum pertinentiis | Darnowcz- cum pertinentiis | Darnowcz-cum pertinenciis | Darnowcz-cum pertinentiis,"1507, 1513, 1517",5
+Križevačka županija,345,Deche,682,Deche,"1495, 1507, 1517",5
+Križevačka županija,391,Dragowyna,754 756,Dragowya | Dragowyna,"1507, 1513, 1517",5
+Križevačka županija,394,Draschya,760 763,Drascha | Draschya,"1512, 1513, 1520",5
+Križevačka županija,422,Dyanfelde,822 823 824,Dyanfeld | Dyanfelde | Dyanffeld,"1495, 1507, 1517",5
+Križevačka županija,435,Fabyanowcz,850 852 853,Fabianocz | Fabyankowcz | Fabyanowcz,"1507, 1512, 1513, 1520",5
+Križevačka županija,443,Felsew Zemche,863 882 883,Felse Zemche | Felsew Zemche | Felsew Zempche,"1507, 1517",5
+Križevačka županija,477,Gardowa,939,Gardowa,1517,5
+Križevačka županija,503,Gorbonokfew,980 986 987 990,Gorbonakffew | Gorbonokfew | Gorbonokffew | Gorbonwkfew,"1507, 1513, 1520",5
+Križevačka županija,504,Gorbonok,981 988,Gorbonok | Gorbonwk,"1495, 1507, 1513, 1517",5
+Križevačka županija,540,Gregorchyncz,1059 1060 1064,Gregorchyncz | Gregorczyncz | Gregoryancz,"1507, 1512, 1513, 1520",5
+Križevačka županija,563,Gywgancz,1111 1112,Gywgancz | Gywgyancz,"1495, 1507, 1517",5
+Križevačka županija,598,Hraschan,1167,Hraschan,"1495, 1507, 1512, 1513",5
+Križevačka županija,623,Hyzdencz,1221,Hyzdencz,1517,5
+Križevačka županija,696,Kamarcza,1403 1404,Kamarcha | Kamarcza,"1495, 1507",5
+Križevačka županija,867,Lazachowcz,1736 1737 1738 1741,Lazachoucz | Lazachowcz | Lazachyowcz | Lazochowcz,"1495, 1500, 1507, 1512, 1520",5
+Križevačka županija,931,Magalowcz,1905 1906,Magalocz | Magalowcz,"1495, 1507, 1513, 1517",5
+Križevačka županija,1009,Mosyna,2068 2069,Mosyna | Mosynya,"1495, 1513, 1517",5
+Križevačka županija,1118,Ozwgo,2369 2370,Ozwgo | Ozwgyo,"1512, 1513, 1520",5
+Križevačka županija,1124,Palychna,2377,Palychna,"1495, 1507, 1517",5
+Križevačka županija,1244,Progowcz,2618,Progowcz,"1495, 1507, 1513",5
+Križevačka županija,1255,Pwnekowcz,2639,Pwnekowcz,"1507, 1512, 1513",5
+Križevačka županija,1421,Sybrynowcz,2959 2961 2962,Sybrinowcz | Sybrynowcz | Sybrynowhcz,"1495, 1512, 1513",5
+Križevačka županija,1512,Vechezlawcz,3133 3197 3198 3199,Vechezlawcz | Wechezlaucz | Wechezlawcz | Wechlawcz,"1495, 1507, 1513, 1520",5
+Križevačka županija,1540,Wamhyda,3183,Wamhyda,"1507, 1517",5
+Križevačka županija,1541,Warallya,3184 3185,Warallia | Warallya,"1507, 1512, 1520",5
+Križevačka županija,1601,Wywdwar,3385 3387,Wyudwar | Wywdwar,"1507, 1517, 1533",5
+Križevačka županija,1616,Zagolcza,3412,Zagolcza,1495,5
+Križevačka županija,1620,Zakowcza,3419,Zakowcza,1507,5
+Križevačka županija,1646,Zekowcz,3476 3662,Zekowcz | Zerkowcz,"1507, 1512, 1513, 1520",5
+Križevačka županija,1745,Zombathel,3722,Zombathel,"1495, 1507, 1517",5
+Križevačka županija,1771,Zthara,3785,Zthara,"1507, 1513, 1517",5
+Križevačka županija,1788,Zwchowcz,3825,Zwchowcz,"1507, 1512, 1513, 1520",5
+Varaždinska županija,195,Bwdyndoll,394 397,Bwdyndol | Bwdyndoll,"1543, 1596",5
+Varaždinska županija,1701,Zenth Wyd,3591 3644,Zenth Wyd | Zenthwyd,"1507, 1513",5
+Varaždinska županija,1757,Zotyzka,3764,Zotyzka,1596,5
+Virovitička županija,259,Chernecz,526 527,Chernech | Chernecz,"1507, 1513, 1517",5
+Virovitička županija,1444,Thallocz,3013,Thallocz,"1513, 1517",5
+Zagrebačka županija,268,Cherwylno,545,Cherwylno,"1570, 1574, 1576, 1579, 1582",5
+Zagrebačka županija,375,Dol,721 743,Dol | Dool,"1507, 1509, 1517, 1520",5
+Zagrebačka županija,936,Malchewcz,1913 1915,Malchewcz | Malchewczy,"1517, 1573, 1574, 1576",5
+Zagrebačka županija,1070,Odrazenthgergh,2231 2232 2238 2239 2240,Odra Zenth Georgh | Odra Zenth Ghergh | Odra-Zenthgyergy | Odrazenthgergh | Odrazenthghergh,"1543, 1553, 1576, 1579, 1582",5
+Zagrebačka županija,1271,Radmanczy,2660 2661 2772,Radmancz | Radmanczy | Rodmanczy,"1553, 1554, 1566, 1567, 1568",5
+Zagrebačka županija,1787,Zwhodol,3824 3832,Zuhodol | Zwhodol,"1553, 1554, 1566, 1567",5
+Križevačka županija,12,Alberthowyna,16 17,Alberthowyna | Albethowyna,"1507, 1517",4
+Križevačka županija,44,Bahonyn,94 95,Bahonincz | Bahonyn,"1512, 1513, 1520",4
+Križevačka županija,66,Bednye cum pertinentiis,129,Bednye cum pertinentiis,1570,4
+Križevačka županija,159,Bozyas,335,Bozyas,"1507, 1513, 1517",4
+Križevačka županija,205,Bwyancz,421,Bwyancz,1507,4
+Križevačka županija,230,Czeraberda,479 654 656,Cerabarda | Czeraberda | Czerowaberda,"1495, 1513, 1533",4
+Križevačka županija,252,Chereborda,517 655,Chereborda | Czereborda,"1507, 1520",4
+Križevačka županija,258,Chernareka,524,Chernareka,"1495, 1517",4
+Križevačka županija,261,Chernesoucz,529 538,Chernesoucz | Chernossowcz,"1507, 1517",4
+Križevačka županija,288,Chwthenya,580,Chwthenya,1507,4
+Križevačka županija,341,Darnowcz,673 675,Danowcz | Darnowcz,"1507, 1513, 1517",4
+Križevačka županija,379,Domankwsowcz,734 735 736,Domancusowcz | Domankwsoucz | Domankwsowcz,"1507, 1513, 1517",4
+Križevačka županija,389,Dragatyn,750,Dragatyn,1507,4
+Križevačka županija,460,Fynthyncz,909 924 925,Finthincz | Fynthych | Fynthyncz,"1507, 1512, 1513, 1520",4
+Križevačka županija,506,Gorbonwk-oppidum cum pertinentiis,984 985 989,Gorbonok-oppidum cum pertinentiis | Gorbonok-oppidum-cum pertinentiis | Gorbonwk-oppidum cum pertinentiis,"1507, 1513, 1517",4
+Križevačka županija,551,Grobosincz,1085 1086,Grobosincz | Grobosyncz,"1495, 1507, 1513",4
+Križevačka županija,559,Gwdowcz,1100 1101,Gwdoch | Gwdowcz,"1495, 1507, 1520",4
+Križevačka županija,578,Herborthya,1139 1140,Herborthya | Herbortya,"1495, 1520",4
+Križevačka županija,638,Iwelowcz,1256,Iwelowcz,"1507, 1513, 1517",4
+Križevačka županija,641,Jacopowcz,1259 1262 1263 1264,Jacopowcz | Jacupoucz | Jacupowcz | Jacwpowcz,"1495, 1507, 1520",4
+Križevačka županija,758,Komosowcz,1510,Komosowcz,"1507, 1512, 1520",4
+Križevačka županija,785,Koruska,1551,Koruska,"1500, 1512",4
+Križevačka županija,803,Kozachyna,1576 1695,Kozachyna | Kwzachyna,"1495, 1507, 1517",4
+Križevačka županija,868,Lazecz,1739,Lazecz,"1507, 1512, 1513, 1520",4
+Križevačka županija,932,Magyerlak,1907 1909 1999,Magerlak | Magyerlak | Megerlak,"1513, 1520, 1533",4
+Križevačka županija,968,Meglech,2000,Meglech,"1495, 1513, 1517",4
+Križevačka županija,973,Mellesowcz,2012 2014 2015,Mellesowcz | Mellessowcz | Melnesowcz,"1495, 1507, 1517",4
+Križevačka županija,996,Mochylo,2046,Mochylo,1517,4
+Križevačka županija,998,Moghoyna-de Kaproncza,2048 2049,Moghoyna-de Kaproncza | Mogowina ad Kaproncza,"1513, 1520",4
+Križevačka županija,1005,Monchowcz,2060,Monchowcz,"1513, 1520",4
+Križevačka županija,1047,Neznanheg,2176 2177 2178,Neznanheg | Neznanhege | Neznanhegh,"1495, 1507, 1513, 1517",4
+Križevačka županija,1081,Omnii Sancti,2265,Omnii Sancti,"1507, 1512, 1513, 1520",4
+Križevačka županija,1105,Orosowcz,2328 2329 2332,Orosowcz | Orossowcz | Orrosowcz,"1507, 1513, 1517",4
+Križevačka županija,1108,Ortunoucz,2333 2334,Orthonowcz | Ortunoucz,"1495, 1507",4
+Križevačka županija,1198,Pokorenowecz,2527 2528 2529,Pokorenowcz | Pokorenowecz | Pokoronowcz,"1495, 1517, 1533",4
+Križevačka županija,1209,Popwd Podgorya,2556,Popwd Podgorya,1507,4
+Križevačka županija,1227,Predriho,2586 2587,Predriho | Predryho,"1495, 1507, 1513, 1517",4
+Križevačka županija,1251,Pryztawcz,2632 2633,Pryztawcz | Pryzthawcz,"1512, 1513, 1520",4
+Križevačka županija,1256,"Pwnekowcz, Myklwsowcz",2640,"Pwnekowcz, Myklwsowcz",1520,4
+Križevačka županija,1261,Pychwlyncz,2645 2646,Pychulinch | Pychwlyncz,"1507, 1512, 1513",4
+Križevačka županija,1274,Radoysche,2664 2665,Radoysche | Radoyschye,"1533, 1543, 1554, 1570",4
+Križevačka županija,1301,Raynok,2722,Raynok,"1513, 1520",4
+Križevačka županija,1317,Regowcz,2747 2748,Regowcz | Regowecz,"1507, 1512, 1513, 1520",4
+Križevačka županija,1373,Sanctus Crux,2853,Sanctus Crux,"1512, 1513, 1520",4
+Križevačka županija,1432,Sywecz,2996,Sywecz,"1495, 1507, 1517",4
+Križevačka županija,1473,Thomasdowcz,3058 3061,Thomasdowcz | Thomassowcz,"1495, 1507",4
+Križevačka županija,1549,Waswarowcz,3193 3194 3195 3196,Wasuaryowcz | Waswarowcz | Waswaryewcz | Waswaryowcz,"1495, 1507, 1513, 1517",4
+Križevačka županija,1566,Werussewych,3240,Werussewych,1507,4
+Križevačka županija,1650,Zelcze,3483 3484 3485,Zelche | Zelcz | Zelcze,"1507, 1512, 1513, 1520",4
+Križevačka županija,1661,Zeyanahrazthya,3511 3669 3670,Zenaharazthya | Zeyana Harazthya | Zeyanahrazthya,"1507, 1513, 1517",4
+Križevačka županija,1673,Zenth Benedek,3527 3528 3596,Zenth Benedek | Zenth Benedyk | Zenthbenedek,"1507, 1513, 1517",4
+Križevačka županija,1675,Zenth Demetrius,3538,Zenth Demetrius,"1507, 1517",4
+Križevačka županija,1690,Zenthmargith,3574 3629,Zenth Marghyth | Zenthmargith,"1507, 1517",4
+Križevačka županija,1732,Zlawschyna,3698 3705 3706,Zlawchyna | Zlawschina | Zlawschyna,"1495, 1513, 1520, 1533",4
+Križevačka županija,1734,Zlayna,3708,Zlayna,"1513, 1520",4
+Križevačka županija,1762,Zredysche,3770 3771,Zredysche | Zredyscze,"1507, 1513, 1520",4
+Križevačka županija,1800,Zylagh,3846 3849,Zylag | Zylagh,"1507, 1513, 1517",4
+Križevačka županija,1802,Zylag-wayvodatus,3848 3851,Zylag-wayvodatus | Zylagh-waywodatus,"1507, 1513",4
+Varaždinska županija,198,Bwdyzlawcz,399,Bwdyzlawcz,"1553, 1554, 1567, 1568",4
+Varaždinska županija,275,Chorgowcz,560,Chorgowcz,"1553, 1570",4
+Varaždinska županija,512,"Gorychan, Zbelye",997,"Gorychan, Zbelye",1543,4
+Virovitička županija,156,Bothowcz,328,Bothowcz,"1513, 1517, 1520",4
+Virovitička županija,180,Brezyancz,369 372,Brezyancz | Brezynacz,"1507, 1513, 1517, 1520",4
+Virovitička županija,194,Bwdrowcz,391 393,Bwdrocz | Bwdrowcz,"1507, 1513, 1517, 1520",4
+Virovitička županija,762,Konthoch Zenthpeter,1516 1523,Konthoch Zenthpeter | Konthowcz Zenthpeter,"1507, 1513, 1517, 1520",4
+Virovitička županija,763,Konthocz Zenthmyklos,1517 1518 1521 1522,Konthocz Zenth Miklos | Konthocz Zenthmyklos | Konthowcz Zenth Myklos | Konthowcz Zenthmyklos,"1507, 1513, 1517, 1520",4
+Virovitička županija,765,Konthowcz cum pertinentiis,1520 1524 1525,Konthowcz -cum pertinentiis | Konthowcz cum pertinentiis | Konthowcz-cum pertinentiis,"1507, 1513, 1517, 1520",4
+Virovitička županija,1104,Oresya,2327,Oresya,"1507, 1513, 1517, 1520",4
+Virovitička županija,1216,Powsyncz,2565 2567,Powsynch | Powsyncz,"1507, 1513, 1517",4
+Virovitička županija,1573,"Wlachin, Rawennyk",3268 3269 3271,"Wlachin, Rawenik | Wlachin, Rawennyk | Wlachyn, Rawennyk","1513, 1517, 1520",4
+Zagrebačka županija,68,Bedwdnycze,134,Bedwdnycze,1520,4
+Zagrebačka županija,214,Bykszad,436,Bykszad,"1574, 1576",4
+Zagrebačka županija,605,Hrastowicze-castrum cum pertinentiis,1179 1181 1186 1187,Hrastowicze-castrum cum pertinentiis | Hrazthowycze-castrum cum pertinentiis | Hraztowycza-castrum cum pertinentiis | Hraztowycze-castrum cum pertinentiis,"1570, 1573, 1576, 1579",4
+Zagrebačka županija,934,Mahowcz,1910,Mahowcz,1509,4
+Zagrebačka županija,1031,Nagh Gara,2138 2140,Nag Gara | Nagh Gara,"1509, 1517, 1520",4
+Zagrebačka županija,1059,Nowakowcz,2201 2202,Nowakowcz | Nowakowecz,"1509, 1517, 1520, 1533",4
+Zagrebačka županija,1468,Thersich,3051 3053,Thersich | Thersych,"1553, 1554, 1566, 1567",4
+Križevačka županija,18,Also Jalsewycza,29,Also Jalsewycza,"1507, 1513, 1517",3
+Križevačka županija,41,Bachyn,91,Bachyn,"1495, 1507, 1517",3
+Križevačka županija,114,Bezchyanowcz,224,Bezchyanowcz,1517,3
+Križevačka županija,120,Blacha,231,Blacha,"1513, 1520",3
+Križevačka županija,169,Bresowcz,348 350,Bresowcz | Brestowcz,"1495, 1520",3
+Križevačka županija,181,Brezyna,370,Brezyna,"1495, 1507, 1517",3
+Križevačka županija,216,Bynowcz,441,Bynowcz,"1507, 1513, 1517",3
+Križevačka županija,242,Czekno,502 652,Chekno | Czekno,"1495, 1507",3
+Križevačka županija,244,Chelycze,504 505 653,Chelychye | Chelycze | Czelyche,"1507, 1513, 1517",3
+Križevačka županija,251,Cherchan ad Gemlech,516 525 566,Cherchan ad Gemlech | Chernchan ad Gemlecz | Chrenchan ad Gemnecz,"1512, 1513, 1520",3
+Križevačka županija,274,Cnesancz,559 599,Chnesancz | Cnesancz,"1495, 1507",3
+Križevačka županija,301,Copathowcz,601,Copathowcz,1507,3
+Križevačka županija,317,Crawaryna,618,Crawaryna,1495,3
+Križevačka županija,343,Dorozlo Bakwa,680 744,Darozlo Bakwa | Dorozlo Bakwa,"1507, 1513, 1517",3
+Križevačka županija,366,Dobra Kuchya,707 710,Dobra Kuchya | Dobrakuchya,1507,3
+Križevačka županija,372,Dobrokychya,715,Dobrokychya,1517,3
+Križevačka županija,384,Donadowcz,741 742,Donadoucz | Donadowcz,"1507, 1512, 1513",3
+Križevačka županija,395,Drascha ad Gemlech,761 762 764,Drascha ad Gemenecz | Drascha ad Gemlech | Draschyna ad Gemlecz,"1512, 1513, 1520",3
+Križevačka županija,399,Drawamelleke,771 772,Drawamelleke | Drawamelleky,"1495, 1507",3
+Križevačka županija,436,Fabyanchewcz,851,Fabyanchewcz,"1507, 1512",3
+Križevačka županija,439,Farkasowcz,856 857,Farkasowcz | Farkassowcz,"1512, 1517, 1520",3
+Križevačka županija,459,Filyphfalwa,908 922 2469,Filyphfalwa | Fylippfalwa | Philipfalwa,"1507, 1513, 1517",3
+Križevačka županija,464,Foryanowcz,916,Foryanowcz,"1507, 1512, 1513",3
+Križevačka županija,478,Garyghnycze,940 941,Garyghnycze | Garygnycza,"1517, 1533",3
+Križevačka županija,491,Gerwasowcz,957,Gerwasowcz,"1495, 1513, 1520",3
+Križevačka županija,492,Gerzencze,958,Gerzencze,"1507, 1517",3
+Križevačka županija,500,"Glokosowcz, Mylethynch",976,"Glokosowcz, Mylethynch",1520,3
+Križevačka županija,550,Grexyncz,1083 1084,Grexincz | Grexyncz,"1495, 1507",3
+Križevačka županija,570,Hathko,1125 1127,Hathko | Hatko,"1495, 1507",3
+Križevačka županija,576,Herbothowcz,1135 1136 1141,Herbolthoucz | Herbolthowcz | Herbothowcz,"1507, 1513, 1520",3
+Križevačka županija,577,Herbolthya,1137 1138,Herbolthya | Herbolthyo,"1507, 1513",3
+Križevačka županija,580,Heresyncz,1143 1144 1150,Heressyncz | Heresyncz | Herysynch,"1507, 1513, 1517",3
+Križevačka županija,601,Hrasthan,1174,Hrasthan,1520,3
+Križevačka županija,635,Isanowcz,1238,Isanowcz,"1507, 1520",3
+Križevačka županija,670,Jarosyna,1327 1328,Jarosin | Jarosyna,"1495, 1513",3
+Križevačka županija,697,Kamarya,1405,Kamarya,"1495, 1507, 1517",3
+Križevačka županija,699,Kamechecz-ad Nagh Kemlek,1407 1410 1411,Kamechecz-ad Nagh Kemlek | Kamechnycza ad Nagkemlek | Kamechnycza-ad Nagh Kemlek,"1512, 1513, 1520",3
+Križevačka županija,716,Kerhennyna,1446,Kerhennyna,1495,3
+Križevačka županija,734,Knesancz,1476 1479,Knesancz | Knessancz,"1507, 1513, 1517",3
+Križevačka županija,760,Konczka,1512,Konczka,1520,3
+Križevačka županija,764,Konthowcz,1519,Konthowcz,"1513, 1517",3
+Križevačka županija,774,Kwpozoucz,1536 1671,Kopozowcz | Kwpozoucz,"1507, 1513",3
+Križevačka županija,806,Kozak,1579,Kozak,"1512, 1513, 1520",3
+Križevačka županija,915,Lwbewschycza,1833 1834,Lwbeschycza | Lwbewschycza,"1495, 1507, 1533",3
+Križevačka županija,916,Lwchan,1837,Lwchan,"1507, 1512",3
+Križevačka županija,920,Lyplan,1870 1871,Lyplan | Lyplyan,"1512, 1513, 1520",3
+Križevačka županija,963,Mathwch,1980,Mathwch,1520,3
+Križevačka županija,965,Mechenycze,1984 2011,Mechenycze | Mekchenycze,"1495, 1507, 1517",3
+Križevačka županija,986,Mislenincz,2033 2137,Mislenincz | Myslenynch,"1512, 1513",3
+Križevačka županija,1000,Mokrycza,2051,Mokrycza,"1507, 1513, 1520",3
+Križevačka županija,1043,Nesethyno,2171,Nesethyno,"1507, 1517",3
+Križevačka županija,1060,Obchewcz,2212 2213,Obchewch | Obchewcz,"1512, 1513, 1520",3
+Križevačka županija,1062,Obranowcz Zenthmichael,2216,Obranowcz Zenthmichael,1495,3
+Križevačka županija,1128,Parwsowcz ad Belam,2388,Parwsowcz ad Belam,1495,3
+Križevačka županija,1131,Paschyncz,2392 2393,Paschyn | Paschyncz,"1507, 1513, 1517",3
+Križevačka županija,1139,Pekercz,2406,Pekercz,"1495, 1507",3
+Križevačka županija,1140,Peklencze-waywodatus inferior,2407 2412,Pekercz-waywodatus inferior | Peklencze-waywodatus inferior,1495,3
+Križevačka županija,1143,Pekerzerdahel,2410,Pekerzerdahel,1495,3
+Križevačka županija,1144,Peklenycze,2411 2414,Peklencze | Peklenycze,"1495, 1507, 1517",3
+Križevačka županija,1179,Podgorya-ad Zenthlelek,2496,Podgorya-ad Zenthlelek,1517,3
+Križevačka županija,1201,Polosythycza,2544,Polosythycza,"1495, 1507, 1517",3
+Križevačka županija,1210,Posahecz,2557,Posahecz,1513,3
+Križevačka županija,1223,Prastowcz,2579 2580 2581,Prasthowcz | Prasthyowcz* | Prastowcz,"1500, 1512, 1520",3
+Križevačka županija,1239,Pristawcz,2612 2631,Pristawcz | Prystawcz,"1495, 1512",3
+Križevačka županija,1246,Prwgowcz,2620,Prwgowcz,"1507, 1517",3
+Križevačka županija,1248,Prychrethye,2622,Prychrethye,"1507, 1513, 1517",3
+Križevačka županija,1289,Rassa,2701,Rassa,1507,3
+Križevačka županija,1312,Reche,2740,Reche,1520,3
+Križevačka županija,1321,Remethe,2753,Remethe,"1507, 1513, 1517",3
+Križevačka županija,1328,Rewche,2769,Rewche,1543,3
+Križevačka županija,1329,Rogaryewcz,2773 2774,Rogaryewcz | Rogaryowcz,"1507, 1512, 1520",3
+Križevačka županija,1337,Rosoncz,2803,Rosoncz,"1507, 1513, 1517",3
+Križevačka županija,1340,Royche,2808,Royche,1513,3
+Križevačka županija,1351,Salethyncz,2827,Salethyncz,"1507, 1513, 1517",3
+Križevačka županija,1376,Sanctus Nicolaus,2856,Sanctus Nicolaus,"1512, 1513, 1520",3
+Križevačka županija,1377,Sanctus Stephanus,2857,Sanctus Stephanus,"1512, 1513, 1520",3
+Križevačka županija,1417,Swmechecz,2955,Swmechecz,"1512, 1513, 1520",3
+Križevačka županija,1472,Therzthenycze,3056 3057,Therzthenycze | Thezthenycze,"1495, 1507, 1517",3
+Križevačka županija,1493,Twlowa,3088 3119,Thwlowa | Twlowa,"1495, 1513, 1520",3
+Križevačka županija,1500,Thybonyncz,3096,Thybonyncz,"1507, 1513, 1517",3
+Križevačka županija,1519,Wydyncz,3142 3359,Vidincz | Wydyncz,"1512, 1513, 1520",3
+Križevačka županija,1542,Waska,3186,Waska,"1507, 1513, 1517",3
+Križevačka županija,1545,Waska Zygeth,3189,Waska Zygeth,"1507, 1513, 1517",3
+Križevačka županija,1547,Wasmegywrechye,3191,Wasmegywrechye,1517,3
+Križevačka županija,1576,Wogrynocz,3275 3278 3279,Wogrinowcz | Wogrynocz | Wogrynowcz,"1507, 1520",3
+Križevačka županija,1593,Wratisincz,3337 3338 3339,Wrathysincz | Wrathyssyncz | Wratisincz,"1495, 1507, 1517",3
+Križevačka županija,1595,Wzmowcz,3352 3391,Wuzmoucz | Wzmowcz,"1507, 1512, 1513",3
+Križevačka županija,1598,Wyfalu ad Gemnecz,3362 3363 3364,Wyfalu ad Gemnecz | Wyfalw ad Gemlecz | Wyfalw- ad Gemlecz,"1512, 1513, 1520",3
+Križevačka županija,1617,Zagorya,3413,Zagorya,"1507, 1517",3
+Križevačka županija,1628,Zavamelleky,3445 3447 3449,Zavamelleky | Zawamelleke | Zawamelleky,"1507, 1512, 1520",3
+Križevačka županija,1657,Zemche,3505,Zemche,"1495, 1507",3
+Križevačka županija,1659,Zempche,3507 3508,Zempche | Zempcze,1517,3
+Križevačka županija,1708,Zenthlazlo,3619,Zenthlazlo,1520,3
+Križevačka županija,1785,Zuha Mlacha,3820 3822,Zuha Mlacha | Zuhamlacha,1507,3
+Križevačka županija,1801,Zylagh Zenthgyergh,3847 3850,Zylag Zenth Gergh | Zylagh Zenthgyergh,"1507, 1513",3
+Križevačka županija,1807,Zystan,3857 3858 3866,Zystan | Zysthyan | Zyzsthan,"1507, 1512, 1513",3
+Varaždinska županija,60,Batyna,117 118,Bathyna | Batyna,"1513, 1596",3
+Varaždinska županija,253,Cheresnye,518 519,Cheresnye | Cheresnyo,"1513, 1543",3
+Varaždinska županija,328,Crysancz,640,Crysancz,"1507, 1513",3
+Varaždinska županija,1039,Naseuyna,2165,Naseuyna,"1543, 1554",3
+Varaždinska županija,1338,Rowno,2806,Rowno,1596,3
+Virovitička županija,347,Decze,684,Decze,"1507, 1513",3
+Virovitička županija,847,Kyralowcz-cum pertinentiis,1701 1702,Kyralowcz-cum pertinentiis | Kyralyowcz cum pertinientiis,"1513, 1517",3
+Virovitička županija,956,Martinowcz,1955 1964,Martinowcz | Martynoucz,"1507, 1513, 1517",3
+Virovitička županija,975,Mendzent,2016 2018 2120,Mendzent | Mendzenth | Myndzenth,"1507, 1520",3
+Virovitička županija,1026,Myndczenth,2115,Myndczenth,"1513, 1517, 1520",3
+Virovitička županija,1556,Wereucze-oppidi,3223 3226,Wereucze-oppidi | Werewcze-oppidum,"1513, 1517",3
+Virovitička županija,1574,"Wlachyn, utraque Rawennyk",3272 3273,"Wlachyn, utraque Rawennyk | Wlachyn, utraque Rawenyk","1507, 1513, 1517",3
+Virovitička županija,1645,Zehanowcz,3475,Zehanowcz,"1513, 1517, 1520",3
+Virovitička županija,1722,Zkakala,3676,Zkakala,"1507, 1520",3
+Zagrebačka županija,495,Glaunycza Sanctae Trinitatis,961,Glaunycza Sanctae Trinitatis,1596,3
+Zagrebačka županija,604,Hrastovica cum pertinentiis,1177 1178 1188,Hrastovica cum pertinentiis | Hrastowicza cum pertinentiis | Hraztoyczam cum pertinentiis,"1543, 1553, 1574",3
+Zagrebačka županija,1197,Pokwpzkywerh,2526 2539,Pokopzky Verh | Pokwpzkywerh,"1573, 1574, 1579",3
+Zagrebačka županija,1217,Pozawye,2568 2570,Pozavye | Pozawye,"1579, 1582, 1596",3
+Križevačka županija,14,Also Gerzencze,19 27,Allso Gerzencze | Also Gerzencze,"1507, 1517",2
+Križevačka županija,22,Also Totusewyna,36 37,Also Thothwssewyna | Also Totusewyna,"1507, 1517",2
+Križevačka županija,29,Apathowcz,69,Apathowcz,1520,2
+Križevačka županija,39,Babynschyna,88 263,Babynschyna | Bobinschyna,"1495, 1507",2
+Križevačka županija,40,"Babynschyna, Koren",89 90,"Babynschyna, Koren | Babynsthyna, Koren","1513, 1520",2
+Križevačka županija,42,Baganoz,92,Baganoz,1507,2
+Križevačka županija,43,Bagenowcz,93,Bagenowcz,1517,2
+Križevačka županija,46,Bakolcza,97,Bakolcza,1495,2
+Križevačka županija,51,Banowch,104 105,Banowch | Banowcz,"1513, 1520",2
+Križevačka županija,53,Banthusovcz,107 108,Banthusovcz | Banthwsoucz,"1507, 1512",2
+Križevačka županija,56,Baranowcz,113,Baranowcz,1517,2
+Križevačka županija,76,Belcheucz,151 152,Belcheucz | Belchewcz,"1507, 1520",2
+Križevačka županija,101,Bersancz ad Kaproncza,207 343,Bersancz ad Kaproncza | Bresancz ad Kaproncza,"1513, 1520",2
+Križevačka županija,104,Bersthianoucz,210,Bersthianoucz,1507,2
+Križevačka županija,107,Berywoy-provincia (Zenth Iwan?),213,Berywoy-provincia (Zenth Iwan?),1495,2
+Križevačka županija,109,Berzewcz-provincia inferior,218 220,Berzewcz-provincia inferior | Berzewcze-provincia inferior,"1513, 1517",2
+Križevačka županija,110,Berzewcze,219,Berzewcze,"1513, 1517",2
+Križevačka županija,111,Berzyncz,221,Berzyncz,"1513, 1520",2
+Križevačka županija,112,Besenowcz,222,Besenowcz,"1507, 1513",2
+Križevačka županija,121,Blagay,232,Blagay,1495,2
+Križevačka županija,126,Blasewerh-ad Achyna,242 243,Blasewerh-ad Achyna | Blasewwerh-ad Achynam,"1513, 1517",2
+Križevačka županija,139,Bolethyna,283 284,Bolethyna | Bolethyno,1507,2
+Križevačka županija,153,Bothcafeld,324,Bothcafeld,1507,2
+Križevačka županija,168,Bresnycza-ad Achynam,346,Bresnycza-ad Achynam,1517,2
+Križevačka županija,178,"Brezthowcz, Dolina",364 365,"Brezthowcz, Dechyna | Brezthowcz, Dolina","1513, 1520",2
+Križevačka županija,190,Bukovcz,385,Bukovcz,1512,2
+Križevačka županija,203,Bwsthincz,411 412,Bwsthincz | Bwsthyncz,"1507, 1512",2
+Križevačka županija,212,Bykalla,432 433,Bykalla | Bykalya,"1513, 1520",2
+Križevačka županija,213,Bykchelethincz,434 435,Bykchelethincz | Bykczelethyncz,"1507, 1512",2
+Križevačka županija,234,Chaktornya,483,Chaktornya,1507,2
+Križevačka županija,240,Chebenowcz,500,Chebenowcz,1495,2
+Križevačka županija,273,Cheztylowcz,555 556,Chezthylowcz | Cheztylowcz,"1495, 1513",2
+Križevačka županija,290,Cyglena,586 646,Chyglena | Cyglena,"1507, 1512",2
+Križevačka županija,305,"Coren, Zdela",605,"Coren, Zdela",1520,2
+Križevačka županija,333,Czerowycza Zentiwan,657 659,Czerowycza Zenth Iwan | Czerowycza Zentiwan,"1573, 1576",2
+Križevačka županija,350,Derkowcz,689,Derkowcz,"1513, 1520",2
+Križevačka županija,385,Dragalen,745,Dragalen,1495,2
+Križevačka županija,387,Dragalyna,747,Dragalyna,1517,2
+Križevačka županija,411,Dwgy Werh,791,Dwgy Werh,1495,2
+Križevačka županija,421,Dyakowch,820 821,Dyakowch | Dyakowcz,"1517, 1520",2
+Križevačka županija,424,Dymychffeld,827,Dymychffeld,1517,2
+Križevačka županija,449,Felsew Gerzencze,871,Felsew Gerzencze,"1507, 1517",2
+Križevačka županija,452,Felsew Totusewyna,879 880,Felsew Thothwssewyna | Felsew Totusewyna,"1507, 1517",2
+Križevačka županija,474,Galowcz,936,Galowcz,"1512, 1520",2
+Križevačka županija,484,Gedrocz,949 950,Gedrocz | Gedrowcz,"1513, 1520",2
+Križevačka županija,485,Gemelgfelde,951,Gemelgfelde,1495,2
+Križevačka županija,505,"Gorbonok, Drawamelleke",982 983,"Gorbonok, Drawamelleke | Gorbonok, Drawamelleky","1513, 1517",2
+Križevačka županija,508,Gorbowa,992,Gorbowa,1517,2
+Križevačka županija,552,Grymoucz,1087 1088,Grymoucz | Grymowcz,1507,2
+Križevačka županija,562,Gymelchfeld,1110,Gymelchfeld,1507,2
+Križevačka županija,564,Gywrethyncz,1114,Gywrethyncz,1517,2
+Križevačka županija,571,Hathkozenth Mihal,1126 1159,Hathkozenth Mihal | Hothko Zenth Myhal,1507,2
+Križevačka županija,574,Hedrihowcz,1130 1131,Hedrihowcz | Hedryhowcz,"1513, 1520",2
+Križevačka županija,593,Hothowa,1161,Hothowa,"1513, 1520",2
+Križevačka županija,596,Hozywfalw,1164 1220,Hozywfalw | Hwzywfalu,"1507, 1517",2
+Križevačka županija,612,Hromchovcz,1193 1194,Hromchovcz | Hromchowcz,"1512, 1513",2
+Križevačka županija,631,Inferior Vaska,1230 1231,Inferior Vaska | Inferior Waska,1507,2
+Križevačka županija,640,Izdencz,1258,Izdencz,"1495, 1533",2
+Križevačka županija,642,Jacupelcz,1260,Jacupelcz,"1507, 1512",2
+Križevačka županija,646,Jakopowcz,1270 1281,Jakopowcz | Jakwpowcz,"1513, 1517",2
+Križevačka županija,651,Jakwpelcz,1280,Jakwpelcz,"1513, 1520",2
+Križevačka županija,684,Jelye,1374 1376,Jellye | Jelye,"1507, 1517",2
+Križevačka županija,686,Jenderkowcz ad Garigh,1380 1382,Jenderkowcz ad Garigh | Jenderkowcz-ad Garych,"1512, 1520",2
+Križevačka županija,688,Jerosyn,1384,Jerosyn,1520,2
+Križevačka županija,718,Kerhnyewyna,1448,Kerhnyewyna,1507,2
+Križevačka županija,735,Knesech,1477 1478,Knesech | Knesecz,"1512, 1520",2
+Križevačka županija,739,Kobyle,1484 1488,Kobyle | Kobylye,"1513, 1520",2
+Križevačka županija,749,Kolaryewcz,1497 1498,Kolaryewcz | Kolaryewecz,"1513, 1520",2
+Križevačka županija,753,Komarcha,1503 1504,Komarcha | Komarcza,1507,2
+Križevačka županija,772,Kophachowcz,1532,Kophachowcz,1517,2
+Križevačka županija,773,"Kopino, Sabnicha",1533 1534,"Kopino, Sabnicha | Kopino, Sabpnicha","1512, 1513",2
+Križevačka županija,780,"Koren, Zdelya",1544,"Koren, Zdelya",1513,2
+Križevačka županija,783,Koroska,1549,Koroska,"1513, 1520",2
+Križevačka županija,814,Krachowcz,1619 1633,Krachowcz | Krayachowcz,"1513, 1520",2
+Križevačka županija,821,Krenyn,1635,Krenyn,1513,2
+Križevačka županija,827,Krysnychicha ad Galgwncza,1642 1643,Krysnychicha ad Galgwncza | Krysnychycza-ad Galgoncza,"1507, 1513",2
+Križevačka županija,836,Kwkchowcz,1662,Kwkchowcz,1495,2
+Križevačka županija,856,Labasowcz,1717 1718,Labasowcz | Labassowcz,"1512, 1520",2
+Križevačka županija,857,Labazowcz,1719,Labazowcz,1513,2
+Križevačka županija,865,Lathcowyna,1734,Lathcowyna,1507,2
+Križevačka županija,878,Lepsincz,1765 1766,Lepsincz | Lepsyncz,"1512, 1513",2
+Križevačka županija,879,Leschan,1768,Leschan,1507,2
+Križevačka županija,880,Lesnekheg,1770,Lesnekheg,1507,2
+Križevačka županija,895,Lochan,1799,Lochan,"1513, 1520",2
+Križevačka županija,912,Lubewschycza ad Nagkemlek,1823 1892,Lubewschycza ad Nagkemlek | Lywbeschycha-ad Nagh Kemlek,"1512, 1513",2
+Križevačka županija,924,Lyppycha,1882 1883,Lyppycha | Lyppycza,"1513, 1520",2
+Križevačka županija,939,Manchewcz,1918,Manchewcz,1495,2
+Križevačka županija,953,Marthynowcz,1946,Marthynowcz,1495,2
+Križevačka županija,957,Maryancz,1970,Maryancz,"1513, 1517",2
+Križevačka županija,964,"Mathwsowcz, Marthynowcz",1981,"Mathwsowcz, Marthynowcz",1520,2
+Križevačka županija,969,Meglich,2001,Meglich,1507,2
+Križevačka županija,1003,Molywa,2057,Molywa,"1513, 1520",2
+Križevačka županija,1024,"Mylethynch, Kamarcha",2111 2113,"Mylethynch, Kamarcha | Mylethyncz, Camarcha","1513, 1520",2
+Križevačka županija,1044,Nethech,2172 2173,Nethech | Nethecz,"1507, 1513",2
+Križevačka županija,1082,"Omnii Sancti (Svi Sveti, Sesvete)",2266,"Omnii Sancti (Svi Sveti, Sesvete)",1512,2
+Križevačka županija,1110,Othnya Zenth Pal,2340,Othnya Zenth Pal,"1507, 1520",2
+Križevačka županija,1114,Owar ad Caproncza,2350 2351,Owar ad Caproncza | Owar ad Koproncza,"1513, 1520",2
+Križevačka županija,1121,Palata,2373 2374,Palata | Palatha,"1512, 1513",2
+Križevačka županija,1123,Palotha,2376,Palotha,"1507, 1520",2
+Križevačka županija,1136,"Pawlochancz, Brezowcz",2400,"Pawlochancz, Brezowcz","1507, 1513",2
+Križevačka županija,1142,Pekercz-waywodatus superior,2409 2413,Pekercz-waywodatus superior | Peklencze-waywodatus superior,1495,2
+Križevačka županija,1145,Pekrecz,2415,Pekrecz,1507,2
+Križevačka županija,1150,Persinowcz,2420 2421,Persinowcz | Persynoucz,"1533, 1543",2
+Križevačka županija,1161,Petrowcz,2448,Petrowcz,"1495, 1543",2
+Križevačka županija,1184,Podkrayta,2501,Podkrayta,1517,2
+Križevačka županija,1213,Pothkraycz,2561,Pothkraycz,1513,2
+Križevačka županija,1222,Prasnycza-fortalitium novum,2577,Prasnycza-fortalitium novum,1543,2
+Križevačka županija,1225,Prebinowcz,2583,Prebinowcz,1520,2
+Križevačka županija,1238,Prykray ad Zenth Gergwara,2611 2629,Prikray ad Zenthgeorghwara | Prykray ad Zenth Gergwara,"1507, 1520",2
+Križevačka županija,1272,Radnak,2662,Radnak,1512,2
+Križevačka županija,1275,Radozlawcz,2666,Radozlawcz,1495,2
+Križevačka županija,1277,Rahocza,2669,Rahocza,1517,2
+Križevačka županija,1285,Ramachawelgh,2696 2697,Ramacha Welge | Ramachawelgh,"1507, 1517",2
+Križevačka županija,1304,Razossya,2725,Razossya,1495,2
+Križevačka županija,1313,Reche-Suppanatus,2741 2809,Reche-Suppanatus | Royche-supanatus,"1513, 1520",2
+Križevačka županija,1314,Reche-Vayuodatus,2742 2810,Reche-Vayuodatus | Royche-waywodatus,"1513, 1520",2
+Križevačka županija,1319,Reka cum pertinetiis Kys Kemlek,2750 2751,Reka cum pertinentiis Kys Kemlek | Reka cum pertinetiis Kys Kemlek,1570,2
+Križevačka županija,1341,Rwchlewcz,2811,Rwchlewcz,1495,2
+Križevačka županija,1349,Sabnycza-in Markowcz,2825,Sabnycza-in Markowcz,1520,2
+Križevačka županija,1401,Sokowcz,2926,Sokowcz,"1513, 1520",2
+Križevačka županija,1436,"Temerye, Czezarowcz",3001,"Temerye, Czezarowcz",1513,2
+Križevačka županija,1455,Themeryen,3030,Themeryen,1520,2
+Križevačka županija,1457,"Therbenye, Lwkaucz",3032 3033,"Therbenye, Lwkaucz | Therbenye, Lwkawecz","1513, 1517",2
+Križevačka županija,1479,Thopolchazenthgergh,3070,Thopolchazenthgergh,1533,2
+Križevačka županija,1480,Thopolyancz,3071,Thopolyancz,1517,2
+Križevačka županija,1486,Thothwsewyna,3077 3100,Thothwsewyna | Tothwssewyna,"1533, 1543",2
+Križevačka županija,1490,Tremysche,3084 3112,Thremyschye | Tremysche,"1507, 1517",2
+Križevačka županija,1506,Trombetharyewcz,3113 3114,Trombetharyewcz | Trumbetharyewcz,"1512, 1520",2
+Križevačka županija,1562,Werhoucz,3231 3233,Werhoucz | Werhowcz,"1507, 1520",2
+Križevačka županija,1564,Wertlyn,3237 3239,Werthlin | Wertlyn,"1507, 1512",2
+Križevačka županija,1569,Wezelkowcz,3243 3244,Wezelkowcz | Wezolkowcz,"1513, 1520",2
+Križevačka županija,1570,"Wogrynowcz, Markowcz",3258 3280,"Wgrynowcz, E203Markowcz | Wogrynowcz, Markowcz","1513, 1520",2
+Križevačka županija,1587,Woznekowcz,3317,Woznekowcz,1513,2
+Križevačka županija,1602,Wywaras,3386,Wywaras,"1513, 1517",2
+Križevačka županija,1619,Zagyowcza,3418,Zagyowcza,1513,2
+Križevačka županija,1637,Zdenchec ad Kaproncza,3465 3473,Zdenchec ad Kaproncza | Zedenchecz ad Kapruncza,"1507, 1513",2
+Križevačka županija,1640,Zdencz,3468,Zdencz,1507,2
+Križevačka županija,1644,Zedinyncz,3474,Zedinyncz,"1507, 1517",2
+Križevačka županija,1655,Zelyancz,3495,Zelyancz,"1579, 1582",2
+Križevačka županija,1671,Zenthandras,3524 3595,Zenth Andras | Zenthandras,"1507, 1517",2
+Križevačka županija,1678,"Zenth Iwan, Krysnychya",3556,"Zenth Iwan, Krysnychya",1520,2
+Križevačka županija,1688,Zenth Lewlek,3571,Zenth Lewlek,1507,2
+Križevačka županija,1714,Zerchewcz,3655 3656,Zerchewcz | Zerchewecz,"1513, 1520",2
+Križevačka županija,1716,"Zerdahel, Koren",3658,"Zerdahel, Koren","1513, 1520",2
+Križevačka županija,1717,"Zerdahel, Meghwreche",3659 3660,"Zerdahel, Meghwreche | Zerdahel, Megywrechye","1513, 1520",2
+Križevačka županija,1721,Zeyanohrazthye,3671,Zeyanohrazthye,1495,2
+Križevačka županija,1760,Zrednawecz,3767 3768,Zrednawecz | Zrednyawcz,"1512, 1513",2
+Križevačka županija,1768,Ztolnykowcz,3782 3807,Zthalnykowcz | Ztolnykowcz,"1513, 1520",2
+Križevačka županija,1792,Zwpya,3836,Zwpya,"1507, 1517",2
+Križevačka županija,1793,Zwsycha,3837,Zwsycha,1513,2
+Križevačka županija,1798,Zwzicha,3844,Zwzicha,1520,2
+Križevačka županija,1803,Zylagh-waywodatus inferior ad castrum Valpo,3852 3853,Zylagh-waywodatus inferior ad castrum Valpo | Zylagh-waywodatus superior ad castrum Walpho,1517,2
+Varaždinska županija,151,"Borychewcz, Marthyndoll",303,"Borychewcz, Marthyndoll",1596,2
+Varaždinska županija,176,Brezt,361,Brezt,1596,2
+Varaždinska županija,192,Bwdyslwcz,387 398,Bwdislawcz | Bwdyslwcz,"1543, 1570",2
+Varaždinska županija,250,Cherbyncz,515,Cherbyncz,1513,2
+Varaždinska županija,583,Herpeny,1147 1148,Herpeny | Herpenye,1507,2
+Varaždinska županija,882,Lestakowcz,1773 1778,Lestakowcz | Lesthakowcz,"1582, 1596",2
+Varaždinska županija,883,"Lestakowcz, Zwhodoll",1774 1780,"Lestakowcz, Zwhodoll | Lesthakowcz, Zwhodol","1582, 1596",2
+Varaždinska županija,1040,Nassenya,2166,Nassenya,1568,2
+Varaždinska županija,1195,Poklechan,2523 2524,Poklechan | Poklechancz,"1507, 1513",2
+Varaždinska županija,1698,Zenth Nedele,3586 3587,Zenth Nedele | Zenth Nedelew,"1507, 1513",2
+Varaždinska županija,1796,Zwthezka,3840,Zwthezka,"1507, 1513",2
+Virovitička županija,28,"Antholocz,Ramyncz,Chernecz, Thremecz",68,"Antholocz,Ramyncz,Chernecz, Thremecz",1520,2
+Virovitička županija,294,Chyztahrazthya,591 592,Chyzta Hrazthya | Chyztahrazthya,"1507, 1513",2
+Virovitička županija,351,Dersze,690,Dersze,1517,2
+Virovitička županija,352,Derze,691,Derze,1520,2
+Virovitička županija,820,Krayowcz,1634,Krayowcz,1507,2
+Virovitička županija,842,Kwthetincz,1689 1690,Kwthetincz | Kwthetyncz,"1513, 1517",2
+Virovitička županija,846,Kyralocz,1700,Kyralocz,1520,2
+Virovitička županija,1027,Myndczenth cum pertinentiis,2116 2117,Myndczenth cum pertinentiis | Myndczenth-cum pertinentiis,"1513, 1517",2
+Virovitička županija,1162,Petrowdolecz,2450,Petrowdolecz,"1513, 1517",2
+Virovitička županija,1214,Powsevcz,2563,Powsevcz,1520,2
+Virovitička županija,1443,Thalanoucz,3012,Thalanoucz,1507,2
+Virovitička županija,1445,"Thallocz, Lyppa, Martinowcz",3014,"Thallocz, Lyppa, Martinowcz",1520,2
+Virovitička županija,1446,Thaloucz,3015,Thaloucz,1507,2
+Virovitička županija,1558,Werewcze-provincia opidi,3227,Werewcze-provincia opidi,1507,2
+Virovitička županija,1575,"Wugrynincz, Wlachyn, uterque Ravenyk",3274 3351,"Wogrinencz, Wlachyn, utraque Rawennyk | Wugrynincz, Wlachyn, uterque Ravenyk","1507, 1517",2
+Virovitička županija,1577,"Wogrynecz, Wlachin",3276 3281,"Wogrynecz, Wlachin | Wogrynyncz, Wlachyn","1513, 1517",2
+Virovitička županija,1626,Zanowcz,3443 3779,Zanowcz | Ztanowcz,1507,2
+Zagrebačka županija,127,"Blaskoucz, Glavnycza",244 245,"Blaskoucz, Glavnycza | Blaskowcz, Glawnycza","1582, 1596",2
+Zagrebačka županija,129,"Blathno, Remethinczy, Lwka",247 248,"Blathno, Remethinczy, Lwka | Blathno, Remethinczy, Lwka*",1509,2
+Zagrebačka županija,142,Bona-Nicolaus Zrini,287 288,Bona-Nicolaus Zrini | Bona-Nicolaus Zryny,1533,2
+Zagrebačka županija,177,Brezth,362,Brezth,"1507, 1517",2
+Zagrebačka županija,278,Chrechan,563 564,Chrechan | Chrechancz,"1517, 1533",2
+Zagrebačka županija,348,Dedochay sub Pokwpye,685,Dedochay sub Pokwpye,"1553, 1554",2
+Zagrebačka županija,370,Dobrawa ad Lythwuanych,712 713,Dobrawa ad Lythwuanych | Dobrawa villa ad Lythwanych,"1517, 1520",2
+Zagrebačka županija,409,Dwbowecz,788,Dwbowecz,1509,2
+Zagrebačka županija,414,Dworane,801,Dworane,"1574, 1582",2
+Zagrebačka županija,494,Glagowo,960,Glagowo,"1573, 1579",2
+Zagrebačka županija,689,Jezero,1388,Jezero,"1553, 1554",2
+Zagrebačka županija,694,Kalym,1401,Kalym,1520,2
+Zagrebačka županija,837,Kwpchancz,1664,Kwpchancz,"1568, 1570",2
+Zagrebačka županija,907,Lose,1818,Lose,"1553, 1554",2
+Zagrebačka županija,960,Maryncz,1977,Maryncz,1507,2
+Zagrebačka županija,1149,Perhoch,2419,Perhoch,"1553, 1554",2
+Zagrebačka županija,1182,Podgradie,2499,Podgradie,1509,2
+Zagrebačka županija,1264,Pzaryewo,2649,Pzaryewo,1517,2
+Zagrebačka županija,1359,Sancta Elena,2839,Sancta Elena,"1509, 1517",2
+Zagrebačka županija,1466,"Thernowcz, Zobachlaz",3049,"Thernowcz, Zobachlaz","1553, 1554",2
+Zagrebačka županija,1492,Thryen,3087,Thryen,1576,2
+Zagrebačka županija,1563,Werhowch,3232 3234,Werhowch | Werhowcz,"1553, 1554",2
+Zagrebačka županija,1774,Zthawethichy,3792,Zthawethichy,1509,2
+Zagrebačka županija,1808,Zythecz,3859,Zythecz,1507,2
+Križevačka županija,9,Ahmath,13,Ahmath,1507,1
+Križevačka županija,10,Aladarocz,14,Aladarocz,1495,1
+Križevačka županija,11,"Aladaryowch, Mylethyncz",15,"Aladaryowch, Mylethyncz",1513,1
+Križevačka županija,13,Alexandrocz,18,Alexandrocz,1507,1
+Križevačka županija,17,Also Izdencz,28,Also Izdencz,1507,1
+Križevačka županija,27,Andraswelgh,67,Andraswelgh,1517,1
+Križevačka županija,45,Bakheg,96,Bakheg,1507,1
+Križevačka županija,47,"Bakolcza, Zygeth",98,"Bakolcza, Zygeth",1495,1
+Križevačka županija,52,"Banowcz, Gorycza",106,"Banowcz, Gorycza",1495,1
+Križevačka županija,54,Bara ad Belam,110,Bara ad Belam,1495,1
+Križevačka županija,57,Barowcz,114,Barowcz,1507,1
+Križevačka županija,58,Barswelge,115,Barswelge,1517,1
+Križevačka županija,77,Belchowcz,153,Belchowcz,1513,1
+Križevačka županija,84,Belkowcz,165,Belkowcz,1512,1
+Križevačka županija,87,Belwdoch-villicatus ad Zenth Georghwara,176,Belwdoch-villicatus ad Zenth Georghwara,1520,1
+Križevačka županija,88,Belwdowcz ad Zenth Gergwara,177,Belwdowcz ad Zenth Gergwara,1507,1
+Križevačka županija,89,Belywdowcz,182,Belywdowcz,1513,1
+Križevačka županija,90,Benchethyncz,183,Benchethyncz,1517,1
+Križevačka županija,94,Berdekowcz ad Belam,191,Berdekowcz ad Belam,1495,1
+Križevačka županija,96,Beregi,194,Beregi,1507,1
+Križevačka županija,102,Berschanowcz,208,Berschanowcz,1495,1
+Križevačka županija,103,Bersthanowcz cum pertinentiis,209,Bersthanowcz cum pertinentiis,1495,1
+Križevačka županija,105,Berywoy (Zenth Iwan?),211,Berywoy (Zenth Iwan?),1495,1
+Križevačka županija,106,Berywoy-oppidum (Zenth Iwan?),212,Berywoy-oppidum (Zenth Iwan?),1495,1
+Križevačka županija,122,"Blagay, Glogowy",233,"Blagay, Glogowy",1495,1
+Križevačka županija,125,Blasew Werh,241,Blasew Werh,1507,1
+Križevačka županija,140,Bona-Hampo,285,Bona-Hampo,1533,1
+Križevačka županija,144,Bonowk,290,Bonowk,1507,1
+Križevačka županija,149,Borowe,299,Borowe,1495,1
+Križevačka županija,154,Bothezyncz,325,Bothezyncz,1520,1
+Križevačka županija,160,Bradechyna ad Garych,336,Bradechyna ad Garych,1513,1
+Križevačka županija,162,Bradna inferior,338,Bradna inferior,1495,1
+Križevačka županija,165,Bregchewcz,342,Bregchewcz,1507,1
+Križevačka županija,166,Breschyna,344,Breschyna,1507,1
+Križevačka županija,171,Brestoycha,351,Brestoycha,1512,1
+Križevačka županija,172,Brezewcze cum pertinentiis,352,Brezewcze cum pertinentiis,1507,1
+Križevačka županija,174,Brezoycha-ad Nagh Kemlek,358,Brezoycha-ad Nagh Kemlek,1513,1
+Križevačka županija,182,"Brezyna, Chakowcz",371,"Brezyna, Chakowcz",1513,1
+Križevačka županija,186,Brysnyak,381,Brysnyak,1507,1
+Križevačka županija,193,Bwdnak,388,Bwdnak,1512,1
+Križevačka županija,220,Byzkelethycz,456,Byzkelethycz,1513,1
+Križevačka županija,221,Camarcha,469,Camarcha,1520,1
+Križevačka županija,222,"Camarcha, Thwlowa",470,"Camarcha, Thwlowa",1520,1
+Križevačka županija,223,Campus,471,Campus,1513,1
+Križevačka županija,224,Campus-Sancta Maria Virginis in Campo,472,Campus-Sancta Maria Virginis in Campo,1520,1
+Križevačka županija,226,"Cappela,Kelyanowcz",474,"Cappela,Kelyanowcz",1513,1
+Križevačka županija,233,"Chakowcz, Brezyna",482,"Chakowcz, Brezyna",1517,1
+Križevačka županija,238,Charzyncz,492,Charzyncz,1517,1
+Križevačka županija,241,Chehowyna ad portionem,501,Chehowyna ad portionem,1495,1
+Križevačka županija,249,"Cherbenye, Lwkawecz",514,"Cherbenye, Lwkawecz",1507,1
+Križevačka županija,257,Chernareca,523,Chernareca,1507,1
+Križevačka županija,266,Chero berdo,541,Chero berdo,1512,1
+Križevačka županija,267,Cherowoberdo,542,Cherowoberdo,1512,1
+Križevačka županija,270,Chesthylowcz,551,Chesthylowcz,1520,1
+Križevačka županija,271,Chethertekhel,552,Chethertekhel,1495,1
+Križevačka županija,272,Chezmycza Zenth Iwan,554,Chezmycza Zenth Iwan,1574,1
+Križevačka županija,276,Chowcowyna,561,Chowcowyna,1507,1
+Križevačka županija,277,Chowkowyna,562,Chowkowyna,1517,1
+Križevačka županija,279,Chremysthe,565,Chremysthe,1513,1
+Križevačka županija,283,Chrysthalowcz-cum provincia et pertinentiis,573,Chrysthalowcz-cum provincia et pertinentiis,1533,1
+Križevačka županija,285,Chwchwwachincz,577,Chwchwwachincz,1495,1
+Križevačka županija,286,Chwdowcz,578,Chwdowcz,1543,1
+Križevačka županija,289,Chyglana,585,Chyglana,1513,1
+Križevačka županija,291,Chygleno,587,Chygleno,1520,1
+Križevačka županija,297,"Clobwk, Jalsewcz, Zenth Iwan",596,"Clobwk, Jalsewcz, Zenth Iwan",1495,1
+Križevačka županija,299,Clwch,598,Clwch,1512,1
+Križevačka županija,300,Conthowcz,600,Conthowcz,1507,1
+Križevačka županija,302,Copozowcz,602,Copozowcz,1512,1
+Križevačka županija,303,Corbowa,603,Corbowa,1495,1
+Križevačka županija,304,Coren,604,Coren,1507,1
+Križevačka županija,306,Coroska,606,Coroska,1495,1
+Križevačka županija,307,Corpus Christi in Prodauiz,607,Corpus Christi in Prodauiz,1520,1
+Križevačka županija,308,Cothnyak,608,Cothnyak,1520,1
+Križevačka županija,309,Coznethyno,609,Coznethyno,1520,1
+Križevačka županija,313,Crachowcz,614,Crachowcz,1517,1
+Križevačka županija,319,Crawloch,620,Crawloch,1520,1
+Križevačka županija,320,Crethyn in Dobrachwcha,621,Crethyn in Dobrachwcha,1495,1
+Križevačka županija,325,Crisnychya,632,Crisnychya,1500,1
+Križevačka županija,326,Crisnychya ad Galgoycza,633,Crisnychya ad Galgoycza,1520,1
+Križevačka županija,329,Crysthesawcz-ad Galgowcz,642,Crysthesawcz-ad Galgowcz,1513,1
+Križevačka županija,330,Cryznychycha-ad Zenthywan dicata,643,Cryznychycha-ad Zenthywan dicata,1513,1
+Križevačka županija,331,Cwlpowcz,645,Cwlpowcz,1512,1
+Križevačka županija,334,Czerowycza Zenth Iwan- ad Zenth Gergerwara,658,Czerowycza Zenth Iwan- ad Zenth Gergerwara,1513,1
+Križevačka županija,335,Czerowycza-ad Zenth Gerghwara,660,Czerowycza-ad Zenth Gerghwara,1520,1
+Križevačka županija,337,Czome,663,Czome,1507,1
+Križevačka županija,344,Dawch,681,Dawch,1520,1
+Križevačka županija,346,Declyna,683,Declyna,1495,1
+Križevačka županija,349,Dercowcz,688,Dercowcz,1512,1
+Križevačka županija,354,Desowcz,693,Desowcz,1520,1
+Križevačka županija,355,Deykowcz-de Waska,694,Deykowcz-de Waska,1513,1
+Križevačka županija,357,Dimikowcz,696,Dimikowcz,1512,1
+Križevačka županija,361,Dobochecz,701,Dobochecz,1517,1
+Križevačka županija,364,Dobowyna,705,Dobowyna,1507,1
+Križevačka županija,365,Dobowyo in Berzewcze,706,Dobowyo in Berzewcze,1513,1
+Križevačka županija,367,Dobrachwcha,708,Dobrachwcha,1495,1
+Križevačka županija,368,Dobrachwcha cum pertinentiis,709,Dobrachwcha cum pertinentiis,1495,1
+Križevačka županija,377,Dolyan ad Belam,726,Dolyan ad Belam,1495,1
+Križevačka županija,380,Dombrensi,737,Dombrensi,1513,1
+Križevačka županija,382,"Dombro-oppidum, Gradecz",739,"Dombro-oppidum, Gradecz",1543,1
+Križevačka županija,383,"Dombro-provincia, ad Sanctum Michaelem",740,"Dombro-provincia, ad Sanctum Michaelem",1520,1
+Križevačka županija,386,Dragalyn ad Belam,746,Dragalyn ad Belam,1495,1
+Križevačka županija,392,Dragowya-ad Achynam,755,Dragowya-ad Achynam,1517,1
+Križevačka županija,393,Drakcha,759,Drakcha,1507,1
+Križevačka županija,397,Drasewcz,766,Drasewcz,1513,1
+Križevačka županija,398,Drasimercz,767,Drasimercz,1512,1
+Križevačka županija,410,Dwbyno,790,Dwbyno,1517,1
+Križevačka županija,415,Dworyancz,803,Dworyancz,1507,1
+Križevačka županija,423,Dyewsewcz,825,Dyewsewcz,1513,1
+Križevačka županija,437,Farcasovcz,854,Farcasovcz,1507,1
+Križevačka županija,440,Farkazowcz,858,Farkazowcz,1513,1
+Križevačka županija,457,Feyerkew,906,Feyerkew,1517,1
+Križevačka županija,458,Feyrkew-waywodatus cum pertinentiis,907,Feyrkew-waywodatus cum pertinentiis,1495,1
+Križevačka županija,465,Furmeghoch,917,Furmeghoch,1520,1
+Križevačka županija,467,Fychowcz,919,Fychowcz,1495,1
+Križevačka županija,468,Fyerky,920,Fyerky,1507,1
+Križevačka županija,470,Fynchewcz,923,Fynchewcz,1574,1
+Križevačka županija,473,Galowchecz,935,Galowchecz,1513,1
+Križevačka županija,475,Garazda,937,Garazda,1495,1
+Križevačka županija,507,Gorbonwkfew ad Zenth Gergwara,991,Gorbonwkfew ad Zenth Gergwara,1507,1
+Križevačka županija,517,Gotaleryancz,1011,Gotaleryancz,1507,1
+Križevačka županija,520,Graberiancz,1022,Graberiancz,1495,1
+Križevačka županija,529,Gradchyna-ad Garych,1040,Gradchyna-ad Garych,1520,1
+Križevačka županija,531,Gradysche,1044,Gradysche,1507,1
+Križevačka županija,534,Gramchoucz,1049,Gramchoucz,1507,1
+Križevačka županija,537,Greda,1056,Greda,1520,1
+Križevačka županija,538,Gredakowcz ad Gemnecz,1057,Gredakowcz ad Gemnecz,1512,1
+Križevačka županija,543,"Gregoryancz, Dorozlawcz, Camarcha",1065,"Gregoryancz, Dorozlawcz, Camarcha",1520,1
+Križevačka županija,545,"Gregoryowcz, Zaywsawcz",1068,"Gregoryowcz, Zaywsawcz",1513,1
+Križevačka županija,546,Gregsynch,1070,Gregsynch,1513,1
+Križevačka županija,548,Gregwrowcz-ad Nagh Kemlek,1079,Gregwrowcz-ad Nagh Kemlek,1513,1
+Križevačka županija,549,Grekzynchk,1082,Grekzynchk,1520,1
+Križevačka županija,553,Grysnyak,1089,Grysnyak,1517,1
+Križevačka županija,560,Gwdowcz-cum pertinentis,1102,Gwdowcz-cum pertinentis,1513,1
+Križevačka županija,566,Gywrynowcz,1120,Gywrynowcz,1533,1
+Križevačka županija,567,Habyanowcz,1121,Habyanowcz,1513,1
+Križevačka županija,569,Halehosowcz,1124,Halehosowcz,1495,1
+Križevačka županija,572,Haznarcz,1128,Haznarcz,1520,1
+Križevačka županija,573,"Haznarcz, Turkoucz",1129,"Haznarcz, Turkoucz",1596,1
+Križevačka županija,579,Hercowcz,1142,Hercowcz,1507,1
+Križevačka županija,581,Herethyncz,1145,Herethyncz,1520,1
+Križevačka županija,584,Heryowcz,1149,Heryowcz,1517,1
+Križevačka županija,585,Herzowa,1151,Herzowa,1507,1
+Križevačka županija,586,Hewiz-oppidum ad Dobrachwcha,1152,Hewiz-oppidum ad Dobrachwcha,1495,1
+Križevačka županija,592,Hothnya Zenth Pal,1160,Hothnya Zenth Pal,1513,1
+Križevačka županija,594,Hothowo ad Zenth Gergwara,1162,Hothowo ad Zenth Gergwara,1507,1
+Križevačka županija,595,Howano ad Kapruncza,1163,Howano ad Kapruncza,1507,1
+Križevačka županija,603,Hrastina,1176,Hrastina,1512,1
+Križevačka županija,613,Hromkowcz,1195,Hromkowcz,1520,1
+Križevačka županija,615,Hrustopecowyna,1198,Hrustopecowyna,1507,1
+Križevačka županija,617,Hrwskopekowyna,1200,Hrwskopekowyna,1517,1
+Križevačka županija,619,Hwethincz,1212,Hwethincz,1512,1
+Križevačka županija,620,Hwywaros,1217,Hwywaros,1507,1
+Križevačka županija,622,"Hwzarcz, Zenthywan",1219,"Hwzarcz, Zenthywan",1513,1
+Križevačka županija,630,Inferior Opathyncz,1229,Inferior Opathyncz,1520,1
+Križevačka županija,632,"Inoskowcz, Foryanowcz",1232,"Inoskowcz, Foryanowcz",1520,1
+Križevačka županija,639,Iwilovcz,1257,Iwilovcz,1495,1
+Križevačka županija,649,Jakowlewcz,1273,Jakowlewcz,1507,1
+Križevačka županija,652,Jakwpowcz ad Belam,1282,Jakwpowcz ad Belam,1495,1
+Križevačka županija,655,Jalkowcz,1289,Jalkowcz,1507,1
+Križevačka županija,663,Janenowcz,1317,Janenowcz,1520,1
+Križevačka županija,665,Janowcz,1319,Janowcz,1495,1
+Križevačka županija,666,Japathyncz,1322,Japathyncz,1517,1
+Križevačka županija,668,Jarna,1325,Jarna,1513,1
+Križevačka županija,669,Jarno,1326,Jarno,1495,1
+Križevačka županija,673,Jaworowcz,1332,Jaworowcz,1513,1
+Križevačka županija,674,Jaworowcz ad Zenth Gergwara,1333,Jaworowcz ad Zenth Gergwara,1507,1
+Križevačka županija,675,Jawowcz (Jalsowcz*),1334,Jawowcz (Jalsowcz*),1507,1
+Križevačka županija,676,Jawroch,1335,Jawroch,1520,1
+Križevačka županija,687,Jenderkowcz sub Garych,1381,Jenderkowcz sub Garych,1513,1
+Križevačka županija,695,Kamacza,1402,Kamacza,1513,1
+Križevačka županija,698,"Kamarya, Melesocz",1406,"Kamarya, Melesocz",1533,1
+Križevačka županija,707,Kaptholowcz,1430,Kaptholowcz,1517,1
+Križevačka županija,710,Kazmethyna,1438,Kazmethyna,1507,1
+Križevačka županija,712,Kelemynoch,1440,Kelemynoch,1507,1
+Križevačka županija,713,Kenchelowcz,1441,Kenchelowcz,1512,1
+Križevačka županija,717,Kerhennyna-waywodatus superior,1447,Kerhennyna-waywodatus superior,1495,1
+Križevačka županija,721,"Kernyn, Mathwsalowcz",1451,"Kernyn, Mathwsalowcz",1507,1
+Križevačka županija,722,Kerztynoucz,1454,Kerztynoucz,1507,1
+Križevačka županija,729,Klwch,1465,Klwch,1507,1
+Križevačka županija,736,Knesty,1480,Knesty,1507,1
+Križevačka županija,738,Knezecz,1482,Knezecz,1513,1
+Križevačka županija,746,Kochycze,1494,Kochycze,1543,1
+Križevačka županija,748,Kokorekowcz,1496,Kokorekowcz,1507,1
+Križevačka županija,754,Komaryn,1505,Komaryn,1495,1
+Križevačka županija,759,Komozowcz,1511,Komozowcz,1513,1
+Križevačka županija,767,Konzka-swpanathws,1527,Konzka-swpanathws,1507,1
+Križevačka županija,768,Konzka-woywodatus,1528,Konzka-woywodatus,1507,1
+Križevačka županija,770,Kopakowcz,1530,Kopakowcz,1495,1
+Križevačka županija,775,Kopynno,1537,Kopynno,1520,1
+Križevačka županija,776,Korbawa,1538,Korbawa,1507,1
+Križevačka županija,784,"Koroska, Bedowcz",1550,"Koroska, Bedowcz",1520,1
+Križevačka županija,786,Korusta,1552,Korusta,1507,1
+Križevačka županija,789,"Korythno, Bolch",1558,"Korythno, Bolch",1520,1
+Križevačka županija,790,"Korythno,Kebel, Dymytrowcz",1559,"Korythno,Kebel, Dymytrowcz",1513,1
+Križevačka županija,799,Kowachowcz,1572,Kowachowcz,1520,1
+Križevačka županija,804,Kozachyna-waywodatus inferior,1577,Kozachyna-waywodatus inferior,1495,1
+Križevačka županija,805,Kozachyna-waywodatus superior,1578,Kozachyna-waywodatus superior,1495,1
+Križevačka županija,807,Kozolowcz,1589,Kozolowcz,1507,1
+Križevačka županija,815,Krakowcz,1620,Krakowcz,1512,1
+Križevačka županija,816,Kralowcz,1621,Kralowcz,1513,1
+Križevačka županija,822,"Krenyn, Mathowcz",1636,"Krenyn, Mathowcz",1513,1
+Križevačka županija,823,"Krenyn, Pothna M.",1637,"Krenyn, Pothna M.",1513,1
+Križevačka županija,826,Krysnychicha,1641,Krysnychicha,1507,1
+Križevačka županija,829,Krysthalowcz,1649,Krysthalowcz,1533,1
+Križevačka županija,840,Kwskoucz,1681,Kwskoucz,1507,1
+Križevačka županija,843,Kwzmowcz,1696,Kwzmowcz,1520,1
+Križevačka županija,849,Kys Lownyk,1705,Kys Lownyk,1507,1
+Križevačka županija,858,Lachalowcz,1720,Lachalowcz,1495,1
+Križevačka županija,863,Laskaeghaz,1730,Laskaeghaz,1507,1
+Križevačka županija,866,Lathkowyna,1735,Lathkowyna,1517,1
+Križevačka županija,881,Lestacowcz,1771,Lestacowcz,1507,1
+Križevačka županija,884,"Lestchancz, Palynowcz ad Belam",1775,"Lestchancz, Palynowcz ad Belam",1495,1
+Križevačka županija,887,Lesthyan,1781,Lesthyan,1517,1
+Križevačka županija,890,Libewsthycza,1793,Libewsthycza,1500,1
+Križevačka županija,903,Loky,1812,Loky,1513,1
+Križevačka županija,904,Lombardya,1813,Lombardya,1495,1
+Križevačka županija,908,Lowchowcz,1819,Lowchowcz,1520,1
+Križevačka županija,913,Luchychowcz,1824,Luchychowcz,1495,1
+Križevačka županija,925,Lypsycza,1886,Lypsycza,1512,1
+Križevačka županija,926,Lywbesthycza-ad Kemlek,1893,Lywbesthycza-ad Kemlek,1520,1
+Križevačka županija,928,"Lywpkowcz, Zerdahel S.",1901,"Lywpkowcz, Zerdahel S.",1513,1
+Križevačka županija,929,Lyzychyncz,1902,Lyzychyncz,1517,1
+Križevačka županija,935,Malchewcz,1912,Malchewcz,1520,1
+Križevačka županija,937,Malchewcz-de Reka,1914,Malchewcz-de Reka,1520,1
+Križevačka županija,948,Maroucha,1935,Maroucha,1507,1
+Križevačka županija,961,Mathewsowcz,1978,Mathewsowcz,1513,1
+Križevačka županija,962,"Mathewsowcz, Zerdahel",1979,"Mathewsowcz, Zerdahel",1513,1
+Križevačka županija,967,Megereche cum provincia,1998,Megereche cum provincia,1495,1
+Križevačka županija,970,Megwrechye-oppidum,2004,Megwrechye-oppidum,1507,1
+Križevačka županija,972,Megyerlok,2007,Megyerlok,1533,1
+Križevačka županija,974,"Mellesowcz, Palychna",2013,"Mellesowcz, Palychna",1517,1
+Križevačka županija,992,Mnochowcz,2041,Mnochowcz,1513,1
+Križevačka županija,994,Mochrycha,2043,Mochrycha,1512,1
+Križevačka županija,995,Mochw,2044,Mochw,1513,1
+Križevačka županija,997,Modrowcz,2047,Modrowcz,1517,1
+Križevačka županija,999,Mogoyna,2050,Mogoyna,1507,1
+Križevačka županija,1001,Molwe ad Zenth Gergwara,2052,Molwe ad Zenth Gergwara,1507,1
+Križevačka županija,1004,Monchewcz,2059,Monchewcz,1512,1
+Križevačka županija,1010,"Mosynya, Meglecz",2070,"Mosynya, Meglecz",1513,1
+Križevačka županija,1014,Mwsyna,2075,Mwsyna,1507,1
+Križevačka županija,1015,"Myhalaowcz, Lypowcz",2076,"Myhalaowcz, Lypowcz",1520,1
+Križevačka županija,1016,Myhalencz,2077,Myhalencz,1507,1
+Križevačka županija,1017,"Myhalyownicza, Lypowcz",2081,"Myhalyownicza, Lypowcz",1513,1
+Križevačka županija,1023,Mykusewcz,2103,Mykusewcz,1507,1
+Križevačka županija,1025,Myndchenth,2114,Myndchenth,1513,1
+Križevačka županija,1029,Myndzenth-ad Racham,2122,Myndzenth-ad Racham,1517,1
+Križevačka županija,1035,Naghfalw,2150,Naghfalw,1495,1
+Križevačka županija,1045,Nezethyno,2174,Nezethyno,1513,1
+Križevačka županija,1046,Neznan,2175,Neznan,1495,1
+Križevačka županija,1049,Nofkowcz,2184,Nofkowcz,1513,1
+Križevačka županija,1053,Nova Villa sub Gemlech,2188,Nova Villa sub Gemlech,1507,1
+Križevačka županija,1058,Nowak-ad Achynam,2200,Nowak-ad Achynam,1517,1
+Križevačka županija,1074,Okchewcz,2241,Okchewcz,1507,1
+Križevačka županija,1077,"Olywercz, Kothnak",2259,"Olywercz, Kothnak",1513,1
+Križevačka županija,1083,Omnii Sancti ad Monozlo,2267,Omnii Sancti ad Monozlo,1520,1
+Križevačka županija,1084,Omnii Sancti in Prodauiz,2268,Omnii Sancti in Prodauiz,1520,1
+Križevačka županija,1106,"Orossowcz, Chakawcz",2330,"Orossowcz, Chakawcz",1495,1
+Križevačka županija,1107,Orozowcz,2331,Orozowcz,1513,1
+Križevačka županija,1113,Owar,2349,Owar,1513,1
+Križevačka županija,1115,Owar-waywodatus,2352,Owar-waywodatus,1520,1
+Križevačka županija,1119,"Ozwgyo, Zenthgergh",2371,"Ozwgyo, Zenthgergh",1513,1
+Križevačka županija,1120,Ozwgyo-cum Zenthgeorgh,2372,Ozwgyo-cum Zenthgeorgh,1520,1
+Križevačka županija,1125,"Palychna Zenthpeter, Gradysthe",2381,"Palychna Zenthpeter, Gradysthe",1513,1
+Križevačka županija,1129,"Parwzowcz, Kwrenowcz, Blasowcz",2389,"Parwzowcz, Kwrenowcz, Blasowcz",1513,1
+Križevačka županija,1130,Pasahegh,2391,Pasahegh,1495,1
+Križevačka županija,1132,Pasthincz,2394,Pasthincz,1495,1
+Križevačka županija,1134,"Paulosancz, Bresowcz",2397,"Paulosancz, Bresowcz",1520,1
+Križevačka županija,1135,Pavkowcz,2399,Pavkowcz,1507,1
+Križevačka županija,1137,"Pawlowcz, Palche Polye",2402,"Pawlowcz, Palche Polye",1513,1
+Križevačka županija,1141,Pekercz-waywodatus medius,2408,Pekercz-waywodatus medius,1495,1
+Križevačka županija,1146,Perchinowcz,2416,Perchinowcz,1495,1
+Križevačka županija,1147,Perchinowcz cum Nagkemlek,2417,Perchinowcz cum Nagkemlek,1512,1
+Križevačka županija,1148,"Perchynowcz, Bywrynowcz-ad Nagh Kemlek",2418,"Perchynowcz, Bywrynowcz-ad Nagh Kemlek",1513,1
+Križevačka županija,1164,Petrowyna in Farkasowcz,2454,Petrowyna in Farkasowcz,1495,1
+Križevačka županija,1165,Pezedolcz ad Belam,2463,Pezedolcz ad Belam,1495,1
+Križevačka županija,1167,Pinchowcz,2471,Pinchowcz,1513,1
+Križevačka županija,1175,Podbwkowcz,2492,Podbwkowcz,1495,1
+Križevačka županija,1176,Podgaycz,2493,Podgaycz,1513,1
+Križevačka županija,1181,Podgorye-de Gorbonok,2498,Podgorye-de Gorbonok,1513,1
+Križevačka županija,1183,Podkraych,2500,Podkraych,1507,1
+Križevačka županija,1205,Ponkowcz,2552,Ponkowcz,1517,1
+Križevačka županija,1208,Popwd,2555,Popwd,1495,1
+Križevačka županija,1219,Pozrednye Zelo,2571,Pozrednye Zelo,1495,1
+Križevačka županija,1229,Prelezye,2589,Prelezye,1512,1
+Križevačka županija,1236,Prezovicha-oppidum sub Nagkemlek,2609,Prezovicha-oppidum sub Nagkemlek,1512,1
+Križevačka županija,1240,Priulaka,2613,Priulaka,1507,1
+Križevačka županija,1242,Procurancia domini episcopi (Capella-villicatus),2615,Procurancia domini episcopi (Capella-villicatus),1513,1
+Križevačka županija,1245,Provinica domini episcopi,2619,Provinica domini episcopi,1512,1
+Križevačka županija,1250,Prykray,2627,Prykray,1513,1
+Križevačka županija,1254,Pwnek,2638,Pwnek,1507,1
+Križevačka županija,1262,Pylethyncz,2647,Pylethyncz,1513,1
+Križevačka županija,1268,Radessych,2657,Radessych,1533,1
+Križevačka županija,1269,"Radessych, Dywrynowcz-ad Kemlek",2658,"Radessych, Dywrynowcz-ad Kemlek",1520,1
+Križevačka županija,1270,Radhycza Zenth Iwan,2659,Radhycza Zenth Iwan,1513,1
+Križevačka županija,1280,Rakwsowcz,2680,Rakwsowcz,1507,1
+Križevačka županija,1286,Ramagawelge,2698,Ramagawelge,1495,1
+Križevačka županija,1287,Rampolcz,2699,Rampolcz,1495,1
+Križevačka županija,1294,Rathkowelge,2711,Rathkowelge,1495,1
+Križevačka županija,1299,"Ray, Chepyn",2720,"Ray, Chepyn",1495,1
+Križevačka županija,1302,Razmerowcz,2723,Razmerowcz,1520,1
+Križevačka županija,1303,Raznethyne,2724,Raznethyne,1513,1
+Križevačka županija,1316,Regaryowecz,2746,Regaryowecz,1513,1
+Križevačka županija,1320,"Reka, Malchez",2752,"Reka, Malchez",1533,1
+Križevačka županija,1323,"Remethincz, Magerowcz",2755,"Remethincz, Magerowcz",1512,1
+Križevačka županija,1333,"Romethincz, Garych, Solyn",2797,"Romethincz, Garych, Solyn",1495,1
+Križevačka županija,1336,Rosewcz,2802,Rosewcz,1495,1
+Križevačka županija,1339,Roycha,2807,Roycha,1507,1
+Križevačka županija,1347,"Sabnycza, Mindchenth",2823,"Sabnycza, Mindchenth",1513,1
+Križevačka županija,1348,"Sabnycza,Bablyak, Czyrquena",2824,"Sabnycza,Bablyak, Czyrquena",1520,1
+Križevačka županija,1352,Salgo,2828,Salgo,1495,1
+Križevačka županija,1356,Sancta Anna (Wragoucz),2836,Sancta Anna (Wragoucz),1507,1
+Križevačka županija,1360,Sancta Katharina,2840,Sancta Katharina,1513,1
+Križevačka županija,1363,Sancte Anna,2843,Sancte Anna,1517,1
+Križevačka županija,1366,Sancti Cosme,2846,Sancti Cosme,1543,1
+Križevačka županija,1367,Sancti Cosme-ad Achynam,2847,Sancti Cosme-ad Achynam,1517,1
+Križevačka županija,1368,Sancti Georgius-in Hemowcz,2848,Sancti Georgius-in Hemowcz,1520,1
+Križevačka županija,1369,Sancti Martini-ad Zalathnok,2849,Sancti Martini-ad Zalathnok,1517,1
+Križevačka županija,1371,Sanctus Benedictus,2851,Sanctus Benedictus,1520,1
+Križevačka županija,1372,Sanctus Cosma,2852,Sanctus Cosma,1520,1
+Križevačka županija,1374,Sanctus Dominicus,2854,Sanctus Dominicus,1520,1
+Križevačka županija,1375,Sanctus Johannes in Prodawiz,2855,Sanctus Johannes in Prodawiz,1520,1
+Križevačka županija,1378,Saranowcz,2858,Saranowcz,1507,1
+Križevačka županija,1380,Satran,2870,Satran,1495,1
+Križevačka županija,1390,Selynok,2907,Selynok,1507,1
+Križevačka županija,1400,Slywercz,2925,Slywercz,1520,1
+Križevačka županija,1405,Sosen,2932,Sosen,1495,1
+Križevačka županija,1406,Spanicz,2936,Spanicz,1512,1
+Križevačka županija,1411,Stholnikowcz,2945,Stholnikowcz,1512,1
+Križevačka županija,1413,Supa,2949,Supa,1512,1
+Križevačka županija,1414,Supancz,2950,Supancz,1513,1
+Križevačka županija,1416,Swkowcz,2954,Swkowcz,1507,1
+Križevačka županija,1418,Swpancz ad Zenth Gergwara,2956,Swpancz ad Zenth Gergwara,1507,1
+Križevačka županija,1420,Swystowcz,2958,Swystowcz,1495,1
+Križevačka županija,1422,"Sybrynocz, Jalsovcz",2960,"Sybrynocz, Jalsovcz",1507,1
+Križevačka županija,1426,Symwchowcz,2973,Symwchowcz,1513,1
+Križevačka županija,1427,Synchewcz,2977,Synchewcz,1573,1
+Križevačka županija,1429,Syprak,2979,Syprak,1507,1
+Križevačka županija,1437,"Temerye, Mylethyncz",3002,"Temerye, Mylethyncz",1513,1
+Križevačka županija,1438,Terbennye,3003,Terbennye,1495,1
+Križevačka županija,1439,"Terbyne, Lokawecz",3004,"Terbyne, Lokawecz",1507,1
+Križevačka županija,1442,Tesnahege,3009,Tesnahege,1495,1
+Križevačka županija,1451,Themennycze,3026,Themennycze,1495,1
+Križevačka županija,1453,"Themerye, Zdenchan",3028,"Themerye, Zdenchan",1513,1
+Križevačka županija,1454,"Themerye, Zenth Iwan",3029,"Themerye, Zenth Iwan",1507,1
+Križevačka županija,1456,"Themeryen,Cherarocz",3031,"Themeryen,Cherarocz",1520,1
+Križevačka županija,1458,Therchech,3034,Therchech,1517,1
+Križevačka županija,1459,Therchyan,3035,Therchyan,1517,1
+Križevačka županija,1460,Thermchan ad Gemlech,3036,Thermchan ad Gemlech,1507,1
+Križevačka županija,1461,Thernawa,3037,Thernawa,1495,1
+Križevačka županija,1467,Therschan,3050,Therschan,1495,1
+Križevačka županija,1469,Thersthyan,3052,Thersthyan,1507,1
+Križevačka županija,1482,Thorchecz,3073,Thorchecz,1507,1
+Križevačka županija,1483,Thornava,3074,Thornava,1507,1
+Križevačka županija,1496,Thwrcoucz,3091,Thwrcoucz,1507,1
+Križevačka županija,1497,Thwrkowcz,3092,Thwrkowcz,1507,1
+Križevačka županija,1501,Trachyncz,3101,Trachyncz,1517,1
+Križevačka županija,1502,Trachyncz-ad Achyna,3102,Trachyncz-ad Achyna,1517,1
+Križevačka županija,1504,Trambeth,3108,Trambeth,1513,1
+Križevačka županija,1505,Tremlan,3111,Tremlan,1507,1
+Križevačka županija,1508,Twtwsewyna inferior,3121,Twtwsewyna inferior,1495,1
+Križevačka županija,1509,Twtwsewyna superior,3122,Twtwsewyna superior,1495,1
+Križevačka županija,1510,Tzemerye (Themerye?),3123,Tzemerye (Themerye?),1507,1
+Križevačka županija,1517,Versynowcz in Berzewcze,3139,Versynowcz in Berzewcze,1513,1
+Križevačka županija,1525,Vokachincz,3149,Vokachincz,1495,1
+Križevačka županija,1538,Wahtaryowcz ad Belam,3176,Wahtaryowcz ad Belam,1495,1
+Križevačka županija,1539,Wakegh,3177,Wakegh,1517,1
+Križevačka županija,1543,Waska Inferior,3187,Waska Inferior,1513,1
+Križevačka županija,1544,"Waska Inferior, Dytrowcz",3188,"Waska Inferior, Dytrowcz",1517,1
+Križevačka županija,1546,Waska-ad Zagyowcz,3190,Waska-ad Zagyowcz,1513,1
+Križevačka županija,1548,Wasmegywrechye predium,3192,Wasmegywrechye predium,1517,1
+Križevačka županija,1550,Wehthocz,3201,Wehthocz,1517,1
+Križevačka županija,1559,Werh,3228,Werh,1520,1
+Križevačka županija,1560,"Werh, Zerdahel",3229,"Werh, Zerdahel",1520,1
+Križevačka županija,1561,Werhancz,3230,Werhancz,1507,1
+Križevačka županija,1565,Werthlyn ad Monozlo,3238,Werthlyn ad Monozlo,1520,1
+Križevačka županija,1567,Werzynowcz,3241,Werzynowcz,1517,1
+Križevačka županija,1568,Wethech,3242,Wethech,1517,1
+Križevačka županija,1582,Wolywercz,3312,Wolywercz,1495,1
+Križevačka županija,1583,"Wolywercz, Kothenyak",3313,"Wolywercz, Kothenyak",1507,1
+Križevačka županija,1597,Wyeghaz,3360,Wyeghaz,1507,1
+Križevačka županija,1605,Yeresyn,3392,Yeresyn,1507,1
+Križevačka županija,1618,Zagyocza,3417,Zagyocza,1517,1
+Križevačka županija,1627,Zanyenowcz,3444,Zanyenowcz,1513,1
+Križevačka županija,1630,Zawamelleke ad Monozlo,3448,Zawamelleke ad Monozlo,1513,1
+Križevačka županija,1636,"Zdenchan, Thamadocz",3464,"Zdenchan, Thamadocz",1520,1
+Križevačka županija,1639,Zdenchych ad Owar,3467,Zdenchych ad Owar,1520,1
+Križevačka županija,1641,Zebencz,3469,Zebencz,1507,1
+Križevačka županija,1656,"Zelyancz, Sybrynowcz",3497,"Zelyancz, Sybrynowcz",1520,1
+Križevačka županija,1658,Zemche Zenth Myhal,3506,Zemche Zenth Myhal,1507,1
+Križevačka županija,1662,Zenclara,3512,Zenclara,1513,1
+Križevačka županija,1663,Zendywan,3513,Zendywan,1513,1
+Križevačka županija,1670,Zenth Adrian,3523,Zenth Adrian,1495,1
+Križevačka županija,1672,Zenth Anna,3525,Zenth Anna,1495,1
+Križevačka županija,1682,Zenth Kerest / Sanctus Crux,3563,Zenth Kerest / Sanctus Crux,1513,1
+Križevačka županija,1684,Zenth Kerezth-de Achyna,3566,Zenth Kerezth-de Achyna,1517,1
+Križevačka županija,1687,Zenth Leryncz-pertinencie ad,3570,Zenth Leryncz-pertinencie ad,1513,1
+Križevačka županija,1689,Zenth Marco,3573,Zenth Marco,1507,1
+Križevačka županija,1693,Zenth Michael,3578,Zenth Michael,1495,1
+Križevačka županija,1700,Zenth Pal ad Zenth Gergwara,3590,Zenth Pal ad Zenth Gergwara,1507,1
+Križevačka županija,1707,Zenthlaczlo Dyanfeldi,3618,Zenthlaczlo Dyanfeldi,1495,1
+Križevačka županija,1710,Zenthlelek-cum pertinentiis,3621,Zenthlelek-cum pertinentiis,1533,1
+Križevačka županija,1711,"Zenthpal-provincia superior, inferior",3641,"Zenthpal-provincia superior, inferior",1495,1
+Križevačka županija,1712,Zenthpeter ad Owar,3642,Zenthpeter ad Owar,1520,1
+Križevačka županija,1713,Zenthpether ad Kaproncza,3643,Zenthpether ad Kaproncza,1513,1
+Križevačka županija,1718,Zeredyscha ad Zenth Gergwara,3661,Zeredyscha ad Zenth Gergwara,1507,1
+Križevačka županija,1719,Zersyncz,3663,Zersyncz,1507,1
+Križevačka županija,1726,Zlanya,3684,Zlanya,1507,1
+Križevačka županija,1733,Zlawstina,3707,Zlawstina,1512,1
+Križevačka županija,1735,Zlayno,3709,Zlayno,1495,1
+Križevačka županija,1737,"Zlobochyna, Zwybowcz",3712,"Zlobochyna, Zwybowcz",1507,1
+Križevačka županija,1739,Zloboda ad Monozlo,3714,Zloboda ad Monozlo,1520,1
+Križevačka županija,1742,Zobkethyncz,3717,Zobkethyncz,1517,1
+Križevačka županija,1743,Zolkethyncz,3720,Zolkethyncz,1507,1
+Križevačka županija,1744,Zolnya,3721,Zolnya,1507,1
+Križevačka županija,1754,Zopya,3758,Zopya,1513,1
+Križevačka županija,1759,Zredistha,3766,Zredistha,1520,1
+Križevačka županija,1761,Zrednyawez,3769,Zrednyawez,1520,1
+Križevačka županija,1764,Zrewsowcz,3776,Zrewsowcz,1507,1
+Križevačka županija,1765,Zromercz,3777,Zromercz,1512,1
+Križevačka županija,1766,Zrwkowcz,3778,Zrwkowcz,1517,1
+Križevačka županija,1772,Ztharsa,3790,Ztharsa,1507,1
+Križevačka županija,1777,Ztholnycoucz,3795,Ztholnycoucz,1507,1
+Križevačka županija,1783,Ztrwga ad Zenth Gergwara,3815,Ztrwga ad Zenth Gergwara,1507,1
+Križevačka županija,1790,Zwhodol,3830,Zwhodol,1495,1
+Križevačka županija,1794,Zwsycza ad Zenth Gergwara,3838,Zwsycza ad Zenth Gergwara,1507,1
+Križevačka županija,1795,Zwsycze,3839,Zwsycze,1507,1
+Križevačka županija,1797,Zwybowcz,3841,Zwybowcz,1543,1
+Križevačka županija,1805,"Zyrch, Podgorye",3855,"Zyrch, Podgorye",1533,1
+Križevačka županija,1806,Zyskan,3856,Zyskan,1520,1
+Varaždinska županija,1,",,,owcz",1,",,,owcz",1507,1
+Varaždinska županija,83,Belkolcz,164,Belkolcz,1513,1
+Varaždinska županija,199,"Bwdyzlawcz, Dymytrowcz",400,"Bwdyzlawcz, Dymytrowcz",1596,1
+Varaždinska županija,243,Chelowechky,503,Chelowechky,1513,1
+Varaždinska županija,254,"Cheresnyo, Wydowcz",520,"Cheresnyo, Wydowcz",1543,1
+Varaždinska županija,280,"Chresnevo, Obres",567,"Chresnevo, Obres",1507,1
+Varaždinska županija,316,Crassulcz,617,Crassulcz,1513,1
+Varaždinska županija,332,"Czebowcz, Kos",651,"Czebowcz, Kos",1596,1
+Varaždinska županija,371,Dobrawycza,714,Dobrawycza,1596,1
+Varaždinska županija,428,"Egwdowcz, Chargowcz, Polyana",835,"Egwdowcz, Chargowcz, Polyana",1507,1
+Varaždinska županija,429,"Egywdo, Charkowcz",836,"Egywdo, Charkowcz",1513,1
+Varaždinska županija,433,Erpenye,848,Erpenye,1543,1
+Varaždinska županija,481,Gayancz,946,Gayancz,1507,1
+Varaždinska županija,486,Geramuczyak,952,Geramuczyak,1513,1
+Varaždinska županija,490,Geremchari,956,Geremchari,1596,1
+Varaždinska županija,565,Gywrkethyncz,1118,Gywrkethyncz,1513,1
+Varaždinska županija,643,Jacupelcz,1261,Jacupelcz,1507,1
+Varaždinska županija,659,Jalsownyk,1301,Jalsownyk,1596,1
+Varaždinska županija,737,Knesyncz,1481,Knesyncz,1507,1
+Varaždinska županija,745,Kochewcz,1493,Kochewcz,1533,1
+Varaždinska županija,747,Kochycze-insula,1495,Kochycze-insula,1596,1
+Varaždinska županija,757,"Komor, Wladyzlowcz",1509,"Komor, Wladyzlowcz",1507,1
+Varaždinska županija,778,"Kordwssowcz, Pethrossowcz",1542,"Kordwssowcz, Pethrossowcz",1543,1
+Varaždinska županija,791,Kos,1560,Kos,1553,1
+Varaždinska županija,793,Koskolcz,1563,Koskolcz,1513,1
+Varaždinska županija,798,Kowachewcz,1571,Kowachewcz,1596,1
+Varaždinska županija,800,"Kowachowcz, Radoboye",1573,"Kowachowcz, Radoboye",1543,1
+Varaždinska županija,877,Lepenyak,1764,Lepenyak,1596,1
+Varaždinska županija,885,Lesthak,1776,Lesthak,1513,1
+Varaždinska županija,886,"Lesthakowcz, Berethyncz, Tharnowcz",1779,"Lesthakowcz, Berethyncz, Tharnowcz",1507,1
+Varaždinska županija,946,Marosolcz,1933,Marosolcz,1513,1
+Varaždinska županija,947,"Marosolcz, Krysolyan",1934,"Marosolcz, Krysolyan",1513,1
+Varaždinska županija,955,Marthynzky,1950,Marthynzky,1513,1
+Varaždinska županija,1092,Orbowcz,2296,Orbowcz,1507,1
+Varaždinska županija,1207,Popowcz,2554,Popowcz,1543,1
+Varaždinska županija,1228,Pregory,2588,Pregory,1543,1
+Varaždinska županija,1230,Prennar,2590,Prennar,1507,1
+Varaždinska županija,1252,Pwhakowcz,2634,Pwhakowcz,1570,1
+Varaždinska županija,1273,Radoboya,2663,Radoboya,1507,1
+Varaždinska županija,1290,Rathkolcz,2702,Rathkolcz,1513,1
+Varaždinska županija,1342,Rwdynwelge,2812,Rwdynwelge,1513,1
+Varaždinska županija,1350,Sabnyk Zenthberthalam,2826,Sabnyk Zenthberthalam,1513,1
+Varaždinska županija,1353,Salmocz,2829,Salmocz,1513,1
+Varaždinska županija,1365,Sancte Crucis Insula,2845,Sancte Crucis Insula,1507,1
+Varaždinska županija,1388,Sebastyanowcz,2889,Sebastyanowcz,1596,1
+Varaždinska županija,1393,Serdethyncz,2914,Serdethyncz,1507,1
+Varaždinska županija,1407,Srachyncz,2937,Srachyncz,1543,1
+Varaždinska županija,1474,Thomasewcz,3059,Thomasewcz,1596,1
+Varaždinska županija,1475,"Thomassewcz, Cherncz, Byskupowcz",3060,"Thomassewcz, Cherncz, Byskupowcz",1507,1
+Varaždinska županija,1476,Thoplicensis,3062,Thoplicensis,1507,1
+Varaždinska županija,1503,Tracostyan,3103,Tracostyan,1507,1
+Varaždinska županija,1531,Vrbanowcz,3157,Vrbanowcz,1513,1
+Varaždinska županija,1585,Woynche,3315,Woynche,1543,1
+Varaždinska županija,1592,Wrathkowcz,3336,Wrathkowcz,1507,1
+Varaždinska županija,1631,Zawercza,3450,Zawercza,1513,1
+Varaždinska županija,1683,Zenth Kerezth,3565,Zenth Kerezth,1513,1
+Varaždinska županija,1694,Zenth Mihal sub Komor,3579,Zenth Mihal sub Komor,1507,1
+Varaždinska županija,1696,Zenth Myhal,3583,Zenth Myhal,1513,1
+Varaždinska županija,1702,"Zenth Wyd, Chresnevo",3592,"Zenth Wyd, Chresnevo",1507,1
+Varaždinska županija,1703,"Zenth Wyd, Zayezda",3593,"Zenth Wyd, Zayezda",1513,1
+Varaždinska županija,1773,Zthassinowczy,3791,Zthassinowczy,1570,1
+Virovitička županija,49,Bakwa,101,Bakwa,1507,1
+Virovitička županija,113,Bethowcz,223,Bethowcz,1507,1
+Virovitička županija,256,Chernacz,522,Chernacz,1520,1
+Virovitička županija,292,Chystho Hrastye,588,Chystho Hrastye,1520,1
+Virovitička županija,293,Chystho Hrazthya,589,Chystho Hrazthya,1517,1
+Virovitička županija,625,Ilowa cum pertinentiis,1223,Ilowa cum pertinentiis,1507,1
+Virovitička županija,691,"Jwgowcz, Powsincz",1391,"Jwgowcz, Powsincz",1507,1
+Virovitička županija,889,Lezkov,1791,Lezkov,1507,1
+Virovitička županija,1089,Oppidum,2292,Oppidum,1517,1
+Virovitička županija,1093,Orehocz,2297,Orehocz,1513,1
+Virovitička županija,1126,"Panynch, Chernech, Antholowcz, Thremech",2384,"Panynch, Chernech, Antholowcz, Thremech",1517,1
+Virovitička županija,1288,"Ranyncz, Chernecz, Antholowcz, Thremecz",2700,"Ranyncz, Chernecz, Antholowcz, Thremecz",1513,1
+Virovitička županija,1295,"Rauencz, Chernyncz, Anthalowcz, Tremecz",2715,"Rauencz, Chernyncz, Anthalowcz, Tremecz",1507,1
+Virovitička županija,1557,"Wereucze-oppidum- Bwssocz, Dobownyk",3224,"Wereucze-oppidum- Bwssocz, Dobownyk",1520,1
+Virovitička županija,1578,"Wogrynincz, utraque Rawennyk",3277,"Wogrynincz, utraque Rawennyk",1513,1
+Virovitička županija,1723,Zkakalo,3677,Zkakalo,1513,1
+Virovitička županija,1724,Zkakolo,3678,Zkakolo,1517,1
+Zagrebačka županija,2,Abbatia,2,Abbatia,1509,1
+Zagrebačka županija,31,Area Capitulari-vicus,71,Area Capitulari-vicus,1517,1
+Zagrebačka županija,59,Barychewo,116,Barychewo,1520,1
+Zagrebačka županija,108,"Beryzlaucz, Kalynye",214,"Beryzlaucz, Kalynye",1596,1
+Zagrebačka županija,115,Bigzaagh,225,Bigzaagh,1517,1
+Zagrebačka županija,141,Bona-Johannes Alapi,286,Bona-Johannes Alapi,1533,1
+Zagrebačka županija,143,Bona-Zlwny,289,Bona-Zlwny,1533,1
+Zagrebačka županija,179,Brezthye,367,Brezthye,1509,1
+Zagrebačka županija,208,Byenyk ad Topozka (predium),427,Byenyk ad Topozka (predium),1517,1
+Zagrebačka županija,211,Bygzad-citra Lonyam,431,Bygzad-citra Lonyam,1520,1
+Zagrebačka županija,265,Chernylno,540,Chernylno,1573,1
+Zagrebačka županija,318,Crawarzka,619,Crawarzka,1546,1
+Zagrebačka županija,373,Dobrowa Czerzka,716,Dobrowa Czerzka,1507,1
+Zagrebačka županija,400,Dremowa (Drenowa*),773,Dremowa (Drenowa*),1570,1
+Zagrebačka županija,413,Dwmowcz,800,Dwmowcz,1573,1
+Zagrebačka županija,426,Ecclesia Zagrabiensis,833,Ecclesia Zagrabiensis,1517,1
+Zagrebačka županija,427,Eghywdowcz,834,Eghywdowcz,1517,1
+Zagrebačka županija,450,Felsew Pozawye / Zablathye,874,Felsew Pozawye / Zablathye,1520,1
+Zagrebačka županija,489,Gerecz,955,Gerecz,1520,1
+Zagrebačka županija,502,Golyak- judicatus (Jazthrebarzka-castrum),978,Golyak- judicatus (Jazthrebarzka-castrum),1574,1
+Zagrebačka županija,510,Goricza in episcopatu Zagrabiensi,995,Goricza in episcopatu Zagrabiensi,1509,1
+Zagrebačka županija,514,Gorycza Maiori,1001,Gorycza Maiori,1574,1
+Zagrebačka županija,582,"Hergowicza, Pwzta Dwsa",1146,"Hergowicza, Pwzta Dwsa",1509,1
+Zagrebačka županija,599,Hraschyna ad Greben cum pertinentiis,1172,Hraschyna ad Greben cum pertinentiis,1520,1
+Zagrebačka županija,600,Hraschyna in pertinentiis Greben,1173,Hraschyna in pertinentiis Greben,1517,1
+Zagrebačka županija,602,Hrasthye,1175,Hrasthye,1520,1
+Zagrebačka županija,606,Hrazthowycza-pertinencia,1180,Hrazthowycza-pertinencia,1546,1
+Zagrebačka županija,607,Hrazthowycze-pertinantiae,1182,Hrazthowycze-pertinantiae,1568,1
+Zagrebačka županija,610,Hrebyncz,1189,Hrebyncz,1570,1
+Zagrebačka županija,636,Ista parte Zawe (s ove strane Save),1239,Ista parte Zawe (s ove strane Save),1507,1
+Zagrebačka županija,692,Jwrowlyan,1394,Jwrowlyan,1554,1
+Zagrebačka županija,701,Kamenie,1412,Kamenie,1553,1
+Zagrebačka županija,715,Kepchancz,1445,Kepchancz,1570,1
+Zagrebačka županija,751,Kolchewczy (Bosyako),1500,Kolchewczy (Bosyako),1568,1
+Zagrebačka županija,801,"Koyenyk, Sythny Othok, Koznycza, Zelnycza",1574,"Koyenyk, Sythny Othok, Koznycza, Zelnycza",1517,1
+Zagrebačka županija,802,"Koyenyk-judicatus, Koznycza",1575,"Koyenyk-judicatus, Koznycza",1582,1
+Zagrebačka županija,835,"Kwchye, Lownycza",1661,"Kwchye, Lownycza",1520,1
+Zagrebačka županija,838,Kwpchanoz,1665,Kwpchanoz,1567,1
+Zagrebačka županija,910,Lownicza,1821,Lownicza,1509,1
+Zagrebačka županija,919,Lwsye,1867,Lwsye,1520,1
+Zagrebačka županija,938,Malkowch,1917,Malkowch,1520,1
+Zagrebačka županija,1020,Myholnya,2089,Myholnya,1546,1
+Zagrebačka županija,1028,Myndzenth,2121,Myndzenth,1573,1
+Zagrebačka županija,1088,Opathowyna (dempto Gorzko),2278,Opathowyna (dempto Gorzko),1570,1
+Zagrebačka županija,1180,Podgorya-plebanatus,2497,Podgorya-plebanatus,1582,1
+Zagrebačka županija,1191,Podwerh,2517,Podwerh,1507,1
+Zagrebačka županija,1199,Pokwpsky Werh,2532,Pokwpsky Werh,1576,1
+Zagrebačka županija,1212,Poszawye,2560,Poszawye,1573,1
+Zagrebačka županija,1218,Pozawya,2569,Pozawya,1520,1
+Zagrebačka županija,1241,Processus Georgii Pyzacz ultra Kwppam,2614,Processus Georgii Pyzacz ultra Kwppam,1533,1
+Zagrebačka županija,1247,Prybychy,2621,Prybychy,1520,1
+Zagrebačka županija,1257,Pwschya,2641,Pwschya,1520,1
+Zagrebačka županija,1259,Pwztha Dwsycza,2643,Pwztha Dwsycza,1520,1
+Zagrebačka županija,1260,"Pwztha Dwsycza, Hergoychy-ad Hrazthowycza pertinentes",2644,"Pwztha Dwsycza, Hergoychy-ad Hrazthowycza pertinentes",1517,1
+Zagrebačka županija,1263,Pyskopowczy,2648,Pyskopowczy,1509,1
+Zagrebačka županija,1267,Rachythoych,2656,Rachythoych,1520,1
+Zagrebačka županija,1344,Rypach,2815,Rypach,1533,1
+Zagrebačka županija,1361,Sancta Maria sub Okych,2841,Sancta Maria sub Okych,1554,1
+Zagrebačka županija,1362,Sancta Maria-plebanatus,2842,Sancta Maria-plebanatus,1520,1
+Zagrebačka županija,1370,Sancti Martinus,2850,Sancti Martinus,1554,1
+Zagrebačka županija,1387,"Sczezhwpnycze, Zlanowch sub Medwewar",2888,"Sczezhwpnycze, Zlanowch sub Medwewar",1520,1
+Zagrebačka županija,1409,Stenyowcz,2940,Stenyowcz,1582,1
+Zagrebačka županija,1449,Thassolcz,3024,Thassolcz,1520,1
+Zagrebačka županija,1462,"Thernawa, Nowaki",3038,"Thernawa, Nowaki",1517,1
+Zagrebačka županija,1470,Thersych ad Okych,3054,Thersych ad Okych,1517,1
+Zagrebačka županija,1471,Thersych-oppidum ad Okych,3055,Thersych-oppidum ad Okych,1520,1
+Zagrebačka županija,1481,Thopozka,3072,Thopozka,1533,1
+Zagrebačka županija,1484,Thossewczy,3075,Thossewczy,1568,1
+Zagrebačka županija,1485,Thossowcz,3076,Thossowcz,1517,1
+Zagrebačka županija,1491,Threwm,3085,Threwm,1520,1
+Zagrebačka županija,1495,Thwran-castrum cum pertinentiis,3090,Thwran-castrum cum pertinentiis,1573,1
+Zagrebačka županija,1499,Thwropolia,3094,Thwropolia,1573,1
+Zagrebačka županija,1507,Turkousschyna aliter Zuhodol,3117,Turkousschyna aliter Zuhodol,1596,1
+Zagrebačka županija,1514,Velykagora,3136,Velykagora,1546,1
+Zagrebačka županija,1527,Vokssyncz,3151,Vokssyncz,1596,1
+Zagrebačka županija,1589,Wradchya,3321,Wradchya,1509,1
+Zagrebačka županija,1594,Wratza,3340,Wratza,1570,1
+Zagrebačka županija,1603,"Wywodina-districtus cum pertinentiis, Craysthychy",3388,"Wywodina-districtus cum pertinentiis, Craysthychy",1517,1
+Zagrebačka županija,1604,"Wywodyna cum pertinentiis castri Ozel, Kraschyschy",3389,"Wywodyna cum pertinentiis castri Ozel, Kraschyschy",1520,1
+Zagrebačka županija,1746,Zomnycza,3723,Zomnycza,1553,1
+Zagrebačka županija,1769,Zthankowo ad Okych,3783,Zthankowo ad Okych,1517,1
+Zagrebačka županija,1770,Zthankowo-judicatus ad Okych,3784,Zthankowo-judicatus ad Okych,1520,1
+Zagrebačka županija,1775,Zthermecz,3793,Zthermecz,1517,1
+Zagrebačka županija,1778,Zthrebynzky Werh,3797,Zthrebynzky Werh,1573,1
+Zagrebačka županija,1781,Zthwpnych-ad Zomzedwara,3805,Zthwpnych-ad Zomzedwara,1520,1

@@ -3,7 +3,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2,Abbatia,4,2,singleton,0
 3,Abbatia (Opathowyna),4,3,singleton,0
 4,Abbatia Zagrabiensis,4,4,modern,0
-5,Achyna,1,5,singleton,0
+5,Achyna,1,5,manual,0
 6,Adamoucz,1,6,orthographic-exact,0
 7,Adamowch,4,7,orthographic-exact,0
 8,Adamowcz,1,6,orthographic-exact,0
@@ -97,8 +97,8 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 96,Bakheg,1,45,singleton,0
 97,Bakolcza,1,46,singleton,0
 98,"Bakolcza, Zygeth",1,47,singleton,0
-99,Bakowcha,1,48,orthographic-exact,0
-100,Bakowcza,1,48,orthographic-exact,0
+99,Bakowcha,1,48,manual,0
+100,Bakowcza,1,48,manual,0
 101,Bakwa,3,49,singleton,0
 102,Bancz,1,50,orthographic-fuzzy,1
 103,Banczy,1,50,orthographic-fuzzy,1
@@ -252,13 +252,13 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 251,Blatthnycza,4,128,orthographic-exact,0
 252,Blattnycza,4,128,orthographic-exact,0
 253,Blizna,4,130,modern,0
-254,Bliznafew,1,131,orthographic-fuzzy,1
+254,Bliznafew,1,131,manual,0
 255,Blyzna,4,130,modern,0
 256,Blyzna sub Medwedwar,4,130,modern,0
 257,Blyzna sub Medwewar,4,130,modern,0
 258,"Blyzna, Remethyncz",4,132,singleton,0
-259,Blyznafew,1,131,orthographic-fuzzy,1
-260,Blyznaffew,1,131,orthographic-fuzzy,1
+259,Blyznafew,1,131,manual,0
+260,Blyznaffew,1,131,manual,0
 261,Blyzno,4,130,modern,0
 262,Blyzno (Medwe),4,130,modern,0
 263,Bobinschyna,1,39,orthographic-fuzzy,1
@@ -325,17 +325,17 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 324,Bothcafeld,1,153,singleton,0
 325,Bothezyncz,1,154,singleton,0
 326,Bothincz,4,136,modern,0
-327,Bothkafeld,1,155,orthographic-fuzzy,1
-328,Bothowcz,3,156,singleton,0
+327,Bothkafeld,1,155,manual,0
+328,Bothowcz,3,156,manual,0
 329,Bothyncz,1,157,singleton,0
 330,Bothyncz,4,136,modern,0
 331,Bothyncz ad Medwe,4,136,modern,0
-332,Bothynowcz,1,158,orthographic-fuzzy,1
+332,Bothynowcz,1,158,manual,0
 333,Botyncz,4,136,modern,0
 334,Boytincz,4,136,modern,0
 335,Bozyas,1,159,singleton,0
 336,Bradechyna ad Garych,1,160,singleton,0
-337,Bradna,1,161,singleton,0
+337,Bradna,1,161,manual,0
 338,Bradna inferior,1,162,singleton,0
 339,Bragasoucz,1,163,orthographic-exact,0
 340,Bragasowcz,1,163,orthographic-exact,0
@@ -343,9 +343,9 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 342,Bregchewcz,1,165,singleton,0
 343,Bresancz ad Kaproncza,1,101,orthographic-fuzzy,1
 344,Breschyna,1,166,singleton,0
-345,Bresnycha,1,167,orthographic-fuzzy,1
+345,Bresnycha,1,167,manual,0
 346,Bresnycza-ad Achynam,1,168,singleton,0
-347,Bresnycze,1,167,orthographic-fuzzy,1
+347,Bresnycze,1,167,manual,0
 348,Bresowcz,1,169,orthographic-fuzzy,1
 349,Bresowycza,4,170,modern,0
 350,Brestowcz,1,169,orthographic-fuzzy,1
@@ -357,20 +357,20 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 356,Brezowycha,4,170,modern,0
 357,Brezowycza,4,170,modern,0
 358,Brezoycha-ad Nagh Kemlek,1,174,singleton,0
-359,Brezoycza,1,175,orthographic-fuzzy,1
+359,Brezoycza,1,175,manual,0
 360,Brezoycza,4,170,modern,0
 361,Brezt,2,176,singleton,0
 362,Brezth,4,177,singleton,0
 363,Brezthowcz,1,173,modern,0
 364,"Brezthowcz, Dechyna",1,178,orthographic-fuzzy,1
 365,"Brezthowcz, Dolina",1,178,orthographic-fuzzy,1
-366,Brezthoycza,1,175,orthographic-fuzzy,1
+366,Brezthoycza,1,175,manual,0
 367,Brezthye,4,179,singleton,0
-368,Breztoycha,1,175,orthographic-fuzzy,1
-369,Brezyancz,3,180,orthographic-fuzzy,1
+368,Breztoycha,1,175,manual,0
+369,Brezyancz,3,180,manual,0
 370,Brezyna,1,181,singleton,0
 371,"Brezyna, Chakowcz",1,182,singleton,0
-372,Brezynacz,3,180,orthographic-fuzzy,1
+372,Brezynacz,3,180,manual,0
 373,Brkwnowcz,4,183,modern,0
 374,Brokownyowcz,4,183,modern,0
 375,Brokunoucz,4,183,modern,0
@@ -381,17 +381,17 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 380,"Brokwnyowcz, Glawnycza",4,185,modern,0
 381,Brysnyak,1,186,singleton,0
 382,Bryzthno,4,187,singleton,0
-383,Budrowcz,1,188,orthographic-fuzzy,1
+383,Budrowcz,1,188,manual,0
 384,"Budyndol, Pomperoucz, Hansevcz",2,189,singleton,0
 385,Bukovcz,1,190,singleton,0
-386,Bwchyncz,1,191,orthographic-fuzzy,1
+386,Bwchyncz,1,191,manual,0
 387,Bwdislawcz,2,192,orthographic-fuzzy,1
 388,Bwdnak,1,193,singleton,0
-389,Bwdowcz,1,188,orthographic-fuzzy,1
-390,Bwdrocz,1,188,orthographic-fuzzy,1
-391,Bwdrocz,3,194,orthographic-fuzzy,1
-392,Bwdrowcz,1,188,orthographic-fuzzy,1
-393,Bwdrowcz,3,194,orthographic-fuzzy,1
+389,Bwdowcz,1,188,manual,0
+390,Bwdrocz,1,188,manual,0
+391,Bwdrocz,3,194,manual,0
+392,Bwdrowcz,1,188,manual,0
+393,Bwdrowcz,3,194,manual,0
 394,Bwdyndol,2,195,orthographic-exact,0
 395,"Bwdyndol, Hansewcz",2,196,singleton,0
 396,"Bwdyndol, Hansewcz, Pomperowcz",2,197,singleton,0
@@ -404,7 +404,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 403,Bwkowschyak,4,201,modern,0
 404,Bwkowsthyak,4,201,modern,0
 405,Bwkowychyak,4,201,modern,0
-406,Bwschyncz,1,191,orthographic-fuzzy,1
+406,Bwschyncz,1,191,manual,0
 407,Bwsowcz,3,202,orthographic-fuzzy,1
 408,Bwssocz,3,202,orthographic-fuzzy,1
 409,Bwssowcz,3,202,orthographic-fuzzy,1
@@ -414,13 +414,13 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 413,Bwsyn,2,72,orthographic-fuzzy,1
 414,"Bwsyn, Odra",4,204,modern,0
 415,Bwszyn,2,72,orthographic-fuzzy,1
-416,Bwthkafeld,1,155,orthographic-fuzzy,1
-417,Bwthkafelde,1,155,orthographic-fuzzy,1
-418,Bwthkafewlde,1,155,orthographic-fuzzy,1
-419,Bwthynowcz,1,158,orthographic-fuzzy,1
-420,Bwtkafeld,1,155,orthographic-fuzzy,1
+416,Bwthkafeld,1,155,manual,0
+417,Bwthkafelde,1,155,manual,0
+418,Bwthkafewlde,1,155,manual,0
+419,Bwthynowcz,1,158,manual,0
+420,Bwtkafeld,1,155,manual,0
 421,Bwyancz,1,205,singleton,0
-422,Bwyanowcz,1,158,orthographic-fuzzy,1
+422,Bwyanowcz,1,158,manual,0
 423,Bwyowcz,1,206,singleton,0
 424,"Bwzyn, Odra",4,204,modern,0
 425,Byenik,1,207,orthographic-exact,0
@@ -455,7 +455,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 454,Byxad cum pertinentiis,1,210,modern,0
 455,Byzagh,1,210,modern,0
 456,Byzkelethycz,1,220,singleton,0
-457,Byznafew,1,131,orthographic-fuzzy,1
+457,Byznafew,1,131,manual,0
 458,Byzthra,4,119,modern,0
 459,Byzthra ad Zomzewdwara,4,119,modern,0
 460,Byzthrycha,4,219,modern,0
@@ -725,7 +725,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 724,Dollyany,4,376,modern,0
 725,Dolyan,4,376,modern,0
 726,Dolyan ad Belam,1,377,singleton,0
-727,Dolyancz,1,378,singleton,0
+727,Dolyancz,1,378,manual,0
 728,Dolyane,4,376,modern,0
 729,Dolyany,4,376,modern,0
 730,Dolyanye,4,376,modern,0
@@ -859,7 +859,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 858,Farkazowcz,1,440,singleton,0
 859,Felse Chezmyche,1,441,orthographic-exact,0
 860,Felse Chezmycze,1,441,orthographic-exact,0
-861,Felse Izdencz,1,442,orthographic-fuzzy,1
+861,Felse Izdencz,1,442,manual,0
 862,Felse Wolyawlya,4,23,modern,0
 863,Felse Zemche,1,443,orthographic-fuzzy,1
 864,Felse Zthwbycza,4,444,modern,0
@@ -870,8 +870,8 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 869,Felsew Bakwa cum pertinentiis,3,447,modern,0
 870,Felsew Chesmyche,1,448,modern,0
 871,Felsew Gerzencze,1,449,singleton,0
-872,Felsew Hyzdencz,1,442,orthographic-fuzzy,1
-873,Felsew Izdencz,1,442,orthographic-fuzzy,1
+872,Felsew Hyzdencz,1,442,manual,0
+873,Felsew Izdencz,1,442,manual,0
 874,Felsew Pozawye / Zablathye,4,450,singleton,0
 875,Felsew Soploncza,1,451,orthographic-fuzzy,1
 876,Felsew Soproncha,1,451,orthographic-fuzzy,1
@@ -952,7 +952,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 951,Gemelgfelde,1,485,singleton,0
 952,Geramuczyak,2,486,singleton,0
 953,Gereben,4,487,modern,0
-954,Gerecz,1,488,singleton,0
+954,Gerecz,1,488,manual,0
 955,Gerecz,4,489,singleton,0
 956,Geremchari,2,490,singleton,0
 957,Gerwasowcz,1,491,singleton,0
@@ -978,17 +978,17 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 977,"Golgoncza, Kalecz",1,501,singleton,0
 978,Golyak- judicatus (Jazthrebarzka-castrum),4,502,singleton,0
 979,Gorazdyncz,1,476,orthographic-fuzzy,1
-980,Gorbonakffew,1,503,orthographic-fuzzy,1
+980,Gorbonakffew,1,503,manual,0
 981,Gorbonok,1,504,orthographic-fuzzy,1
 982,"Gorbonok, Drawamelleke",1,505,orthographic-fuzzy,1
 983,"Gorbonok, Drawamelleky",1,505,orthographic-fuzzy,1
 984,Gorbonok-oppidum cum pertinentiis,1,506,orthographic-fuzzy,1
 985,Gorbonok-oppidum-cum pertinentiis,1,506,orthographic-fuzzy,1
-986,Gorbonokfew,1,503,orthographic-fuzzy,1
-987,Gorbonokffew,1,503,orthographic-fuzzy,1
+986,Gorbonokfew,1,503,manual,0
+987,Gorbonokffew,1,503,manual,0
 988,Gorbonwk,1,504,orthographic-fuzzy,1
 989,Gorbonwk-oppidum cum pertinentiis,1,506,orthographic-fuzzy,1
-990,Gorbonwkfew,1,503,orthographic-fuzzy,1
+990,Gorbonwkfew,1,503,manual,0
 991,Gorbonwkfew ad Zenth Gergwara,1,507,singleton,0
 992,Gorbowa,1,508,singleton,0
 993,Gordova,1,509,orthographic-exact,0
@@ -1090,7 +1090,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1089,Grysnyak,1,553,singleton,0
 1090,"Gubassewo, Martyncze",2,554,singleton,0
 1091,"Gubassewo, Prozenyk",2,555,orthographic-exact,0
-1092,Gunnyak,1,556,orthographic-fuzzy,1
+1092,Gunnyak,1,556,manual,0
 1093,Gurgekowcz,1,557,orthographic-fuzzy,1
 1094,Gwbasewo,2,558,modern,0
 1095,Gwbasowo,2,558,modern,0
@@ -1101,9 +1101,9 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1100,Gwdoch,1,559,orthographic-fuzzy,1
 1101,Gwdowcz,1,559,orthographic-fuzzy,1
 1102,Gwdowcz-cum pertinentis,1,560,singleton,0
-1103,Gwnnak,1,556,orthographic-fuzzy,1
-1104,Gwnnyak,1,556,orthographic-fuzzy,1
-1105,Gwnyak,1,556,orthographic-fuzzy,1
+1103,Gwnnak,1,556,manual,0
+1104,Gwnnyak,1,556,manual,0
+1105,Gwnyak,1,556,manual,0
 1106,Gwrgenowcz,1,557,orthographic-fuzzy,1
 1107,Gwrgeroucz,1,557,orthographic-fuzzy,1
 1108,Gwrgewcz,1,557,orthographic-fuzzy,1
@@ -1155,8 +1155,8 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1154,Hom,4,588,modern,0
 1155,Hom Zenth Marthon,1,587,modern,0
 1156,Horeowcz,1,589,singleton,0
-1157,Horzowa,1,590,singleton,0
-1158,Hothko,1,591,singleton,0
+1157,Horzowa,1,590,manual,0
+1158,Hothko,1,591,manual,0
 1159,Hothko Zenth Myhal,1,571,orthographic-fuzzy,1
 1160,Hothnya Zenth Pal,1,592,singleton,0
 1161,Hothowa,1,593,singleton,0
@@ -1165,7 +1165,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1164,Hozywfalw,1,596,orthographic-fuzzy,1
 1165,Hradschyna,4,597,modern,0
 1166,Hrascha,4,597,modern,0
-1167,Hraschan,1,598,singleton,0
+1167,Hraschan,1,598,manual,0
 1168,Hrasche,4,597,modern,0
 1169,Hraschia,4,597,modern,0
 1170,Hraschya,4,597,modern,0
@@ -1216,7 +1216,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1215,Hwm Zenth Marthon,1,587,modern,0
 1216,Hwm Zenthmarton,1,587,modern,0
 1217,Hwywaros,1,620,singleton,0
-1218,Hwzarcz,1,621,singleton,0
+1218,Hwzarcz,1,621,manual,0
 1219,"Hwzarcz, Zenthywan",1,622,singleton,0
 1220,Hwzywfalu,1,596,orthographic-fuzzy,1
 1221,Hyzdencz,1,623,singleton,0
@@ -1440,9 +1440,9 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1439,Kebel,1,711,singleton,0
 1440,Kelemynoch,1,712,singleton,0
 1441,Kenchelowcz,1,713,singleton,0
-1442,Kengelowcz,1,714,orthographic-fuzzy,1
-1443,Kengelowhcz,1,714,orthographic-fuzzy,1
-1444,Kengyelowcz,1,714,orthographic-fuzzy,1
+1442,Kengelowcz,1,714,manual,0
+1443,Kengelowhcz,1,714,manual,0
+1444,Kengyelowcz,1,714,manual,0
 1445,Kepchancz,4,715,singleton,0
 1446,Kerhennyna,1,716,singleton,0
 1447,Kerhennyna-waywodatus superior,1,717,singleton,0
@@ -1818,7 +1818,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1817,"Lompnycza, Kwchye",4,906,modern,0
 1818,Lose,4,907,singleton,0
 1819,Lowchowcz,1,908,singleton,0
-1820,Lowkowcz,1,909,orthographic-fuzzy,1
+1820,Lowkowcz,1,909,manual,0
 1821,Lownicza,4,910,singleton,0
 1822,Lubena,1,911,orthographic-fuzzy,1
 1823,Lubewschycza ad Nagkemlek,1,912,orthographic-fuzzy,1
@@ -1861,8 +1861,8 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1860,"Lwkawecz Inferior, Kozthanyewcz",4,627,modern,0
 1861,Lwkawecz cum pertinentiis,4,629,modern,0
 1862,Lwkawecz-cum pertinentiis,4,629,modern,0
-1863,Lwkowcz,1,909,orthographic-fuzzy,1
-1864,Lwpkowcz,1,909,orthographic-fuzzy,1
+1863,Lwkowcz,1,909,manual,0
+1864,Lwpkowcz,1,909,manual,0
 1865,Lwpoglawa,1,914,modern,0
 1866,Lwpoglawa ad Iwancz,1,914,modern,0
 1867,Lwsye,4,919,singleton,0
@@ -1906,7 +1906,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1905,Magalocz,1,931,orthographic-fuzzy,1
 1906,Magalowcz,1,931,orthographic-fuzzy,1
 1907,Magerlak,1,932,orthographic-fuzzy,1
-1908,Magwrechya,1,933,orthographic-fuzzy,1
+1908,Magwrechya,1,933,manual,0
 1909,Magyerlak,1,932,orthographic-fuzzy,1
 1910,Mahowcz,4,934,singleton,0
 1911,Makowcz,1,930,modern,0
@@ -1995,27 +1995,27 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1994,Medwewar,4,966,modern,0
 1995,"Medwewar,Sczezhwpnycze, Zlanowch-cum pertinentiis",4,966,modern,0
 1996,Medwewara,4,966,modern,0
-1997,Megereche,1,933,orthographic-fuzzy,1
+1997,Megereche,1,933,manual,0
 1998,Megereche cum provincia,1,967,singleton,0
 1999,Megerlak,1,932,orthographic-fuzzy,1
 2000,Meglech,1,968,singleton,0
 2001,Meglich,1,969,singleton,0
-2002,Megwrechya,1,933,orthographic-fuzzy,1
-2003,Megwrechye,1,933,orthographic-fuzzy,1
+2002,Megwrechya,1,933,manual,0
+2003,Megwrechye,1,933,manual,0
 2004,Megwrechye-oppidum,1,970,singleton,0
 2005,Megye,1,971,singleton,0
-2006,Megyerechye,1,933,orthographic-fuzzy,1
+2006,Megyerechye,1,933,manual,0
 2007,Megyerlok,1,972,singleton,0
-2008,Megyrechya,1,933,orthographic-fuzzy,1
-2009,Megywreche,1,933,orthographic-fuzzy,1
-2010,Megywrechye,1,933,orthographic-fuzzy,1
+2008,Megyrechya,1,933,manual,0
+2009,Megywreche,1,933,manual,0
+2010,Megywrechye,1,933,manual,0
 2011,Mekchenycze,1,965,orthographic-fuzzy,1
 2012,Mellesowcz,1,973,orthographic-fuzzy,1
 2013,"Mellesowcz, Palychna",1,974,singleton,0
 2014,Mellessowcz,1,973,orthographic-fuzzy,1
 2015,Melnesowcz,1,973,orthographic-fuzzy,1
 2016,Mendzent,3,975,orthographic-fuzzy,1
-2017,Mendzenth,1,976,orthographic-fuzzy,1
+2017,Mendzenth,1,976,manual,0
 2018,Mendzenth,3,975,orthographic-fuzzy,1
 2019,Meryna,4,977,modern,0
 2020,Merynnya,4,977,modern,0
@@ -2024,11 +2024,11 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2023,Miholya-prioratus Auranae,4,979,modern,0
 2024,Mikchewcz,4,980,modern,0
 2025,Mikechincz,1,981,singleton,0
-2026,Miketincz,1,982,orthographic-exact,0
+2026,Miketincz,1,982,manual,0
 2027,Mikwlych,4,983,orthographic-fuzzy,1
 2028,Mikwlychy sub Medwe,4,983,orthographic-fuzzy,1
-2029,Milethyncz,1,984,orthographic-exact,0
-2030,Mindzenth,1,976,orthographic-fuzzy,1
+2029,Milethyncz,1,984,manual,0
+2030,Mindzenth,1,976,manual,0
 2031,Mirina,4,985,orthographic-exact,0
 2032,Mirynna,4,985,orthographic-exact,0
 2033,Mislenincz,1,986,orthographic-exact,0
@@ -2040,14 +2040,14 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2039,"Mlaka, Syslyanoychi",4,991,modern,0
 2040,"Mlaka, Sysslyawychy",4,991,modern,0
 2041,Mnochowcz,1,992,singleton,0
-2042,Mochila,1,993,orthographic-exact,0
+2042,Mochila,1,993,manual,0
 2043,Mochrycha,1,994,singleton,0
 2044,Mochw,1,995,singleton,0
-2045,Mochyla,1,993,orthographic-exact,0
+2045,Mochyla,1,993,manual,0
 2046,Mochylo,1,996,singleton,0
 2047,Modrowcz,1,997,singleton,0
-2048,Moghoyna-de Kaproncza,1,998,orthographic-fuzzy,1
-2049,Mogowina ad Kaproncza,1,998,orthographic-fuzzy,1
+2048,Moghoyna-de Kaproncza,1,998,manual,0
+2049,Mogowina ad Kaproncza,1,998,manual,0
 2050,Mogoyna,1,999,singleton,0
 2051,Mokrycza,1,1000,singleton,0
 2052,Molwe ad Zenth Gergwara,1,1001,singleton,0
@@ -2093,9 +2093,9 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2092,Myhowlancz-ad Galgoncza,1,1018,modern,0
 2093,Mykchecz-cum pertinentiis,4,980,modern,0
 2094,Mykchowcz cum pertinentiis,4,980,modern,0
-2095,Mykethincz,1,982,orthographic-exact,0
-2096,Mykethyncz,1,982,orthographic-exact,0
-2097,Myketyncz,1,982,orthographic-exact,0
+2095,Mykethincz,1,982,manual,0
+2096,Mykethyncz,1,982,manual,0
+2097,Myketyncz,1,982,manual,0
 2098,Mykolych,4,983,orthographic-fuzzy,1
 2099,Mykolychy,4,983,orthographic-fuzzy,1
 2100,Mykoucz,1,1021,orthographic-exact,0
@@ -2107,22 +2107,22 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2106,Mykwlwch,4,983,orthographic-fuzzy,1
 2107,Mykwlych,4,983,orthographic-fuzzy,1
 2108,Mykwlychy,4,983,orthographic-fuzzy,1
-2109,Mylethincz,1,984,orthographic-exact,0
-2110,Mylethynch,1,984,orthographic-exact,0
+2109,Mylethincz,1,984,manual,0
+2110,Mylethynch,1,984,manual,0
 2111,"Mylethynch, Kamarcha",1,1024,orthographic-fuzzy,1
-2112,Mylethyncz,1,984,orthographic-exact,0
+2112,Mylethyncz,1,984,manual,0
 2113,"Mylethyncz, Camarcha",1,1024,orthographic-fuzzy,1
 2114,Myndchenth,1,1025,singleton,0
 2115,Myndczenth,3,1026,singleton,0
 2116,Myndczenth cum pertinentiis,3,1027,orthographic-exact,0
 2117,Myndczenth-cum pertinentiis,3,1027,orthographic-exact,0
-2118,Myndzeenth,1,976,orthographic-fuzzy,1
-2119,Myndzenth,1,976,orthographic-fuzzy,1
+2118,Myndzeenth,1,976,manual,0
+2119,Myndzenth,1,976,manual,0
 2120,Myndzenth,3,975,orthographic-fuzzy,1
 2121,Myndzenth,4,1028,singleton,0
 2122,Myndzenth-ad Racham,1,1029,singleton,0
-2123,Mynthzenth,1,976,orthographic-fuzzy,1
-2124,Mynzenth,1,976,orthographic-fuzzy,1
+2123,Mynthzenth,1,976,manual,0
+2124,Mynzenth,1,976,manual,0
 2125,Myrenye,4,977,modern,0
 2126,Myrkocz,2,150,modern,0
 2127,Myrkoucz,2,150,modern,0
@@ -2373,15 +2373,15 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2372,Ozwgyo-cum Zenthgeorgh,1,1120,singleton,0
 2373,Palata,1,1121,orthographic-exact,0
 2374,Palatha,1,1121,orthographic-exact,0
-2375,Palichna Zenthpeter,1,1122,orthographic-fuzzy,1
+2375,Palichna Zenthpeter,1,1122,manual,0
 2376,Palotha,1,1123,singleton,0
 2377,Palychna,1,1124,singleton,0
-2378,Palychna Zenth Peter,1,1122,orthographic-fuzzy,1
-2379,Palychna Zenth Pether,1,1122,orthographic-fuzzy,1
-2380,Palychna Zenthpeter,1,1122,orthographic-fuzzy,1
+2378,Palychna Zenth Peter,1,1122,manual,0
+2379,Palychna Zenth Pether,1,1122,manual,0
+2380,Palychna Zenthpeter,1,1122,manual,0
 2381,"Palychna Zenthpeter, Gradysthe",1,1125,singleton,0
-2382,Palychna Zenthpether,1,1122,orthographic-fuzzy,1
-2383,Palychnazenth Peter,1,1122,orthographic-fuzzy,1
+2382,Palychna Zenthpether,1,1122,manual,0
+2383,Palychnazenth Peter,1,1122,manual,0
 2384,"Panynch, Chernech, Antholowcz, Thremech",3,1126,singleton,0
 2385,Parusovcz,1,1127,modern,0
 2386,Parusowcz,1,1127,modern,0
@@ -2433,8 +2433,8 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2432,Pesthyene,1,1154,orthographic-fuzzy,1
 2433,Peszerwara,4,1155,modern,0
 2434,Peszeryo,4,1155,modern,0
-2435,Peteryanch,3,1156,orthographic-fuzzy,1
-2436,Peteryancz,3,1156,orthographic-fuzzy,1
+2435,Peteryanch,3,1156,manual,0
+2436,Peteryancz,3,1156,manual,0
 2437,Pethrossowcz,2,1152,modern,0
 2438,Pethrouyna,4,1157,orthographic-exact,0
 2439,Pethrowyna,4,1157,orthographic-exact,0
@@ -2458,7 +2458,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2457,Petrwsowcz,2,1152,modern,0
 2458,Petrwsowcz,4,1158,modern,0
 2459,Petrwssowcz,4,1158,modern,0
-2460,Petryancz,3,1156,orthographic-fuzzy,1
+2460,Petryancz,3,1156,manual,0
 2461,Petthrowyna,1,1163,orthographic-exact,0
 2462,Petthrowyna,4,1157,orthographic-exact,0
 2463,Pezedolcz ad Belam,1,1165,singleton,0
@@ -2492,7 +2492,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2491,Podbryzya,1,1174,modern,0
 2492,Podbwkowcz,1,1175,singleton,0
 2493,Podgaycz,1,1176,singleton,0
-2494,Podgorya,1,1177,singleton,0
+2494,Podgorya,1,1177,manual,0
 2495,Podgorya,4,1178,singleton,0
 2496,Podgorya-ad Zenthlelek,1,1179,singleton,0
 2497,Podgorya-plebanatus,4,1180,singleton,0
@@ -2556,11 +2556,11 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2555,Popwd,1,1208,singleton,0
 2556,Popwd Podgorya,1,1209,singleton,0
 2557,Posahecz,1,1210,singleton,0
-2558,Posaheg,1,1211,orthographic-fuzzy,1
-2559,Posahegh,1,1211,orthographic-fuzzy,1
+2558,Posaheg,1,1211,manual,0
+2559,Posahegh,1,1211,manual,0
 2560,Poszawye,4,1212,singleton,0
 2561,Pothkraycz,1,1213,singleton,0
-2562,Powsahegh,1,1211,orthographic-fuzzy,1
+2562,Powsahegh,1,1211,manual,0
 2563,Powsevcz,3,1214,singleton,0
 2564,Powsincz,1,1215,orthographic-exact,0
 2565,Powsynch,3,1216,orthographic-exact,0
@@ -2616,7 +2616,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2615,Procurancia domini episcopi (Capella-villicatus),1,1242,singleton,0
 2616,Prodauiz,1,1243,orthographic-exact,0
 2617,Prodawyz,1,1243,orthographic-exact,0
-2618,Progowcz,1,1244,singleton,0
+2618,Progowcz,1,1244,manual,0
 2619,Provinica domini episcopi,1,1245,singleton,0
 2620,Prwgowcz,1,1246,singleton,0
 2621,Prybychy,4,1247,singleton,0
@@ -2648,12 +2648,12 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2647,Pylethyncz,1,1262,singleton,0
 2648,Pyskopowczy,4,1263,singleton,0
 2649,Pzaryewo,4,1264,singleton,0
-2650,Racchycza Zenth Istwan,1,1265,orthographic-fuzzy,1
-2651,Racha,1,1266,orthographic-fuzzy,1
-2652,Rachchya,1,1266,orthographic-fuzzy,1
-2653,Rachycza Zenth Isthwan,1,1265,orthographic-fuzzy,1
-2654,Rachycza Zenth Istwan,1,1265,orthographic-fuzzy,1
-2655,Rachycza Zenth Iwan,1,1265,orthographic-fuzzy,1
+2650,Racchycza Zenth Istwan,1,1265,manual,0
+2651,Racha,1,1266,manual,0
+2652,Rachchya,1,1266,manual,0
+2653,Rachycza Zenth Isthwan,1,1265,manual,0
+2654,Rachycza Zenth Istwan,1,1265,manual,0
+2655,Rachycza Zenth Iwan,1,1265,manual,0
 2656,Rachythoych,4,1267,singleton,0
 2657,Radessych,1,1268,singleton,0
 2658,"Radessych, Dywrynowcz-ad Kemlek",1,1269,singleton,0
@@ -2774,27 +2774,27 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2773,Rogaryewcz,1,1329,orthographic-fuzzy,1
 2774,Rogaryowcz,1,1329,orthographic-fuzzy,1
 2775,Rogozna,1,1330,singleton,0
-2776,Rokonak,1,1331,modern,0
-2777,Rokonak castrum,1,1331,modern,0
-2778,Rokonog-provincia superior,1,1331,modern,0
-2779,Rokonok,1,1331,modern,0
+2776,Rokonak,1,1331,manual,0
+2777,Rokonak castrum,1,1331,manual,0
+2778,Rokonog-provincia superior,1,1331,manual,0
+2779,Rokonok,1,1331,manual,0
 2780,Rokonok,4,1332,singleton,0
-2781,Rokonok cum pertinentiis,1,1331,modern,0
-2782,Rokonok-castrum,1,1331,modern,0
-2783,"Rokonok-castrum, vilicatus",1,1331,modern,0
-2784,"Rokonok-castrum, villicatus",1,1331,modern,0
-2785,Rokonok-in pertinentiis,1,1331,modern,0
-2786,Rokonok-oppidum castri,1,1331,modern,0
-2787,Rokonok-oppidum cum pertinentiis,1,1331,modern,0
-2788,"Rokonok-oppidum, Nyegouczy",1,1331,modern,0
-2789,Rokonok-provincia superior,1,1331,modern,0
-2790,Rokonok-superior provincia,1,1331,modern,0
-2791,Rokonok-superior provincia ad,1,1331,modern,0
-2792,Rokonok-villicatus Poganchecz,1,1331,modern,0
-2793,Rokonok-villicatus inferior,1,1331,modern,0
-2794,Rokonok-villicatus superior,1,1331,modern,0
-2795,Rokonuk,1,1331,modern,0
-2796,Rokwnuk,1,1331,modern,0
+2781,Rokonok cum pertinentiis,1,1331,manual,0
+2782,Rokonok-castrum,1,1331,manual,0
+2783,"Rokonok-castrum, vilicatus",1,1331,manual,0
+2784,"Rokonok-castrum, villicatus",1,1331,manual,0
+2785,Rokonok-in pertinentiis,1,1331,manual,0
+2786,Rokonok-oppidum castri,1,1331,manual,0
+2787,Rokonok-oppidum cum pertinentiis,1,1331,manual,0
+2788,"Rokonok-oppidum, Nyegouczy",1,1331,manual,0
+2789,Rokonok-provincia superior,1,1331,manual,0
+2790,Rokonok-superior provincia,1,1331,manual,0
+2791,Rokonok-superior provincia ad,1,1331,manual,0
+2792,Rokonok-villicatus Poganchecz,1,1331,manual,0
+2793,Rokonok-villicatus inferior,1,1331,manual,0
+2794,Rokonok-villicatus superior,1,1331,manual,0
+2795,Rokonuk,1,1331,manual,0
+2796,Rokwnuk,1,1331,manual,0
 2797,"Romethincz, Garych, Solyn",1,1333,singleton,0
 2798,Rosanycza,4,1334,modern,0
 2799,Rosenik,1,1335,modern,0
@@ -3131,7 +3131,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3130,Varasd-civitas-suburbium,2,117,modern,0
 3131,Varasd-suburbium,2,117,modern,0
 3132,Varasdiensis-civitas,2,117,modern,0
-3133,Vechezlawcz,1,1512,orthographic-fuzzy,1
+3133,Vechezlawcz,1,1512,manual,0
 3134,Velika,1,1513,modern,0
 3135,Velyka,1,1513,modern,0
 3136,Velykagora,4,1514,singleton,0
@@ -3195,9 +3195,9 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3194,Waswarowcz,1,1549,orthographic-fuzzy,1
 3195,Waswaryewcz,1,1549,orthographic-fuzzy,1
 3196,Waswaryowcz,1,1549,orthographic-fuzzy,1
-3197,Wechezlaucz,1,1512,orthographic-fuzzy,1
-3198,Wechezlawcz,1,1512,orthographic-fuzzy,1
-3199,Wechlawcz,1,1512,orthographic-fuzzy,1
+3197,Wechezlaucz,1,1512,manual,0
+3198,Wechezlawcz,1,1512,manual,0
+3199,Wechlawcz,1,1512,manual,0
 3200,Wehowlan,1,1516,orthographic-fuzzy,1
 3201,Wehthocz,1,1550,singleton,0
 3202,Welesewch ad Selin,4,1551,orthographic-fuzzy,1
@@ -3312,7 +3312,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3311,"Wolyncz, Chialyncz",2,1529,modern,0
 3312,Wolywercz,1,1582,singleton,0
 3313,"Wolywercz, Kothenyak",1,1583,singleton,0
-3314,Woykowcz,1,1584,orthographic-fuzzy,1
+3314,Woykowcz,1,1584,manual,0
 3315,Woynche,2,1585,singleton,0
 3316,Woynowcz,1,1586,singleton,0
 3317,Woznekowcz,1,1587,singleton,0
@@ -3353,7 +3353,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3352,Wuzmoucz,1,1595,orthographic-exact,0
 3353,Wycha Zela,2,1535,modern,0
 3354,Wychazela,2,1535,modern,0
-3355,Wychkowcz,1,1584,orthographic-fuzzy,1
+3355,Wychkowcz,1,1584,manual,0
 3356,Wydowcz,1,1596,singleton,0
 3357,Wydowcz,2,1520,modern,0
 3358,"Wydowcz, Zent Illia",2,1520,modern,0
@@ -3382,7 +3382,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3381,Wynycza cum pertinentiis,2,1523,modern,0
 3382,Wynycze,2,1523,modern,0
 3383,Wyszoka,1,1537,modern,0
-3384,Wythkowcz,1,1584,orthographic-fuzzy,1
+3384,Wythkowcz,1,1584,manual,0
 3385,Wyudwar,1,1601,orthographic-exact,0
 3386,Wywaras,1,1602,singleton,0
 3387,Wywdwar,1,1601,orthographic-exact,0
@@ -3464,7 +3464,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3463,Zbelyo,2,1635,modern,0
 3464,"Zdenchan, Thamadocz",1,1636,singleton,0
 3465,Zdenchec ad Kaproncza,1,1637,orthographic-fuzzy,1
-3466,Zdenchecz,1,1638,singleton,0
+3466,Zdenchecz,1,1638,manual,0
 3467,Zdenchych ad Owar,1,1639,singleton,0
 3468,Zdencz,1,1640,singleton,0
 3469,Zebencz,1,1641,singleton,0
@@ -3582,7 +3582,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3581,Zenth Mohal,1,978,modern,0
 3582,Zenth Myhal,1,978,modern,0
 3583,Zenth Myhal,2,1696,singleton,0
-3584,Zenth Myklos,1,1697,orthographic-fuzzy,1
+3584,Zenth Myklos,1,1697,manual,0
 3585,Zenth Myklos,4,1695,modern,0
 3586,Zenth Nedele,2,1698,orthographic-fuzzy,1
 3587,Zenth Nedelew,2,1698,orthographic-fuzzy,1
@@ -3635,7 +3635,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3634,Zenthmihal,1,978,modern,0
 3635,Zenthmihal-villicatus ad Zenthlazlo,1,978,modern,0
 3636,Zenthmyhal,1,978,modern,0
-3637,Zenthmyklos,1,1697,orthographic-fuzzy,1
+3637,Zenthmyklos,1,1697,manual,0
 3638,Zenthmyklos,4,1695,modern,0
 3639,Zenthnedelye,4,1669,orthographic-fuzzy,1
 3640,Zenthpal,1,1699,orthographic-fuzzy,1
@@ -3687,40 +3687,40 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3686,Zlatarya,2,1727,modern,0
 3687,Zlathar,2,1727,modern,0
 3688,Zlatharya,2,1727,modern,0
-3689,Zlathina,1,1728,orthographic-exact,0
+3689,Zlathina,1,1728,manual,0
 3690,Zlathnok,1,1621,orthographic-fuzzy,1
-3691,Zlathyna,1,1728,orthographic-exact,0
+3691,Zlathyna,1,1728,manual,0
 3692,Zlathyna,2,1729,orthographic-exact,0
 3693,Zlatina,2,1729,orthographic-exact,0
 3694,Zlattar,2,1727,modern,0
-3695,Zlatyna,1,1728,orthographic-exact,0
+3695,Zlatyna,1,1728,manual,0
 3696,Zlauetych,4,1730,modern,0
 3697,"Zlavetychi, Raztok",4,1731,orthographic-exact,0
-3698,Zlawchyna,1,1732,orthographic-fuzzy,1
+3698,Zlawchyna,1,1732,manual,0
 3699,Zlawethych,4,1730,modern,0
 3700,Zlawethychy,4,1730,modern,0
 3701,Zlawetichi,4,1730,modern,0
 3702,Zlaweticzy,4,1730,modern,0
 3703,Zlawetych,4,1730,modern,0
 3704,"Zlawetychi, Raztok",4,1731,orthographic-exact,0
-3705,Zlawschina,1,1732,orthographic-fuzzy,1
-3706,Zlawschyna,1,1732,orthographic-fuzzy,1
+3705,Zlawschina,1,1732,manual,0
+3706,Zlawschyna,1,1732,manual,0
 3707,Zlawstina,1,1733,singleton,0
-3708,Zlayna,1,1734,singleton,0
+3708,Zlayna,1,1734,manual,0
 3709,Zlayno,1,1735,singleton,0
 3710,Zlobochya,1,1736,orthographic-fuzzy,1
 3711,Zlobochyna,1,1736,orthographic-fuzzy,1
 3712,"Zlobochyna, Zwybowcz",1,1737,singleton,0
 3713,Zloboda,1,1738,singleton,0
 3714,Zloboda ad Monozlo,1,1739,singleton,0
-3715,Zlobothycza,1,1740,orthographic-fuzzy,1
+3715,Zlobothycza,1,1740,manual,0
 3716,Zmolyak,4,1741,singleton,0
 3717,Zobkethyncz,1,1742,singleton,0
 3718,Zobochyna,1,1736,orthographic-fuzzy,1
-3719,Zobothycza,1,1740,orthographic-fuzzy,1
+3719,Zobothycza,1,1740,manual,0
 3720,Zolkethyncz,1,1743,singleton,0
 3721,Zolnya,1,1744,singleton,0
-3722,Zombathel,1,1745,singleton,0
+3722,Zombathel,1,1745,manual,0
 3723,Zomnycza,4,1746,singleton,0
 3724,Zomszedvara,4,1747,modern,0
 3725,Zomzed cum pertinentiis,4,1747,modern,0
@@ -3757,10 +3757,10 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3756,Zomzedwara-cum pertinentiis,4,1747,modern,0
 3757,Zomzewdwar cum pertinentiis,4,1747,modern,0
 3758,Zopya,1,1754,singleton,0
-3759,Zotezka,2,1755,orthographic-exact,0
+3759,Zotezka,2,1755,manual,0
 3760,"Zotezka, Orehowycza, Graberye, Bwssyn",2,1756,modern,0
 3761,"Zotheska, Orehowycza, Graberye, Bwssyn",2,1756,modern,0
-3762,Zothezka,2,1755,orthographic-exact,0
+3762,Zothezka,2,1755,manual,0
 3763,"Zothezka, Orehowycza Graberye, Bwssyn",2,1756,modern,0
 3764,Zotyzka,2,1757,singleton,0
 3765,Zrachyncz,2,1758,singleton,0
@@ -3819,15 +3819,15 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3818,Zudoucz,1,1784,orthographic-exact,0
 3819,Zudowcz,1,1784,orthographic-exact,0
 3820,Zuha Mlacha,1,1785,orthographic-fuzzy,1
-3821,Zuha Mlaka,1,1786,orthographic-fuzzy,1
+3821,Zuha Mlaka,1,1786,manual,0
 3822,Zuhamlacha,1,1785,orthographic-fuzzy,1
 3823,Zuhodol,2,1391,modern,0
 3824,Zuhodol,4,1787,orthographic-exact,0
 3825,Zwchowcz,1,1788,singleton,0
 3826,"Zwdowchez, Wynarcz",1,1789,singleton,0
 3827,Zwdowcz,1,1784,orthographic-exact,0
-3828,Zwha Mlaka,1,1786,orthographic-fuzzy,1
-3829,Zwhamlaka,1,1786,orthographic-fuzzy,1
+3828,Zwha Mlaka,1,1786,manual,0
+3829,Zwhamlaka,1,1786,manual,0
 3830,Zwhodol,1,1790,singleton,0
 3831,Zwhodol,2,1391,modern,0
 3832,Zwhodol,4,1787,orthographic-exact,0
