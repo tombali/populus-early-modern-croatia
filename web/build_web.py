@@ -67,8 +67,8 @@ def build():
             i = seen.get(cty, 0)
             seen[cty] = i + 1
             n = max(fallback_n.get(cty, 1), 1)
-            # phyllotaxis disc around the county capital (~0.02..0.42 deg)
-            rad = 0.42 * math.sqrt((i + 0.5) / n)
+            # tight golden spiral around county capital; ~0.004..0.15 deg radius
+            rad = 0.15 * math.sqrt((i + 0.5) / n)
             ang = i * GOLDEN
             clat, clon = COUNTIES[cty]["cap"]
             lat = clat + rad * math.sin(ang)

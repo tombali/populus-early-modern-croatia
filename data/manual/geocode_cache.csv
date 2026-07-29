@@ -199,7 +199,7 @@ county,query,lat,lon,display_name,source
 2,OREHOVEC,46.1992334,16.3645309,"Orehovec, Oštrice, Grad Novi Marof, Varaždinska županija, 42222, Hrvatska",nominatim
 2,OREHOVICA,46.1014693,15.9757103,"Orehovica, Općina Bedekovčina, Krapinsko-zagorska županija, Hrvatska",nominatim
 2,OTOK,,,,nominatim
-2,OŠTRC,45.8518209,16.2787057,"Oštrc, Štakorovečki Breg, Štakorovec, Općina Brckovljani, Zagrebačka županija, 10370, Hrvatska",nominatim
+2,OŠTRC,46.1664,16.0845,"Oštrc (Oštrcgrad), Varaždinska županija, Hrvatska",manual
 2,PETRUŠEVEC,46.1213711,16.1387745,"Petruševec, Grad Zlatar, Krapinsko-zagorska županija, Hrvatska",nominatim
 2,POLJANA,45.8474060,16.4411653,"Poljana, Grad Vrbovec, Zagrebačka županija, 10340, Hrvatska",nominatim
 2,POMNEROVAC,,,,nominatim
