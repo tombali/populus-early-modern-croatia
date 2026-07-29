@@ -18,8 +18,6 @@ clean, analysis-ready dataset:
 - **Raw spellings preserved** - kept verbatim alongside the merged/canonical
   forms used for analysis, so fidelity and usability coexist.
 
----
-
 ## Credits
 
 The original Excel transcription comes from the **Department of Croatian
@@ -44,14 +42,11 @@ The transcription was carried out within:
 The original Excel file is included in this repository at
 `excel/tax-lists-kampuš-adamček.xls`.
 
----
-
 ## Data processing
 
-Excel fil is faithful to the originals but hard to compute on: several columns pack multiple
+Excel file is faithful to the data from the book, but hard to compute on: several columns pack multiple
 facts into one cell, values are untyped and inconsistently spelled, the
 geographic hierarchy repeats on every row, and there are no stable identifiers.
-
 
 **Coverage:** ~29 census campaigns, **1495-1596** · **11,792 entries** · 4
 counties · ~3,900 raw places (≈1,800 after variant merging) · ~4,250 taxpayers ·
@@ -185,8 +180,6 @@ The structured data was spot-checked against random pages scanned from *Popisi i
   Zalathnok town is transcribed `Zlathnok` - present and correct, and exactly
   the kind of variant the place authority now reconciles.
 
----
-
 ## The resulting schema
 
 **Fact table - `tax_entries`** (grain: one source row; keeps `source_row`):
@@ -210,8 +203,6 @@ and `place_crosswalk`.
 
 See `docs/data_dictionary.md` for the full column-by-column mapping and code
 lists.
-
----
 
 ## Pipeline
 
