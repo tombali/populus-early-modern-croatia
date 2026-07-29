@@ -37,8 +37,7 @@ Talan.
 
 The transcription was carried out within:
 - the project *"Triplex Confinium: hrvatska riječna višegraničja"*, Odsjek za
-  povijest, Zavod za hrvatsku povijest, Filozofski fakultet u Zagrebu (see
-  <http://zprojekti.mzos.hr/Home_hr.htm>);
+  povijest, Zavod za hrvatsku povijest, Filozofski fakultet u Zagrebu
 - the compulsory course *"Hrvatska povijest u ranom novom vijeku"*, Odsjek za
   povijest, Filozofski fakultet u Zagrebu.
 
@@ -317,6 +316,21 @@ SELECT DISTINCT p.historical_name
 FROM place_mentions m JOIN places p ON p.place_id = m.place_id
 WHERE m.toponym LIKE '%Thewkowcz%';
 ```
+
+## Visualizations
+
+`web/index.html` is a self-contained, web-deployable page with two interactive
+views built from the database (see `web/README.md`):
+
+- **Map by year** - taxable *selišta* per place across the 23 campaigns; marker
+  area = tax base, shape = county, colour = how confident the location is;
+  today's county borders and the Sava/Drava rivers are drawn for context.
+  Un-geocoded places are scattered around their county town.
+- **Decline over time** - the county tax base collapsing across the century
+  (Križevci ~18,000 in 1507 to under 100 by 1596).
+
+Rebuild with `python web/build_web.py`; deploy via the GitHub Pages workflow
+(`.github/workflows/pages.yml`) or any static host.
 
 ## Curating the merges
 
