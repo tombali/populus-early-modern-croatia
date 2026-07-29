@@ -7,10 +7,13 @@ Structured, analysis-ready version of the tax censuses published in Ivan Kampuš
 This project turns the Excel transcription of the data from the Adamček and Kampuš book into a
 clean, analysis-ready dataset:
 
+- **Ready-to-use SQLite database** - the headline result: the fully built,
+  queryable database is committed at **`db/tax_lists.sqlite`**. Open it and
+  start querying immediately - no build step required.
 - **Normalised star schema** - a `tax_entries` fact table plus dimension and
   lookup tables, with typed columns and stable identifiers.
-- **Two delivery formats** - UTF-8 CSVs as the source of truth, plus a built
-  **SQLite** database with ready-made analysis views.
+- **Two delivery formats** - UTF-8 CSVs as the source of truth, plus the built
+  **SQLite** database above with ready-made analysis views.
 - **Reproducible, pure-Python pipeline** - one command rebuilds everything;
   no heavyweight dependencies.
 - **Nothing from the source is discarded** - every cleaned row keeps its
