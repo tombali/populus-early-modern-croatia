@@ -41,6 +41,9 @@ The transcription was carried out within:
 - the compulsory course *"Hrvatska povijest u ranom novom vijeku"*, Odsjek za
   povijest, Filozofski fakultet u Zagrebu.
 
+The original Excel file is included in this repository at
+`excel/tax-lists-kampuš-adamček.xls`.
+
 ---
 
 ## Data processing
