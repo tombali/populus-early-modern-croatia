@@ -1,0 +1,359 @@
+table,shorter_form,fuller_form
+institution_codes,Abbatia,Abbatia Beatae Mariae Virginis
+institution_codes,Abbatia,Abbatia Beatae Virginis
+institution_codes,Abbatia,Abbatia Beate Virginis de area capitulari
+institution_codes,Abbatia,Abbatia ad Thopozkam
+institution_codes,Abbatia,Abbatia bellensis
+institution_codes,Abbatia,Abbatia thoplicensis
+institution_codes,Abbatia,Abbatia zagrabiensis
+institution_codes,Biskup zagrebački (Episcopus Zagrabiensis),Biskup zagrebački (Episcopus Zagrabiensis) de Zenthgergh
+institution_codes,Biskup zagrebački (Episcopus Zagrabiensis),"Biskup zagrebački (Episcopus Zagrabiensis), Archiepiscopus"
+institution_codes,Cantor,Cantor-St. Crux
+institution_codes,Custos,Custos Chasmensis
+institution_codes,Dicator,Dicator (Ladislaus Imprych)
+institution_codes,Dicator,Dicator (gener eius)
+institution_codes,Director,Director causae
+institution_codes,Ducissa,Ducissa* de dicto Medwewar
+institution_codes,Dux,Dux (knez)
+institution_codes,Episcopus,"Episcopus, banus"
+institution_codes,Eremiti (Fratres heremitae),Eremiti (Fratres heremitae) Beate Anne
+institution_codes,Eremiti (Fratres heremitae),Eremiti (Fratres heremitae) St. Benedicti
+institution_codes,Eremiti (Fratres heremitae),Eremiti (Fratres heremitae) prope Zagrabiam
+institution_codes,Eremiti (Fratres heremitae),Eremiti (Fratres heremitae) sub Garyg
+institution_codes,Eremiti (Fratres heremitae),Eremiti (Fratres heremitae) sub Medwe
+institution_codes,Eremiti (Fratres heremitae),Eremiti (Fratres heremitae) zagrebački
+institution_codes,Eremiti (Fratres heremitae),Eremiti (Fratres heremitae)-Lepoglava
+institution_codes,Fratres,Fratres Eremiti (Fratres heremitae)
+institution_codes,Fratres,Fratres Eremiti (Fratres heremitae)-Lepoglava
+institution_codes,Fratres,Fratres Sancte Anne
+institution_codes,Fratres,Fratres St. Anne
+institution_codes,Fratres,Fratres St. Augustini
+institution_codes,Fratres,Fratres St. Francisci
+institution_codes,Fratres,Fratres de Kamennye
+institution_codes,Fratres,Fratres predicatores
+institution_codes,Fratres,Fratres predicatores-Chasma
+institution_codes,Fratres,Fratres predicatorum
+institution_codes,Fratres,Fratres zagrabienses
+institution_codes,Fratres,Fratres-Crisium
+institution_codes,Fratres,Fratres-Lepoglava
+institution_codes,Fratres,Fratres-Ludbreg
+institution_codes,Fratres,Fratres-Varasd
+institution_codes,Fratres,Fratres-franjevci
+institution_codes,Fratres,Fratres-pavlini-Lepoglava
+institution_codes,Fratres Eremiti (Fratres heremitae),Fratres Eremiti (Fratres heremitae)-Lepoglava
+institution_codes,Fratres predicatores,Fratres predicatores-Chasma
+institution_codes,Judex nobilium,Judex nobilium (Zagrebačka župnija)
+institution_codes,Judex nobilium,Judex nobilium ultra Kwppam
+institution_codes,Judex nobilium,"Judex nobilium, Litteratus"
+institution_codes,Kaptol zagrebački,Kaptol zagrebački (Capitulum Zagrabiense)
+institution_codes,Kaptol Čazmanski,Kaptol čazmanski (Capitulum Chasmense)
+institution_codes,Kralj (rex),"Kralj (rex), cum colonis nobilium ibidem praedialium"
+institution_codes,Lector,Lector Casmensis
+institution_codes,Lector,Lector-Zagrabia
+institution_codes,Litteratus,Litteratus Chasmensis
+institution_codes,Litteratus,"Litteratus, Judex nobilium"
+institution_codes,Litteratus,"Litteratus, Michael"
+institution_codes,Litteratus,"Litteratus, Predialis (predijalac)"
+institution_codes,Litteratus,"Litteratus, civis Zagrabiensis"
+institution_codes,Litteratus,"Litteratus, dicator"
+institution_codes,Litteratus,"Litteratus, exactor dicae, predijalac (predialis domini episcopi et bani)"
+institution_codes,Magister,Magister C.R.
+institution_codes,Magister,Magister canonicus
+institution_codes,Magister,Magister capelle
+institution_codes,Magister,Magister capelle Laurentii ducis
+institution_codes,Magister,Magister hospitalis
+institution_codes,Magister,Magister hospitalis de Wereucze
+institution_codes,Magister,Magister hospitalis in Monozlo
+institution_codes,Magister,Magister organista
+institution_codes,Magister,Magister prebendarius
+institution_codes,Magister,Magister protonotharius
+institution_codes,Magister capelle,Magister capelle Laurentii ducis
+institution_codes,Magister hospitalis,Magister hospitalis de Wereucze
+institution_codes,Magister hospitalis,Magister hospitalis in Monozlo
+institution_codes,Nobiles praediales,Nobiles praediales de Samssynowcz
+institution_codes,Nobiles unius sessionis,Nobiles unius sessionis ad Monozlo
+institution_codes,Nobiles unius sessionis,Nobiles unius sessionis in provincia Chasmensi
+institution_codes,Prebendar,Prebendar (prebendarius Laurentii ducis)
+institution_codes,Prebendar,Prebendar (prebendarius hospitalis)
+institution_codes,Prebendar,"Prebendar (prebendarius hospitalis), capellanus domini episcopi"
+institution_codes,Prebendar,Prebendar (prebendarius)
+institution_codes,Prebendar,Prebendar (prebendarius) Varalya
+institution_codes,Prebendar,Prebendar (prebendarius) ad Achyna
+institution_codes,Prebendar,Prebendar (prebendarius)-Prodauiz
+institution_codes,Prebendar (prebendarius hospitalis),"Prebendar (prebendarius hospitalis), capellanus domini episcopi"
+institution_codes,Prebendar (prebendarius),Prebendar (prebendarius Laurentii ducis)
+institution_codes,Prebendar (prebendarius),Prebendar (prebendarius hospitalis)
+institution_codes,Prebendar (prebendarius),"Prebendar (prebendarius hospitalis), capellanus domini episcopi"
+institution_codes,Prebendar (prebendarius),Prebendar (prebendarius) Varalya
+institution_codes,Prebendar (prebendarius),Prebendar (prebendarius) ad Achyna
+institution_codes,Prebendar (prebendarius),Prebendar (prebendarius)-Prodauiz
+institution_codes,Prebendarius,Prebendarius dominis Michael do Monozlo
+institution_codes,Prebendarius,Prebendarius et magister scholae
+institution_codes,Prebendarius,Prebendarius et rector scholae
+institution_codes,Prebendarius,Prebendarius hospitalis
+institution_codes,Prebendarius,Prebendarius-Achyna
+institution_codes,Prebendarius,Prebendarius-Dragowya
+institution_codes,Prebendarius,Prebendarius-St. Katharina
+institution_codes,Prebendarius,Prebendarius-Zemche
+institution_codes,Prediales unius sessionis,Prediales unius sessionis de Monozlo
+institution_codes,Predijalac (predialis),Predijalac (predialis domini episcopi et bani)
+institution_codes,Prepošt (praepositus),Prepošt (praepositus major)
+institution_codes,Prepošt (praepositus),Prepošt (praepositus) de Area prope Zawam in Sancta Clara
+institution_codes,Prepošt (praepositus),Prepošt (praepositus) domini palatini
+institution_codes,Prepošt (praepositus),Prepošt (praepositus)-Beate Mariae Virginis
+institution_codes,Prepošt (praepositus),Prepošt (praepositus)-Chasma
+institution_codes,Prepošt (praepositus),Prepošt (praepositus)-Galgoncza
+institution_codes,Prepošt (praepositus),Prepošt (praepositus)-Waska
+institution_codes,Prepošt (praepositus),Prepošt (praepositus)-Zagrabia
+institution_codes,Prezbiter (presbiterus),Prezbiter (presbiterus prebendae)
+institution_codes,Prothonotarius,"Prothonotarius, Vicejudex nobilium"
+institution_codes,Prothonotarius,"Prothonotarius, magister"
+institution_codes,Prothonotarius,"Protonotharius regni, magister"
+institution_codes,Rector,Rector capelle
+institution_codes,Rector,Rector hospitalis
+institution_codes,Varasd-cives,Varasd-cives civitatis
+institution_codes,Vicebanus,"Vicebanus, dicator"
+institution_codes,Vicecomes,"Vicecomes, dicator"
+institution_codes,Vicecomes,"Vicecomes, juratus"
+institution_codes,Vicejudex,Vicejudex nobilium
+institution_codes,Viceprothonotarius,Viceprothonotarius (suprug)
+institution_codes,Viceprothonotarius,Viceprothonotarius regni
+institution_codes,Viceprothonotarius,"Viceprothonotarius regni, magister"
+institution_codes,Viceprothonotarius,"Viceprothonotarius regni, notarius sedis Varasdiensis"
+institution_codes,Viceprothonotarius,"Viceprothonotarius, dicator"
+institution_codes,Viceprothonotarius regni,"Viceprothonotarius regni, magister"
+institution_codes,Viceprothonotarius regni,"Viceprothonotarius regni, notarius sedis Varasdiensis"
+institution_codes,Vojvoda,Vojvoda-Transilvanija (Erdelj)
+institution_codes,Vranski priorat (Prioratus Auranae),Vranski priorat (Prioratus Auranae) (Dominus prioris Auranae)
+institution_codes,Župnik,Župnik (plebanus Laurentii ducis)
+institution_codes,Župnik,Župnik (plebanus exactoris)
+institution_codes,Župnik,Župnik (plebanus)
+institution_codes,Župnik,Župnik (plebanus) Sanctae Trinitatis
+institution_codes,Župnik,Župnik (plebanus) Sancte Marie
+institution_codes,Župnik,Župnik (plebanus) Sancte Nedelye
+institution_codes,Župnik,Župnik (plebanus) Sancti Nicolai
+institution_codes,Župnik,Župnik (plebanus) Sancti Petri
+institution_codes,Župnik,Župnik (plebanus) St. Cosma
+institution_codes,Župnik,Župnik (plebanus) Varalya
+institution_codes,Župnik,Župnik (plebanus) Werthlin
+institution_codes,Župnik,Župnik (plebanus) Zamoboriensis
+institution_codes,Župnik,Župnik (plebanus) de Bedenycza
+institution_codes,Župnik,Župnik (plebanus) de Krawarzka
+institution_codes,Župnik,Župnik (plebanus) de Petrowyna
+institution_codes,Župnik,Župnik (plebanus) de Zenth Iwan
+institution_codes,Župnik,Župnik (plebanus) domini palatini
+institution_codes,Župnik,Župnik (plebanus) ecclesiae Sanctissimae Trinitatis
+institution_codes,Župnik,Župnik (plebanus) sub Lobor
+institution_codes,Župnik,Župnik (plebanus) sub Naghkemlek
+institution_codes,Župnik,Župnik (plebanus) sub Thrakostyan
+institution_codes,Župnik,Župnik (plebanus)-Achyna
+institution_codes,Župnik,Župnik (plebanus)-Beate Jage
+institution_codes,Župnik,Župnik (plebanus)-Beate Virginis
+institution_codes,Župnik,Župnik (plebanus)-Berzewcze
+institution_codes,Župnik,Župnik (plebanus)-Bisag
+institution_codes,Župnik,Župnik (plebanus)-Blažena Marija
+institution_codes,Župnik,Župnik (plebanus)-Capronca
+institution_codes,Župnik,Župnik (plebanus)-Cherzthwecz
+institution_codes,Župnik,Župnik (plebanus)-Cherztwecz Zenth Peter
+institution_codes,Župnik,Župnik (plebanus)-Dobrawa
+institution_codes,Župnik,Župnik (plebanus)-Dragowya
+institution_codes,Župnik,Župnik (plebanus)-Dubowcz
+institution_codes,Župnik,Župnik (plebanus)-Gersencze Zloboda
+institution_codes,Župnik,Župnik (plebanus)-Jasterabrsko
+institution_codes,Župnik,Župnik (plebanus)-Jaztrebarzka
+institution_codes,Župnik,Župnik (plebanus)-Jurowlyak
+institution_codes,Župnik,Župnik (plebanus)-Kalecz
+institution_codes,Župnik,Župnik (plebanus)-Kemlek
+institution_codes,Župnik,Župnik (plebanus)-Krapina
+institution_codes,Župnik,Župnik (plebanus)-Križevci
+institution_codes,Župnik,Župnik (plebanus)-Kwsthyarowcz
+institution_codes,Župnik,Župnik (plebanus)-Ludbreg
+institution_codes,Župnik,Župnik (plebanus)-Miholancz
+institution_codes,Župnik,Župnik (plebanus)-Mikethincz
+institution_codes,Župnik,Župnik (plebanus)-Monozlo
+institution_codes,Župnik,Župnik (plebanus)-Nouechyche
+institution_codes,Župnik,Župnik (plebanus)-Omnii Sancti
+institution_codes,Župnik,Župnik (plebanus)-Prezeka
+institution_codes,Župnik,Župnik (plebanus)-Rakonok
+institution_codes,Župnik,Župnik (plebanus)-Rakovec
+institution_codes,Župnik,Župnik (plebanus)-St. Catherina
+institution_codes,Župnik,Župnik (plebanus)-St. Cosma et Damianus
+institution_codes,Župnik,Župnik (plebanus)-St. Crux
+institution_codes,Župnik,"Župnik (plebanus)-St. Demetrius, Zemche"
+institution_codes,Župnik,Župnik (plebanus)-St. Georgius
+institution_codes,Župnik,Župnik (plebanus)-St. Johannes
+institution_codes,Župnik,Župnik (plebanus)-St. Juraj
+institution_codes,Župnik,Župnik (plebanus)-St. Kuzma
+institution_codes,Župnik,Župnik (plebanus)-St. Martinus
+institution_codes,Župnik,"Župnik (plebanus)-St. Martinus (St. Maria, 1 desertus fumus)"
+institution_codes,Župnik,Župnik (plebanus)-St. Martinus sub Okych
+institution_codes,Župnik,"Župnik (plebanus)-St. Martinus, Predialis-castellum Bosyako*"
+institution_codes,Župnik,Župnik (plebanus)-St. Michael
+institution_codes,Župnik,Župnik (plebanus)-St. Nicolaus
+institution_codes,Župnik,Župnik (plebanus)-St. Petrus
+institution_codes,Župnik,Župnik (plebanus)-St. Stephanus
+institution_codes,Župnik,Župnik (plebanus)-St. Trinitas
+institution_codes,Župnik,Župnik (plebanus)-St.Trojstvo
+institution_codes,Župnik,Župnik (plebanus)-Svi Sveti
+institution_codes,Župnik,Župnik (plebanus)-Virovitica
+institution_codes,Župnik,Župnik (plebanus)-Wolawlya
+institution_codes,Župnik,Župnik (plebanus)-Wyhel
+institution_codes,Župnik,Župnik (plebanus)-Zamobor
+institution_codes,Župnik,Župnik (plebanus)-Zemche
+institution_codes,Župnik,Župnik (plebanus)-Zenth Gergewara
+institution_codes,Župnik,Župnik (plebanus)-Zylagh
+institution_codes,Župnik,Župnik (plebanus)-civitas Montis Grecensis Zagrabiensis
+institution_codes,Župnik,Župnik (plebanus)-civitas Varasd
+institution_codes,Župnik,Župnik (plebanus)-ecclesia parochialis
+institution_codes,Župnik,Župnik (plebanus)-eclesiae Sanctissimae Trinitatis sub Okych
+institution_codes,Župnik,Župnik (plebanus)-oppidum Crisium
+institution_codes,Župnik,Župnik (plebanus)-sub castro Ostercz
+institution_codes,Župnik,Župnik (plebanus)-Čazma
+institution_codes,Župnik,"Župnik, prebendar (plebanus, prebendarius)"
+institution_codes,Župnik (plebanus),Župnik (plebanus Laurentii ducis)
+institution_codes,Župnik (plebanus),Župnik (plebanus exactoris)
+institution_codes,Župnik (plebanus),Župnik (plebanus) Sanctae Trinitatis
+institution_codes,Župnik (plebanus),Župnik (plebanus) Sancte Marie
+institution_codes,Župnik (plebanus),Župnik (plebanus) Sancte Nedelye
+institution_codes,Župnik (plebanus),Župnik (plebanus) Sancti Nicolai
+institution_codes,Župnik (plebanus),Župnik (plebanus) Sancti Petri
+institution_codes,Župnik (plebanus),Župnik (plebanus) St. Cosma
+institution_codes,Župnik (plebanus),Župnik (plebanus) Varalya
+institution_codes,Župnik (plebanus),Župnik (plebanus) Werthlin
+institution_codes,Župnik (plebanus),Župnik (plebanus) Zamoboriensis
+institution_codes,Župnik (plebanus),Župnik (plebanus) de Bedenycza
+institution_codes,Župnik (plebanus),Župnik (plebanus) de Krawarzka
+institution_codes,Župnik (plebanus),Župnik (plebanus) de Petrowyna
+institution_codes,Župnik (plebanus),Župnik (plebanus) de Zenth Iwan
+institution_codes,Župnik (plebanus),Župnik (plebanus) domini palatini
+institution_codes,Župnik (plebanus),Župnik (plebanus) ecclesiae Sanctissimae Trinitatis
+institution_codes,Župnik (plebanus),Župnik (plebanus) sub Lobor
+institution_codes,Župnik (plebanus),Župnik (plebanus) sub Naghkemlek
+institution_codes,Župnik (plebanus),Župnik (plebanus) sub Thrakostyan
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Achyna
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Beate Jage
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Beate Virginis
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Berzewcze
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Bisag
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Blažena Marija
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Capronca
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Cherzthwecz
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Cherztwecz Zenth Peter
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Dobrawa
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Dragowya
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Dubowcz
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Gersencze Zloboda
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Jasterabrsko
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Jaztrebarzka
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Jurowlyak
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Kalecz
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Kemlek
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Krapina
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Križevci
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Kwsthyarowcz
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Ludbreg
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Miholancz
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Mikethincz
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Monozlo
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Nouechyche
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Omnii Sancti
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Prezeka
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Rakonok
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Rakovec
+institution_codes,Župnik (plebanus),Župnik (plebanus)-St. Catherina
+institution_codes,Župnik (plebanus),Župnik (plebanus)-St. Cosma et Damianus
+institution_codes,Župnik (plebanus),Župnik (plebanus)-St. Crux
+institution_codes,Župnik (plebanus),"Župnik (plebanus)-St. Demetrius, Zemche"
+institution_codes,Župnik (plebanus),Župnik (plebanus)-St. Georgius
+institution_codes,Župnik (plebanus),Župnik (plebanus)-St. Johannes
+institution_codes,Župnik (plebanus),Župnik (plebanus)-St. Juraj
+institution_codes,Župnik (plebanus),Župnik (plebanus)-St. Kuzma
+institution_codes,Župnik (plebanus),Župnik (plebanus)-St. Martinus
+institution_codes,Župnik (plebanus),"Župnik (plebanus)-St. Martinus (St. Maria, 1 desertus fumus)"
+institution_codes,Župnik (plebanus),Župnik (plebanus)-St. Martinus sub Okych
+institution_codes,Župnik (plebanus),"Župnik (plebanus)-St. Martinus, Predialis-castellum Bosyako*"
+institution_codes,Župnik (plebanus),Župnik (plebanus)-St. Michael
+institution_codes,Župnik (plebanus),Župnik (plebanus)-St. Nicolaus
+institution_codes,Župnik (plebanus),Župnik (plebanus)-St. Petrus
+institution_codes,Župnik (plebanus),Župnik (plebanus)-St. Stephanus
+institution_codes,Župnik (plebanus),Župnik (plebanus)-St. Trinitas
+institution_codes,Župnik (plebanus),Župnik (plebanus)-St.Trojstvo
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Svi Sveti
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Virovitica
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Wolawlya
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Wyhel
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Zamobor
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Zemche
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Zenth Gergewara
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Zylagh
+institution_codes,Župnik (plebanus),Župnik (plebanus)-civitas Montis Grecensis Zagrabiensis
+institution_codes,Župnik (plebanus),Župnik (plebanus)-civitas Varasd
+institution_codes,Župnik (plebanus),Župnik (plebanus)-ecclesia parochialis
+institution_codes,Župnik (plebanus),Župnik (plebanus)-eclesiae Sanctissimae Trinitatis sub Okych
+institution_codes,Župnik (plebanus),Župnik (plebanus)-oppidum Crisium
+institution_codes,Župnik (plebanus),Župnik (plebanus)-sub castro Ostercz
+institution_codes,Župnik (plebanus),Župnik (plebanus)-Čazma
+institution_codes,Župnik (plebanus) St. Cosma,Župnik (plebanus)-St. Cosma et Damianus
+institution_codes,Župnik (plebanus) ecclesiae Sanctissimae Trinitatis,Župnik (plebanus)-eclesiae Sanctissimae Trinitatis sub Okych
+institution_codes,Župnik (plebanus)-Cherzthwecz,Župnik (plebanus)-Cherztwecz Zenth Peter
+institution_codes,Župnik (plebanus)-St. Martinus,"Župnik (plebanus)-St. Martinus (St. Maria, 1 desertus fumus)"
+institution_codes,Župnik (plebanus)-St. Martinus,Župnik (plebanus)-St. Martinus sub Okych
+institution_codes,Župnik (plebanus)-St. Martinus,"Župnik (plebanus)-St. Martinus, Predialis-castellum Bosyako*"
+title_codes,Comes,Comes de Frangepanibus
+title_codes,Domina,Domina despotissa
+title_codes,Domina,Domina ducissa
+title_codes,Domini,"Domini, comites"
+title_codes,Dominus,Dominus Capituli Chasmensis
+title_codes,Dominus,Dominus dux
+title_codes,Dominus,Dominus dux Sancte Sabe
+title_codes,Dominus,Dominus grof
+title_codes,Dominus,Dominus reverendissimi
+title_codes,Dominus,"Dominus, Domina"
+title_codes,Dominus,"Dominus, comes"
+title_codes,Dominus dux,Dominus dux Sancte Sabe
+title_codes,Dux,"Dux, dominus"
+title_codes,Magnificus,Magnificus dominus
+title_codes,Nobiles,Nobiles campi Zagrabiensis
+title_codes,Nobiles,nobiles unius sessionis
+title_codes,Reverendissimus dominus,Reverendissimus dominus Zagrabiensis
+status_codes,Consors,Consors-Georgius Herkffy
+status_codes,Consors,Consors-Thuroczy
+status_codes,Filia,Filia Gregorii
+status_codes,Filia,Filia Gregorius Bradach
+status_codes,Filia,Filia-Gregorius
+status_codes,Filia,"Filia-Gregorius, puella"
+status_codes,Filia-Gregorius,Filia Gregorius Bradach
+status_codes,Filia-Gregorius,"Filia-Gregorius, puella"
+status_codes,Filius,Filius Georgii-quondam
+status_codes,Filius,Filius Vincentii litterati
+status_codes,Filius,Filius-Petrus Horwath
+status_codes,Filius,Filius-Vincencius Litteratus
+status_codes,Filius,Fillius Laurentii
+status_codes,Gener,Gener-Relicta Kassnaricze
+status_codes,Gener,gener Michael Thoth
+status_codes,Heredes,Heredes (ibidem ad Selyn accesserunt fumi 3)
+status_codes,Heredes,Heredes-Martini Janchecz
+status_codes,Relicta,Relicta Dorothea
+status_codes,Relicta,Relicta Johannes
+status_codes,Relicta,Relicta Mathias
+status_codes,Relicta,Relicta Mlynchych
+status_codes,Relicta,Relicta Stephanus
+status_codes,Relicta,Relicta Ztanych
+status_codes,Relicta,Relicta domina
+status_codes,Relicta,Relicta i sinovi
+status_codes,Relicta,"Relicta, pauper"
+status_codes,Relicta,Relicta-Bradach
+status_codes,Relicta,Relicta-Dominus Andreas Hennyngh
+status_codes,Relicta,Relicta-Dominus Stephanus Bradach
+status_codes,Relicta,Relicta-Johannes Hassagy
+status_codes,Relicta,Relicta-Johannes Kozloych
+status_codes,Relicta,Relicta-Marcus Balog
+status_codes,Relicta,Relicta-Matheus Litteratus de Threm
+status_codes,Relicta,Relicta-Petrus Erdewdy
+status_codes,Relicta,Relicta-Stephanus Bradach
+status_codes,Relicta,Relicta-Thomas Capitanffy
+status_codes,Relicta Johannes,Relicta-Johannes Hassagy
+status_codes,Relicta Johannes,Relicta-Johannes Kozloych
+status_codes,Relicta Stephanus,Relicta-Stephanus Bradach
+status_codes,sin,sin Benedictus
+status_codes,sin,sin Nicolaus

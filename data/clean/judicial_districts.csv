@@ -1,0 +1,142 @@
+district_id,judge_name,county_id
+1,0,3
+2,Adamus Herkffy,2
+3,Adamus Marygolth de Marygolthowcz,2
+4,Ambrosius,1
+5,Ambrosius Litteratus,1
+6,Andreae Wulyak,1
+7,Andreas Borothwa,1
+8,Andreas Litteratus de Marocha,4
+9,Andreas Toca,1
+10,Andreas Wylyak,1
+11,Balthasar (reambulacija),4
+12,Bartholomeum de Bwdauelge i Johannem de Oresya,3
+13,Benedictus Bekoych,2
+14,Bernardus Drwskoczy,2
+15,Blasius Pogledych,4
+16,Blasius de Semoucz,2
+17,Caspar Kasnar,4
+18,Christopherus Bedekowych,2
+19,Christophorus Bedekowych,2
+20,Christophorus Bedekoych,2
+21,Christophorus Palffy,2
+22,Christophorus Palffy de Kapolna,2
+23,Cosma Korenzky,1
+24,Cosma Korenzky (alias Martinus Plemenyty),1
+25,Demetrius,1
+26,Drwskoczy-processus,2
+27,Franciscus Ztholnykowych,4
+28,Franciscus Ztolnykowyth,4
+29,Franciscus-notarius*,3
+30,Gaspar Kasnar,4
+31,Gasparus Kasnar (prije Georgius Dobychak),4
+32,Georgius Drobycchak,4
+33,Georgius Herkffy,2
+34,Georgius Madaraz,2
+35,Georgius Mykwlassych,1
+36,Georgius Prascheych,1
+37,Georgius Prenar,2
+38,Georgius Pyzacz -processus ultra Kwppam,4
+39,Georgius Semoczy,2
+40,Georgius Vytesych,1
+41,Georgius de Bonthwsowcz,1
+42,Georgius de Chapalowcz,1
+43,Georgius de Chapolowcz,1
+44,Georgius de Chapolowcz-dio kotara,1
+45,Johannes Belovarczy,4
+46,Johannes Belowarczy,4
+47,Johannes Blagonnya,4
+48,Johannes Bothysarych (Boltizarić),4
+49,Johannes Fodroczy,2
+50,Johannes Gerdak,1
+51,Johannes Gerdak-bona egregii Johannes Alapi,1
+52,Johannes Gerdak-bona non soluta in eodem processu,1
+53,Johannes Gerdak-combusta i eodem processu,1
+54,Johannes Gerdak-in eodem processu Regia Maiestatis relaxavit,1
+55,Johannes Gregoroczy,2
+56,Johannes Gwbassoczy,2
+57,Johannes Kasnary,4
+58,Johannes Kwskoczy,1
+59,Johannes Kwskowczy,2
+60,Johannes Pariis,4
+61,Johannes Pariis-non saluta in eodem processu,4
+62,Johannes Pariis-relaxata in eodem processu,4
+63,Johannes Paris,4
+64,Johannes Pataky,1
+65,Johannes Pathaky,1
+66,Johannes Pwhakoczy,2
+67,Johannes Pwhakowczy-processus,2
+68,Johannes Pwhakowczy-relaxata in eodem,2
+69,Johannes Sampwk,4
+70,Johannes Sampwk-relaxata,4
+71,Johannes Saronych -relaxata,4
+72,Johannes Saronych-non saluta in eodem procesu,4
+73,Johannes Saronych-processus,4
+74,Johannes Skropylowych,4
+75,Johannes Zaboky,2
+76,Johannes de Fodrocz,2
+77,Johannes de Schytharyo-inter Kwppam et Zawum,4
+78,Ladislaus Andreus,4
+79,"Ladislaus Saffarych, loco Palffy",4
+80,Ladislaus Zabok,2
+81,Lucas Chernkoczy loco Laczkouych,4
+82,Martinus Plemenithy,1
+83,Martinus Plemenyty,1
+84,Mathias Horwath (prije Philipus Horwath),4
+85,Mathias Pyzachych-Litteratus,1
+86,Mathias Raskay,4
+87,Mathias Zalathnoky (Litteratus),4
+88,Michael Forgach,1
+89,Michael Garazda,1
+90,Michael Thomadoczy,1
+91,Michael Thomadoczy-processus,1
+92,Michael Zent Iwan-bona non saluta in eodem processu,1
+93,Michael Zent Iwan-relaxati in eodem processu,1
+94,Michael Zent Iwany,1
+95,Nicolai Feyer,4
+96,Nicolaus Bely,4
+97,Nicolaus Czyganych,4
+98,Nicolaus Drobitel,1
+99,Nicolaus Drobitel-provincia Chasmensis,1
+100,Nicolaus Drobitel-provincia Dombrensis,1
+101,Nicolaus Feier-inter Zawm et Kwppam,4
+102,Nicolaus Fodoroczy-processus,2
+103,Nicolaus Fodoroczy-relaxata in eodem,2
+104,Nicolaus Madaraz,2
+105,Nicolaus Marygolth,2
+106,Nicolaus Pezery,4
+107,Nicolaus Punek,1
+108,Nobilium lwkaweczensium Campi Zagrebiensis,4
+109,Petrus Fynthych,1
+110,Petrus Fynthych-Dominorum Capituli Chasmensis,1
+111,Petrus Fynthych-Episcopatus Zagrabiensis-Provincia Iwanych,1
+112,Petrus Fynthych-Provincia Chasmensis,1
+113,Petrus Fynthych-Provincia Dombrensis,1
+114,Petrus Fynthych-provincia Dombrensis,1
+115,Petrus Hymprich (Imprych),4
+116,Petrus Imprych,4
+117,Petrus Laczoych de Bothyncz,1
+118,Petrus Semoczy,2
+119,Petrus Semowczy,2
+120,Petrus Semozcy,2
+121,Petrus Sewmoczy-processus,2
+122,Philipus Horwath,4
+123,Philipus Horwath-ultra Zawm,4
+124,Processus 3,4
+125,Simon Zabok,2
+126,Stephannus Hwm,4
+127,"Stephanus Appallienich, loco Johannes Mykulich",4
+128,Stephanus Berdoczy,1
+129,Stephanus Dragas,2
+130,Stephanus Drenoczy,2
+131,Stephanus Homzky,4
+132,Stephanus Humzky,4
+133,Stephanus Hwmzky (reambulacija),4
+134,Stephanus Lestak,2
+135,Stephanus Lesthak,2
+136,Stephanus Litteratus (prije Michael Bedekowych),2
+137,"Stephanus Nagh de Lad, Johannes Litteratus de Oresya",3
+138,Thomas Laczkowych,4
+139,Thomas Mikwlich,4
+140,Thomas Mykwlych,4
+141,Valentinus Zebenya,1

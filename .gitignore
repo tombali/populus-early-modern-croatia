@@ -1,0 +1,11 @@
+# Built SQLite database (rebuildable from CSVs via the pipeline)
+db/*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+#custom
+pdf/
