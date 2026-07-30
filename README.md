@@ -245,14 +245,13 @@ extract on every run.
 
 ```
 excel/          original .xls (source of truth for the transcription)
-pdf/            the scanned book (authority for ambiguous coding; gitignored)
 pipeline/       the ETL steps (stdlib-only; xlrd for the one read step)
 data/raw/       verbatim CSV dump of the .xls (+ source_row)
 data/interim/   cleaned rows, parse_issues.csv, code_merge_suggestions.csv
 data/clean/     one CSV per schema table (the CSV source of truth)
 data/manual/    curation inputs: place/code/person_overrides, geocode_cache
 db/schema.sql   star-schema DDL, indexes, analysis views
-db/tax_lists.sqlite   built database (committed; also rebuildable any time)
+db/tax_lists.sqlite   built database (rebuildable any time)
 docs/           data dictionary + methodology/codebook
 ```
 
