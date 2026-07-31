@@ -711,3 +711,36 @@ county,query,lat,lon,display_name,source
 1,Pastyinc,45.8448000,17.1020000,"Pastyinc, okolica Bačkovice (approx)",manual
 1,Greda,45.1746000,17.8435000,"Greda = Gerenda, Gradina iznad Starog Slatinika (Pálffy 1556; approx)",manual
 1,Brezovica Gradina,45.8665030,17.5580680,"Brezovica (Općina Gradina) = Berzőce, Pálffy 1556; HTRS96 user-pin",manual
+1,Streza,46.0125000,16.8144000,"Streza = Pavlinski samostan Svih Svetih (medieval Pauline monastery)",nominatim
+1,Bijela Stijena,45.3420000,17.1937000,"Fejérkő castle = Bijela Stijena, Okučani (district anchor, approx)",manual
+1,Valpovo,45.6591000,18.4179000,"castrum Valpó = Valpovo (Szilágy district anchor, approx)",manual
+1,Szávamellék,45.4500000,16.7000000,"Szávamellék = land along the Sava near Moslavina (district anchor, approx)",manual
+1,Peteranec,46.1833333,16.8833333,"Peteranec = Szentpéter ad Kaproncza (user-pinned)",manual
+1,Brežanec,46.1502046,16.8380852,"Brežanec = Bersancz ad Kaproncza (user-pinned)",manual
+1,Zdenček,46.1569602,16.8160001,"Zdenček = Zdenchec ad Kaproncza (user-pinned, approx)",manual
+1,Novska,45.3333333,16.9666667,"Novska (Zemče anchor, user-approx)",manual
+1,Sirač,45.5166667,17.2666667,"Sirač = Zyrch (user-pinned)",manual
+1,Lještani,45.3540530,17.2043230,"Lještani = Lesnekheg (user HTRS96)",manual
+1,Narta,45.8333000,16.7885000,"Narta = Narth (Bjelovar; Heller/Nominatim)",manual
+1,Sziget,45.6600000,17.7800000,"Sziget = Zygeth, nbr Bakolca/Darnóc per Pálosfalvi (approx)",manual
+1,Ladislav Sokolovački,46.0456000,16.7175000,"Ladislav Sokolovački = Szentlászló (Heller; Pálosfalvi conflict)",manual
+1,Prikraj Križevački,45.9991000,16.5339000,"Prikraj Križevački = Prykray (Heller p.90; nr Križevci)",nominatim
+1,Gornji Tkalec,45.9705000,16.4497000,"Gornji Tkalec = Chelysche/Chelycze (Heller p.17; nr Vrbovec/Križevci)",manual
+1,Hlebine,46.1666667,16.9666667,"Hlebine = Ztruga/Ztrugha prope Capronczam (Heller p.96, Feletar; user-pin)",manual
+1,Szilágyszentgyörgy,45.6591000,18.4179000,"Szentgyörgy of the Szilágy district (ad castrum Valpó) — district anchor, approx",manual
+1,Račeša,45.3543445,17.2240133,"Račeša = Razossya (user-pinned)",manual
+1,Donja Bukovica,45.6600000,17.7669444,"Donja Bukovica = Bakolcza (user-pinned)",manual
+1,Tesnahege,45.3420000,17.1937000,"Tesnahege — fuzzy at Bijela Stijena (user)",manual
+1,Erwencze,45.3981409,17.1249961,"Erwencze — fuzzy (user coord)",manual
+3,Crnac,45.6927000,17.9383000,"Crnac = Chernecz (Salopek Bogavčić; suvremeni Crnac)",manual
+1,Kovačevac,45.2657000,17.3547000,"Kovačevac = Kowachowcz (nr Nova Gradiška)",manual
+1,Sloboština,45.2711000,17.2032000,"Sloboština = Zlobochyna/Zabadfalu (Okučani)",manual
+1,Trnava,45.2661000,17.2850000,"Trnava = Thernawa (user-pinned)",manual
+1,Vrhovci,45.2824000,17.3801000,"Vrhovci = Werhoucz — fuzzy at Cernik (user)",manual
+1,Privlaka,45.2824000,17.3801000,"Privlaka = Priulaka — fuzzy at Cernik (user)",manual
+1,Sinče,45.3036000,17.1113000,"Sinče/Svetačje district (=Zempche), novljanski core nr Rajić (approx)",manual
+1,Trstenica,45.3200000,17.0320000,"Trstenica = Therzthenycze — Gradina kod Paklenice/Voćarice, Novska (tentative)",manual
+1,Grebeno,45.7250000,17.0850000,"Grebeno/Grebenska area, Općina Veliki Grđevac (approx)",manual
+1,Gatalovec,45.7120000,17.0560000,"Gatalovec = Gathalowcz, oko Velikog Grđevca (approx)",manual
+1,Pavlovac,45.7118000,17.0671000,"Pavlovac = Zenthpal/Radowan (monograph + Pálosfalvi)",manual
+1,Sesvete,45.6960000,17.0300000,"Sesvete/Svi Sveti = Omnium sanctorum, oko Velikog Grđevca (approx, offset)",manual

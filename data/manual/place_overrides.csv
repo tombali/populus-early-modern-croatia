@@ -183,7 +183,7 @@ place_id,group_key,canonical_name,modern_place,needs_review
 988,gorbonok,Gorbonok,Kloštar Podravski
 993,gordova,Gordowa,Grđevac
 994,gordova,Gordowa,Grđevac
-1054,grebena,Grebenna,Madžarevo
+1054,grebena,Grebenna,Grebeno,1
 1100,gvdovc,Gwdowcz,Gudovac
 1101,gvdovc,Gwdowcz,Gudovac
 1137,herboltia,Herbolthya,Veliki Poganac
@@ -462,10 +462,10 @@ place_id,group_key,canonical_name,modern_place,needs_review
 860,felsecezmice,Felse Chezmyche,Botinac
 940,garignice,Garyghnycze,Garešnica
 941,garignice,Garyghnycze,Garešnica
-942,gatalovc,Gathalowcz,Grdjevac
-943,gatalovc,Gathalowcz,Grdjevac
-944,gatalovc,Gathalowcz,Grdjevac
-1014,gatalovc,Gathalowcz,Grdjevac
+942,gatalovc,Gathalowcz,Gatalovec,1
+943,gatalovc,Gathalowcz,Gatalovec,1
+944,gatalovc,Gathalowcz,Gatalovec,1
+1014,gatalovc,Gathalowcz,Gatalovec,1
 970,globocec,Globochecz,Lipovčani
 974,globocec,Globochecz,Lipovčani
 975,globocec,Globochecz,Lipovčani
@@ -490,8 +490,8 @@ place_id,group_key,canonical_name,modern_place,needs_review
 1111,givganc,Gywgancz,Kaniška Iva
 1112,givganc,Gywgancz,Kaniška Iva
 1124,halehosovc,Halehosowcz,Pavlin Kloštar
-1125,hatko,Hathko,Grdjevac
-1127,hatko,Hathko,Grdjevac
+1125,hatko,Hathko,Hotko,1
+1127,hatko,Hathko,Hotko,1
 1128,haznarc,Haznarcz,Sudovec
 1135,herbotovc,Herbothowcz,Fuka
 1136,herbotovc,Herbothowcz,Fuka
@@ -842,3 +842,70 @@ place_id,group_key,canonical_name,modern_place,needs_review
 3657,zerdahel,Zerdahel,Gornji Sređani,
 2394,pasthincz,Pasthincz,Pastyinc,1
 219,berzewcze,Berzewcze,Brezovica Gradina
+3813,ztreza,Ztreza,Streza
+352,brezewczepert,Brezewcze cum pertinentiis,Brezovica Gradina,1
+218,berzewczprov,Berzewcz-provincia inferior,Brezovica Gradina,1
+220,berzewczprov,Berzewcz-provincia inferior,Brezovica Gradina,1
+907,fejerko,Feyrkew-waywodatus cum pertinentiis,Bijela Stijena,1
+906,fejerko2,Feyerkew,Bijela Stijena,1
+3848,szilagy,Zylag-wayvodatus,Valpovo,1
+3851,szilagy,Zylag-wayvodatus,Valpovo,1
+3852,szilagyinf,Zylagh-waywodatus inferior ad castrum Valpo,Valpovo,1
+3853,szilagyinf,Zylagh-waywodatus inferior ad castrum Valpo,Valpovo,1
+3445,szavamellek,Zavamelleky,Szávamellék,1
+3447,szavamellek,Zavamelleky,Szávamellék,1
+3449,szavamellek,Zavamelleky,Szávamellék,1
+3448,szavamellek2,Zawamelleke ad Monozlo,Szávamellék,1
+2410,zerdahel,Zerdahel,Gornji Sređani
+939,gordova,Gardowa,Grđevac
+3643,zenthpetherkapr,Zenthpether ad Kaproncza,Peteranec
+207,bersanczkapr,Bersancz ad Kaproncza,Brežanec
+343,bersanczkapr,Bersancz ad Kaproncza,Brežanec
+3465,zdenchekapr,Zdenchec ad Kaproncza,Zdenček,1
+3473,zdenchekapr,Zdenchec ad Kaproncza,Zdenček,1
+41,alsozemche,Also Zemche,Novska,1
+42,alsozemche,Also Zemche,Novska,1
+863,felsezemche,Felsew Zemche,Novska,1
+882,felsezemche,Felsew Zemche,Novska,1
+883,felsezemche,Felsew Zemche,Novska,1
+2406,pekercz,Pekercz,Pakrac
+3854,zyrch,Zyrch,Sirač
+1770,lesnekheg,Lesnekheg,Lještani
+2004,megwrechyeopp,Megwrechye-oppidum,Međurić
+2163,narth,Narth,Narta,1
+3845,zygeth,Zygeth,Sziget,1
+3568,zenthlaczlo,Zenth Laczlo,Ladislav Sokolovački,1
+2611,prykray,Prykray ad Zenth Gergwara,Prikraj Križevački
+2629,prykray,Prykray ad Zenth Gergwara,Prikraj Križevački
+504,chelycze,Chelycze,Gornji Tkalec,1
+505,chelycze,Chelycze,Gornji Tkalec,1
+653,chelycze,Chelycze,Gornji Tkalec,1
+3801,ztruga,Ztruga,Hlebine,1
+3802,ztruga,Ztruga,Hlebine,1
+3814,ztruga,Ztruga,Hlebine,1
+3816,ztruga,Ztruga,Hlebine,1
+3847,zylagzenthgyergh,Zylagh Zenthgyergh,Szilágyszentgyörgy,1
+3850,zylagzenthgyergh,Zylagh Zenthgyergh,Szilágyszentgyörgy,1
+2725,razossya,Razossya,Račeša
+98,bakolczazygeth,Bakolcza Zygeth,Donja Bukovica
+3009,tesnahege,Tesnahege,Tesnahege,1
+849,erwencze,Erwencze,Erwencze,1
+715,dobrokychya,Dobrokychya,Dobra Kuća
+3121,twtwsewynainf,Twtwsewyna inferior,Topolovac
+526,chernecz3,Chernecz,Crnac
+527,chernecz3,Chernecz,Crnac
+1572,kowachowcz,Kowachowcz,Kovačevac
+3710,zlobochyna,Zlobochyna,Sloboština
+3711,zlobochyna,Zlobochyna,Sloboština
+3718,zlobochyna,Zlobochyna,Sloboština
+3037,thernawa,Thernawa,Trnava
+3231,werhoucz,Werhoucz,Vrhovci,1
+3233,werhoucz,Werhoucz,Vrhovci,1
+2613,priulaka,Priulaka,Privlaka,1
+3507,zempche,Zempche,Sinče,1
+3508,zempche,Zempche,Sinče,1
+3056,therzthenycze,Therzthenycze,Trstenica,1
+3057,therzthenycze,Therzthenycze,Trstenica,1
+3589,zenthpal,Zenthpal,Pavlovac
+3640,zenthpal,Zenthpal,Pavlovac
+2266,sesvetegrdjevac,Omnii Sancti (Svi Sveti Sesvete),Sesvete,1
