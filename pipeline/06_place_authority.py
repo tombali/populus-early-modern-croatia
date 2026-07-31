@@ -70,10 +70,16 @@ def load_overrides():
         for r in csv.DictReader(fh):
             gk = r["group_key"].strip()
             pid_group[r["place_id"].strip()] = gk
-            if r.get("canonical_name") or r.get("modern_place"):
+            if r.get("canonical_name") or r.get("modern_place") \
+                    or r.get("needs_review"):
                 group_meta[gk] = {"canonical_name": (r.get("canonical_name")
                                                      or "").strip(),
                                   "modern_place": (r.get("modern_place")
+                                                   or "").strip(),
+                                  # optional manual flag: force fuzzy/yellow
+                                  # (e.g. an approximate pin) without a merge
+                                  # conflict. "1" -> needs_review = 1.
+                                  "needs_review": (r.get("needs_review")
                                                    or "").strip()}
     return pid_group, group_meta
 
@@ -221,6 +227,8 @@ def main():
         else:
             method = "orthographic-fuzzy"
         needs_review = 1 if (method == "orthographic-fuzzy" or conflict) else 0
+        if gmeta.get("needs_review") == "1":   # manual "mark as fuzzy" flag
+            needs_review = 1
 
         lat, lon = geocode.get((cid, geocode_query(modern)), ("", ""))
 

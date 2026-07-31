@@ -496,15 +496,15 @@ county,query,lat,lon,display_name,source
 1,Gračenica,45.5149669,16.6540389,"Gračenica, Donja Gračenica, Grad Popovača, Sisačko-moslavačka županija, Hrvatska",nominatim
 1,Grđevac,45.7515565,17.0497322,"Veliki Grđevac, Općina Veliki Grđevac, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
 1,Gudovac,45.8811395,16.7846354,"Gudovac, Grad Bjelovar, Bjelovarsko-bilogorska županija, 43251, Hrvatska",nominatim
-1,Kontovac,,,,nominatim
+1,Kontovac,45.7024515,17.1738629,"Kontovac (user-pinned)",manual
 1,Kreštelovac,45.5765405,17.0519967,"Kreštelovac, Općina Dežanovac, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
 1,Kutina,45.5186851,16.7911430,"Kutina, Grad Kutina, Sisačko-moslavačka županija, Hrvatska",nominatim
 1,Madžarevo,46.1695487,16.3060711,"Madžarevo, Grad Novi Marof, Varaždinska županija, Hrvatska",nominatim
 1,Martinac Trojstveni,45.9491719,16.9156958,"Martinac, Općina Veliko Trojstvo, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
-1,Martinpotok,,,,nominatim
+1,Martinpotok,45.6219444,17.6216667,"Martinpotok (depopulated; atar absorbed into Macute, user-approx)",manual
 1,Novigrad Podravski,46.0757469,16.9497812,"Općina Novigrad Podravski, Koprivničko-križevačka županija, 48325, Hrvatska",nominatim
 1,Obrovnica,45.8293983,16.8754274,"Obrovnica, Grad Bjelovar, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
-1,Orahovica,,,,nominatim
+1,Orahovica,45.5333333,17.8833333,"Orahovica = Raholca (user-pinned)",nominatim
 1,Paklenica,45.3271695,17.0187837,"Paklenica, Grad Novska, Sisačko-moslavačka županija, Hrvatska",nominatim
 1,Pistana,,,,nominatim
 1,Prašćevac,45.9195895,16.6499108,"Prašćevac, Općina Farkaševac, Zagrebačka županija, 10344, Hrvatska",nominatim
@@ -668,7 +668,7 @@ county,query,lat,lon,display_name,source
 4,Vrhovac,45.6353927,15.4863056,"Vrhovac, Tkalci, Vrhovac, Grad Ozalj, Karlovačka županija, Hrvatska",nominatim
 4,Šimunčevec Šimunovec,,,,nominatim
 1,Bijela,45.5627565,17.2903219,"Bijela, Općina Sirač, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
-1,Petrovina,45.6928387,16.0312510,"Petrovina Turopoljska, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+1,Petrovina,45.5271000,17.1602000,"Petrovina (okolica Gornjih Sređana, Pálffy 1556; approx)",manual
 1,Slatina,45.9569941,16.3855756,"Slatina, Općina Preseka, Zagrebačka županija, 10346, Hrvatska",nominatim
 4,Brkiševina,45.4457065,16.0896594,"Brkiševina, Uzbašići, Brkiševina, Općina Lekenik, Sisačko-moslavačka županija, Hrvatska",nominatim
 4,Sveta Jana,45.4808110,15.8435920,"Sveta Jana, Dugo Selo Lasinjsko, Općina Gvozd, Sisačko-moslavačka županija, 47206, Hrvatska",nominatim
@@ -696,3 +696,18 @@ county,query,lat,lon,display_name,source
 4,Kupinec,45.7319444,15.7200000,Kupinec (user-pinned),manual
 3,Špišić Bukovica,45.8489000,17.4247000,Špišić Bukovica (user/book-pinned),manual
 3,Virovitica,45.8325000,17.3839000,Virovitica (user/book-pinned),manual
+4,Zagreb - Grič,45.8162301,15.9735992,"Zagreb - Grič (Gornji grad), relabel",manual
+1,LOVREČINA,45.9235500,16.4361770,"Lovrečina (user-pinned)",manual
+1,Gornje Predrijevo,45.7833333,17.4666667,"Gornje Predrijevo (user-pinned)",manual
+1,Pištana,45.5333333,17.8833333,"Pištana (user-pinned)",manual
+1,Moslavina,45.6433859,16.6830138,"Moslavina (whole area, user-pinned)",manual
+1,Slatinski Drenovac,45.5552892,17.7065148,"Slatinski Drenovac (user-pinned)",manual
+1,Jugovac,45.7531100,17.6065410,"Jugovac (user-pinned, approximate)",manual
+1,Apatovac,46.1477000,16.5726000,"Apatovec, Grad Križevci (geocoded)",nominatim
+
+1,Gornji Sređani,45.5271000,17.1602000,"Gornji Sređani = Pekerszerdahely (Pálffy 1556)",nominatim
+1,Orahovica,45.5333333,17.8833333,"Orahovica = Raholca (user-pinned)",nominatim
+1,Kontovac,45.7024515,17.1738629,"Kontovac (user-pinned)",manual
+1,Pastyinc,45.8448000,17.1020000,"Pastyinc, okolica Bačkovice (approx)",manual
+1,Greda,45.1746000,17.8435000,"Greda = Gerenda, Gradina iznad Starog Slatinika (Pálffy 1556; approx)",manual
+1,Brezovica Gradina,45.8665030,17.5580680,"Brezovica (Općina Gradina) = Berzőce, Pálffy 1556; HTRS96 user-pin",manual

@@ -41,13 +41,16 @@ ALLOWED_COUNTIES = {
     "sisačko-moslavačka županija", "karlovačka županija",
     "varaždinska županija", "koprivničko-križevačka županija",
     "bjelovarsko-bilogorska županija", "virovitičko-podravska županija",
+    # medieval Križevec (county 1) reached SE into the Pakrac/Slavonia zone,
+    # so its modern successors count too.
+    "požeško-slavonska županija", "brodsko-posavska županija",
 }
 
 # Historical county seat (modern coords) and how far a match may plausibly sit
 # from it. Zagreb was a large county (generous cap); Varaždin was compact.
 HIST_SEAT = {"1": (46.0246, 16.5460), "2": (46.3057, 16.3366),
              "3": (45.8319, 17.3836), "4": (45.8144, 15.9780)}
-CAP_KM = {"1": 90, "2": 60, "3": 95, "4": 110}
+CAP_KM = {"1": 130, "2": 60, "3": 95, "4": 110}
 
 
 def haversine_km(a, b):

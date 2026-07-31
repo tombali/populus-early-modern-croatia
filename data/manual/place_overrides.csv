@@ -1,4 +1,4 @@
-place_id,group_key,canonical_name,modern_place
+place_id,group_key,canonical_name,modern_place,needs_review
 3435,zamladinec,,Zamladinec
 3436,zamladinec,,Zamladinec
 2776,rokonok,Rokonok,Rakovec
@@ -204,11 +204,11 @@ place_id,group_key,canonical_name,modern_place
 1687,kvtenia,Kwtthennya,Kutina
 1688,kvtenia,Kwtthennya,Kutina
 1694,kvtenia,Kwtthennya,Kutina
-1924,martonpataka,Marthonpathaka,Martinpotok
-1936,martonpataka,Marthonpathaka,Martinpotok
-1937,martonpataka,Marthonpathaka,Martinpotok
-1938,martonpataka,Marthonpathaka,Martinpotok
-1939,martonpataka,Marthonpathaka,Martinpotok
+1924,martonpataka,Marthonpathaka,Martinpotok,1
+1936,martonpataka,Marthonpathaka,Martinpotok,1
+1937,martonpataka,Marthonpathaka,Martinpotok,1
+1938,martonpataka,Marthonpathaka,Martinpotok,1
+1939,martonpataka,Marthonpathaka,Martinpotok,1
 1940,martinianc,Martynyancz,Martijanec
 1947,martinianc,Martynyancz,Martijanec
 1960,martinianc,Martynyancz,Martijanec
@@ -331,7 +331,7 @@ place_id,group_key,canonical_name,modern_place
 939,gardova,Gardowa,Grdjevac
 992,gorbova,Gorbowa,Grbavac
 1036,gradac,Gradacz,Gradec
-1056,greda,Greda,Greda Peskovečka
+1056,greda,Greda,Greda,1
 1085,grobosinc,Grobosincz,Grubišno Polje
 1086,grobosinc,Grobosincz,Grubišno Polje
 1121,habianovc,Habyanowcz,Habjanovac
@@ -742,8 +742,8 @@ place_id,group_key,canonical_name,modern_place
 204,berkisevina,Berkyssewyna,Brkiševina
 205,berkisevina,Berkyssewyna,Brkiševina
 206,berkisevina,Berkyssewyna,Brkiševina
-2452,petrovina,Petrowyna,Petrovina
-2461,petrovina,Petrowyna,Petrovina
+2452,petrovina,Petrowyna,Petrovina,1
+2461,petrovina,Petrowyna,Petrovina,1
 2546,poliana,Polyana,Poljana
 3758,zopia,Zopya,Sopje
 2495,podgoria,Podgorya,Sveta Jana
@@ -805,3 +805,40 @@ place_id,group_key,canonical_name,modern_place
 3226,virovitica,Wereucze,Virovitica
 3227,virovitica,Wereucze,Virovitica
 2927,soplonca,Soploncza,Gornja Stupčanica
+594,gricz,Civitas Montis Grecensis Zagrabiensis,Zagreb - Grič
+595,gricz,Civitas Montis Grecensis Zagrabiensis,Zagreb - Grič
+3414,gricz,Civitas Montis Grecensis Zagrabiensis,Zagreb - Grič
+3415,gricz,Civitas Montis Grecensis Zagrabiensis,Zagreb - Grič
+3416,gricz,Civitas Montis Grecensis Zagrabiensis,Zagreb - Grič
+2429,pesthenye,Pesthenye,Pištana
+2430,pesthenye,Pesthenye,Pištana
+2431,pesthenye,Pesthenye,Pištana
+2432,pesthenye,Pesthenye,Pištana
+2061,moslavina,Monozlo,Moslavina
+2062,moslavina,Monozlo,Moslavina
+2063,moslavina,Monozlo,Moslavina
+2064,moslavina,Monozlo,Moslavina
+2065,moslavina,Monozlo,Moslavina
+674,darnocz,Darnocz cum pertinenciis,Slatinski Drenovac
+676,darnocz,Darnocz cum pertinenciis,Slatinski Drenovac
+677,darnocz,Darnocz cum pertinenciis,Slatinski Drenovac
+678,darnocz,Darnocz cum pertinenciis,Slatinski Drenovac
+679,darnocz,Darnocz cum pertinenciis,Slatinski Drenovac
+3543,zenthersebeth,Zenthersebeth,Jugovac,1
+3607,zenthersebeth,Zenthersebeth,Jugovac,1
+3077,thothwsewyna,Thothwsewyna,Topolovac,
+3100,thothwsewyna,Thothwsewyna,Topolovac,
+2928,soproncha,Soproncha,Gornja Stupčanica,
+2929,soproncha,Soproncha,Gornja Stupčanica,
+2930,soproncha,Soproncha,Gornja Stupčanica,
+34,alsosoproncha,Also Soproncha,Gornja Stupčanica,
+35,alsosoproncha,Also Soproncha,Gornja Stupčanica,
+66,alsosoproncha,Also Soproncha,Gornja Stupčanica,
+984,gorbonwkopp,Gorbonwk-oppidum cum pertinentiis,Kloštar Podravski,
+985,gorbonwkopp,Gorbonwk-oppidum cum pertinentiis,Kloštar Podravski,
+989,gorbonwkopp,Gorbonwk-oppidum cum pertinentiis,Kloštar Podravski,
+991,gorbonwkfew,Gorbonwkfew ad Zenth Gergwara,Kloštar Podravski,
+
+3657,zerdahel,Zerdahel,Gornji Sređani,
+2394,pasthincz,Pasthincz,Pastyinc,1
+219,berzewcze,Berzewcze,Brezovica Gradina
