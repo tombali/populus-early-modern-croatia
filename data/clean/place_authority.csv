@@ -977,7 +977,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 976,Myndzenth,Velike Sesvete,1,6,43,manual,0,46.055600,16.671700
 977,Myrynye,MERENJE,4,8,18,modern,0,45.9547190,15.7855215
 978,Zenthmyhal,Tomašica,1,9,16,manual,0,45.6432165,17.0173219
-979,Myholya,MIHOLJEC,4,4,29,modern,0,,
+979,Myholya,LETOVANIĆ,4,4,29,manual,0,45.5078202,16.1989220
 980,Mikchewcz,MIČEVEC,4,3,3,modern,0,45.7529444,16.0531946
 981,Mikechincz,Martinec,1,1,1,manual,0,,
 982,Mykethyncz,Miketinec,1,4,11,manual,0,,
@@ -1018,7 +1018,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1017,"Myhalyownicza, Lypowcz",,1,1,1,singleton,0,,
 1018,Myholcz,MIHOLEC,1,6,9,modern,0,46.0545405,16.4462061
 1019,"Myholcz, Fodrowcz","MIHOLEC, FODOROVEC",1,2,5,modern,0,46.0545405,16.4462061
-1020,Myholnya,,4,1,1,singleton,0,,
+1020,Myholnya,LETOVANIĆ,4,1,1,manual,0,45.5078202,16.1989220
 1021,Mykowcz,MIKOVEC,1,2,10,orthographic-exact,0,46.0879775,16.4765791
 1022,Mykowcz,MIKOVEC,4,1,1,singleton,0,46.0897231,16.4731708
 1023,Mykusewcz,Miklouš,1,1,1,manual,0,45.7266777,16.7043771
@@ -1029,7 +1029,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1028,Myndzenth,,4,1,1,singleton,0,,
 1029,Myndzenth-ad Racham,,1,1,1,singleton,0,,
 1030,"Myrkowcz, Brezowa","MIRKOVEC, BREZOVA",2,1,9,singleton,0,,
-1031,Nagh Gara,,4,2,4,orthographic-exact,0,,
+1031,Nagh Gara,Velika Gora,4,2,4,manual,0,45.9591124,16.1943780
 1032,Nagh Thopalocz,,3,4,8,orthographic-fuzzy,1,,
 1033,Nagh Mlaka,VELIKA MLAKA,4,5,13,modern,0,45.7359614,16.0300097
 1034,Nagh Thabor,VELIKI TABOR,2,4,10,modern,0,46.1546586,15.6513664
@@ -1057,7 +1057,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1056,Nowak,NOVAKI,1,2,8,modern,0,45.8469164,16.5578347
 1057,Zomzedwara-castrum / Nowak,NOVAKI,4,4,9,modern,0,45.7968280,15.8022318
 1058,Nowak-ad Achynam,,1,1,1,singleton,0,,
-1059,Nowakowcz,,4,2,4,orthographic-fuzzy,1,,
+1059,Nowakowcz,CERJE,4,2,4,manual,0,45.8296604,16.1914690
 1060,Obchewcz,Općevac,1,2,3,manual,0,45.7280399,16.5571761
 1061,Obed,OBEDIŠĆE,1,2,7,modern,0,45.7548925,16.3090960
 1062,Obranowcz Zenthmichael,,1,1,3,singleton,0,,
@@ -1078,7 +1078,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1077,"Olywercz, Kothnak",,1,1,1,singleton,0,,
 1078,Omelya,,4,2,11,orthographic-exact,0,,
 1079,Omelye,,4,2,10,orthographic-exact,0,,
-1080,Omylya,,4,4,9,orthographic-fuzzy,1,,
+1080,Omylya,Omillia,4,4,9,manual,0,,
 1081,Omnii Sancti,,1,1,4,singleton,0,,
 1082,"Omnii Sancti (Svi Sveti, Sesvete)",,1,1,2,singleton,0,,
 1083,Omnii Sancti ad Monozlo,,1,1,1,singleton,0,,
@@ -1149,7 +1149,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1148,"Perchynowcz, Bywrynowcz-ad Nagh Kemlek",,1,1,1,singleton,0,,
 1149,Perhoch,,4,1,2,singleton,0,,
 1150,Persinowcz,,1,2,2,orthographic-exact,0,,
-1151,Persynowcz,,4,1,6,singleton,0,,
+1151,Persynowcz,KOBILIĆ,4,1,6,manual,0,45.7319711,16.1012819
 1152,Petrwsowcz,PETRUŠEVEC,2,9,14,modern,0,46.1213711,16.1387745
 1153,Peschenycza,PEŠĆENICA,4,5,11,modern,0,45.8123638,16.0078639
 1154,Pesthenye,Pistana,1,4,45,manual,0,,
@@ -1180,7 +1180,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1179,Podgorya-ad Zenthlelek,,1,1,3,singleton,0,,
 1180,Podgorya-plebanatus,,4,1,1,singleton,0,,
 1181,Podgorye-de Gorbonok,,1,1,1,singleton,0,,
-1182,Podgradie,,4,1,2,singleton,0,,
+1182,Podgradie,Blinja,4,1,2,manual,0,45.4225100,16.4572695
 1183,Podkraych,,1,1,1,singleton,0,,
 1184,Podkrayta,,1,1,2,singleton,0,,
 1185,"Podotoche, Lwchylnycza","PODOTOČJE, LUČILNICA",4,3,6,modern,0,45.6953168,16.1460850
@@ -1261,7 +1261,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1260,"Pwztha Dwsycza, Hergoychy-ad Hrazthowycza pertinentes",,4,1,1,singleton,0,,
 1261,Pychwlyncz,,1,2,4,orthographic-exact,0,,
 1262,Pylethyncz,,1,1,1,singleton,0,,
-1263,Pyskopowczy,,4,1,1,singleton,0,,
+1263,Pyskopowczy,Biškupec Zelinski,4,1,1,manual,0,45.9615472,16.2325242
 1264,Pzaryewo,,4,1,2,singleton,0,,
 1265,Rachycza Zenth Istwan,Račica,1,4,6,manual,0,46.104251,16.863839
 1266,Racha,Račica,1,2,15,manual,0,46.104251,16.863839
@@ -1269,7 +1269,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1268,Radessych,,1,1,1,singleton,0,,
 1269,"Radessych, Dywrynowcz-ad Kemlek",,1,1,1,singleton,0,,
 1270,Radhycza Zenth Iwan,,1,1,1,singleton,0,,
-1271,Radmanczy,,4,3,5,orthographic-fuzzy,1,,
+1271,Radmanczy,BUKOVŠĆAK,4,3,5,manual,0,45.9055538,15.8017033
 1272,Radnak,Rayncek,1,1,2,manual,0,,
 1273,Radoboya,,2,1,1,singleton,0,,
 1274,Radoysche,,1,2,4,orthographic-fuzzy,1,,
@@ -1316,7 +1316,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1315,"Rechycza, Lwka","REČICA, LUKA",4,1,1,singleton,0,45.5082501,15.6617627
 1316,Regaryowecz,,1,1,1,singleton,0,,
 1317,Regowcz,,1,2,4,orthographic-fuzzy,1,,
-1318,Ryeka,,4,2,15,orthographic-fuzzy,1,,
+1318,Ryeka,Reka,4,2,15,manual,0,46.1315112,16.7711853
 1319,Reka cum pertinetiis Kys Kemlek,,1,2,2,orthographic-fuzzy,1,,
 1320,"Reka, Malchez",,1,1,1,singleton,0,,
 1321,Remethe,,1,1,3,singleton,0,,
@@ -1395,14 +1395,14 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1394,Seryawyncz,ŽERJAVINEC,4,3,11,modern,0,45.8688625,16.1650186
 1395,Sydyna,,1,4,7,orthographic-exact,0,,
 1396,Simonoucz,ŠIMUNOVEC,3,1,1,singleton,0,,
-1397,Simwnowcz,ŠIMUNOVEC,4,8,57,modern,0,,
+1397,Simwnowcz,Šimunčevec Šimunovec,4,8,57,manual,0,,
 1398,Simonwelge,,3,2,15,orthographic-exact,0,,
 1399,Sythomyer,ŽITOMIR,4,6,24,modern,0,46.0171515,16.1966643
 1400,Slywercz,,1,1,1,singleton,0,,
 1401,Sokowcz,,1,1,2,singleton,0,,
 1402,Soploncza,,1,1,13,singleton,0,,
 1403,Soproncha,,1,3,8,orthographic-exact,0,,
-1404,Sosomberk,ŠUŠOMBERG,4,4,16,modern,0,,
+1404,Sosomberk,Sušobreg,4,4,16,manual,0,46.0386289,16.1659329
 1405,Sosen,,1,1,1,singleton,0,,
 1406,Spanicz,,1,1,1,singleton,0,,
 1407,Srachyncz,,2,1,1,singleton,0,,
@@ -1439,7 +1439,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1438,Terbennye,Turbina,1,1,1,manual,0,,
 1439,"Terbyne, Lokawecz",,1,1,1,singleton,0,,
 1440,"Thernowcz, Kochan","TRNOVEC, KUČAN",2,5,6,modern,0,46.2942784,16.3992728
-1441,Thernowcz,TRNOVEC,4,3,4,modern,0,,
+1441,Thernowcz,Markuševačka Trnava,4,3,4,manual,0,45.8808394,16.0330110
 1442,Tesnahege,,1,1,1,singleton,0,,
 1443,Thalanoucz,,3,1,2,singleton,0,,
 1444,Thallocz,,3,1,5,singleton,0,,
@@ -1447,7 +1447,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1446,Thaloucz,,3,1,2,singleton,0,,
 1447,"Tharnowcz, Berethyncz","TRNOVEC, BERETINEC",2,5,29,modern,0,46.2942784,16.3992728
 1448,Tharnowcz,TRNOVEC,1,1,1,singleton,0,46.2981151,16.4428652
-1449,Thassolcz,,4,1,1,singleton,0,,
+1449,Thassolcz,BEDENICA,4,1,1,manual,0,46.0326343,16.2432436
 1450,Thechenyk,TUČENIK,1,1,1,singleton,0,45.9412351,16.5289692
 1451,Themennycze,,1,1,1,singleton,0,,
 1452,Themerye,Temerie,1,1,9,manual,0,,
@@ -1479,10 +1479,10 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1478,Thoplycza,TOPLICA,2,4,19,modern,0,,
 1479,Thopolchazenthgergh,,1,1,2,singleton,0,,
 1480,Thopolyancz,,1,1,2,singleton,0,,
-1481,Thopozka,,4,1,1,singleton,0,,
+1481,Thopozka,Topusko,4,1,1,manual,0,45.2943011,15.9707037
 1482,Thorchecz,Tomašica,1,1,1,manual,0,45.6432165,17.0173219
 1483,Thornava,,1,1,1,singleton,0,,
-1484,Thossewczy,,4,1,1,singleton,0,,
+1484,Thossewczy,BEDENICA,4,1,1,manual,0,46.0326343,16.2432436
 1485,Thossowcz,,4,1,1,singleton,0,,
 1486,Thothwsewyna,,1,2,2,orthographic-exact,0,,
 1487,Thrakostyan,TRAKOŠĆAN,2,8,16,modern,0,46.2589761,15.9482046
@@ -1492,12 +1492,12 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1491,Threwm,,4,1,1,singleton,0,,
 1492,Thryen,,4,1,2,singleton,0,,
 1493,Twlowa,Pavlin,1,2,3,manual,0,46.0073012,16.8288694
-1494,Thwran,,4,2,12,orthographic-exact,0,,
+1494,Thwran,Turanj,4,2,12,manual,0,45.4612412,15.5695859
 1495,Thwran-castrum cum pertinentiis,,4,1,1,singleton,0,,
 1496,Thwrcoucz,,1,1,1,singleton,0,,
 1497,Thwrkowcz,,1,1,1,singleton,0,,
 1498,Thwrkowschyna,TURKOVČINA,4,4,24,modern,0,46.0440084,16.2455029
-1499,Thwropolia,,4,1,1,singleton,0,,
+1499,Thwropolia,Turopolje,4,1,1,manual,0,45.6491798,16.1402032
 1500,Thybonyncz,,1,1,3,singleton,0,,
 1501,Trachyncz,,1,1,1,singleton,0,,
 1502,Trachyncz-ad Achyna,,1,1,1,singleton,0,,
@@ -1516,7 +1516,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1515,Werbowa,VRBOVO,4,4,16,modern,0,45.6737244,16.2359189
 1516,Wehowlan,Marinkovec,1,4,6,manual,0,,
 1517,Versynowcz in Berzewcze,,1,1,1,singleton,0,,
-1518,Vicus Latinorum,LAŠKA VES,4,1,4,singleton,0,,
+1518,Vicus Latinorum,Laška ulica (Zagreb),4,1,4,manual,0,45.8364382,16.0426652
 1519,Wydyncz,,1,2,3,orthographic-exact,0,,
 1520,Wydowcz,VIDOVEC,2,5,86,modern,0,46.2863481,16.2504203
 1521,Wynarcz,VINAREC,1,3,7,orthographic-exact,0,46.1005165,16.4466304
@@ -1528,7 +1528,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1527,Vokssyncz,,4,1,1,singleton,0,,
 1528,Wolyncz,,2,2,10,orthographic-exact,0,,
 1529,"Wolyncz, Chalyncz",", ČALINEC",2,3,5,modern,0,,
-1530,Wrasylaz,VRAŽJI LAZ,4,11,13,modern,0,,
+1530,Wrasylaz,Laz Bistrički,4,11,13,manual,0,45.9710422,16.0987558
 1531,Vrbanowcz,Vrbanovec,2,1,1,manual,0,46.2635150,16.5208508
 1532,Wrbowcz,VRBOVEC,1,11,80,modern,0,45.8856479,16.4181159
 1533,Vrbowcz,Vrbovec,2,1,1,manual,0,,
@@ -1549,7 +1549,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1548,Wasmegywrechye predium,,1,1,1,singleton,0,,
 1549,Waswarowcz,,1,4,4,orthographic-fuzzy,1,,
 1550,Wehthocz,,1,1,1,singleton,0,,
-1551,Welessewcz,VELEŠOVEC,4,5,10,orthographic-fuzzy,1,,
+1551,Welessewcz,Veleševec,4,5,10,manual,1,45.6531899,16.2623047
 1552,Welkowcz,Jalkovec,2,2,19,manual,0,46.2780556,16.3188889
 1553,"Welyke, Dwlepzka","VELIKA, DULEPSKA",1,1,1,singleton,0,45.9545093,16.7024843
 1554,Werbowcz,VRBOVO,1,1,2,singleton,0,46.0773588,16.2326727
@@ -1561,7 +1561,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1560,"Werh, Zerdahel",,1,1,1,singleton,0,,
 1561,Werhancz,,1,1,1,singleton,0,,
 1562,Werhoucz,Vrhovec Rakovečki i NE,1,2,2,manual,0,,
-1563,Werhowch,,4,2,2,orthographic-exact,0,,
+1563,Werhowch,Vrhovac,4,2,2,manual,0,45.6353927,15.4863056
 1564,Wertlyn,Vrtlinska,1,2,2,manual,0,45.6866082,16.6162455
 1565,Werthlyn ad Monozlo,,1,1,1,singleton,0,,
 1566,Werussewych,,1,1,4,singleton,0,,
@@ -1771,7 +1771,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1770,Zthara,,1,1,5,singleton,0,,
 1771,Ztharsa,,1,1,1,singleton,0,,
 1772,Zthassinowczy,,2,1,1,singleton,0,,
-1773,Zthawethichy,,4,1,2,singleton,0,,
+1773,Zthawethichy,SLAVETIĆ,4,1,2,manual,0,45.7017725,15.5398413
 1774,Zthermecz,,4,1,1,singleton,0,,
 1775,Zthobycza,STUBICA,4,2,14,modern,0,45.9749888,16.0175181
 1776,Ztholnycoucz,,1,1,1,singleton,0,,
@@ -1784,7 +1784,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1783,Zwdowcz,SUDOVEC,1,3,8,orthographic-exact,0,46.1058330,16.3630500
 1784,Zuha Mlacha,,1,2,3,orthographic-fuzzy,1,,
 1785,Zwha Mlaka,Mlaka,1,3,14,manual,0,45.904094,16.293197
-1786,Zwhodol,,4,2,5,orthographic-exact,0,,
+1786,Zwhodol,Suhodol Zeli,4,2,5,manual,0,,
 1787,Zwchowcz,,1,1,5,singleton,0,,
 1788,"Zwdowchez, Wynarcz","SUDOVEC, VINAREC",1,1,1,singleton,0,46.1058330,16.3630500
 1789,Zwhodol,,1,1,1,singleton,0,,
@@ -1805,4 +1805,4 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1804,"Zyrch, Podgorye",,1,1,1,singleton,0,,
 1805,Zyskan,,1,1,1,singleton,0,,
 1806,Zystan,,1,3,3,orthographic-fuzzy,1,,
-1807,Zythecz,,4,1,2,singleton,0,,
+1807,Zythecz,Sisak Sisek,4,1,2,manual,0,45.4876303,16.3728187

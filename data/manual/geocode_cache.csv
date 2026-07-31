@@ -650,3 +650,20 @@ county,query,lat,lon,display_name,source
 2,Jalkovec,46.2780556,16.3188889,Jalkovec (user 46°16′41″N 16°19′08″E),manual
 1,Donja Gračenica,45.5666667,16.6166667,Donja Gračenica (user 45°34′N 16°37′E),manual
 1,Donji Zdenci,45.5833333,17.9500000,Donji Zdenci (user 45°35′N 17°57′E),manual
+4,Biškupec Zelinski,45.9615472,16.2325242,"Biškupec Zelinski, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
+4,Blinja,45.4225100,16.4572695,"Blinja, Donje Komarevo, Grad Sisak, Sisačko-moslavačka županija, Hrvatska",nominatim
+4,Laz Bistrički,45.9710422,16.0987558,"Laz Bistrički, Općina Marija Bistrica, Krapinsko-zagorska županija, Hrvatska",nominatim
+4,Laška ulica,45.8364382,16.0426652,"Laška ulica, Mjesni odbor Gornja Dubrava, Gradska četvrt Gornja Dubrava, Zagreb, Grad Zagreb, 10128, Hrvatska",nominatim
+4,Markuševačka Trnava,45.8808394,16.0330110,"Markuševačka Trnava, Markuševečki Popovec, Mjesni odbor Vidovec, Gradska četvrt Podsljeme, Zagreb, Grad Zagreb, 10166, Hrvatska",nominatim
+4,Omillia,,,,nominatim
+4,Reka,46.1315112,16.7711853,"Reka, Grad Koprivnica, Koprivničko-križevačka županija, 48305, Hrvatska",nominatim
+4,Sisak Sisek,45.4876303,16.3728187,"Croatia Osiguranje, 24, Ulica Stjepana i Antuna Radića, Stari Sisak, Trg, Gradska četvrt Centar, Sisak, Grad Sisak, Sisačko-moslavačka županija, 44000, Hrvatska",nominatim
+4,Suhodol Zeli,,,,nominatim
+4,Sušobreg,46.0386289,16.1659329,"Sušobreg, Općina Konjščina, Krapinsko-zagorska županija, 49282, Hrvatska",nominatim
+4,Topusko,45.2943011,15.9707037,"Općina Topusko, Sisačko-moslavačka županija, 44415, Hrvatska",nominatim
+4,Turanj,45.4612412,15.5695859,"Turanj, Karlovac, Grad Karlovac, Karlovačka županija, 47106, Hrvatska",nominatim
+4,Turopolje,45.6491798,16.1402032,"Turopolje, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+4,Veleševec,45.6531899,16.2623047,"Veleševec, Općina Orle, Zagrebačka županija, Hrvatska",nominatim
+4,Velika Gora,45.9591124,16.1943780,"Velika Gora, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
+4,Vrhovac,45.6353927,15.4863056,"Vrhovac, Tkalci, Vrhovac, Grad Ozalj, Karlovačka županija, Hrvatska",nominatim
+4,Šimunčevec Šimunovec,,,,nominatim
