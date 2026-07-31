@@ -1,7 +1,11 @@
 """Shared helpers for the tax-list ETL pipeline.
 
-Stdlib-only (plus xlrd in the extract step) because pandas' compiled DLL is
-blocked by an Application Control policy on the target machine.
+Stdlib-only, plus xlrd in the extract step. This began as a workaround: an
+Application Control policy on the target machine was blocking pandas' compiled
+DLL on import (numpy's loaded fine). That block no longer reproduces (pandas
+imports cleanly as of 2026-07), but the stdlib-only design is kept on purpose --
+it stays dependency-light and reproducible. Prefer csv/sqlite3/re/difflib/math/
+unicodedata over adding third-party packages.
 """
 import os
 import re

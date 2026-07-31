@@ -539,3 +539,114 @@ county,query,lat,lon,display_name,source
 1,Sveti Petar Čvrstec,46.0044639,16.6638832,"Sveti Petar Čvrstec, Općina Sveti Ivan Žabno, Koprivničko-križevačka županija, Hrvatska",nominatim
 1,Vojakovac,46.0668813,16.5936927,"Vojakovac, Grad Križevci, Koprivničko-križevačka županija, Hrvatska",nominatim
 1,Čvrstec,46.0044639,16.6638832,"Sveti Petar Čvrstec, Općina Sveti Ivan Žabno, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Apatovac,,,,nominatim
+1,Babinac Ivanski,45.7495926,16.8120677,"Babinac, Općina Ivanska, Bjelovarsko-bilogorska županija, 43232, Hrvatska",nominatim
+1,Bjelovar,45.9064548,16.8261187,"Bjelovar, Grad Bjelovar, Bjelovarsko-bilogorska županija, 43000, Hrvatska",nominatim
+1,Bolč,45.8908489,16.6763101,"Bolč, Općina Farkaševac, Zagrebačka županija, 10344, Hrvatska",nominatim
+1,Borovljani,46.1077189,16.8904618,"Borovljani, Općina Novigrad Podravski, Koprivničko-križevačka županija, 48324, Hrvatska",nominatim
+1,Botinac,45.9996711,16.8612684,"Botinac, Općina Kapela, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Breza,45.8796142,16.7235635,"Breza, Grad Bjelovar, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Brčevec,45.8663641,16.4127097,"Brčevec, Grad Vrbovec, Zagrebačka županija, 10340, Hrvatska",nominatim
+1,Bušić,45.8137034,16.0237909,"Mjesni odbor ""Bruno Bušić"", 29A, Ulica Ante Jakšića, Mjesni odbor ""Bruno Bušić"", Gradska četvrt Peščenica - Žitnjak, Zagreb, Grad Zagreb, 10000, Hrvatska",nominatim
+1,Cepidlak,45.9751022,16.6913869,"Cepidlak, Općina Sveti Ivan Žabno, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Clwch,,,,nominatim
+1,Cremušina,45.7945543,17.1937699,"Cremušina, Općina Veliki Grđevac, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Crešnjevica,45.9200074,17.1467028,"Mala Črešnjevica, Općina Pitomača, Virovitičko-podravska županija, Hrvatska",nominatim
+1,Dereza Čazmanska,45.7564558,16.5998185,"Dereza, Grad Čazma, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Dijankovec,46.0399845,16.4815465,"Dijankovec, Grad Križevci, Koprivničko-križevačka županija, 48267, Hrvatska",nominatim
+1,Diklenica,45.9679929,16.8608972,"Stara Diklenica, Prema Gaju, Vinogradi, Stara Diklenica, Općina Kapela, Bjelovarsko-bilogorska županija, 43000, Hrvatska",nominatim
+1,Djurdjić,,,,nominatim
+1,Draganec,45.7806315,16.6253194,"Donji Draganec, Grad Čazma, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Finčevac,,,,nominatim
+1,Fištinec,,,,nominatim
+1,Gornja Kovačica,45.7710030,17.1093385,"Gornja Kovačica, Općina Veliki Grđevac, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Gradec,45.9229065,16.4895691,"Gradec, Općina Gradec, Zagrebačka županija, 10345, Hrvatska",nominatim
+1,Grbavac,45.7113545,17.1014906,"Grbavac, Grad Grubišno Polje, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Grdjevac,,,,nominatim
+1,Greda Peskovečka,,,,nominatim
+1,Grubišno Polje,45.7021875,17.1722368,"Grubišno Polje, Grad Grubišno Polje, Bjelovarsko-bilogorska županija, 43290, Hrvatska",nominatim
+1,Habjanovac,45.8782200,16.5500428,"Habjanovac, Općina Dubrava, Zagrebačka županija, 10342, Hrvatska",nominatim
+1,Hercegovac,45.6553617,17.0090772,"Hercegovac, Općina Hercegovac, Bjelovarsko-bilogorska županija, 43284, Hrvatska",nominatim
+1,Herešin,46.1769365,16.8665800,"Herešin, Grad Koprivnica, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Hižanovec,46.1137533,16.4217897,"Hižanovec, Općina Sveti Petar Orehovec, Koprivničko-križevačka županija, 48269, Hrvatska",nominatim
+1,Jakupovac Kapelski,,,,nominatim
+1,Konščani,45.6648538,16.5497176,"Konšćani, Općina Križ, Zagrebačka županija, Hrvatska",nominatim
+1,Korenovo,45.8585850,16.8114639,"Veliko Korenovo, Grad Bjelovar, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Koruška,46.0226772,16.5359181,"Koruška, Gradska četvrt Centar, Križevci, Grad Križevci, Koprivničko-križevačka županija, 48260, Hrvatska",nominatim
+1,Kraljevac Križevački,45.9734351,16.7402461,"Kraljevac, Općina Rovišće, Bjelovarsko-bilogorska županija, 43212, Hrvatska",nominatim
+1,Kusanovec,45.8194032,16.3491667,"Kusanovec, Općina Brckovljani, Zagrebačka županija, Hrvatska",nominatim
+1,Loky,,,,nominatim
+1,Lubena,45.9213391,16.5160711,"Lubena, Općina Gradec, Zagrebačka županija, Hrvatska",nominatim
+1,Maglenca,45.9211719,16.9320077,"Maglenča, Ledince, Maglenča, Općina Veliko Trojstvo, Bjelovarsko-bilogorska županija, 43226, Hrvatska",nominatim
+1,Mala Ciglena,45.8934246,16.9412226,"Mala Ciglena, Grad Bjelovar, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Martinec,46.0891232,15.9626404,"Martinec Orehovički, Općina Bedekovčina, Krapinsko-zagorska županija, Hrvatska",nominatim
+1,Miklouš,45.7266777,16.7043771,"Gornji Miklouš, Grad Čazma, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Mučna,46.0689337,16.7375944,"Mala Mučna, Općina Sokolovac, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Novaki,45.8469164,16.5578347,"Novaki, Općina Dubrava, Zagrebačka županija, Hrvatska",nominatim
+1,Općevac,45.7280399,16.5571761,"Općevac, Grad Čazma, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Pobjenik,45.7048930,16.6131474,"Pobjenik, Grad Čazma, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Ruševac,46.0316718,16.6786684,"Ruševac, Grad Križevci, Koprivničko-križevačka županija, 48264, Hrvatska",nominatim
+1,Stari Pavljani,45.8605809,16.8746878,"Stari Pavljani, Grad Bjelovar, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Tomodowcz,,,,nominatim
+1,Čemernica Lonjska,45.7658591,16.4168812,"Čemernica Lonjska, Općina Kloštar Ivanić, Zagrebačka županija, Hrvatska",nominatim
+1,Čepelovac,45.9949728,17.0425162,"Čepelovac, Grad Đurđevac, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Bosiljevo Čazmansko,,,,nominatim
+1,Djakovac,,,,nominatim
+1,Djurdjevac,,,,nominatim
+1,Dulepska,45.8945450,16.3426353,"Dulepska, Grad Vrbovec, Zagrebačka županija, Hrvatska",nominatim
+1,Ferdinandovac,46.0608291,17.1928025,"Općina Ferdinandovac, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Fuka,45.8863448,16.5287441,"Fuka, Općina Gradec, Zagrebačka županija, 10345, Hrvatska",nominatim
+1,Galovec,46.0697306,16.1911811,"Galovec, Općina Konjščina, Krapinsko-zagorska županija, Hrvatska",nominatim
+1,Garešnica,45.6361735,16.8617380,"Garešnica, Grad Garešnica, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Graberje Ivaničko,45.7101594,16.4712034,"Graberje Ivanićko, Grad Ivanić-Grad, Zagrebačka županija, Hrvatska",nominatim
+1,Grabrić,45.9008124,16.5057456,"Grabrić, Općina Gradec, Zagrebačka županija, Hrvatska",nominatim
+1,Haganj,45.9147515,16.5787186,"Haganj, Općina Gradec, Zagrebačka županija, Hrvatska",nominatim
+1,Hampovica,46.0156843,16.9540763,"Hampovica, Općina Virje, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Kaniška Iva,45.5289318,16.9230556,"Kaniška Iva, Grad Garešnica, Bjelovarsko-bilogorska županija, 43283, Hrvatska",nominatim
+1,Klokočevac,45.9178685,16.7839294,"Klokočevac, Grad Bjelovar, Bjelovarsko-bilogorska županija, 43251, Hrvatska",nominatim
+1,Kobasičari,45.9614269,16.8129844,"Kobasičari, Općina Kapela, Bjelovarsko-bilogorska županija, 43000, Hrvatska",nominatim
+1,Komuševac,45.7908706,16.6240677,"Komuševac, Grad Čazma, Bjelovarsko-bilogorska županija, 43245, Hrvatska",nominatim
+1,Koprivnica,46.1672461,16.8102183,"Koprivnica, Grad Koprivnica, Koprivničko-križevačka županija, 48000, Hrvatska",nominatim
+1,Lipovac Lonjski,,,,nominatim
+1,Lipovo Brdo,46.0031214,16.8738864,"Lipovo Brdo, Općina Kapela, Bjelovarsko-bilogorska županija, 43203, Hrvatska",nominatim
+1,Lipovčani,45.9855979,16.7882556,"Lipovčani, Općina Rovišće, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Marinkovec,,,,nominatim
+1,Mikleuška,45.5527347,16.7279471,"Mikleuška, Grad Kutina, Sisačko-moslavačka županija, Hrvatska",nominatim
+1,Narta,45.8332696,16.7884696,"Narta, Općina Štefanje, Bjelovarsko-bilogorska županija, 43247, Hrvatska",nominatim
+1,Pavlin Kloštar,46.0073012,16.8288694,"Pavlin Kloštar, Općina Kapela, Bjelovarsko-bilogorska županija, 43203, Hrvatska",nominatim
+1,Ploščica,45.7616253,16.8854923,"Stara Plošćica, Općina Ivanska, Bjelovarsko-bilogorska županija, 43232, Hrvatska",nominatim
+1,Pupelica,45.8798969,17.0362289,"Pupelica, Općina Šandrovac, Bjelovarsko-bilogorska županija, 43227, Hrvatska",nominatim
+1,Remetinec Križevački,45.9239375,16.5385563,"Remetinec Križevački, 31070, Remetinec, Općina Gradec, Zagrebačka županija, 10345, Hrvatska",nominatim
+1,Sesvete,45.8139666,16.1261692,"Sesvete, Grad Zagreb, Hrvatska",nominatim
+1,Sredice,46.0374219,16.8129849,"Sredice Gornje, Općina Kapela, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Stare Plavnice,45.8940344,16.8083834,"Stare Plavnice, Grad Bjelovar, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Sudovec,46.1058330,16.3630500,"Sudovec, Grad Novi Marof, Varaždinska županija, Hrvatska",nominatim
+1,Svinjarec,45.8022580,16.5670104,"Svinjarec, Općina Dubrava, Zagrebačka županija, Hrvatska",nominatim
+1,Tomašica,45.6432165,17.0173219,"Tomašica, Hercegovac, Općina Hercegovac, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Zvonik,45.8983710,16.6365112,"Zvonik, Općina Farkaševac, Zagrebačka županija, 10344, Hrvatska",nominatim
+1,Čaire,45.5557797,16.7990067,"Čaire, Grad Kutina, Sisačko-moslavačka županija, Hrvatska",nominatim
+1,Čazma,45.8383124,16.7079896,"Česma, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Ivanska Žabno,,,,nominatim
+1,Medjurača,,,,nominatim
+1,Novoselec,45.8524182,16.0823083,"Mjesni odbor Novoselec, Gradska četvrt Gornja Dubrava, Zagreb, Grad Zagreb, Hrvatska",nominatim
+1,Palešnik,45.6364872,16.9776100,"Palešnik, Općina Hercegovac, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Pašijan,45.6362063,16.9207348,"Mali Pašijan, Grad Garešnica, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Prilesje,45.8586483,16.4219004,"Prilesje, Grad Vrbovec, Zagrebačka županija, Hrvatska",nominatim
+1,Rayncek,,,,nominatim
+1,Ruškovac,45.7205173,16.8777698,"Ruškovac, Općina Berek, Bjelovarsko-bilogorska županija, 43232, Hrvatska",nominatim
+1,Strmec Ravenski,,,,nominatim
+1,Sv. Jakob,,,,nominatim
+1,Temerie,,,,nominatim
+1,Teratenik,,,,nominatim
+1,Vrhovec Rakovečki i NE,,,,nominatim
+1,Zloboda,,,,nominatim
+1,Žibrinovec,46.0993116,16.5137292,"Žibrinovec, Grad Križevci, Koprivničko-križevačka županija, 48269, Hrvatska",nominatim
+1,Celine,45.8916188,16.4048813,"Celine, Grad Vrbovec, Zagrebačka županija, Hrvatska",nominatim
+1,Moslavina,45.5739858,16.6428554,"Moslavinagrad, Rajičevac, Popovača, Grad Popovača, Sisačko-moslavačka županija, 44317, Hrvatska",nominatim
+1,Osek,,,,nominatim
+1,Pavlin,46.0073012,16.8288694,"Pavlin Kloštar, Općina Kapela, Bjelovarsko-bilogorska županija, 43203, Hrvatska",nominatim
+1,Zdenčac,45.6252288,16.9521998,"Zdenčac, Veliki Zdenčac, Zdenčac, Grad Garešnica, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+2,Varaždinske Toplice,46.2166667,16.4166667,Varaždinske Toplice (user 46°13′N 16°25′E),manual
+2,Jalkovec,46.2780556,16.3188889,Jalkovec (user 46°16′41″N 16°19′08″E),manual
+1,Donja Gračenica,45.5666667,16.6166667,Donja Gračenica (user 45°34′N 16°37′E),manual
+1,Donji Zdenci,45.5833333,17.9500000,Donji Zdenci (user 45°35′N 17°57′E),manual
