@@ -667,3 +667,24 @@ county,query,lat,lon,display_name,source
 4,Velika Gora,45.9591124,16.1943780,"Velika Gora, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
 4,Vrhovac,45.6353927,15.4863056,"Vrhovac, Tkalci, Vrhovac, Grad Ozalj, Karlovačka županija, Hrvatska",nominatim
 4,Šimunčevec Šimunovec,,,,nominatim
+1,Bijela,45.5627565,17.2903219,"Bijela, Općina Sirač, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Petrovina,45.6928387,16.0312510,"Petrovina Turopoljska, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+1,Slatina,45.9569941,16.3855756,"Slatina, Općina Preseka, Zagrebačka županija, 10346, Hrvatska",nominatim
+4,Brkiševina,45.4457065,16.0896594,"Brkiševina, Uzbašići, Brkiševina, Općina Lekenik, Sisačko-moslavačka županija, Hrvatska",nominatim
+4,Sveta Jana,45.4808110,15.8435920,"Sveta Jana, Dugo Selo Lasinjsko, Općina Gvozd, Sisačko-moslavačka županija, 47206, Hrvatska",nominatim
+1,Sopje,45.8000000,17.7333333,Sopje (user 45°48′N 17°44′E),manual
+2,Poljana,46.2700000,16.3180556,Poljana (user 46°16′12″N 16°19′05″E),manual
+4,Andraševec,46.0003464,15.9356094,"Andraševec, Grad Oroslavje, Krapinsko-zagorska županija, Hrvatska",nominatim
+4,Babča,,,,nominatim
+4,Dolanski Jarak,,,,nominatim
+4,Dubrava Samoborska Zagrebačka Dubrava,45.8063140,15.6699200,"Izvor Dubrava Samoborska, 31085, Gornji kraj - Hamor, Dubrava Samoborska, Grad Samobor, Zagrebačka županija, 10432, Hrvatska",nominatim
+4,Gradec,45.8162301,15.9735992,"Mjesni odbor Gornji grad, Gradska četvrt Gornji grad - Medveščak, Zagreb, Grad Zagreb, 10103, Hrvatska",nominatim
+4,Jerebić,45.5775055,15.9636954,"Jerebić, Grad Velika Gorica, Zagrebačka županija, Hrvatska",nominatim
+4,Kal inje,,,,nominatim
+4,Kamanje,45.6470034,15.4186638,"Kamanje, Općina Kamanje, Karlovačka županija, Hrvatska",nominatim
+4,Kluka,,,,nominatim
+4,Konšcica,45.7650677,15.7260162,"Konšćica, Grad Samobor, Zagrebačka županija, Hrvatska",nominatim
+4,Lusje,,,,nominatim
+4,Opatija Opatovina Topusko,,,,nominatim
+4,Pokupske,,,,nominatim
+1,Starigrad,46.1400000,16.8100000,"Starigrad, predgrađe Koprivnice (user; Petrić: =Owar)",manual
