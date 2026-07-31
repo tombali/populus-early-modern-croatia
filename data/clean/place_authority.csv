@@ -19,1580 +19,1580 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 18,Also Jalsewycza,,1,1,3,singleton,0,,
 19,Alsolomnycza,DONJA LOMNICA,4,4,28,modern,0,45.7117085,16.0205866
 20,"Also Lomnycza, Koztanyewcz","DONJA LOMNICA, KOSTANJEVEC",4,4,13,modern,0,45.7117085,16.0205866
-21,Also Soploncza,,1,4,8,orthographic-fuzzy,1,,
-22,Also Totusewyna,,1,2,2,orthographic-exact,0,,
-23,Wolawlya,VOLAVJE,4,23,85,modern,0,45.6550577,15.6058087
-24,Also Zemche,,1,2,6,orthographic-fuzzy,1,,
-25,Also Ztobycza,DONJA STUBICA,4,17,56,modern,0,45.9801727,15.9722428
-26,"Also Ztobycza cum pertinentiis, Jakowlya","DONJA STUBICA, JAKOVLJE",4,1,3,singleton,0,45.9801727,15.9722428
-27,Andraswelgh,,1,1,1,singleton,0,,
-28,"Antholocz,Ramyncz,Chernecz, Thremecz",,3,1,2,singleton,0,,
-29,Apathowcz,,1,1,2,singleton,0,,
-30,Apporowcz,OPOROVEC,1,2,2,modern,0,,
-31,Area Capitulari-vicus,,4,1,1,singleton,0,,
-32,Athak,OTOK,1,4,17,modern,0,45.7934210,16.5881516
-33,Othok,OTOK,4,6,15,modern,0,,
-34,"Athak, Themerye","OTOK,",1,1,1,singleton,0,45.7934210,16.5881516
-35,"Athak,Tamerye, Kamarchya","OTOK, DEMERJE,",1,2,2,modern,0,45.7934210,16.5881516
-36,"Atthak, Zenth Ilona apud Zamobor","OTOK, SVETA HELENA KOD SAMOBORA",4,3,3,modern,0,,
-37,Bapcha,Babča,4,4,11,manual,0,,
-38,Babyncz,BABINEC,2,1,7,singleton,0,46.3718386,16.1094420
-39,Babynschyna,Babinac Ivanski,1,2,2,manual,0,45.7495926,16.8120677
-40,"Babynschyna, Koren",,1,2,2,orthographic-fuzzy,1,,
-41,Bachyn,Ploščica,1,1,3,manual,0,45.7616253,16.8854923
-42,Baganoz,,1,1,2,singleton,0,,
-43,Bagenowcz,,1,1,2,singleton,0,,
-44,Bahonyn,Marinkovec,1,2,4,manual,0,,
-45,Bakheg,,1,1,1,singleton,0,,
-46,Bakolcza,Donja Bukovica,1,1,2,manual,0,,
-47,"Bakolcza, Zygeth",,1,1,1,singleton,0,,
-48,Bakowcza,Mali Bukovec,1,2,12,manual,0,46.285702,16.738299
-49,Bakwa,,3,1,1,singleton,0,,
-50,Bancz,,1,2,5,orthographic-fuzzy,1,,
-51,Banowch,,1,2,2,orthographic-exact,0,,
-52,"Banowcz, Gorycza",,1,1,1,singleton,0,,
-53,Banthusovcz,Bolč,1,2,2,manual,0,45.8908489,16.6763101
-54,Bara ad Belam,,1,1,1,singleton,0,,
-55,Barachka,,4,2,12,orthographic-exact,0,,
-56,Baranowcz,,1,1,2,singleton,0,,
-57,Barowcz,,1,1,1,singleton,0,,
-58,Barswelge,,1,1,1,singleton,0,,
-59,Barychewo,,4,1,1,singleton,0,,
-60,Batyna,Voćin,2,2,3,manual,0,,
-61,Bedenycza,BEDENICA,4,4,89,orthographic-exact,0,46.0326343,16.2432436
-62,"Bedenycza, Felsew Ztobicza","BEDENICA, GORNJA STUBICA",4,1,1,singleton,0,46.0326343,16.2432436
-63,Bednye,,1,2,16,orthographic-fuzzy,1,,
-64,Bedowcz,Klokočevac,1,3,10,manual,0,45.9178685,16.7839294
-65,Bedna,Petar Ludbreški,1,2,8,manual,0,46.2480556,16.6900000
-66,Bednye cum pertinentiis,,1,1,4,singleton,0,,
-67,Bednye seu Bwkowcz,,1,2,5,orthographic-exact,0,,
-68,Bedwdnycze,,4,1,4,singleton,0,,
-69,Bekethyncz,BEKETINEC,1,4,14,modern,0,46.0139151,16.4367650
-70,Bela,Bijela,1,2,8,manual,0,45.5627565,17.2903219
-71,Bela,BELA,2,4,12,modern,0,46.2074177,16.2552179
-72,Bwssyn,"BELA, IVANEC,",2,6,14,orthographic-fuzzy,1,46.2074177,16.2552179
-73,Lepaglawa,LEPOGLAVA,2,4,13,modern,0,46.2073666,16.0514452
-74,"Bela, Threm","BELA,",2,1,4,singleton,0,46.2074177,16.2552179
-75,Belowarcz,Bjelovar,1,4,17,manual,0,45.9064548,16.8261187
-76,Belcheucz,Grabrić,1,2,2,manual,0,45.9008124,16.5057456
-77,Belchowcz,,1,1,1,singleton,0,,
-78,Belcz,Bolč,1,1,1,manual,0,45.8908489,16.6763101
-79,Belecz,BELEC,2,4,23,modern,0,46.1317740,16.1205009
-80,Belosowcz,Čepelovac,1,4,13,manual,0,45.9949728,17.0425162
-81,Belethyncz,BELETINEC,2,3,12,modern,0,46.2220831,16.3110767
-82,Belozlawcz,BELOSLAVEC,4,4,21,modern,0,46.0350995,16.2204103
-83,Belkolcz,,2,1,1,singleton,0,,
-84,Belkowcz,Grabrić,1,1,1,manual,0,45.9008124,16.5057456
-85,Belyowcz,,1,3,5,orthographic-fuzzy,1,,
-86,Belwdowyna,,1,2,7,orthographic-exact,0,,
-87,Belwdoch-villicatus ad Zenth Georghwara,,1,1,1,singleton,0,,
-88,Belwdowcz ad Zenth Gergwara,,1,1,1,singleton,0,,
-89,Belywdowcz,Djurdjevac,1,1,1,manual,0,,
-90,Benchethyncz,,1,1,1,singleton,0,,
-91,Benedicoucz,,1,2,6,orthographic-exact,0,,
-92,Benedikowcz,Bršljanica,1,3,8,manual,0,45.5827915,16.8519325
-93,Benkowcz,", LADISLAVEC",2,2,11,orthographic-exact,1,,
-94,Berdekowcz ad Belam,,1,1,1,singleton,0,,
-95,Zomzedwara-castrum / Berdowcz,BRDOVEC,4,4,9,modern,0,45.8692724,15.7622811
-96,Beregi,,1,1,1,singleton,0,,
-97,Berethyncz,BERETINEC,2,1,9,singleton,0,46.2501436,16.3036423
-98,Beryzlawcz,BERISLAVEC,4,6,39,modern,0,45.9712828,16.2662788
-99,Berkyssewyna,Brkiševina,4,8,36,manual,0,45.4457065,16.0896594
-100,"Berkwssewyna, Pokwpya ad Thopozka-cum pertinentiis","BRKAŠEVINA, POKUPJE",4,1,1,singleton,0,,
-101,Bersancz ad Kaproncza,,1,2,2,orthographic-fuzzy,1,,
-102,Berschanowcz,Bršljanica,1,1,1,manual,0,45.5827915,16.8519325
-103,Bersthanowcz cum pertinentiis,,1,1,1,singleton,0,,
-104,Bersthianoucz,Bršljanica,1,1,2,manual,0,45.5827915,16.8519325
-105,Berywoy (Zenth Iwan?),,1,1,1,singleton,0,,
-106,Berywoy-oppidum (Zenth Iwan?),,1,1,1,singleton,0,,
-107,Berywoy-provincia (Zenth Iwan?),,1,1,2,singleton,0,,
-108,"Beryzlaucz, Kalynye",,4,1,1,singleton,0,,
-109,Berzewcz-provincia inferior,,1,2,2,orthographic-fuzzy,1,,
-110,Berzewcze,,1,1,2,singleton,0,,
-111,Berzyncz,,1,1,2,singleton,0,,
-112,Besenowcz,,1,1,2,singleton,0,,
-113,Bethowcz,,3,1,1,singleton,0,,
-114,Bezchyanowcz,,1,1,3,singleton,0,,
-115,Bigzaagh,,4,1,1,singleton,0,,
-116,Bykzad,BISAG,4,2,20,orthographic-exact,0,,
-117,Varasd,VARAŽDIN,2,8,29,modern,0,46.3079645,16.3378198
-118,Byskwpcz,BIŠKUPEC,4,7,29,orthographic-fuzzy,1,45.9615472,16.2325242
-119,Byztra,BISTRA,4,6,16,modern,0,45.8975346,15.8794733
-120,Blacha,,1,1,3,singleton,0,,
-121,Blagay,,1,1,2,singleton,0,,
-122,"Blagay, Glogowy",,1,1,1,singleton,0,,
-123,Blagwsa,BLAGUŠA,4,4,12,modern,0,45.8962214,16.1371338
-124,"Blagwssa, Symonchewcz","BLAGUŠA, ŠIMUNČEVEC",4,3,5,modern,0,45.8962214,16.1371338
-125,Blasew Werh,,1,1,1,singleton,0,,
-126,Blasewerh-ad Achyna,,1,2,2,orthographic-fuzzy,1,,
-127,"Blaskoucz, Glavnycza",,4,2,2,orthographic-exact,0,,
-128,Blathnycza,BLATNICA,4,5,16,orthographic-exact,0,45.5134071,15.7252417
-129,"Blathno, Remethinczy, Lwka",,4,2,2,orthographic-exact,0,,
-130,Blyzna,BLIZNEC,4,6,19,modern,0,45.8097069,16.0258615
-131,Bliznafew,Velike Sesvete,1,4,8,manual,0,46.055600,16.671700
-132,"Blyzna, Remethyncz","BLIZNEC,",4,1,1,singleton,0,45.8097069,16.0258615
-133,Bobowycza,BOBOVICA,4,9,21,modern,0,45.8308388,15.7142327
-134,"Bobowycza, Kapolna","BOBOVICA, KAPELA",1,1,2,singleton,0,,
-135,"Bobowycza, Kapolna, Othok, Jemryhowcz","BOBOVICA, KAPELA, OTOK, IMBRIOVEC",1,1,1,singleton,0,,
-136,Bothyncz,BOTINEC,4,6,17,modern,0,45.7546900,15.9360374
-137,Bogacho,BOGAČEVO,1,5,12,modern,0,46.0856167,16.4332486
-138,Bolch,BOLČ,1,2,4,orthographic-exact,0,45.8908489,16.6763101
-139,Bolethyna,,1,2,2,orthographic-fuzzy,1,,
-140,Bona-Hampo,,1,1,1,singleton,0,,
-141,Bona-Johannes Alapi,,4,1,1,singleton,0,,
-142,Bona-Nicolaus Zrini,,4,2,2,orthographic-exact,0,,
-143,Bona-Zlwny,,4,1,1,singleton,0,,
-144,Bonowk,,1,1,1,singleton,0,,
-145,Borchecz in pertinentiis Zomzedwara,BORČEC,4,1,1,singleton,0,45.8291916,15.8880104
-146,Borsowcz,Galovec,1,3,8,manual,0,46.0697306,16.1911811
-147,Borkowcz,BORKOVEC,2,4,21,modern,0,46.1080568,16.0835029
-148,Borcz ad Topozka (predium),BORKOVEC,4,1,1,singleton,0,,
-149,Borowe,Borovljani,1,1,1,manual,0,46.1077189,16.8904618
-150,Myrkowcz,MIRKOVEC,2,6,27,modern,0,,
-151,"Borychewcz, Marthyndoll",,2,1,2,singleton,0,,
-152,Bosyako,BOŽJAKOVINA,4,19,40,modern,0,45.8194685,16.2871783
-153,Bothcafeld,Mikleuška,1,1,2,manual,0,45.5527347,16.7279471
-154,Bothezyncz,Botinac,1,1,1,manual,0,45.9996711,16.8612684
-155,Bwthkafeld,Patkovac,1,5,24,manual,0,45.853900,16.929400
-156,Bothowcz,Botovo,3,1,4,manual,0,46.219678,16.919261
-157,Bothyncz,Botinac,1,1,4,manual,0,45.9996711,16.8612684
-158,Bothynowcz,Botinovec,1,3,5,manual,0,46.2063162,16.7707449
-159,Bozyas,,1,1,4,singleton,0,,
-160,Bradechyna ad Garych,,1,1,1,singleton,0,,
-161,Bradna,Bradna,1,1,7,manual,0,46.070511,16.692291
-162,Bradna inferior,,1,1,1,singleton,0,,
-163,Bragasowcz,,1,2,5,orthographic-exact,0,,
-164,Brakwnowcz,BROKUNJEVEC,4,1,1,singleton,0,,
-165,Bregchewcz,Brčevec,1,1,1,manual,0,45.8663641,16.4127097
-166,Breschyna,,1,1,1,singleton,0,,
-167,Bresnycze,Breznica,1,2,5,manual,0,45.745073,17.517561
-168,Bresnycza-ad Achynam,,1,1,2,singleton,0,,
-169,Bresowcz,Breza,1,2,3,manual,0,45.8796142,16.7235635
-170,Brezowycza,BREZOVICA,4,5,49,modern,0,45.7277707,15.9100676
-171,Brestoycha,Kobasičari,1,1,1,manual,0,45.9614269,16.8129844
-172,Brezewcze cum pertinentiis,,1,1,1,singleton,0,,
-173,Brezowcz,BREZOVEC,1,3,12,modern,0,45.9086711,16.2644717
-174,Brezoycha-ad Nagh Kemlek,,1,1,1,singleton,0,,
-175,Brezoycza,Brezovica,1,3,11,manual,0,46.0752302,17.0755450
-176,Brezt,,2,1,2,singleton,0,,
-177,Brezth,,4,1,2,singleton,0,,
-178,"Brezthowcz, Dolina",,1,2,2,orthographic-fuzzy,1,,
-179,Brezthye,,4,1,1,singleton,0,,
-180,Brezyancz,Brežanec,3,2,4,manual,0,46.151615,16.828087
-181,Brezyna,,1,1,3,singleton,0,,
-182,"Brezyna, Chakowcz",,1,1,1,singleton,0,,
-183,Brokwnowcz,BROKUNJOVEC,4,5,9,modern,0,,
-184,"Brokunoucz, Adamovcz","BROKUNJOVEC, ADAMOVEC",4,1,1,singleton,0,,
-185,"Brokwnyowcz, Glawnycza","BROKUNJOVEC, GLAVNICA",4,2,3,modern,0,,
-186,Brysnyak,,1,1,1,singleton,0,,
-187,Bryzthno,GORNJA BISTRA,4,1,1,singleton,0,45.9198183,15.8986398
-188,Bwdrowcz,Gudovec,1,4,9,manual,0,45.881140,16.784635
-189,"Budyndol, Pomperoucz, Hansevcz","BUDINŠČINA, POMNEROVAC,",2,1,2,singleton,0,46.1269062,16.2037628
-190,Bukovcz,Zvonik,1,1,2,manual,0,45.8983710,16.6365112
-191,Bwschyncz,Buščinec,1,2,7,manual,0,45.882398,16.672339
-192,Bwdyslwcz,,2,2,2,orthographic-fuzzy,1,,
-193,Bwdnak,Sesvete,1,1,1,manual,0,45.8139666,16.1261692
-194,Bwdrowcz,Budrovec,3,2,4,manual,0,,
-195,Bwdyndoll,,2,2,5,orthographic-exact,0,,
-196,"Bwdyndol, Hansewcz",,2,1,11,singleton,0,,
-197,"Bwdyndol, Hansewcz, Pomperowcz",", POMNEROVEC",2,1,1,singleton,0,,
-198,Bwdyzlawcz,,2,1,4,singleton,0,,
-199,"Bwdyzlawcz, Dymytrowcz",,2,1,1,singleton,0,,
-200,"Bwkowcz, Zelyna","BUKOVEC, ZELINA",4,1,1,singleton,0,45.7104144,15.8202926
-201,Bwkowschak,BUKOVŠĆAK,4,4,9,modern,0,45.9055538,15.8017033
-202,Bwssocz,,3,3,9,orthographic-fuzzy,1,,
-203,Bwsthincz,Bušić,1,2,2,manual,0,45.8137034,16.0237909
-204,"Bwzyn, Odra","BUZIN, ODRA",4,2,4,modern,0,45.7498707,15.9953199
-205,Bwyancz,,1,1,4,singleton,0,,
-206,Bwyowcz,,1,1,5,singleton,0,,
-207,Byenyk,Pobjenik,1,2,10,manual,0,45.7048930,16.6131474
-208,Byenyk ad Topozka (predium),,4,1,1,singleton,0,,
-209,Bygzad,,4,2,7,orthographic-exact,0,,
-210,Bykzad,BISAG,1,5,29,modern,0,46.0337432,16.2989057
-211,Bygzad-citra Lonyam,,4,1,1,singleton,0,,
-212,Bykalla,Korenovo,1,2,2,manual,0,45.8585850,16.8114639
-213,Bykchelethincz,Hampovica,1,2,2,manual,0,46.0156843,16.9540763
-214,Bykszad,Bisag,4,1,4,manual,0,,
-215,"Bykzad, Wyhel","BISAG, NOVO MJESTO",1,2,5,modern,0,46.0337432,16.2989057
-216,Bynowcz,Čepelovac,1,1,3,manual,0,45.9949728,17.0425162
-217,Byskwpcz,BISKUPEC,2,1,6,singleton,0,46.2856962,16.3354777
-218,Byskwpecz,BIŠKUPEC,2,1,1,singleton,0,46.2856962,16.3354777
-219,Byztrycza,BISTRICA,4,9,64,modern,0,45.9972059,16.1227427
-220,Byzkelethycz,,1,1,1,singleton,0,,
-221,Camarcha,Novigrad Podravski,1,1,1,manual,0,46.0757469,16.9497812
-222,"Camarcha, Thwlowa",,1,1,1,singleton,0,,
-223,Campus,,1,1,1,singleton,0,,
-224,Campus-Sancta Maria Virginis in Campo,,1,1,1,singleton,0,,
-225,Capella,STARA KAPELA,1,1,6,singleton,0,45.8909545,16.6063210
-226,"Cappela,Kelyanowcz",,1,1,1,singleton,0,,
-227,Chapalowcz,Čepelovac,1,3,9,manual,0,45.9949728,17.0425162
-228,Czargowcz,CERKOVEC,2,4,15,orthographic-exact,0,,
-229,Karlowcz,KARLOVEC,1,5,19,modern,0,,
-230,Czeraberda,,1,3,4,orthographic-fuzzy,1,,
-231,Cherztwecz,Čvrstec,1,11,25,manual,0,46.0044639,16.6638832
-232,Chakowcz,Čaklovac,1,1,19,manual,0,45.4530837,17.2847740
-233,"Chakowcz, Brezyna",,1,1,1,singleton,0,,
-234,Chaktornya,Čaklovac,1,1,2,manual,0,45.4530837,17.2847740
-235,Chalyncz,ČALINEC,2,4,13,modern,0,46.2890601,16.1806256
-236,Chyanyo,ČANJEVO,1,4,26,modern,0,46.1063890,16.3394440
-237,"Chanyo, Prezeka, Rauen","ČANJEVO,",1,1,2,singleton,0,46.1063890,16.3394440
-238,Charzyncz,,1,1,1,singleton,0,,
-239,Chazarwara,CESARGRAD,2,5,15,modern,0,46.0601275,15.7222748
-240,Chebenowcz,Cepidlak,1,1,2,manual,0,45.9751022,16.6913869
-241,Chehowyna ad portionem,,1,1,1,singleton,0,,
-242,Czekno,Bršljanica,1,2,3,manual,0,45.5827915,16.8519325
-243,Chelowechky,,2,1,1,singleton,0,,
-244,Chelycze,,1,3,3,orthographic-fuzzy,1,,
-245,Chemernicha,Čemernica Lonjska,1,3,6,manual,0,45.7658591,16.4168812
-246,Cheperlyncz,,2,1,12,singleton,0,,
-247,"Cheperlyncz, Stefancz",", ŠTEFANEC, OTOK",2,2,3,modern,0,,
-248,Zenth Berthalam,BARTOLOVEC,2,9,12,modern,0,46.2970896,16.4351454
-249,"Cherbenye, Lwkawecz",,1,1,1,singleton,0,,
-250,Cherbyncz,,2,1,2,singleton,0,,
-251,Cherchan ad Gemlech,,1,3,3,orthographic-fuzzy,1,,
-252,Chereborda,,1,2,4,orthographic-exact,0,,
-253,Cheresnye,,2,2,3,orthographic-fuzzy,1,,
-254,"Cheresnyo, Wydowcz",,2,1,1,singleton,0,,
-255,Chernkowcz,ČRNKOVEC,4,4,48,modern,0,45.7506386,16.1197623
-256,Chernacz,,3,1,1,singleton,0,,
-257,Chernareca,,1,1,1,singleton,0,,
-258,Chernareka,Hercegovac,1,1,4,manual,0,45.6553617,17.0090772
-259,Chernecz,,3,2,5,orthographic-exact,0,,
-260,"Cherneleucz, Toplychycza",", TOPLIČICA",4,1,1,singleton,0,,
-261,Chernesoucz,,1,2,4,orthographic-fuzzy,1,,
-262,"Chernkowcz, Schytaryo","ČRNKOVEC, ŠČITARJEVO",4,1,1,singleton,0,45.7506386,16.1197623
-263,Chernomercz,ČRNOMEREC,4,4,13,modern,0,45.8156371,15.9361636
-264,"Chernylewch, Thoplychycha",", TOPLICA",4,1,2,singleton,0,,
-265,Chernylno,,4,1,1,singleton,0,,
-266,Chero berdo,,1,1,1,singleton,0,,
-267,Cherowoberdo,,1,1,1,singleton,0,,
-268,Cherwylno,,4,1,5,singleton,0,,
-269,Cherztwecz Zenth Pether,Sveti Petar Čvrstec,1,1,5,manual,0,46.0044639,16.6638832
-270,Chesthylowcz,,1,1,1,singleton,0,,
-271,Chethertekhel,,1,1,1,singleton,0,,
-272,Chezmycza Zenth Iwan,,1,1,1,singleton,0,,
-273,Cheztylowcz,,1,2,2,orthographic-exact,0,,
-274,Cnesancz,Maglenca,1,2,3,manual,0,45.9211719,16.9320077
-275,Chorgowcz,,2,1,4,singleton,0,,
-276,Chowcowyna,,1,1,1,singleton,0,,
-277,Chowkowyna,,1,1,1,singleton,0,,
-278,Chrechan,,4,2,2,orthographic-fuzzy,1,,
-279,Chremysthe,Cremušina,1,1,1,manual,0,45.7945543,17.1937699
-280,"Chresnevo, Obres",,2,1,1,singleton,0,,
-281,Chresno,Crešnjevica,1,2,8,manual,0,45.9200074,17.1467028
-282,Christalocz,Kreštelovac,1,7,12,manual,0,45.5765405,17.0519967
-283,Chrysthalowcz-cum provincia et pertinentiis,,1,1,1,singleton,0,,
-284,Chwcher,ČUČERJE,4,7,17,modern,0,45.8728865,16.0560140
-285,Chwchwwachincz,,1,1,1,singleton,0,,
-286,Chwdowcz,,1,1,1,singleton,0,,
-287,"Chwdowcz, Wynarcz",SUDOVEC I VINAREC,1,1,1,singleton,0,46.1058330,16.3630500
-288,Chwthenya,Kutina,1,1,4,manual,0,45.5186851,16.7911430
-289,Chyglana,Mala Ciglena,1,1,1,manual,0,45.8934246,16.9412226
-290,Cyglena,Dulepska,1,2,2,manual,0,45.8945450,16.3426353
-291,Chygleno,Dulepska,1,1,1,manual,0,45.8945450,16.3426353
-292,Chystho Hrastye,,3,1,1,singleton,0,,
-293,Chystho Hrazthya,,3,1,1,singleton,0,,
-294,Chyztahrazthya,,3,2,2,orthographic-fuzzy,1,,
-295,Czyrquena,CIRKVENA,1,3,7,orthographic-exact,0,45.9351219,16.6580807
-296,Civitas Montis Grecensis Zagrabiensis,GRIČ,4,5,14,modern,0,45.8162301,15.9735992
-297,"Clobwk, Jalsewcz, Zenth Iwan",,1,1,1,singleton,0,,
-298,Klokochowcz,KLOKOČEVEC,1,3,6,modern,0,45.8336653,15.7024738
-299,Clwch,Lipovac Lonjski,1,1,1,manual,0,,
-300,Conthowcz,Grubišno Polje,1,1,1,manual,0,45.7021875,17.1722368
-301,Copathowcz,Gornja Kovačica,1,1,3,manual,0,45.7710030,17.1093385
-302,Copozowcz,Čazma,1,1,1,manual,0,45.8383124,16.7079896
-303,Corbowa,,1,1,1,singleton,0,,
-304,Coren,Korenovo,1,1,1,manual,0,45.8585850,16.8114639
-305,"Coren, Zdela",,1,1,2,singleton,0,,
-306,Coroska,Koruška,1,1,1,manual,0,46.0226772,16.5359181
-307,Corpus Christi in Prodauiz,,1,1,1,singleton,0,,
-308,Cothnyak,,1,1,1,singleton,0,,
-309,Coznethyno,Mučna,1,1,1,manual,0,46.0689337,16.7375944
-310,Koznycza,KOSNICA,4,14,40,modern,0,45.7506038,16.0853697
-311,Coztanowcz,KOSTANJEVAC,1,1,1,singleton,0,46.0049015,16.9391526
-312,Kozthel,KOSTEL,2,8,19,modern,0,46.1839785,15.7256223
-313,Crachowcz,,1,1,1,singleton,0,,
-314,Krapyna,KRAPINA,2,7,22,modern,0,46.0983218,15.9377404
-315,"Craschych, Wywodyna","KRAŠIĆ,",4,1,1,singleton,0,45.6540864,15.5174579
-316,Crassulcz,,2,1,1,singleton,0,,
-317,Crawaryna,Grahovljani,1,1,3,manual,0,,
-318,Crawarzka,,4,1,1,singleton,0,,
-319,Crawloch,,1,1,1,singleton,0,,
-320,Crethyn in Dobrachwcha,,1,1,1,singleton,0,,
-321,Crisium,KRIŽEVCI,1,7,18,modern,0,46.0247391,16.5457794
-322,Crisium-civitas (taxa 500 fl),KRIŽEVCI,4,1,1,singleton,0,,
-323,Crisium-civitas inferior,KRIŽEVCI (INF.),1,1,5,singleton,0,46.0247391,16.5457794
-324,Crisium-civitas superior,KRIŽEVCI (SUP.),1,1,5,singleton,0,46.0247391,16.5457794
-325,Crisnychya,,1,1,1,singleton,0,,
-326,Crisnychya ad Galgoycza,,1,1,1,singleton,0,,
-327,Crisowlyan,KRIŽOVLJAN,1,4,9,modern,0,,
-328,Crysancz,,2,1,3,singleton,0,,
-329,Crysthesawcz-ad Galgowcz,,1,1,1,singleton,0,,
-330,Cryznychycha-ad Zenthywan dicata,,1,1,1,singleton,0,,
-331,Cwlpowcz,,1,1,1,singleton,0,,
-332,"Czebowcz, Kos",,2,1,1,singleton,0,,
-333,Czerowycza Zentiwan,Djurdjevac,1,2,2,manual,0,,
-334,Czerowycza Zenth Iwan- ad Zenth Gergerwara,,1,1,1,singleton,0,,
-335,Czerowycza-ad Zenth Gerghwara,,1,1,1,singleton,0,,
-336,Czerye,CERJE,4,1,7,singleton,0,45.8296604,16.1914690
-337,Czome,,1,1,1,singleton,0,,
-338,Czwethkowych,CVETKOVIĆ,4,4,4,modern,0,45.6507558,15.6470067
-339,Czyglenycza,CIGLENICA,2,1,5,singleton,0,46.3123951,16.3329490
-340,Demerye,DEMERJE,4,3,13,modern,0,45.7318815,15.8828849
-341,Darnowcz,Drenovac,1,2,4,manual,0,45.8265326,15.9960743
-342,Darnocz-cum pertinenciis,,1,5,5,orthographic-fuzzy,1,,
-343,Dorozlo Bakwa,Klokočevac,1,2,3,manual,0,45.9178685,16.7839294
-344,Dawch,,1,1,1,singleton,0,,
-345,Deche,Dišnik,1,1,5,manual,0,45.6076839,16.8758897
-346,Declyna,Diklenica,1,1,1,manual,0,45.9679929,16.8608972
-347,Decze,,3,1,3,singleton,0,,
-348,Dedochay sub Pokwpye,,4,1,2,singleton,0,,
-349,Dercowcz,Dereza Čazmanska,1,1,1,manual,0,45.7564558,16.5998185
-350,Derkowcz,Dereza Čazmanska,1,1,2,manual,0,45.7564558,16.5998185
-351,Dersze,,3,1,2,singleton,0,,
-352,Derze,,3,1,2,singleton,0,,
-353,Desnycze,Dišnik,1,1,9,manual,0,45.6076839,16.8758897
-354,Desowcz,,1,1,1,singleton,0,,
-355,Deykowcz-de Waska,,1,1,1,singleton,0,,
-356,Domagowych,DOMAGOVIĆ,4,4,23,modern,0,45.6287181,15.6380048
-357,Dimikowcz,Gradec,1,1,1,manual,0,45.9229065,16.4895691
-358,Dimitrowcz,Gradec,1,2,2,manual,0,45.9229065,16.4895691
-359,Dimytroucz,DIMITROVEC,2,2,2,orthographic-exact,0,,
-360,Districtus Capituli Zagrabiensis,KAPTOL,4,2,2,modern,0,45.8146150,15.9784733
-361,Dobochecz,,1,1,1,singleton,0,,
-362,Dobowcz,DUBOVEC,1,2,10,orthographic-exact,0,46.0084447,16.2865673
-363,Dobownyk,,3,1,7,singleton,0,,
-364,Dobowyna,,1,1,1,singleton,0,,
-365,Dobowyo in Berzewcze,,1,1,1,singleton,0,,
-366,Dobra Kuchya,Dobra Kuća,1,2,3,manual,0,45.6103079,17.2943775
-367,Dobrachwcha,,1,1,1,singleton,0,,
-368,Dobrachwcha cum pertinentiis,,1,1,1,singleton,0,,
-369,Dobrawa,Dubrava Samoborska Zagrebačka Dubrava,4,1,12,manual,0,45.8063140,15.6699200
-370,Dobrawa ad Lythwuanych,,4,2,2,orthographic-fuzzy,1,,
-371,Dobrawycza,,2,1,1,singleton,0,,
-372,Dobrokychya,,1,1,3,singleton,0,,
-373,Dobrowa Czerzka,,4,1,1,singleton,0,,
-374,Dobrowych,,1,4,15,orthographic-fuzzy,1,,
-375,Dol,,4,2,5,orthographic-exact,0,,
-376,Dolyane,Dolanski Jarak,4,7,16,manual,0,,
-377,Dolyan ad Belam,,1,1,1,singleton,0,,
-378,Dolyancz,Doljanec,1,1,6,manual,0,45.9908688,16.4493156
-379,Domankwsowcz,Grdjevac,1,3,4,manual,0,,
-380,Dombrensi,,1,1,1,singleton,0,,
-381,Dombro,Dubrava,1,1,8,manual,0,45.8423033,16.5349328
-382,"Dombro-oppidum, Gradecz",,1,1,1,singleton,0,,
-383,"Dombro-provincia, ad Sanctum Michaelem",,1,1,1,singleton,0,,
-384,Donadowcz,Tomodowcz,1,2,3,manual,0,,
-385,Dragalen,,1,1,2,singleton,0,,
-386,Dragalyn ad Belam,,1,1,1,singleton,0,,
-387,Dragalyna,,1,1,2,singleton,0,,
-388,Draganychy,DRAGANIĆI,4,4,4,modern,0,45.7599553,16.0059758
-389,Dragatyn,,1,1,4,singleton,0,,
-390,Dragonoscz,DRAGONOŽEC,4,3,6,modern,0,45.6610681,15.9471656
-391,Dragowyna,,1,2,5,orthographic-fuzzy,1,,
-392,Dragowya-ad Achynam,,1,1,1,singleton,0,,
-393,Drakcha,Graberje Ivaničko,1,1,1,manual,0,45.7101594,16.4712034
-394,Draschya,Graberje Ivaničko,1,2,5,manual,0,45.7101594,16.4712034
-395,Drascha ad Gemlech,,1,3,3,orthographic-fuzzy,1,,
-396,Drasowch,Djakovac,1,4,6,manual,0,,
-397,Drasewcz,Korenovo,1,1,1,manual,0,45.8585850,16.8114639
-398,Drasimercz,Draganec,1,1,1,manual,0,45.7806315,16.6253194
-399,Drawamelleke,Kloštar Podravski,1,2,3,manual,0,45.9838583,17.1570683
-400,Dremowa (Drenowa*),,4,1,1,singleton,0,,
-401,Drenowa,DRENOVA,4,3,70,modern,0,45.9332276,16.1779492
-402,"Drwskowcz, Oskowcz","DRUŽKOVEC, KOŠKOVEC",2,3,6,modern,0,,
-403,Drwskowcz,DRUŠKOVEC,2,1,12,singleton,0,46.2594132,16.1550276
-404,Dwbowcz,DUBOVICA,1,3,14,orthographic-exact,0,46.2880157,16.6916075
-405,"Dubouycza, Kapolna","DUBOVICA, KAPELA",1,1,3,singleton,0,46.2880157,16.6916075
-406,Dubrawa,Dubrava,4,2,8,manual,0,45.8380556,16.5438889
-407,Dwlyebzka,DULEPSKA,1,8,31,orthographic-fuzzy,1,45.8945450,16.3426353
-408,Dworany,,4,2,8,orthographic-fuzzy,1,,
-409,Dwbowecz,Dubovac,4,1,2,manual,0,45.4944439,15.5344392
-410,Dwbyno,,1,1,1,singleton,0,,
-411,Dwgy Werh,,1,1,2,singleton,0,,
-412,"Dwlepzka, Erdowcz","DULEPSKA, ERDOVEC",1,1,1,singleton,0,45.8945450,16.3426353
-413,Dwmowcz,,4,1,1,singleton,0,,
-414,Dworane,,4,1,2,singleton,0,,
-415,Dworyancz,,1,1,1,singleton,0,,
-416,Dworysche,DVORIŠĆE,1,3,5,modern,0,45.9847825,16.6004514
-417,Dworyschye Superior,DVORIŠĆE,4,3,4,modern,0,45.8238294,16.2758953
-418,Dworysche Superior,"DVORIŠĆE, OREHOVEC",4,1,1,singleton,0,45.8238294,16.2758953
-419,"Dworysche, Orehowcz","DVORIŠĆE, OREHOVEC",1,3,8,modern,0,45.9847825,16.6004514
-420,Dwsycza,DUŽICA,4,7,11,modern,0,45.9205259,16.1025239
-421,Dyakowch,Diankovec,1,2,2,manual,0,46.0413240,16.4817858
-422,Dyanfelde,Dijankovec,1,3,5,manual,0,46.0399845,16.4815465
-423,Dyewsewcz,,1,1,1,singleton,0,,
-424,Dymychffeld,,1,1,2,singleton,0,,
-425,Ebres,OBREŽ,1,5,28,modern,0,46.1182956,16.4352972
-426,Ecclesia Zagrabiensis,,4,1,1,singleton,0,,
-427,Eghywdowcz,,4,1,1,singleton,0,,
-428,"Egwdowcz, Chargowcz, Polyana",,2,1,1,singleton,0,,
-429,"Egywdo, Charkowcz",,2,1,1,singleton,0,,
-430,Jemryhowcz,IMBRIOVEC,1,6,18,modern,0,46.2563933,16.8216410
-431,Emryholcz,IMBRIOVEC,2,2,2,modern,0,,
-432,Erdowcz,ERDOVEC,1,4,13,modern,0,46.0298298,16.4813125
-433,Erpenye,,2,1,1,singleton,0,,
-434,Erwencze,,1,1,13,singleton,0,,
-435,Fabyanowcz,Narta,1,3,5,manual,0,45.8332696,16.7884696
-436,Fabyanchewcz,Narta,1,1,3,manual,0,45.8332696,16.7884696
-437,Farcasovcz,,1,1,1,singleton,0,,
-438,Farkadyn,,1,1,6,singleton,0,,
-439,Farkasowcz,,1,2,3,orthographic-exact,0,,
-440,Farkazowcz,,1,1,1,singleton,0,,
-441,Felse Chezmyche,Botinac,1,2,8,manual,0,45.9996711,16.8612684
-442,Felse Izdencz,Zdenci,1,3,7,manual,0,45.5877618,17.9514042
-443,Felsew Zemche,,1,3,5,orthographic-fuzzy,1,,
-444,Felsew Ztobycza,GORNJA STUBICA,4,14,306,modern,0,45.9749888,16.0175181
-445,"Felseu Ztobycza, Lepa Vez","GORNJA STUBICA, LEPA VES",4,1,1,singleton,0,45.9749888,16.0175181
-446,Felsew Bakwa,GORNJA BUKOVICA,1,1,3,singleton,0,,
-447,Felsew Bakwa,GORNJA BUKOVICA,3,2,3,modern,0,,
-448,Felso Czesmycze,GORNJA STUBICA,1,3,8,modern,0,,
-449,Felsew Gerzencze,Gračenica,1,1,2,manual,0,45.5149669,16.6540389
-450,Felsew Pozawye / Zablathye,,4,1,1,singleton,0,,
-451,Felsew Soploncza,,1,4,8,orthographic-fuzzy,1,,
-452,Felsew Totusewyna,,1,2,2,orthographic-exact,0,,
-453,"Felsew Zthwbycza, Bedenycze","GORNJA STUBICA, BEDENICA",4,1,1,singleton,0,45.9749888,16.0175181
-454,"Felsew Zthwbycza, Bosyako","GORNJA STUBICA, BOŽJAKOVINA",4,1,1,singleton,0,45.9749888,16.0175181
-455,Felsw Bakwa,GORNJA STUBICA,3,1,1,singleton,0,,
-456,Ferkwlowcz,FERKULJEVEC,2,6,10,modern,0,,
-457,Feyerkew,,1,1,1,singleton,0,,
-458,Feyrkew-waywodatus cum pertinentiis,,1,1,1,singleton,0,,
-459,Filyphfalwa,,1,3,3,orthographic-fuzzy,1,,
-460,Fynthyncz,Fištinec,1,3,4,manual,0,,
-461,Fodorowcz,FODOROVEC,3,2,4,orthographic-exact,0,,
-462,Fodrowcz,FODOROVEC,1,3,13,modern,0,,
-463,Fodorowczy,FODOROVEC,2,1,1,singleton,0,,
-464,Foryanowcz,,1,1,3,singleton,0,,
-465,Furmeghoch,,1,1,1,singleton,0,,
-466,Fwka,FUKA,1,1,3,singleton,0,45.8863448,16.5287441
-467,Fychowcz,Finčevac,1,1,1,manual,0,,
-468,Fyerky,,1,1,1,singleton,0,,
-469,Fylethyncz,,1,2,6,orthographic-exact,0,,
-470,Fynchewcz,Finčevac,1,1,1,manual,0,,
-471,Galgoncza,GLOGOVNICA,1,7,13,modern,0,45.9671904,16.5272109
-472,Galgowo,GALGOVO,4,2,12,modern,0,45.7436947,15.7490376
-473,Galowchecz,,1,1,1,singleton,0,,
-474,Galowcz,Galovac,1,1,2,manual,0,45.8439994,16.8524578
-475,Garazda,,1,1,1,singleton,0,,
-476,Garazdyncz,,1,2,7,orthographic-fuzzy,1,,
-477,Gardowa,Grdjevac,1,1,5,manual,0,,
-478,Garyghnycze,Garešnica,1,2,3,manual,0,45.6361735,16.8617380
-479,Gathalowcz,Grdjevac,1,4,14,manual,0,,
-480,Gothalowcz,GOTALOVEC,2,5,13,modern,0,46.1566949,16.2192725
-481,Gayancz,,2,1,1,singleton,0,,
-482,"Gayancz, Nedelyancz","GOJANEC, NEDELJANEC",2,1,2,singleton,0,46.2859049,16.3029011
-483,Gayanczy,GOJANEC,1,1,1,singleton,0,,
-484,Gedrocz,,1,2,2,orthographic-fuzzy,1,,
-485,Gemelgfelde,,1,1,2,singleton,0,,
-486,Geramuczyak,,2,1,1,singleton,0,,
-487,Greben,GREBEN,4,4,11,modern,0,45.7640352,15.3341556
-488,Gerecz,Stari Gradec,1,1,27,manual,0,45.924700,17.292500
-489,Gerecz,Gradec (Zagreb),4,1,1,manual,0,45.8162301,15.9735992
-490,Geremchari,,2,1,1,singleton,0,,
-491,Gerwasowcz,,1,1,3,singleton,0,,
-492,Gerzencze,Gračenica,1,1,3,manual,0,45.5149669,16.6540389
-493,Gorycza,GORICA,4,4,15,modern,0,45.4339204,15.4856451
-494,Glagowo,,4,1,2,singleton,0,,
-495,Glaunycza Sanctae Trinitatis,,4,1,3,singleton,0,,
-496,Glawnycza,GLAVNICA,4,7,70,orthographic-fuzzy,1,45.9315133,16.1417444
-497,Globochecz,GLOBOČEC,4,3,32,modern,0,46.0154688,16.1581992
-498,Globochecz,Lipovčani,1,3,10,manual,0,45.9855979,16.7882556
-499,"Globochecz, Polyana","GLOBOČEC, POLJANA",1,1,1,singleton,0,,
-500,"Glokosowcz, Mylethynch",,1,1,3,singleton,0,,
-501,"Golgoncza, Kalecz","GLOGOVNICA,",1,1,1,singleton,0,45.9671904,16.5272109
-502,Golyak- judicatus (Jazthrebarzka-castrum),,4,1,1,singleton,0,,
-503,Gorbonokfew,Kloštar Podravski,1,4,5,manual,0,45.9838583,17.1570683
-504,Gorbonok,Kloštar Podravski,1,2,5,manual,0,45.9838583,17.1570683
-505,"Gorbonok, Drawamelleke",,1,2,2,orthographic-fuzzy,1,,
-506,Gorbonwk-oppidum cum pertinentiis,,1,3,4,orthographic-fuzzy,1,,
-507,Gorbonwkfew ad Zenth Gergwara,,1,1,1,singleton,0,,
-508,Gorbowa,Grbavac,1,1,2,manual,0,45.7113545,17.1014906
-509,Gordowa,Grđevac,1,2,16,manual,0,45.7515565,17.0497322
-510,Goricza in episcopatu Zagrabiensi,,4,1,1,singleton,0,,
-511,Gorycza,GORICA,1,5,26,modern,0,46.2254584,16.7320479
-512,"Gorychan, Zbelye",,2,1,4,singleton,0,,
-513,Gorycza,GORICA,3,1,1,singleton,0,,
-514,Gorycza Maiori,,4,1,1,singleton,0,,
-515,Gorycza sive Pregrada,GORIČANOVEC,2,3,3,modern,0,46.1816180,15.8121486
-516,"Gorycza, Pleszo","GORICA, PLESO",4,1,1,singleton,0,45.4339204,15.4856451
-517,Gotaleryancz,,1,1,1,singleton,0,,
-518,"Gotalowcz, Zawersye","GOTALOVEC, ZAVRŠJE",2,2,2,orthographic-exact,0,46.1566949,16.2192725
-519,Gozthowychy,GOSTOVIĆ,1,3,6,modern,0,45.9283718,16.4445035
-520,Graberiancz,Dulepska,1,1,1,manual,0,45.8945450,16.3426353
-521,Graberya,GRABE,1,2,4,modern,0,,
-522,Graberye,GRABE,2,1,5,singleton,0,46.0747054,16.0078977
-523,Grabrych,GRABRIĆ,1,2,4,modern,0,45.9008124,16.5057456
-524,Grachan,GRAČANI,4,8,18,modern,0,45.8548503,15.9709014
-525,Grachina ad Garig,GRAČANI,1,1,1,singleton,0,45.8582472,15.9740813
-526,Grachyna,GRAČINA,1,1,1,singleton,0,45.9780218,16.5603046
-527,Gradacz,Gradec,1,1,1,manual,0,45.9229065,16.4895691
-528,"Gradacz, Jampnycza",", JAMNICA",4,2,5,orthographic-exact,0,,
-529,Gradchyna-ad Garych,,1,1,1,singleton,0,,
-530,Gradecz,GRADEC,1,3,17,modern,0,45.9229065,16.4895691
-531,Gradysche,Bršljanica,1,1,1,manual,0,45.5827915,16.8519325
-532,Gragena,Vojakovac,1,3,14,manual,0,46.0668813,16.5936927
-533,Gragyan,GRADNA,4,1,1,singleton,0,45.8230755,15.7406015
-534,Gramchoucz,Stare Plavnice,1,1,1,manual,0,45.8940344,16.8083834
-535,Grayan,,1,1,10,singleton,0,,
-536,Grebenna,Madžarevo,1,1,1,manual,0,46.1695487,16.3060711
-537,Greda,Greda Peskovečka,1,1,1,manual,0,,
-538,Gredakowcz ad Gemnecz,,1,1,1,singleton,0,,
-539,"Gredycze, Zabok","GUBAŠEVO, ZABOK",2,1,3,singleton,0,46.0198728,15.8656988
-540,Gregorchyncz,Virje,1,3,5,manual,0,46.0671920,16.9886896
-541,Gregorowcz,GREGUROVEC,1,7,22,modern,0,46.0297878,16.4498379
-542,Gregorowcz,GREGUROVEC,2,6,12,modern,0,46.1554811,15.9895455
-543,"Gregoryancz, Dorozlawcz, Camarcha",,1,1,1,singleton,0,,
-544,Gregwryewyna,,1,2,9,orthographic-fuzzy,1,,
-545,"Gregoryowcz, Zaywsawcz",,1,1,1,singleton,0,,
-546,Gregsynch,Mučna,1,1,1,manual,0,46.0689337,16.7375944
-547,"Gregwrowcz, Toplycza, Oskowcz","GREGUROVEC,",2,1,4,singleton,0,46.1554811,15.9895455
-548,Gregwrowcz-ad Nagh Kemlek,,1,1,1,singleton,0,,
-549,Grekzynchk,Mučna,1,1,1,manual,0,46.0689337,16.7375944
-550,Grexyncz,Mučna,1,2,3,manual,0,46.0689337,16.7375944
-551,Grobosincz,Grubišno Polje,1,2,4,manual,0,45.7021875,17.1722368
-552,Grymoucz,,1,2,2,orthographic-exact,0,,
-553,Grysnyak,,1,1,1,singleton,0,,
-554,"Gubassewo, Martyncze","GUBAŠEVO, MARTINEC",2,1,2,singleton,0,46.0198728,15.8656988
-555,"Gwbassewo, Prozenyk","GUBAŠEVO, PROSENIK",2,2,4,orthographic-exact,0,46.0198728,15.8656988
-556,Gwnnyak,Gunjak,1,4,10,manual,0,46.020737,16.649432
-557,Gwrgewcz,Graberje Ivaničko,1,8,11,manual,0,45.7101594,16.4712034
-558,Gwbassewo,GUBAŠEVO,2,5,6,modern,0,46.0198728,15.8656988
-559,Gwdowcz,Gudovac,1,2,4,manual,0,45.8811395,16.7846354
-560,Gwdowcz-cum pertinentis,,1,1,1,singleton,0,,
-561,Gywrsyncz,,1,2,6,orthographic-fuzzy,1,,
-562,Gymelchfeld,,1,1,2,singleton,0,,
-563,Gywgancz,Kaniška Iva,1,2,5,manual,0,45.5289318,16.9230556
-564,Gywrethyncz,,1,1,2,singleton,0,,
-565,Gywrkethyncz,,2,1,1,singleton,0,,
-566,Gywrynowcz,,1,1,1,singleton,0,,
-567,Habyanowcz,Habjanovac,1,1,1,manual,0,45.8782200,16.5500428
-568,Hegen,HAGANJ,1,4,8,modern,0,45.9147515,16.5787186
-569,Halehosowcz,Pavlin Kloštar,1,1,1,manual,0,46.0073012,16.8288694
-570,Hathko,Grdjevac,1,2,3,manual,0,,
-571,Hathkozenth Mihal,,1,2,2,orthographic-fuzzy,1,,
-572,Haznarcz,Sudovec,1,1,1,manual,0,46.1058330,16.3630500
-573,"Haznarcz, Turkoucz",,1,1,1,singleton,0,,
-574,Hedrihowcz,,1,2,2,orthographic-exact,0,,
-575,Hemowcz,Djurdjić,1,1,7,manual,0,,
-576,Herbothowcz,Fuka,1,3,3,manual,0,45.8863448,16.5287441
-577,Herbolthya,Veliki Poganac,1,2,3,manual,0,46.1490499,16.6151853
-578,Herborthya,Veliki Poganac,1,2,4,manual,0,46.1490499,16.6151853
-579,Hercowcz,,1,1,1,singleton,0,,
-580,Heresyncz,,1,3,3,orthographic-fuzzy,1,,
-581,Herethyncz,Galovac,1,1,1,manual,0,45.8439994,16.8524578
-582,"Hergowicza, Pwzta Dwsa",,4,1,1,singleton,0,,
-583,Herpeny,,2,2,2,orthographic-fuzzy,1,,
-584,Heryowcz,,1,1,1,singleton,0,,
-585,Herzowa,Hrsovo,1,1,1,manual,0,45.9383045,16.6850385
-586,Hewiz-oppidum ad Dobrachwcha,,1,1,1,singleton,0,,
-587,Hom,HUM,1,6,8,modern,0,,
-588,Hom,HUM,4,2,38,modern,0,45.8115399,15.5974865
-589,Horeowcz,Gračenica,1,1,7,manual,0,45.5149669,16.6540389
-590,Horzowa,Hrsovo,1,1,8,manual,0,45.9383045,16.6850385
-591,Hothko,Hotko,1,1,9,manual,0,45.751556,17.049732
-592,Hothnya Zenth Pal,Stari Pavljani,1,1,1,manual,0,45.8605809,16.8746878
-593,Hothowa,Djurdjevac,1,1,2,manual,0,,
-594,Hothowo ad Zenth Gergwara,,1,1,1,singleton,0,,
-595,Howano ad Kapruncza,,1,1,1,singleton,0,,
-596,Hozywfalw,,1,2,2,orthographic-fuzzy,1,,
-597,Hraschyna,HRAŠĆE,4,6,39,modern,0,45.7306053,16.0048816
-598,Hraschan,Raščani,1,1,5,manual,0,46.0207373,16.6494324
-599,Hraschyna ad Greben cum pertinentiis,,4,1,1,singleton,0,,
-600,Hraschyna in pertinentiis Greben,,4,1,1,singleton,0,,
-601,Hrasthan,Hršćani,1,1,3,manual,0,,
-602,Hrasthye,,4,1,1,singleton,0,,
-603,Hrastina,,1,1,1,singleton,0,,
-604,Hrastovica cum pertinentiis,,4,3,3,orthographic-fuzzy,1,,
-605,Hrastowicze-castrum cum pertinentiis,,4,4,4,orthographic-fuzzy,1,,
-606,Hrazthowycza-pertinencia,,4,1,1,singleton,0,,
-607,Hrazthowycze-pertinantiae,,4,1,1,singleton,0,,
-608,Hrazthye,HRAŠTJE,4,1,1,singleton,0,,
-609,Hrazthyna,HRAŠTJE,1,2,3,orthographic-exact,0,45.9782359,16.2688640
-610,Hrebyncz,,4,1,1,singleton,0,,
-611,Hrelychy,HRELIĆ,4,3,17,modern,0,45.7682685,16.0168954
-612,Hromchovcz,,1,2,2,orthographic-exact,0,,
-613,Hromkowcz,Stare Plavnice,1,1,1,manual,0,45.8940344,16.8083834
-614,Hrwsowcz,Ruševac,1,7,19,manual,0,46.0316718,16.6786684
-615,Hrustopecowyna,,1,1,1,singleton,0,,
-616,Hrwssowcz,HRUŠEVAC,4,5,50,modern,0,,
-617,Hrwskopekowyna,,1,1,1,singleton,0,,
-618,Hwdy Bythek,HUDI BITEK,4,1,1,singleton,0,45.7097190,15.8958866
-619,Hwethincz,,1,1,1,singleton,0,,
-620,Hwywaros,,1,1,1,singleton,0,,
-621,Hwzarcz,Husarec,1,1,16,manual,0,45.969039,16.539956
-622,"Hwzarcz, Zenthywan",,1,1,1,singleton,0,,
-623,Hyzdencz,Zdenci,1,1,5,manual,0,45.5877618,17.9514042
-624,Ilowa,,3,1,9,singleton,0,,
-625,Ilowa cum pertinentiis,,3,1,1,singleton,0,,
-626,Inferior Lwkawcz,LIKAVEC,4,1,1,singleton,0,,
-627,"Lwkavacz, Kozthanyewcz","LUKAVEC, KOSTANJEVEC",4,6,8,modern,0,45.7011134,15.9936241
-628,"Inferior Lwkawcz, Obres","LUKAVEC, OBREŽ",4,1,1,singleton,0,45.7011134,15.9936241
-629,Lwkawecz,LUKAVEC,4,11,73,modern,0,45.7011134,15.9936241
-630,Inferior Opathyncz,,1,1,1,singleton,0,,
-631,Inferior Vaska,,1,2,2,orthographic-exact,0,,
-632,"Inoskowcz, Foryanowcz",,1,1,1,singleton,0,,
-633,Insula,OTOK,2,5,28,modern,0,,
-634,Iwanusowcz,Sredice,1,6,13,manual,0,46.0374219,16.8129849
-635,Isanowcz,Hižanovec,1,1,3,manual,0,46.1137533,16.4217897
-636,Ista parte Zawe (s ove strane Save),,4,1,1,singleton,0,,
-637,Zenth Iwan,IVANEC,1,15,74,orthographic-fuzzy,1,46.2175711,16.1204500
-638,Iwelowcz,Grdjevac,1,1,4,manual,0,,
-639,Iwilovcz,,1,1,1,singleton,0,,
-640,Izdencz,Zdenci,1,1,2,manual,0,45.5877618,17.9514042
-641,Jacopowcz,Jakupovac Kapelski,1,4,4,manual,0,,
-642,Jacupelcz,Lipovac Lonjski,1,1,2,manual,0,,
-643,Jacupelcz,,2,1,1,singleton,0,,
-644,Jagwstanowcz,AUGUSTANOVEC,4,4,12,modern,0,45.4748574,15.9383109
-645,Jegywdowcz,JEŽDOVEC,4,7,30,modern,0,45.7766808,15.8460330
-646,Jakopowcz,,1,2,2,orthographic-fuzzy,1,,
-647,"Jakovllye, Felsew et Also Byztra, Podgorye, Pzarno","JAKOVLJE,GORNJA I DONJA BISTRA, PODGORJA,",4,1,2,singleton,0,45.9405659,15.8585629
-648,Jakowla,JAKOVLJE,4,2,2,modern,0,45.9405659,15.8585629
-649,Jakowlewcz,,1,1,1,singleton,0,,
-650,"Jakowlya, Also Byztra","JAKOVLJE, DONJA BISTRA",4,5,9,modern,0,45.9405659,15.8585629
-651,Jakwpelcz,Lipovac Lonjski,1,1,2,manual,0,,
-652,Jakwpowcz ad Belam,,1,1,1,singleton,0,,
-653,Jakwssewcz,JAKUŠEVEC,4,3,6,modern,0,45.7605543,16.0162815
-654,Jalecz,PODJALES,1,3,4,modern,0,45.9398153,16.4864737
-655,Jalkowcz,Galovac,1,1,1,manual,0,45.8439994,16.8524578
-656,Jalsewa,Čvrstec,1,10,59,manual,0,46.0044639,16.6638832
-657,"Jalsowcza, Ladyslawcz","JALŠEVEC, LADISLAVEC",2,4,8,modern,0,46.2078577,16.4827167
-658,"Jalsewcz, Zenth Iwan","JALŠEVEC, IVANEC",1,1,1,singleton,0,,
-659,Jalsownyk,,2,1,1,singleton,0,,
-660,Jamnycza,JAMNICA,4,6,67,modern,0,45.5994427,15.8790880
-661,"Jamnicza, Pokwpye","JAMNICA, POKUPSKO",4,4,7,modern,0,45.5994427,15.8790880
-662,Jendrassewcz,Andraševec,4,3,11,manual,0,46.0003464,15.9356094
-663,Janenowcz,,1,1,1,singleton,0,,
-664,Janosowcz,,1,3,16,orthographic-fuzzy,1,,
-665,Janowcz,,1,1,1,singleton,0,,
-666,Japathyncz,,1,1,1,singleton,0,,
-667,Jarebych,Jerebić,4,2,4,manual,0,45.5775055,15.9636954
-668,Jarna,Kloštar Podravski,1,1,1,manual,0,45.9838583,17.1570683
-669,Jarno,,1,1,1,singleton,0,,
-670,Jarosyna,Herešin,1,2,3,manual,0,46.1769365,16.8665800
-671,Jartholowcz,,1,2,7,orthographic-fuzzy,1,,
-672,Jaztrebarzka-cum pertinentiis,JASTREBARSKO,4,20,37,modern,0,45.6716565,15.6503928
-673,Jaworowcz,,1,1,1,singleton,0,,
-674,Jaworowcz ad Zenth Gergwara,,1,1,1,singleton,0,,
-675,Jawowcz (Jalsowcz*),,1,1,1,singleton,0,,
-676,Jawroch,,1,1,1,singleton,0,,
-677,Jezenowcz,JESENOVEC,4,4,34,modern,0,45.9191269,16.1428838
-678,Jaztrebynzkywerh,Pokupske,4,3,9,manual,0,,
-679,"Jegwdowcz, Botyncz","JEŽDOVEC, BOTINEC",4,2,2,orthographic-exact,0,45.7766808,15.8460330
-680,"Jegywdowcz, Syslawych","JEŽDOVEC, ŠIŠLJAVIĆ",4,3,3,modern,0,45.7766808,15.8460330
-681,"Jegywdowcz, Lochylnycza, Chehy, Nowaky, Bwzyn","JEŽDOVEC, LUČELNICA, ČEHI, NOVAKI, BUZIN",4,1,1,singleton,0,45.7766808,15.8460330
-682,"Jelakowcz, Zablatya","ĐELEKOVEC, ZABLETJE",1,2,2,orthographic-exact,0,46.2506365,16.8637838
-683,Jelkowcz,ĐELEKOVEC,1,1,3,singleton,0,46.2506365,16.8637838
-684,Jelye,,1,2,2,orthographic-exact,0,,
-685,"Jemryhoucz, Othok","IMBRIOVEC, OTOK",1,2,6,orthographic-exact,0,46.2563933,16.8216410
-686,Jenderkowcz ad Garigh,,1,2,2,orthographic-fuzzy,1,,
-687,Jenderkowcz sub Garych,,1,1,1,singleton,0,,
-688,Jerosyn,Galovac,1,1,2,manual,0,45.8439994,16.8524578
-689,Jezero,,4,1,2,singleton,0,,
-690,Jwrkethyncz,JURKETINEC,2,4,10,orthographic-exact,0,46.2829955,16.2184004
-691,"Jwgowcz, Powsincz",,3,1,1,singleton,0,,
-692,Jwrowlyan,,4,1,1,singleton,0,,
-693,Kalecz,TKALEC,1,6,11,modern,0,45.9705265,16.4497054
-694,Kalym,Kal inje,4,1,2,manual,0,,
-695,Kamacza,Novigrad Podravski,1,1,1,manual,0,46.0757469,16.9497812
-696,Kamarcza,Novigrad Podravski,1,2,5,manual,0,46.0757469,16.9497812
-697,Kamarya,Čaire,1,1,3,manual,0,45.5557797,16.7990067
-698,"Kamarya, Melesocz",,1,1,1,singleton,0,,
-699,Kamechecz-ad Nagh Kemlek,,1,3,3,orthographic-fuzzy,1,,
-700,Kamenycza,KAMEŠNICA,1,3,3,modern,0,46.0164481,16.4654737
-701,Kamenie,Kamanje,4,1,1,manual,0,45.6470034,15.4186638
-702,Kapella,KAPELA,1,2,2,modern,0,45.9897100,16.8443705
-703,"Kapolna, Bednye","KAPELA,",1,1,1,singleton,0,45.9897100,16.8443705
-704,"Kapolna, Dobowycza","KAPELA, DUBOVICA",1,2,5,modern,0,45.9897100,16.8443705
-705,"Kapolna, Dobowycza, Othok, Jemryhowcz","KAPELA, DUBOVICA, OTOK, IMBRIOVEC",1,1,2,singleton,0,45.9897100,16.8443705
-706,Kaproncza,KOPRIVNICA,1,10,14,modern,0,46.1672461,16.8102183
-707,Kaptholowcz,Ivanska Žabno,1,1,1,manual,0,,
-708,Karpowcz,KARLOVEC,2,1,1,singleton,0,,
-709,Kasyna,KAŠINA,4,2,2,orthographic-exact,0,45.9076390,16.1255313
-710,Kazmethyna,,1,1,1,singleton,0,,
-711,Kebel,KABEL,1,1,4,singleton,0,45.8380099,16.0553609
-712,Kelemynoch,,1,1,1,singleton,0,,
-713,Kenchelowcz,Kenđelovec,1,1,1,manual,0,45.945945,16.673362
-714,Kengelowcz,Kenđelovec,1,3,10,manual,0,45.945945,16.673362
-715,Kepchancz,,4,1,1,singleton,0,,
-716,Kerhennyna,,1,1,3,singleton,0,,
-717,Kerhennyna-waywodatus superior,,1,1,1,singleton,0,,
-718,Kerhnyewyna,,1,1,2,singleton,0,,
-719,Kerhtowcz,,3,3,6,orthographic-fuzzy,1,,
-720,Kernyn,Botinac,1,1,7,manual,0,45.9996711,16.8612684
-721,"Kernyn, Mathwsalowcz",,1,1,1,singleton,0,,
-722,Kerztynoucz,,1,1,1,singleton,0,,
-723,Kwscherowcz,GUŠĆEROVEC,1,10,26,modern,0,46.0539835,16.4846780
-724,Kyskemlek,KALNIK,1,12,37,modern,0,46.1326845,16.4866507
-725,Kladye,KLADJE,4,2,8,modern,0,45.7783575,15.7327973
-726,Klenocz,KLENOVEC,1,2,2,modern,0,46.0840030,16.4467590
-727,"Klenowhch, Orehowcz","KLENOVEC, OREHOVEC",1,1,1,singleton,0,46.0840030,16.4467590
-728,Klokowcz,"KLOKOČEVEC, MILETINEC",1,1,1,singleton,0,45.8336653,15.7024738
-729,Klwch,Clwch,1,1,1,manual,0,,
-730,Klwka,Kluka,4,1,1,manual,0,,
-731,Klynchazela,KLINČA SELA,4,5,19,modern,0,45.6922436,15.7435946
-732,"Klywka, Kowachewcz","KLJUKA,",4,2,6,modern,0,,
-733,Knegyncz,KNEGINEC,2,3,9,modern,0,46.2567690,16.3719611
-734,Knesancz,Maglenca,1,2,3,manual,0,45.9211719,16.9320077
-735,Knesech,,1,2,2,orthographic-exact,0,,
-736,Knesty,,1,1,1,singleton,0,,
-737,Knesyncz,,2,1,1,singleton,0,,
-738,Knezecz,,1,1,1,singleton,0,,
-739,Kobyle,,1,2,2,orthographic-fuzzy,1,,
-740,Kobylych,KOBILIĆ,4,2,10,modern,0,45.7319711,16.1012819
-741,"Kobylychy, Persynowcz","KOBILIĆ,",4,1,2,singleton,0,45.7319711,16.1012819
-742,Kochan,Konščani,1,1,1,manual,0,45.6648538,16.5497176
-743,Kochan,KUĆE,2,1,4,singleton,0,,
-744,"Koche, Lomnycza","KUČE, LOMNICA",4,3,4,modern,0,45.6761398,16.1423026
-745,Kochewcz,,2,1,1,singleton,0,,
-746,Kochycze,Konščani,1,1,1,manual,0,45.6648538,16.5497176
-747,Kochycze-insula,,2,1,1,singleton,0,,
-748,Kokorekowcz,,1,1,1,singleton,0,,
-749,Kolaryewcz,,1,2,2,orthographic-fuzzy,1,,
-750,Kolchewcz,KOPČEVEC,4,1,8,singleton,0,45.8039982,16.2147302
-751,Kolchewczy (Bosyako),,4,1,1,singleton,0,,
-752,"Koledyncz, Kwzmyncz, Jelekowcz","KOLEDINEC, KUZMINEC, ĐEELEKOVEC",1,2,3,modern,0,46.2390102,16.7698452
-753,Komarcha,,1,2,2,orthographic-exact,0,,
-754,Komaryn,,1,1,1,singleton,0,,
-755,Komor,KOMOR,2,1,15,singleton,0,46.1122725,16.0191713
-756,"Komor, Mwrkowcz","KOMOR, MIRKOVEC",2,2,6,modern,0,46.1122725,16.0191713
-757,"Komor, Wladyzlowcz",,2,1,1,singleton,0,,
-758,Komosowcz,,1,1,4,singleton,0,,
-759,Komozowcz,,1,1,1,singleton,0,,
-760,Konczka,,1,1,3,singleton,0,,
-761,Konschycza,Konšcica,4,2,18,manual,0,45.7650677,15.7260162
-762,Konthoch Zenthpeter,,3,2,4,orthographic-fuzzy,1,,
-763,Konthocz Zenthmyklos,,3,4,4,orthographic-fuzzy,1,,
-764,Konthowcz,Kontovac,1,1,3,manual,0,,
-765,Konthowcz cum pertinentiis,,3,3,4,orthographic-exact,0,,
-766,Konzka,Jakupovac Kapelski,1,1,8,manual,0,,
-767,Konzka-swpanathws,,1,1,1,singleton,0,,
-768,Konzka-woywodatus,,1,1,1,singleton,0,,
-769,Kopachowcz,Kopačevac,1,2,9,manual,0,45.9500000,17.2333333
-770,Kopakowcz,Gornja Kovačica,1,1,1,manual,0,45.7710030,17.1093385
-771,Kopchyna,KUPČINA,4,5,16,modern,0,45.6160186,15.5996565
-772,Kophachowcz,,1,1,2,singleton,0,,
-773,"Kopino, Sabnicha",,1,2,2,orthographic-fuzzy,1,,
-774,Kwpozoucz,Čazma,1,2,3,manual,0,45.8383124,16.7079896
-775,Kopynno,Haganj,1,1,1,manual,0,45.9147515,16.5787186
-776,Korbawa,Grdjevac,1,1,1,manual,0,,
-777,Kordwssowcz,,2,3,8,orthographic-exact,0,,
-778,"Kordwssowcz, Pethrossowcz",,2,1,1,singleton,0,,
-779,Koren,Korenovo,1,1,8,manual,0,45.8585850,16.8114639
-780,"Koren, Zdelya",,1,1,2,singleton,0,,
-781,Korenyak,KORENJAK,2,3,7,modern,0,46.2335701,16.3202548
-782,Korylowcz,KURILOVEC,4,3,39,modern,0,45.7022546,16.0717133
-783,Koroska,Koruška,1,1,2,manual,0,46.0226772,16.5359181
-784,"Koroska, Bedowcz",,1,1,1,singleton,0,,
-785,Koruska,Koruška,1,1,4,manual,0,46.0226772,16.5359181
-786,Korusta,,1,1,1,singleton,0,,
-787,"Korylowcz, Ilowenyak","KURILOVEC, ILOVENJAK",4,3,12,modern,0,45.7022546,16.0717133
-788,"Korylowcz, Mraczlyn","KURILOVEC, MRACLIN",4,1,5,singleton,0,45.7022546,16.0717133
-789,"Korythno, Bolch",,1,1,1,singleton,0,,
-790,"Korythno,Kebel, Dymytrowcz",,1,1,1,singleton,0,,
-791,Kos,,2,1,1,singleton,0,,
-792,Oskowcz,KOŠKOVEC,2,5,19,modern,0,46.2506981,16.1643217
-793,Koskolcz,,2,1,1,singleton,0,,
-794,Kossoycza,KOSNICA,2,1,1,singleton,0,,
-795,"Koztanyewcz, Lomnycza","KOSTANJEVEC, LOMNICA",4,5,7,modern,0,45.8408380,16.0032513
-796,"Kotenyak, Belycz","KORENJAK,",2,1,2,singleton,0,46.2335701,16.3202548
-797,Kothnyak,KUTNJAK,1,6,24,modern,0,46.2717025,16.7807856
-798,Kowachewcz,,2,1,1,singleton,0,,
-799,Kowachowcz,,1,1,1,singleton,0,,
-800,"Kowachowcz, Radoboye",,2,1,1,singleton,0,,
-801,"Koyenyk, Sythny Othok, Koznycza, Zelnycza",,4,1,1,singleton,0,,
-802,"Koyenyk-judicatus, Koznycza",,4,1,1,singleton,0,,
-803,Kozachyna,,1,2,4,orthographic-fuzzy,1,,
-804,Kozachyna-waywodatus inferior,,1,1,1,singleton,0,,
-805,Kozachyna-waywodatus superior,,1,1,1,singleton,0,,
-806,Kozak,Čemernica Lonjska,1,1,3,manual,0,45.7658591,16.4168812
-807,Kozolowcz,Grdjevac,1,1,1,manual,0,,
-808,Koztanowcz,KOSTANJEVEC,1,6,11,modern,0,46.1613615,16.2794839
-809,Kozthanyewcz,KOSTANJEVEC,4,5,34,modern,0,45.8408380,16.0032513
-810,"Koztanyewcz, Lekenyk, Thernovcz, Lukawecz, Korylowcz","KOSTANJEVEC, LEKENK, , LUKAVEC, KURILOVEC",4,1,1,singleton,0,45.8408380,16.0032513
-811,"Koztanyewcz, Obres","KOSTANJEVEC, OBREŽ",4,1,2,singleton,0,45.8408380,16.0032513
-812,"Koztanyoucz, Rauen","KOSTANJEVEC, RAVEN",1,1,1,singleton,0,46.1613615,16.2794839
-813,Kozynschak,KOZINŠĆAK,4,4,10,modern,0,45.8148367,16.2605310
-814,Krachowcz,,1,2,2,orthographic-fuzzy,1,,
-815,Krakowcz,,1,1,1,singleton,0,,
-816,Kralowcz,Kraljevac Križevački,1,1,1,manual,0,45.9734351,16.7402461
-817,Kralyowcz,KRALJEVEC,4,1,1,singleton,0,45.8305899,15.9688845
-818,Krawarzka,KRAVARSKO,4,3,21,modern,0,45.5864987,16.0471926
-819,Krawaryna,Grahovljani,1,1,6,manual,0,,
-820,Krayowcz,,3,1,2,singleton,0,,
-821,Krenyn,Botinac,1,1,2,manual,0,45.9996711,16.8612684
-822,"Krenyn, Mathowcz",,1,1,1,singleton,0,,
-823,"Krenyn, Pothna M.",,1,1,1,singleton,0,,
-824,Krysancz,KRIŽANEC,2,2,37,modern,0,46.2451850,16.3427013
-825,"Krysancz, Gredycze, Prozenyk","KRIŽANEC, GREDICE, PROSENIK",2,1,5,singleton,0,46.2451850,16.3427013
-826,Krysnychicha,,1,1,1,singleton,0,,
-827,Krysnychicha ad Galgwncza,,1,2,2,orthographic-fuzzy,1,,
-828,Krysowlyan,KRIŽOVLJAN,2,3,24,modern,0,46.2633287,16.5545664
-829,Krysthalowcz,Kreštelovac,1,1,1,manual,0,45.5765405,17.0519967
-830,Kwpyncz,Haganj,1,4,5,manual,1,45.9147515,16.5787186
-831,"Kuzmyncz, Koledyncz, Zablathya","KUZMINEC, KOLEDINEC, ZABLATJE",1,2,2,modern,0,46.2369918,16.7567560
-832,"Kwzmyncz, Koledyncz","KUZMINEC, KOLEDINEC",1,3,8,modern,0,46.2369918,16.7567560
-833,Kwchan,KUČAN,2,1,1,singleton,0,46.2894984,16.3709440
-834,Kwchye,KUĆE,4,2,3,modern,0,45.6761398,16.1423026
-835,"Kwchye, Lownycza",,4,1,1,singleton,0,,
-836,Kwkchowcz,,1,1,2,singleton,0,,
-837,Kwpchancz,,4,1,2,singleton,0,,
-838,Kwpchanoz,,4,1,1,singleton,0,,
-839,"Kwsherowcz, Bekethyncz","GUŠĆEROVEC, BEKETINEC",1,2,3,modern,0,46.0539835,16.4846780
-840,Kwskoucz,,1,1,1,singleton,0,,
-841,Kwtthennya,Kutina,1,4,11,manual,0,45.5186851,16.7911430
-842,Kwthetincz,,3,2,2,orthographic-exact,0,,
-843,Kwzmowcz,Kusanovec,1,1,1,manual,0,45.8194032,16.3491667
-844,Kwzmyncz,KUZMINEC,1,1,2,singleton,0,46.2369918,16.7567560
-845,"Kwzmyncz, Zablathye","KUZMINEC, ZABLATJE",1,1,1,singleton,0,46.2369918,16.7567560
-846,Kyralocz,,3,1,2,singleton,0,,
-847,Kyralowcz-cum pertinentiis,,3,2,3,orthographic-fuzzy,1,,
-848,"Kyskemlek, Ryeka, Deklessyncz","KALNIK, RIEKA, DEKLEŠANEC",1,4,8,modern,0,46.1326845,16.4866507
-849,Kys Lownyk,,1,1,1,singleton,0,,
-850,Kysmlaka,MALA MLAKA,4,2,30,modern,0,45.7289925,15.9772101
-851,Kys Thabor,MALI TABOR,2,1,1,singleton,0,46.2146835,15.6777004
-852,"Kyskemlek, fortalitium Reka cum pertinentiis","KALNIK , RIJEKA",1,1,2,singleton,0,46.1326845,16.4866507
-853,"Kysmlaka, Lochylnycza, Chehi, Nowaky, Syslawychy, Jegywdowcz","MALA MLAKA, LUČELNICA, ČEHI, NOVAKI, ŠIŠLJAVIĆ, JEŽDOVEC",4,1,1,singleton,0,45.7289925,15.9772101
-854,"Kysmlaka, Lochylnycza, Chehy, Nowaki","MALA MLAKA, LUČELNICA, ČEHI, NOVAKI",4,1,1,singleton,0,45.7289925,15.9772101
-855,"Kysmlaka, Lochylnyza, Chehy, Nowaky","MALA MLAKA, LUČILNICA, ČEHI, NOVAKI",4,1,1,singleton,0,45.7289925,15.9772101
-856,Labasowcz,Djurdjić,1,2,2,manual,0,,
-857,Labazowcz,,1,1,2,singleton,0,,
-858,Lachalowcz,Jakupovac Kapelski,1,1,1,manual,0,,
-859,Ladomercz,LADOMER,4,6,45,modern,0,,
-860,Ladislawcz,LADOMER,2,1,1,singleton,0,,
-861,Ladyzlawcz,LADISLAVEC,2,1,2,singleton,0,46.1086074,16.0627954
-862,"Ladyzlawcz, Zlatyna","LADISLAVEC,",2,1,2,singleton,0,46.1086074,16.0627954
-863,Laskaeghaz,,1,1,1,singleton,0,,
-864,Lazthesyn,Severin,1,4,16,manual,0,45.833300,16.966700
-865,Lathcowyna,,1,1,2,singleton,0,,
-866,Lathkowyna,Bršljanica,1,1,1,manual,0,45.5827915,16.8519325
-867,Lazachowcz,,1,4,5,orthographic-fuzzy,1,,
-868,Lazecz,Čemernica Lonjska,1,1,4,manual,0,45.7658591,16.4168812
-869,Lazen,Stare Plavnice,1,1,7,manual,0,45.8940344,16.8083834
-870,Lazyna,LAZINA,4,2,10,modern,0,45.8787204,16.0745122
-871,"Lekenyk, Thernowcz","LEKENIK,",4,3,9,modern,0,45.5842704,16.2106191
-872,Leskowcz,Bolč,1,7,11,manual,0,45.8908489,16.6763101
-873,Lekanucz ad Lwkawcz,,4,1,17,singleton,0,,
-874,Lekenyk,LEKENIK,4,5,13,modern,0,45.5842704,16.2106191
-875,"Lekenyk, Lwkawecz",LEKENIK. LUKAVEC,4,1,2,singleton,0,45.5842704,16.2106191
-876,Lepawez,LEPA VES,4,7,14,modern,0,46.0101068,15.9920646
-877,Lepenyak,,2,1,1,singleton,0,,
-878,Lepsincz,Bosiljevo Čazmansko,1,2,2,manual,0,,
-879,Leschan,,1,1,2,singleton,0,,
-880,Lesnekheg,,1,1,2,singleton,0,,
-881,Lestacowcz,,1,1,1,singleton,0,,
-882,Lestakowcz,,2,2,2,orthographic-exact,0,,
-883,"Lestakowcz, Zwhodoll",,2,2,2,orthographic-exact,0,,
-884,"Lestchancz, Palynowcz ad Belam",,1,1,1,singleton,0,,
-885,Lesthak,,2,1,1,singleton,0,,
-886,"Lesthakowcz, Berethyncz, Tharnowcz",,2,1,1,singleton,0,,
-887,Lesthyan,,1,1,1,singleton,0,,
-888,Lethowanych,LETOVANIĆ,4,11,19,modern,0,45.5078202,16.1989220
-889,Lezkov,,3,1,1,singleton,0,,
-890,Libewsthycza,,1,1,1,singleton,0,,
-891,Lypowcz,LIPOVEC,2,4,14,orthographic-exact,0,46.0529847,16.1323970
-892,Lyppa,,3,2,12,orthographic-exact,0,,
-893,Lywdbreg,LUDBREG,1,13,28,modern,0,46.2495239,16.6180913
-894,Lobor,LOBOR,2,2,23,modern,0,46.1591018,16.0701328
-895,Lochan,Komuševac,1,1,2,manual,0,45.7908706,16.6240677
-896,Lochylnycza,LUČELNICA,4,1,8,singleton,0,45.5936967,15.9245536
-897,"Lochylnycza, Chehy, Jegywdowcz, Mlaka, Nowaky, Bwzyn","LUČELNICA, ČEHI, JEŽDOVEC, MLAKA, NOVAKI, BUZIN",4,2,4,modern,0,45.5936967,15.9245536
-898,"Lochylnycza, Odra","LUČELNICA, ODRA",4,1,1,singleton,0,45.5936967,15.9245536
-899,"Lochylnycza, Podothochye, Odra, Bwzyn","LUČELNICA, PODOTOČJE, ODRA, BUZIN",4,1,1,singleton,0,45.5936967,15.9245536
-900,Loka,LUKA,1,3,5,modern,0,45.8765214,16.3806102
-901,Lwka,LUKA,4,7,25,modern,0,45.8301125,16.1086081
-902,Lwkawecz,LUKAVEC,1,2,3,modern,0,46.2429235,16.2152939
-903,Loky,Loky,1,1,1,manual,0,,
-904,Lombardya,,1,1,1,singleton,0,,
-905,Lompnycza,LOMNICA,4,2,5,modern,0,45.7149347,15.9999240
-906,"Lomnycza, Koche","LOMNICA, KUČE",4,2,8,modern,0,45.7149347,15.9999240
-907,Lose,,4,1,2,singleton,0,,
-908,Lowchowcz,,1,1,1,singleton,0,,
-909,Lowkowcz,Lukovec,1,3,8,manual,0,46.1904178,16.6815076
-910,Lownicza,,4,1,1,singleton,0,,
-911,Lubena,Lubena,1,5,8,manual,1,45.9213391,16.5160711
-912,Lubewschycza ad Nagkemlek,,1,2,2,orthographic-fuzzy,1,,
-913,Luchychowcz,,1,1,1,singleton,0,,
-914,Lupoglaw,LUPOGLAV,1,4,4,modern,0,45.7970952,16.3404828
-915,Lwbewschycza,,1,2,3,orthographic-fuzzy,1,,
-916,Lwchan,Komuševac,1,1,3,manual,0,45.7908706,16.6240677
-917,"Lwka, Rechycza","LUKA, REČICA",4,3,7,modern,0,45.8301125,16.1086081
-918,"Lwkavacz, Obres",LUKAVEC. OBREŽ,4,1,1,singleton,0,45.7011134,15.9936241
-919,Lwsye,Lusje,4,1,1,manual,0,,
-920,Lyplan,Bolč,1,2,3,manual,0,45.8908489,16.6763101
-921,Lypowecz,LIPOVEC,1,4,5,modern,0,46.1346564,16.8673583
-922,Lypyncz,Lipovo Brdo,1,4,7,manual,0,46.0031214,16.8738864
-923,Lyppowcz,LIPOVEC,4,2,2,modern,0,45.9593136,16.1552144
-924,Lyppycha,Čazma,1,2,2,manual,0,45.8383124,16.7079896
-925,Lypsycza,Čazma,1,1,1,manual,0,45.8383124,16.7079896
-926,Lywbesthycza-ad Kemlek,,1,1,1,singleton,0,,
-927,Lywblyana,LJUBLJANICA,4,1,5,singleton,0,45.7969739,15.9351671
-928,"Lywpkowcz, Zerdahel S.",,1,1,1,singleton,0,,
-929,Lyzychyncz,,1,1,1,singleton,0,,
-930,Markowcz,MARKOVAC,1,10,32,modern,0,45.9193334,16.8742369
-931,Magalowcz,Maglenca,1,2,5,manual,0,45.9211719,16.9320077
-932,Magyerlak,,1,3,4,orthographic-fuzzy,1,,
-933,Megwrechye,Međurić,1,8,29,manual,0,45.456900,16.938100
-934,Mahowcz,,4,1,4,singleton,0,,
-935,Malchewcz,,1,1,1,singleton,0,,
-936,Malchewcz,,4,2,5,orthographic-fuzzy,1,,
-937,Malchewcz-de Reka,,1,1,1,singleton,0,,
-938,Malkowch,,4,1,1,singleton,0,,
-939,Manchewcz,Mučna,1,1,2,manual,0,46.0689337,16.7375944
-940,Marchan,MARČAN,2,2,11,modern,0,46.3313541,16.1505918
-941,"Marcowcz, Chemerowcz","MARKOVAC,",1,1,1,singleton,0,45.9193334,16.8742369
-942,Marygolthowcz,MARIGUTIĆ,2,3,9,modern,0,46.1061764,16.1700226
-943,Marthonpathaka,Martinpotok,1,5,19,manual,0,,
-944,Markwssewcz,MARKUŠEVEC,4,1,1,singleton,0,45.8758347,16.0148138
-945,Zenth Iwan,SV. IVAN,4,5,7,modern,0,45.9028307,16.2628026
-946,Marosolcz,,2,1,1,singleton,0,,
-947,"Marosolcz, Krysolyan",,2,1,1,singleton,0,,
-948,Maroucha,,1,1,1,singleton,0,,
-949,Martynyancz,Martijanec,2,5,16,manual,0,46.2667778,16.5423856
-950,Marthyncz,MARTINEC (OREHOVIČKI),2,4,15,modern,0,46.0891232,15.9626404
-951,"Marthynczy, Gwbassewo","MARTINEC, GUBAŠEVO",2,3,8,modern,0,46.0891232,15.9626404
-952,Martyndol,MARTINKI,2,5,21,modern,0,,
-953,Marthynowcz,Martinac Trojstveni,1,1,2,manual,0,45.9491719,16.9156958
-954,Martinzkawez,MARTINSKA VES,4,9,14,modern,0,45.8805927,16.3975499
-955,Marthynzky,,2,1,1,singleton,0,,
-956,Martinowcz,,3,2,3,orthographic-exact,0,,
-957,Maryancz,,1,1,2,singleton,0,,
-958,Maryassowcz,MARUŠEVEC,2,3,23,orthographic-exact,0,46.2807993,16.1839860
-959,"Maryassowcz, Krysowlyan","MARUŠEVEC, KRIŽOVLJAN",2,1,9,singleton,0,46.2807993,16.1839860
-960,Maryncz,,4,1,2,singleton,0,,
-961,Mathewsowcz,,1,1,1,singleton,0,,
-962,"Mathewsowcz, Zerdahel",,1,1,1,singleton,0,,
-963,Mathwch,,1,1,3,singleton,0,,
-964,"Mathwsowcz, Marthynowcz",,1,1,2,singleton,0,,
-965,Mechenycze,,1,2,3,orthographic-fuzzy,1,,
-966,Medwe,MEDVEDGRAD,4,12,24,modern,0,45.8695479,15.9408864
-967,Megereche cum provincia,,1,1,1,singleton,0,,
-968,Meglech,Pupelica,1,1,4,manual,0,45.8798969,17.0362289
-969,Meglich,,1,1,2,singleton,0,,
-970,Megwrechye-oppidum,,1,1,1,singleton,0,,
-971,Megye,MEĐA,1,1,5,singleton,0,46.0505204,16.4656877
-972,Megyerlok,,1,1,1,singleton,0,,
-973,Mellesowcz,,1,3,4,orthographic-fuzzy,1,,
-974,"Mellesowcz, Palychna",,1,1,1,singleton,0,,
-975,Mendzent,,3,3,3,orthographic-fuzzy,1,,
-976,Myndzenth,Velike Sesvete,1,6,43,manual,0,46.055600,16.671700
-977,Myrynye,MERENJE,4,8,18,modern,0,45.9547190,15.7855215
-978,Zenthmyhal,Tomašica,1,9,16,manual,0,45.6432165,17.0173219
-979,Myholya,LETOVANIĆ,4,4,29,manual,0,45.5078202,16.1989220
-980,Mikchewcz,MIČEVEC,4,3,3,modern,0,45.7529444,16.0531946
-981,Mikechincz,Martinec,1,1,1,manual,0,,
-982,Mykethyncz,Miketinec,1,4,11,manual,0,,
-983,Mykwlych,MIKULIĆI,4,9,18,orthographic-fuzzy,1,45.8472620,15.9288418
-984,Mylethyncz,Miletinec,1,4,58,manual,0,45.933300,16.733300
-985,Mirina,"MIRKOVEC, BREZOVA",4,3,3,orthographic-exact,0,46.0540852,15.9325918
-986,Mislenincz,Remetinec Križevački,1,2,3,manual,0,45.9239375,16.5385563
-987,Mlaka,MLAKA,1,1,1,singleton,0,45.9088110,16.2907767
-988,Mlaka,MLAKA,4,1,12,singleton,0,45.9040939,16.2931969
-989,"Mlaka, Lochylnycza","MLAKA, LUČELNICA",4,2,5,modern,0,45.9040939,16.2931969
-990,"Mlaka, Nowaky, Zenth Gergh","MLAKA, NOVAKI, ŠIŠLJAVIĆ",4,1,1,singleton,0,45.9040939,16.2931969
-991,"Mlaka, Syslyanoychi","MLAKA, ŠIŠLJAVIĆ",4,2,2,modern,0,45.9040939,16.2931969
-992,Mnochowcz,,1,1,1,singleton,0,,
-993,Mochyla,Močila,1,2,10,manual,0,46.052442,16.672678
-994,Mochrycha,Svinjarec,1,1,1,manual,0,45.8022580,16.5670104
-995,Mochw,,1,1,1,singleton,0,,
-996,Mochylo,Sesvete,1,1,4,manual,0,45.8139666,16.1261692
-997,Modrowcz,,1,1,1,singleton,0,,
-998,Moghoyna-de Kaproncza,Mogovina,1,2,4,manual,0,46.212333,16.770791
-999,Mogoyna,Koprivnica,1,1,1,manual,0,46.1672461,16.8102183
-1000,Mokrycza,,1,1,3,singleton,0,,
-1001,Molwe ad Zenth Gergwara,,1,1,1,singleton,0,,
-1002,Molwycza,MOLVICE,4,5,10,modern,0,45.7688258,15.7544397
-1003,Molywa,,1,1,2,singleton,0,,
-1004,Monchewcz,Galovac,1,1,1,manual,0,45.8439994,16.8524578
-1005,Monchowcz,Galovac,1,1,4,manual,0,45.8439994,16.8524578
-1006,Monozlo,,1,1,19,singleton,0,,
-1007,Monozlo cum pertinentiis,,1,4,8,orthographic-fuzzy,1,,
-1008,Morawcz,Martinac Trojstveni,1,2,6,manual,0,45.9491719,16.9156958
-1009,Mosyna,Pupelica,1,2,5,manual,0,45.8798969,17.0362289
-1010,"Mosynya, Meglecz",,1,1,1,singleton,0,,
-1011,Moykowcz,MAJKOVEC,4,1,8,singleton,0,45.8787779,16.2805576
-1012,"Mraczlin, Korylowcz","MRACLIN, KURILOVEC",4,2,6,orthographic-exact,0,45.6667778,16.0967312
-1013,Mraczlyn,MRACLIN,4,1,21,singleton,0,45.6667778,16.0967312
-1014,Mwsyna,Šandrovac,1,1,1,manual,0,45.9101143,17.0209868
-1015,"Myhalaowcz, Lypowcz",,1,1,1,singleton,0,,
-1016,Myhalencz,Lipovac Lonjski,1,1,1,manual,0,,
-1017,"Myhalyownicza, Lypowcz",,1,1,1,singleton,0,,
-1018,Myholcz,MIHOLEC,1,6,9,modern,0,46.0545405,16.4462061
-1019,"Myholcz, Fodrowcz","MIHOLEC, FODOROVEC",1,2,5,modern,0,46.0545405,16.4462061
-1020,Myholnya,LETOVANIĆ,4,1,1,manual,0,45.5078202,16.1989220
-1021,Mykowcz,MIKOVEC,1,2,10,orthographic-exact,0,46.0879775,16.4765791
-1022,Mykowcz,MIKOVEC,4,1,1,singleton,0,46.0897231,16.4731708
-1023,Mykusewcz,Miklouš,1,1,1,manual,0,45.7266777,16.7043771
-1024,"Mylethynch, Kamarcha",,1,2,2,orthographic-fuzzy,1,,
-1025,Myndchenth,,1,1,1,singleton,0,,
-1026,Myndczenth,,3,1,3,singleton,0,,
-1027,Myndczenth cum pertinentiis,,3,2,2,orthographic-exact,0,,
-1028,Myndzenth,,4,1,1,singleton,0,,
-1029,Myndzenth-ad Racham,,1,1,1,singleton,0,,
-1030,"Myrkowcz, Brezowa","MIRKOVEC, BREZOVA",2,1,9,singleton,0,,
-1031,Nagh Gara,Velika Gora,4,2,4,manual,0,45.9591124,16.1943780
-1032,Nagh Thopalocz,,3,4,8,orthographic-fuzzy,1,,
-1033,Nagh Mlaka,VELIKA MLAKA,4,5,13,modern,0,45.7359614,16.0300097
-1034,Nagh Thabor,VELIKI TABOR,2,4,10,modern,0,46.1546586,15.6513664
-1035,Naghfalw,,1,1,1,singleton,0,,
-1036,"Naghy Kemlek, Brezowycza, Gregwrowcz","KALNIK, , GREGUROVEC",1,1,1,singleton,0,46.1326845,16.4866507
-1037,Narth,,1,1,8,singleton,0,,
-1038,Nassenyna,,2,2,13,orthographic-exact,0,,
-1039,Naseuyna,,2,1,3,singleton,0,,
-1040,Nassenya,,2,1,2,singleton,0,,
-1041,"Nedelyancz, Gayancz","NEDELJANEC, GOJANEC",2,2,6,modern,0,46.2890570,16.2912974
-1042,Nezpesa,NESPEŠ,4,5,27,modern,0,45.9445742,16.2007596
-1043,Nesethyno,,1,1,3,singleton,0,,
-1044,Nethech,Ferdinandovac,1,2,2,manual,0,46.0608291,17.1928025
-1045,Nezethyno,,1,1,1,singleton,0,,
-1046,Neznan,,1,1,1,singleton,0,,
-1047,Neznanheg,Čepelovac,1,3,4,manual,0,45.9949728,17.0425162
-1048,Nobiles unius sessionis,,4,1,41,singleton,0,,
-1049,Nofkowcz,Novaki,1,1,1,manual,0,45.8469164,16.5578347
-1050,"Nouigrad, Zdenchecz","NOVIGRAD,",4,3,3,modern,0,,
-1051,"Nouigrad, Zdenchecz, Jezero, Martinzkawez","NOVIGRAD, , MARTINSKA VES",4,1,1,singleton,0,,
-1052,Nowygrad,NOVIGRAD,4,6,7,modern,0,,
-1053,Nova Villa sub Gemlech,,1,1,1,singleton,0,,
-1054,Nowa Zenth Marton,Martinac Trojstveni,1,3,6,manual,0,45.9491719,16.9156958
-1055,Nowe Chyche,NOVE ČIČE,4,6,10,orthographic-fuzzy,1,45.7033996,16.1271734
-1056,Nowak,NOVAKI,1,2,8,modern,0,45.8469164,16.5578347
-1057,Zomzedwara-castrum / Nowak,NOVAKI,4,4,9,modern,0,45.7968280,15.8022318
-1058,Nowak-ad Achynam,,1,1,1,singleton,0,,
-1059,Nowakowcz,CERJE,4,2,4,manual,0,45.8296604,16.1914690
-1060,Obchewcz,Općevac,1,2,3,manual,0,45.7280399,16.5571761
-1061,Obed,OBEDIŠĆE,1,2,7,modern,0,45.7548925,16.3090960
-1062,Obranowcz Zenthmichael,,1,1,3,singleton,0,,
-1063,Obres,OBREŽ,4,3,8,modern,0,45.7159096,15.9417396
-1064,Obres,OBREŽ,2,3,8,modern,0,,
-1065,Obres,OBREŠKA,1,2,7,modern,0,45.7852319,16.4522465
-1066,"Obres, Koztanyewcz","OBREŽ, KOSTANJEVEC",4,2,2,orthographic-exact,1,45.7159096,15.9417396
-1067,"Obres, Lomnycza","OBREŽ, LOMNICA",4,1,2,singleton,0,45.7159096,15.9417396
-1068,"Obres, Welkowcz","OBREŽ,",2,1,2,singleton,0,,
-1069,Odra,ODRA,4,1,4,singleton,0,45.7297740,15.9925357
-1070,Odrazenthgergh,,4,5,5,orthographic-fuzzy,1,,
-1071,"Odra, Bwzyn","ODRA, BUZIN",4,2,16,orthographic-exact,0,45.7297740,15.9925357
-1072,"Odra, Bwzyn, Syllyakowyna","ODRA, BUZIN, ŠILJAKOVINA",4,1,4,singleton,0,45.7297740,15.9925357
-1073,"Odra, Syllyakowyna","ODRA, ŠILJAKOVINA",4,2,3,modern,0,45.7297740,15.9925357
-1074,Okchewcz,Općevac,1,1,1,manual,0,45.7280399,16.5571761
-1075,Okych,OKIĆ,4,16,40,modern,0,45.7487818,15.7067533
-1076,"Okych, Tersych","OKIĆ,",4,1,1,singleton,0,45.7487818,15.7067533
-1077,"Olywercz, Kothnak",,1,1,1,singleton,0,,
-1078,Omelya,,4,2,11,orthographic-exact,0,,
-1079,Omelye,,4,2,10,orthographic-exact,0,,
-1080,Omylya,Omillia,4,4,9,manual,0,,
-1081,Omnii Sancti,,1,1,4,singleton,0,,
-1082,"Omnii Sancti (Svi Sveti, Sesvete)",,1,1,2,singleton,0,,
-1083,Omnii Sancti ad Monozlo,,1,1,1,singleton,0,,
-1084,Omnii Sancti in Prodauiz,,1,1,1,singleton,0,,
-1085,Omnii Sancti-in portu,,4,1,8,singleton,0,,
-1086,Opathowcz,Apatovac,1,13,17,manual,0,,
-1087,Oppathowyna,,4,2,9,orthographic-exact,0,,
-1088,Opathowyna (dempto Gorzko),,4,1,1,singleton,0,,
-1089,Oppidum,,3,1,1,singleton,0,,
-1090,Opporowcz,OPOROVEC,4,1,1,singleton,0,45.8523340,16.0622955
-1091,Orbona,Obrovnica,1,1,9,manual,0,45.8293983,16.8754274
-1092,Orbowcz,,2,1,1,singleton,0,,
-1093,Orehocz,Orehovec,3,1,1,manual,0,,
-1094,Orehowcz,OREHOVEC,1,5,34,modern,0,46.0721813,16.4613862
-1095,Orehowcz,Orehovec,3,7,11,manual,0,,
-1096,"Orehowcz, Klenowcz","OREHOVEC, KLENOVEC",1,4,9,modern,0,46.0721813,16.4613862
-1097,"Orehowcz, Megye","OREHOVEC, MEĐA",1,2,8,orthographic-exact,0,46.0721813,16.4613862
-1098,"Orehowycza, Graberye","OREHOVICA , GRABE",2,2,5,orthographic-exact,1,46.1014693,15.9757103
-1099,Orehowycza,OREHOVICA,2,3,15,modern,0,46.1014693,15.9757103
-1100,"Orehowycza, Borychewcz","OREHOVICA, BORIČEVEC",2,3,8,modern,0,46.1014693,15.9757103
-1101,Orehowcz,OREHOVEC,2,1,2,singleton,0,46.1992334,16.3645309
-1102,Orehowcz Zent Peter,OREHOVEC SVETI PETAR,1,1,1,singleton,0,46.0721813,16.4613862
-1103,"Orehowcz, Polyana","OREHOVEC, POLJANA",1,1,1,singleton,0,46.0721813,16.4613862
-1104,Oresya,,3,1,4,singleton,0,,
-1105,Orosowcz,,1,3,4,orthographic-exact,0,,
-1106,"Orossowcz, Chakawcz",,1,1,1,singleton,0,,
-1107,Orozowcz,,1,1,1,singleton,0,,
-1108,Ortunoucz,,1,2,4,orthographic-fuzzy,1,,
-1109,Ostercz,OŠTRC,2,8,36,modern,0,46.1664,16.0845
-1110,Othnya Zenth Pal,,1,1,2,singleton,0,,
-1111,"Otthok, Jemryhowcz","OTOK, IMBRIOVEC",1,1,1,singleton,0,45.7934210,16.5881516
-1112,"Otthok-superior et inferior, Zenthilona apud Zamobor","OTOK, SV. HELENA",4,1,1,singleton,0,,
-1113,Owar,Starigrad,1,1,1,manual,0,46.1400000,16.8100000
-1114,Owar ad Caproncza,Starigrad,1,2,2,manual,0,46.1400000,16.8100000
-1115,Owar-waywodatus,Starigrad,1,1,1,manual,0,46.1400000,16.8100000
-1116,Ozal-castrum cum pertinentiis,OZALJ,4,7,10,modern,0,45.6144496,15.4784773
-1117,Ozterwna,OSTRNA,4,4,14,modern,0,45.7941141,16.2711123
-1118,Ozwgo,Osuđevo,1,2,5,manual,0,46.0138655,16.6313316
-1119,"Ozwgyo, Zenthgergh",,1,1,1,singleton,0,,
-1120,Ozwgyo-cum Zenthgeorgh,,1,1,1,singleton,0,,
-1121,Palata,,1,2,2,orthographic-exact,0,,
-1122,Palychna Zenth Peter,Severin,1,6,24,manual,0,45.833300,16.966700
-1123,Palotha,,1,1,2,singleton,0,,
-1124,Palychna,Palešnik,1,1,5,manual,0,45.6364872,16.9776100
-1125,"Palychna Zenthpeter, Gradysthe",,1,1,1,singleton,0,,
-1126,"Panynch, Chernech, Antholowcz, Thremech",,3,1,1,singleton,0,,
-1127,Paulowcz,PARUŽEVAC,1,8,14,modern,0,45.8350330,16.4979893
-1128,Parwsowcz ad Belam,,1,1,3,singleton,0,,
-1129,"Parwzowcz, Kwrenowcz, Blasowcz",,1,1,1,singleton,0,,
-1130,Pasahegh,,1,1,1,singleton,0,,
-1131,Paschyncz,,1,2,3,orthographic-fuzzy,1,,
-1132,Pasthincz,,1,1,1,singleton,0,,
-1133,Pathak,POTOK,1,2,11,modern,0,46.1152597,16.4821263
-1134,"Paulosancz, Bresowcz",,1,1,1,singleton,0,,
-1135,Pavkowcz,,1,1,1,singleton,0,,
-1136,"Pawlochancz, Brezowcz",,1,1,2,singleton,0,,
-1137,"Pawlowcz, Palche Polye",,1,1,1,singleton,0,,
-1138,Peherio i Bedenycha,"PSARJEVO, BEDENICA",4,1,1,singleton,0,45.9434583,16.2203369
-1139,Pekercz,,1,1,3,singleton,0,,
-1140,Peklencze-waywodatus inferior,,1,2,3,orthographic-fuzzy,1,,
-1141,Pekercz-waywodatus medius,,1,1,1,singleton,0,,
-1142,Pekercz-waywodatus superior,,1,2,2,orthographic-fuzzy,1,,
-1143,Pekerzerdahel,Sredjani,1,1,3,manual,0,,
-1144,Peklenycze,Paklenica,1,2,3,manual,0,45.3271695,17.0187837
-1145,Pekrecz,Pakrac,1,1,2,manual,0,45.4366097,17.1935694
-1146,Perchinowcz,,1,1,1,singleton,0,,
-1147,Perchinowcz cum Nagkemlek,,1,1,1,singleton,0,,
-1148,"Perchynowcz, Bywrynowcz-ad Nagh Kemlek",,1,1,1,singleton,0,,
-1149,Perhoch,,4,1,2,singleton,0,,
-1150,Persinowcz,,1,2,2,orthographic-exact,0,,
-1151,Persynowcz,KOBILIĆ,4,1,6,manual,0,45.7319711,16.1012819
-1152,Petrwsowcz,PETRUŠEVEC,2,9,14,modern,0,46.1213711,16.1387745
-1153,Peschenycza,PEŠĆENICA,4,5,11,modern,0,45.8123638,16.0078639
-1154,Pesthenye,Pistana,1,4,45,manual,0,,
-1155,Pezeryo,PSARJEVO,4,6,93,modern,0,45.9434583,16.2203369
-1156,Peteryancz,Peteranec,3,3,8,manual,0,46.1883011,16.8841455
-1157,Petrowyna,PETROVINA,4,6,54,orthographic-exact,0,45.6928387,16.0312510
-1158,Petrwsowcz,PETRUŠEVEC,4,4,5,modern,0,45.7717668,16.0592337
-1159,Petrosancz,PETRUŠEVEC,3,1,1,singleton,0,,
-1160,Petrowcz,,3,2,8,orthographic-exact,0,,
-1161,Petrowcz,,1,1,2,singleton,0,,
-1162,Petrowdolecz,,3,1,2,singleton,0,,
-1163,Petrowyna,Petrovina,1,2,18,manual,0,,
-1164,Petrowyna in Farkasowcz,,1,1,1,singleton,0,,
-1165,Pezedolcz ad Belam,,1,1,1,singleton,0,,
-1166,"Pezeryo, Bukoucz","PSARJEVO, BUKOVEC",4,1,2,singleton,0,45.9434583,16.2203369
-1167,Pinchowcz,,1,1,1,singleton,0,,
-1168,Planyna,PLANINA,4,3,20,modern,0,45.9272658,16.0879858
-1169,Pleszo,PLESO,4,2,9,modern,0,45.7402719,16.0722475
-1170,"Plezo, Gorycza","PLESO, GORICA",4,2,2,modern,0,45.7402719,16.0722475
-1171,Pobresye,PODBREŽJE,4,6,96,modern,0,45.7687175,15.9688941
-1172,"Pobresye, Thernye, Kerchy","PODBREŽJE, TRNJE, KRČEVINE",4,1,1,singleton,0,45.7687175,15.9688941
-1173,"Pobresye, Therye","PODBREŽJE, TRNJE",4,1,1,singleton,0,45.7687175,15.9688941
-1174,Podbresye,Čepelovac,1,5,9,manual,0,45.9949728,17.0425162
-1175,Podbwkowcz,,1,1,1,singleton,0,,
-1176,Podgaycz,,1,1,1,singleton,0,,
-1177,Podgorya,Podgorje,1,1,12,manual,0,45.961240,17.063643
-1178,Podgorya,Sveta Jana,4,1,8,manual,0,45.4808110,15.8435920
-1179,Podgorya-ad Zenthlelek,,1,1,3,singleton,0,,
-1180,Podgorya-plebanatus,,4,1,1,singleton,0,,
-1181,Podgorye-de Gorbonok,,1,1,1,singleton,0,,
-1182,Podgradie,Blinja,4,1,2,manual,0,45.4225100,16.4572695
-1183,Podkraych,,1,1,1,singleton,0,,
-1184,Podkrayta,,1,1,2,singleton,0,,
-1185,"Podotoche, Lwchylnycza","PODOTOČJE, LUČILNICA",4,3,6,modern,0,45.6953168,16.1460850
-1186,Podotochye,PODOTOČJE,4,6,12,modern,0,45.6953168,16.1460850
-1187,"Podothochye, Bwzyn","PODOTOČJE, BUZIN",4,1,1,singleton,0,45.6953168,16.1460850
-1188,"Podothochye, Odra, Bwzyn, Lwchylnycza","PODOTOČJE, ODRA, BUZIN, LUČELNICA",4,2,3,modern,0,45.6953168,16.1460850
-1189,"Podotochye, Odra, Bwzyn, Lochylnycza, Lekenyk","PODOTOČJE, ODRA, BUZIN, LUČELNICA, LEKENIK",4,2,6,modern,0,45.6953168,16.1460850
-1190,"Podotochie, Luchilnycza","PODOTOČJE, LUČELNICA",4,1,3,singleton,0,45.6953168,16.1460850
-1191,Podwerh,,4,1,1,singleton,0,,
-1192,Poganecz,POGANČEC,1,3,25,modern,0,45.9455926,16.3865448
-1193,"Poganchez, Zenth Dienes","POGANČEC, DIANEŠ",1,1,1,singleton,0,45.9455926,16.3865448
-1194,"Pohakowcz, Czyglenycze",", CIGLENICA",2,1,2,singleton,0,,
-1195,Poklechan,,2,2,2,orthographic-fuzzy,1,,
-1196,Pokwpye,POKUPSKO,4,9,75,modern,0,45.4852572,15.9919061
-1197,Pokwpzkywerh,,4,2,3,orthographic-fuzzy,1,,
-1198,Pokorenowecz,,1,3,4,orthographic-fuzzy,1,,
-1199,Pokwpsky Werh,,4,1,1,singleton,0,,
-1200,Polyana,POLJANA,1,7,33,modern,0,45.8474060,16.4411653
-1201,Polosythycza,Stara Plošćica,1,1,3,manual,0,45.7616253,16.8854923
-1202,Polyana,Poljana,2,1,6,manual,0,46.2700000,16.3180556
-1203,Polye,POLJE (KOD KRIŽA),1,1,1,singleton,0,45.9643556,16.7430610
-1204,Pomperowcz,POMNEROVAC,2,2,10,modern,0,,
-1205,Ponkowcz,,1,1,1,singleton,0,,
-1206,Popowcz,,1,1,9,singleton,0,,
-1207,Popowcz,,2,1,1,singleton,0,,
-1208,Popwd,Bršljanica,1,1,1,manual,0,45.5827915,16.8519325
-1209,Popwd Podgorya,,1,1,4,singleton,0,,
-1210,Posahecz,,1,1,3,singleton,0,,
-1211,Posaheg,Powasahegh,1,3,12,manual,0,46.149050,16.615185
-1212,Poszawye,,4,1,1,singleton,0,,
-1213,Pothkraycz,,1,1,2,singleton,0,,
-1214,Powsevcz,,3,1,2,singleton,0,,
-1215,Powsincz,,1,2,8,orthographic-exact,0,,
-1216,Powsyncz,,3,2,4,orthographic-exact,0,,
-1217,Pozawye,,4,2,3,orthographic-exact,0,,
-1218,Pozawya,,4,1,1,singleton,0,,
-1219,Pozrednye Zelo,,1,1,1,singleton,0,,
-1220,Praschowcz,PRAŠČEVAC,1,2,6,modern,0,45.9195895,16.6499108
-1221,Prasnycza,Zdenčac,1,4,19,manual,0,45.6252288,16.9521998
-1222,Prasnycza-fortalitium novum,,1,1,2,singleton,0,,
-1223,Prastowcz,Prašćevac,1,3,3,manual,0,45.9195895,16.6499108
-1224,Praznycha,,1,1,6,singleton,0,,
-1225,Prebinowcz,,1,1,2,singleton,0,,
-1226,Prechecz,PREČEC,1,2,4,orthographic-exact,0,45.7614497,16.3527958
-1227,Predriho,Gornje Predrijevo,1,2,4,manual,0,,
-1228,Pregory,,2,1,1,singleton,0,,
-1229,Prelezye,Prilesje,1,1,1,manual,0,45.8586483,16.4219004
-1230,Prennar,,2,1,1,singleton,0,,
-1231,Prepwstowcz,PREPUŠTOVEC,2,2,3,orthographic-exact,0,46.1042619,16.1842743
-1232,Prezeka,PRESEKA,1,9,72,modern,0,45.9768556,16.3871555
-1233,Prezechna,PRESEČNO,1,5,30,modern,0,46.1964754,16.3469746
-1234,Prethoka,,4,2,6,orthographic-fuzzy,1,,
-1235,"Prezeka, Welyka","PRESEKA, VELIKA",1,1,1,singleton,0,45.9768556,16.3871555
-1236,Prezovicha-oppidum sub Nagkemlek,,1,1,1,singleton,0,,
-1237,Prykraye,,4,3,15,orthographic-fuzzy,1,,
-1238,Prykray ad Zenth Gergwara,,1,2,2,orthographic-fuzzy,1,,
-1239,Pristawcz,,1,2,3,orthographic-exact,0,,
-1240,Priulaka,,1,1,1,singleton,0,,
-1241,Processus Georgii Pyzacz ultra Kwppam,,4,1,1,singleton,0,,
-1242,Procurancia domini episcopi (Capella-villicatus),,1,1,1,singleton,0,,
-1243,Prodawyz,Virje,1,2,15,manual,0,46.0671920,16.9886896
-1244,Progowcz,Progovec,1,1,5,manual,0,,
-1245,Provinica domini episcopi,,1,1,1,singleton,0,,
-1246,Prwgowcz,Prugovac,1,1,3,manual,0,45.9699075,17.1202283
-1247,Prybychy,,4,1,1,singleton,0,,
-1248,Prychrethye,,1,1,3,singleton,0,,
-1249,Prygorya,PRIGORJE,2,2,8,modern,0,46.1805003,15.7940169
-1250,Prykray,Djurdjevac,1,1,1,manual,0,,
-1251,Pryztawcz,"RAVEN,",1,2,4,manual,0,45.9888598,16.4849942
-1252,Pwhakowcz,,2,1,1,singleton,0,,
-1253,"Pwhakowcz, Czyglena",", CIGLENICA (ZAGORSKA)",2,3,7,modern,0,,
-1254,Pwnek,,1,1,1,singleton,0,,
-1255,Pwnekowcz,,1,1,5,singleton,0,,
-1256,"Pwnekowcz, Myklwsowcz",,1,1,4,singleton,0,,
-1257,Pwschya,,4,1,1,singleton,0,,
-1258,"Pwztha Dwssycza, Hergowych Uterque","DUŽICA,",4,1,1,singleton,0,45.9205259,16.1025239
-1259,Pwztha Dwsycza,,4,1,1,singleton,0,,
-1260,"Pwztha Dwsycza, Hergoychy-ad Hrazthowycza pertinentes",,4,1,1,singleton,0,,
-1261,Pychwlyncz,,1,2,4,orthographic-exact,0,,
-1262,Pylethyncz,,1,1,1,singleton,0,,
-1263,Pyskopowczy,Biškupec Zelinski,4,1,1,manual,0,45.9615472,16.2325242
-1264,Pzaryewo,,4,1,2,singleton,0,,
-1265,Rachycza Zenth Istwan,Račica,1,4,6,manual,0,46.104251,16.863839
-1266,Racha,Račica,1,2,15,manual,0,46.104251,16.863839
-1267,Rachythoych,,4,1,1,singleton,0,,
-1268,Radessych,,1,1,1,singleton,0,,
-1269,"Radessych, Dywrynowcz-ad Kemlek",,1,1,1,singleton,0,,
-1270,Radhycza Zenth Iwan,,1,1,1,singleton,0,,
-1271,Radmanczy,BUKOVŠĆAK,4,3,5,manual,0,45.9055538,15.8017033
-1272,Radnak,Rayncek,1,1,2,manual,0,,
-1273,Radoboya,,2,1,1,singleton,0,,
-1274,Radoysche,,1,2,4,orthographic-fuzzy,1,,
-1275,Radozlawcz,,1,1,2,singleton,0,,
-1276,Rahowcza,RAKOVEC,1,7,34,modern,0,46.1746769,16.4228180
-1277,Rahocza,Orahovica,1,1,2,manual,0,,
-1278,Rakarye,RAKARJE,4,4,26,modern,0,45.7260048,16.0869098
-1279,"Rakitowcz, Pertwssewcz","RAKITOVEC, PETRUŠEVEC,",4,3,3,modern,0,45.6579460,16.1409029
-1280,Rakwsowcz,,1,1,1,singleton,0,,
-1281,Rakythnicha,RAKITNICA,1,2,2,orthographic-exact,0,45.8332906,16.6861952
-1282,"Rakythowcz, Petrwssowcz","RAKITOVEC, PETRUŠEVEC",4,6,9,modern,0,45.6579460,16.1409029
-1283,Rakythowcz,RAKITOVEC,4,3,24,modern,0,45.6579460,16.1409029
-1284,"Rakythowcz, Nag Mlaka","RAKITOVEC, VELIKA MLAKA",4,2,4,orthographic-exact,0,45.6579460,16.1409029
-1285,Ramachawelgh,,1,2,2,orthographic-fuzzy,1,,
-1286,Ramagawelge,,1,1,1,singleton,0,,
-1287,Rampolcz,,1,1,1,singleton,0,,
-1288,"Ranyncz, Chernecz, Antholowcz, Thremecz",,3,1,1,singleton,0,,
-1289,Rassa,Rača,1,1,3,manual,0,45.7988038,16.9521934
-1290,Rathkolcz,,2,1,1,singleton,0,,
-1291,"Rathkowcz, Germchar","RATKOVEC, GRANČAR",2,4,8,modern,0,46.1181671,16.0847006
-1292,"Rathkowcz, Kolarowcz, Rawno",RATKOVEC,2,6,7,modern,0,46.1181671,16.0847006
-1293,"Rathkowcz, Myrkowcz","RATKOVEC, MIRKOVEC",2,1,2,singleton,0,46.1181671,16.0847006
-1294,Rathkowelge,,1,1,1,singleton,0,,
-1295,"Rauencz, Chernyncz, Anthalowcz, Tremecz",,3,1,1,singleton,0,,
-1296,Rawen,RAVEN,1,2,33,orthographic-exact,0,45.9888598,16.4849942
-1297,"Rawen, Kozthanyowez","RAVEN,",1,1,1,singleton,0,45.9888598,16.4849942
-1298,Ray,,1,1,9,singleton,0,,
-1299,"Ray, Chepyn",,1,1,1,singleton,0,,
-1300,Raykowcz,,1,1,6,singleton,0,,
-1301,Raynok,,1,1,4,singleton,0,,
-1302,Razmerowcz,,1,1,1,singleton,0,,
-1303,Raznethyne,,1,1,1,singleton,0,,
-1304,Razossya,,1,1,2,singleton,0,,
-1305,Razthoka,RASTOKI,4,2,2,modern,0,45.6894353,15.5702461
-1306,Razyna,RASINJA,1,6,29,modern,0,46.1879999,16.7085329
-1307,"Razynya, Kwzmyncz, Koledyncz","RASINJA, KUZMINEC, KOLEDINEC",1,4,7,modern,0,46.1879999,16.7085329
-1308,"Razynya, Gorycza","RASINJA, GORICA",1,1,2,singleton,0,46.1879999,16.7085329
-1309,"Razynya, Kwzmyncz cum pertinentiis","RASINJA, KUZMINEC",1,1,1,singleton,0,46.1879999,16.7085329
-1310,"Razynya, Kwzmyncz, Koledyncz, Jelkowcz","RASINJA, KUZMINEC, KOLEDINEC, ĐELEKOVEC",1,1,1,singleton,0,46.1879999,16.7085329
-1311,Rechycza,REČICA,4,5,14,modern,0,45.5082501,15.6617627
-1312,Reche,,1,1,3,singleton,0,,
-1313,Reche-Suppanatus,,1,2,2,orthographic-fuzzy,1,,
-1314,Reche-Vayuodatus,,1,2,2,orthographic-fuzzy,1,,
-1315,"Rechycza, Lwka","REČICA, LUKA",4,1,1,singleton,0,45.5082501,15.6617627
-1316,Regaryowecz,,1,1,1,singleton,0,,
-1317,Regowcz,,1,2,4,orthographic-fuzzy,1,,
-1318,Ryeka,Reka,4,2,15,manual,0,46.1315112,16.7711853
-1319,Reka cum pertinetiis Kys Kemlek,,1,2,2,orthographic-fuzzy,1,,
-1320,"Reka, Malchez",,1,1,1,singleton,0,,
-1321,Remethe,,1,1,3,singleton,0,,
-1322,Remethyncz,REMETINEC,1,6,22,modern,0,45.9270441,16.5534121
-1323,"Remethincz, Magerowcz",,1,1,1,singleton,0,,
-1324,Remethyncz-sub Medwewar,REMETE,4,2,2,modern,0,45.8427380,15.9956597
-1325,Repyncz,REPINEC,1,4,13,modern,0,45.9496503,16.5053178
-1326,"Repyncz-fortalitium, Megye","REPINEC, MEĐA",1,1,1,singleton,0,45.9496503,16.5053178
-1327,"Rethkowcz, Erdowcz",", ERDOVEC",1,1,3,singleton,0,,
-1328,Rewche,,1,1,3,singleton,0,,
-1329,Rogaryewcz,,1,2,3,orthographic-fuzzy,1,,
-1330,Rogozna,,1,1,10,singleton,0,,
-1331,Rokonok,Rakovec,1,20,49,manual,0,45.9333,16.3167
-1332,Rokonok,RAKOVAC,4,1,3,singleton,0,45.7055813,15.6694216
-1333,"Romethincz, Garych, Solyn",,1,1,1,singleton,0,,
-1334,Rosenycza,ROŽENICA,4,3,12,modern,0,45.5438055,16.0095091
-1335,Rosenyk,ROŽENICA,1,3,13,modern,0,,
-1336,Rosewcz,,1,1,1,singleton,0,,
-1337,Rosoncz,Ruškovac,1,1,3,manual,0,45.7205173,16.8777698
-1338,Rowno,,2,1,3,singleton,0,,
-1339,Roycha,,1,1,1,singleton,0,,
-1340,Royche,Rovišće,1,1,3,manual,0,45.9492731,16.7277986
-1341,Rwchlewcz,,1,1,2,singleton,0,,
-1342,Rwdynwelge,,2,1,1,singleton,0,,
-1343,Ryeka,RIJEKA,1,1,1,singleton,0,,
-1344,Rypach,,4,1,1,singleton,0,,
-1345,Sabacz,,2,1,6,singleton,0,,
-1346,Sabnycza,SVETI IVAN ŽABNO,1,6,40,modern,0,45.9464805,16.6055861
-1347,"Sabnycza, Mindchenth",,1,1,1,singleton,0,,
-1348,"Sabnycza,Bablyak, Czyrquena",,1,1,1,singleton,0,,
-1349,Sabnycza-in Markowcz,,1,1,2,singleton,0,,
-1350,Sabnyk Zenthberthalam,,2,1,1,singleton,0,,
-1351,Salethyncz,,1,1,3,singleton,0,,
-1352,Salgo,,1,1,1,singleton,0,,
-1353,Salmocz,,2,1,1,singleton,0,,
-1354,Zamobor,SAMOBOR,4,4,64,modern,0,45.8032792,15.7179232
-1355,Samsynowcz,ŠAŠINOVEC,4,5,17,modern,0,45.8505596,16.1655408
-1356,Sancta Anna (Wragoucz),,1,1,1,singleton,0,,
-1357,Zenth Clara,SV. KLARA,1,2,2,modern,0,,
-1358,Sancta Clara-area prope Zawam,SV. KLARA,4,1,1,singleton,0,45.7557893,15.9721542
-1359,Sancta Elena,,4,1,2,singleton,0,,
-1360,Sancta Katharina,,1,1,1,singleton,0,,
-1361,Sancta Maria sub Okych,,4,1,1,singleton,0,,
-1362,Sancta Maria-plebanatus,,4,1,1,singleton,0,,
-1363,Sancte Anna,,1,1,1,singleton,0,,
-1364,Sancte Crucis,KRIŽ,1,1,1,singleton,0,45.6632061,16.5204571
-1365,Sancte Crucis Insula,,2,1,1,singleton,0,,
-1366,Sancti Cosme,,1,1,1,singleton,0,,
-1367,Sancti Cosme-ad Achynam,,1,1,1,singleton,0,,
-1368,Sancti Georgius-in Hemowcz,,1,1,1,singleton,0,,
-1369,Sancti Martini-ad Zalathnok,,1,1,1,singleton,0,,
-1370,Sancti Martinus,,4,1,1,singleton,0,,
-1371,Sanctus Benedictus,,1,1,1,singleton,0,,
-1372,Sanctus Cosma,,1,1,1,singleton,0,,
-1373,Sanctus Crux,,1,1,4,singleton,0,,
-1374,Sanctus Dominicus,,1,1,1,singleton,0,,
-1375,Sanctus Johannes in Prodawiz,,1,1,1,singleton,0,,
-1376,Sanctus Nicolaus,,1,1,3,singleton,0,,
-1377,Sanctus Stephanus,,1,1,3,singleton,0,,
-1378,Saranowcz,,1,1,1,singleton,0,,
-1379,Sasyn,ŽAŽINA,4,11,30,modern,0,45.5136849,16.2501045
-1380,Satran,,1,1,1,singleton,0,,
-1381,"Scherbyncz, Geremchar, Ratkowcz","ŠĆERBINEC, GRANČARI, RATKOVEC",2,2,2,orthographic-exact,0,,
-1382,"Scherbyncz, Germchar","ŠĆERBINEC, GRANČARI",2,3,3,modern,0,,
-1383,"Scherbyncz, Ratkowcz, Bathyna","ŠĆERBINEC, RATKOVEC",2,1,1,singleton,0,,
-1384,Schytaryo,ŠČITARJEVO,4,7,73,modern,0,45.7688858,16.1170565
-1385,Schwkancz,,1,1,7,singleton,0,,
-1386,"Schytaryio, Chernkowcz","ŠČITARJEVO, ČRNKOVEC",4,3,5,modern,0,45.7688858,16.1170565
-1387,"Sczezhwpnycze, Zlanowch sub Medwewar",,4,1,1,singleton,0,,
-1388,Sebastyanowcz,,2,1,1,singleton,0,,
-1389,Selyn-cum pertinentiis,ŽELIN,4,17,25,modern,0,45.7150002,16.0860883
-1390,Selynok,,1,1,1,singleton,0,,
-1391,Zwhodol,SEMOVEC,2,7,40,modern,0,46.3008848,16.4777174
-1392,Zenkowcz,SENKOVČICA,4,3,9,modern,0,,
-1393,Serdethyncz,,2,1,1,singleton,0,,
-1394,Seryawyncz,ŽERJAVINEC,4,3,11,modern,0,45.8688625,16.1650186
-1395,Sydyna,,1,4,7,orthographic-exact,0,,
-1396,Simonoucz,ŠIMUNOVEC,3,1,1,singleton,0,,
-1397,Simwnowcz,Šimunčevec Šimunovec,4,8,57,manual,0,,
-1398,Simonwelge,,3,2,15,orthographic-exact,0,,
-1399,Sythomyer,ŽITOMIR,4,6,24,modern,0,46.0171515,16.1966643
-1400,Slywercz,,1,1,1,singleton,0,,
-1401,Sokowcz,,1,1,2,singleton,0,,
-1402,Soploncza,,1,1,13,singleton,0,,
-1403,Soproncha,,1,3,8,orthographic-exact,0,,
-1404,Sosomberk,Sušobreg,4,4,16,manual,0,46.0386289,16.1659329
-1405,Sosen,,1,1,1,singleton,0,,
-1406,Spanicz,,1,1,1,singleton,0,,
-1407,Srachyncz,,2,1,1,singleton,0,,
-1408,Steffancz,ŠTEFANEC,2,5,7,modern,0,46.3031360,16.4579003
-1409,Stenyowcz,,4,1,1,singleton,0,,
-1410,Stephancz,ŠTEFANEC,1,1,1,manual,0,,
-1411,Stholnikowcz,,1,1,1,singleton,0,,
-1412,Zomzedwara-castrum / Ztopnyk,STUPNIK,4,5,10,modern,0,45.7465555,15.8434018
-1413,Supa,,1,1,1,singleton,0,,
-1414,Supancz,,1,1,1,singleton,0,,
-1415,Superior Opathyncz,OPATINEC,1,1,1,singleton,0,45.7172645,16.3718025
-1416,Swkowcz,,1,1,1,singleton,0,,
-1417,Swmechecz,Osek,1,1,3,manual,0,,
-1418,Swpancz ad Zenth Gergwara,,1,1,1,singleton,0,,
-1419,Swssomberk,ŠUŠOMBERK,4,1,1,singleton,0,,
-1420,Swystowcz,Klokočevac,1,1,1,manual,0,45.9178685,16.7839294
-1421,Sybrynowcz,Žibrinovec,1,3,5,manual,0,46.0993116,16.5137292
-1422,"Sybrynocz, Jalsovcz",,1,1,1,singleton,0,,
-1423,Sylakowyna,ŠILJAKOVINA,4,1,2,singleton,0,45.6337476,16.0228458
-1424,"Syllyakowyna, Odra","ŠILJAKOVINA, ODRA",4,2,4,orthographic-exact,0,45.6337476,16.0228458
-1425,"Symonowcz, Zelyna","ŠIMUNOVEC, ZELINA",4,1,1,singleton,0,,
-1426,Symwchowcz,,1,1,1,singleton,0,,
-1427,Synchewcz,,1,1,1,singleton,0,,
-1428,Sypak,ŠIPAK,4,1,12,singleton,0,45.6192462,15.5669341
-1429,Syprak,,1,1,1,singleton,0,,
-1430,Syslawychy,ŠIŠLJAVIĆ,4,6,38,modern,0,45.5193724,15.7593968
-1431,Syssyncz,ŠIŠINEC,4,5,16,modern,0,45.4502378,16.0791404
-1432,Sywecz,,1,1,4,singleton,0,,
-1433,Zyzek,SISAK,4,12,31,modern,0,45.4891750,16.3746041
-1434,Thabor,TABOR,2,3,5,modern,0,46.2079223,15.7701762
-1435,Thernowcz,TRNOVEC,2,5,10,modern,0,46.2942784,16.3992728
-1436,"Temerye, Czezarowcz",,1,1,2,singleton,0,,
-1437,"Temerye, Mylethyncz",,1,1,1,singleton,0,,
-1438,Terbennye,Turbina,1,1,1,manual,0,,
-1439,"Terbyne, Lokawecz",,1,1,1,singleton,0,,
-1440,"Thernowcz, Kochan","TRNOVEC, KUČAN",2,5,6,modern,0,46.2942784,16.3992728
-1441,Thernowcz,Markuševačka Trnava,4,3,4,manual,0,45.8808394,16.0330110
-1442,Tesnahege,,1,1,1,singleton,0,,
-1443,Thalanoucz,,3,1,2,singleton,0,,
-1444,Thallocz,,3,1,5,singleton,0,,
-1445,"Thallocz, Lyppa, Martinowcz",,3,1,2,singleton,0,,
-1446,Thaloucz,,3,1,2,singleton,0,,
-1447,"Tharnowcz, Berethyncz","TRNOVEC, BERETINEC",2,5,29,modern,0,46.2942784,16.3992728
-1448,Tharnowcz,TRNOVEC,1,1,1,singleton,0,46.2981151,16.4428652
-1449,Thassolcz,BEDENICA,4,1,1,manual,0,46.0326343,16.2432436
-1450,Thechenyk,TUČENIK,1,1,1,singleton,0,45.9412351,16.5289692
-1451,Themennycze,,1,1,1,singleton,0,,
-1452,Themerye,Temerie,1,1,9,manual,0,,
-1453,"Themerye, Zdenchan",,1,1,1,singleton,0,,
-1454,"Themerye, Zenth Iwan",,1,1,1,singleton,0,,
-1455,Themeryen,,1,1,2,singleton,0,,
-1456,"Themeryen,Cherarocz",,1,1,1,singleton,0,,
-1457,"Therbenye, Lwkaucz",,1,2,2,orthographic-fuzzy,1,,
-1458,Therchech,Tomašica,1,1,1,manual,0,45.6432165,17.0173219
-1459,Therchyan,,1,1,1,singleton,0,,
-1460,Thermchan ad Gemlech,,1,1,1,singleton,0,,
-1461,Thernawa,,1,1,1,singleton,0,,
-1462,"Thernawa, Nowaki",,4,1,1,singleton,0,,
-1463,"Thernowcz, Korylowcz",", KURILOVEC",4,2,6,modern,0,,
-1464,"Thernowcz, Rakythowcz",", RAKITOVEC",4,1,2,singleton,0,,
-1465,"Thernowcz, Rakythowcz, Mraczlyn",", RAKITOVEC, MRACLIN",4,1,1,singleton,0,,
-1466,"Thernowcz, Zobachlaz",,4,1,2,singleton,0,,
-1467,Therschan,,1,1,1,singleton,0,,
-1468,Thersich,,4,2,4,orthographic-exact,0,,
-1469,Thersthyan,,1,1,1,singleton,0,,
-1470,Thersych ad Okych,,4,1,1,singleton,0,,
-1471,Thersych-oppidum ad Okych,,4,1,1,singleton,0,,
-1472,Therzthenycze,Teratenik,1,2,3,manual,0,,
-1473,Thomasdowcz,Tomašica,1,2,4,manual,0,45.6432165,17.0173219
-1474,Thomasewcz,,2,1,1,singleton,0,,
-1475,"Thomassewcz, Cherncz, Byskupowcz",,2,1,1,singleton,0,,
-1476,Thoplicensis,Varaždinske Toplice,2,1,1,manual,0,46.2166667,16.4166667
-1477,Thoplychycza,TOPLICA,4,6,20,modern,0,45.2943011,15.9707037
-1478,Thoplycza,TOPLICA,2,4,19,modern,0,,
-1479,Thopolchazenthgergh,,1,1,2,singleton,0,,
-1480,Thopolyancz,,1,1,2,singleton,0,,
-1481,Thopozka,Topusko,4,1,1,manual,0,45.2943011,15.9707037
-1482,Thorchecz,Tomašica,1,1,1,manual,0,45.6432165,17.0173219
-1483,Thornava,,1,1,1,singleton,0,,
-1484,Thossewczy,BEDENICA,4,1,1,manual,0,46.0326343,16.2432436
-1485,Thossowcz,,4,1,1,singleton,0,,
-1486,Thothwsewyna,,1,2,2,orthographic-exact,0,,
-1487,Thrakostyan,TRAKOŠĆAN,2,8,16,modern,0,46.2589761,15.9482046
-1488,Threm,,4,4,20,orthographic-fuzzy,1,,
-1489,Tremecz,Strmec Ravenski,1,2,15,manual,0,,
-1490,Tremysche,Cremušina,1,2,2,manual,0,45.7945543,17.1937699
-1491,Threwm,,4,1,1,singleton,0,,
-1492,Thryen,,4,1,2,singleton,0,,
-1493,Twlowa,Pavlin,1,2,3,manual,0,46.0073012,16.8288694
-1494,Thwran,Turanj,4,2,12,manual,0,45.4612412,15.5695859
-1495,Thwran-castrum cum pertinentiis,,4,1,1,singleton,0,,
-1496,Thwrcoucz,,1,1,1,singleton,0,,
-1497,Thwrkowcz,,1,1,1,singleton,0,,
-1498,Thwrkowschyna,TURKOVČINA,4,4,24,modern,0,46.0440084,16.2455029
-1499,Thwropolia,Turopolje,4,1,1,manual,0,45.6491798,16.1402032
-1500,Thybonyncz,,1,1,3,singleton,0,,
-1501,Trachyncz,,1,1,1,singleton,0,,
-1502,Trachyncz-ad Achyna,,1,1,1,singleton,0,,
-1503,Tracostyan,Trakošćan,2,1,1,manual,0,46.2589761,15.9482046
-1504,Trambeth,,1,1,1,singleton,0,,
-1505,Tremlan,,1,1,1,singleton,0,,
-1506,Trombetharyewcz,,1,2,2,orthographic-fuzzy,1,,
-1507,Turkousschyna aliter Zuhodol,,4,1,1,singleton,0,,
-1508,Twtwsewyna inferior,,1,1,1,singleton,0,,
-1509,Twtwsewyna superior,,1,1,1,singleton,0,,
-1510,Tzemerye (Themerye?),,1,1,1,singleton,0,,
-1511,Wgra,VUGROVEC,4,17,24,modern,0,45.8784794,16.1087014
-1512,Vechezlawcz,Većeslavec,1,4,5,manual,0,46.041918,16.694171
-1513,Welyka,VELIKA,1,9,27,modern,0,45.9545093,16.7024843
-1514,Velykagora,,4,1,1,singleton,0,,
-1515,Werbowa,VRBOVO,4,4,16,modern,0,45.6737244,16.2359189
-1516,Wehowlan,Marinkovec,1,4,6,manual,0,,
-1517,Versynowcz in Berzewcze,,1,1,1,singleton,0,,
-1518,Vicus Latinorum,Laška ulica (Zagreb),4,1,4,manual,0,45.8364382,16.0426652
-1519,Wydyncz,,1,2,3,orthographic-exact,0,,
-1520,Wydowcz,VIDOVEC,2,5,86,modern,0,46.2863481,16.2504203
-1521,Wynarcz,VINAREC,1,3,7,orthographic-exact,0,46.1005165,16.4466304
-1522,Wynnychno,VINIČNO,1,8,21,orthographic-fuzzy,1,46.0780080,16.3007264
-1523,Wynnycza,VINICA,2,8,35,modern,0,46.3422862,16.1703246
-1524,Wynno,VINO,2,3,10,orthographic-exact,0,46.0892201,15.8539643
-1525,Vokachincz,,1,1,1,singleton,0,,
-1526,Wokowyna,VUKOVINA,4,20,31,orthographic-fuzzy,1,45.6823954,16.1112977
-1527,Vokssyncz,,4,1,1,singleton,0,,
-1528,Wolyncz,,2,2,10,orthographic-exact,0,,
-1529,"Wolyncz, Chalyncz",", ČALINEC",2,3,5,modern,0,,
-1530,Wrasylaz,Laz Bistrički,4,11,13,manual,0,45.9710422,16.0987558
-1531,Vrbanowcz,Vrbanovec,2,1,1,manual,0,46.2635150,16.5208508
-1532,Wrbowcz,VRBOVEC,1,11,80,modern,0,45.8856479,16.4181159
-1533,Vrbowcz,Vrbovec,2,1,1,manual,0,,
-1534,Wrnowcz,VURNOVEC,4,5,18,modern,0,45.8886646,16.1366229
-1535,Wychazela,VIČA SELA,2,3,6,modern,0,46.0509367,15.8627553
-1536,Wyhel,NOVO MJESTO,1,6,28,modern,0,45.9534304,16.2891326
-1537,Wyzoka,VISOKA,1,3,21,modern,0,,
-1538,Wahtaryowcz ad Belam,,1,1,1,singleton,0,,
-1539,Wakegh,,1,1,1,singleton,0,,
-1540,Wamhyda,,1,1,5,singleton,0,,
-1541,Warallya,Moslavina,1,2,5,manual,0,45.5739858,16.6428554
-1542,Waska,Vaška,1,1,3,manual,0,45.8154349,17.6662543
-1543,Waska Inferior,,1,1,1,singleton,0,,
-1544,"Waska Inferior, Dytrowcz",,1,1,1,singleton,0,,
-1545,Waska Zygeth,,1,1,3,singleton,0,,
-1546,Waska-ad Zagyowcz,,1,1,1,singleton,0,,
-1547,Wasmegywrechye,Medjurača,1,1,3,manual,0,,
-1548,Wasmegywrechye predium,,1,1,1,singleton,0,,
-1549,Waswarowcz,,1,4,4,orthographic-fuzzy,1,,
-1550,Wehthocz,,1,1,1,singleton,0,,
-1551,Welessewcz,Veleševec,4,5,10,manual,1,45.6531899,16.2623047
-1552,Welkowcz,Jalkovec,2,2,19,manual,0,46.2780556,16.3188889
-1553,"Welyke, Dwlepzka","VELIKA, DULEPSKA",1,1,1,singleton,0,45.9545093,16.7024843
-1554,Werbowcz,VRBOVO,1,1,2,singleton,0,46.0773588,16.2326727
-1555,Werewcze,,3,3,17,orthographic-fuzzy,1,,
-1556,Wereucze-oppidi,,3,2,3,orthographic-fuzzy,1,,
-1557,"Wereucze-oppidum- Bwssocz, Dobownyk",,3,1,1,singleton,0,,
-1558,Werewcze-provincia opidi,,3,1,2,singleton,0,,
-1559,Werh,Celine,1,1,1,manual,0,45.8916188,16.4048813
-1560,"Werh, Zerdahel",,1,1,1,singleton,0,,
-1561,Werhancz,,1,1,1,singleton,0,,
-1562,Werhoucz,Vrhovec Rakovečki i NE,1,2,2,manual,0,,
-1563,Werhowch,Vrhovac,4,2,2,manual,0,45.6353927,15.4863056
-1564,Wertlyn,Vrtlinska,1,2,2,manual,0,45.6866082,16.6162455
-1565,Werthlyn ad Monozlo,,1,1,1,singleton,0,,
-1566,Werussewych,,1,1,4,singleton,0,,
-1567,Werzynowcz,,1,1,1,singleton,0,,
-1568,Wethech,,1,1,1,singleton,0,,
-1569,Wezelkowcz,,1,2,2,orthographic-fuzzy,1,,
-1570,"Wogrynowcz, Markowcz",,1,2,2,orthographic-fuzzy,1,,
-1571,"Wkowyna cum pertinetiis, Kopchyna, Wraccza","VUKOVINA, KUPČINA, VRATEČKO",4,1,1,singleton,0,45.6823954,16.1112977
-1572,Wlachin,,3,2,12,orthographic-exact,0,,
-1573,"Wlachin, Rawennyk",,3,3,4,orthographic-exact,0,,
-1574,"Wlachyn, utraque Rawennyk",,3,2,3,orthographic-exact,0,,
-1575,"Wugrynincz, Wlachyn, uterque Ravenyk",,3,2,2,orthographic-fuzzy,1,,
-1576,Wogrynocz,,1,3,3,orthographic-fuzzy,1,,
-1577,"Wogrynecz, Wlachin",,3,2,2,orthographic-fuzzy,1,,
-1578,"Wogrynincz, utraque Rawennyk",,3,1,1,singleton,0,,
-1579,Wokomercz,VUKOMEREC,4,2,4,modern,0,45.8073746,16.0416862
-1580,Wolowlya,VOLAVJE,3,3,10,modern,0,,
-1581,"Wolyncz, Babyncz",", BABINEC",2,1,2,singleton,0,,
-1582,Wolywercz,,1,1,1,singleton,0,,
-1583,"Wolywercz, Kothenyak",,1,1,1,singleton,0,,
-1584,Wychkowcz,Vitkovec,1,3,6,manual,0,45.935122,16.658081
-1585,Woynche,,2,1,1,singleton,0,,
-1586,Woynowcz,VOJNOVEC,1,1,6,singleton,0,46.1205647,16.4244075
-1587,Woznekowcz,,1,1,2,singleton,0,,
-1588,Wracza,VRATEČKO,4,5,11,modern,0,45.4613653,16.1118753
-1589,Wradchya,,4,1,1,singleton,0,,
-1590,Wragowcz,,1,2,7,orthographic-exact,0,,
-1591,Wrapchia,VRAPČE,4,1,1,singleton,0,45.8129884,15.9062064
-1592,Wrathkowcz,,2,1,1,singleton,0,,
-1593,Wratisincz,Hercegovac,1,3,3,manual,0,45.6553617,17.0090772
-1594,Wratza,,4,1,1,singleton,0,,
+21,Also Soploncza,Gornja Stupčanica,1,1,4,manual,0,45.6253030,17.3375580
+22,Also Soproncha,,1,3,4,orthographic-fuzzy,1,,
+23,Also Thothwssewyna,,1,1,1,singleton,0,,
+24,Also Totusewyna,Topolovac,1,1,1,manual,0,45.4605556,16.4358333
+25,Wolawlya,VOLAVJE,4,23,85,modern,0,45.6550577,15.6058087
+26,Also Zemche,,1,2,6,orthographic-fuzzy,1,,
+27,Also Ztobycza,DONJA STUBICA,4,17,56,modern,0,45.9801727,15.9722428
+28,"Also Ztobycza cum pertinentiis, Jakowlya","DONJA STUBICA, JAKOVLJE",4,1,3,singleton,0,45.9801727,15.9722428
+29,Andraswelgh,,1,1,1,singleton,0,,
+30,"Antholocz,Ramyncz,Chernecz, Thremecz",,3,1,2,singleton,0,,
+31,Apathowcz,,1,1,2,singleton,0,,
+32,Apporowcz,OPOROVEC,1,2,2,modern,0,,
+33,Area Capitulari-vicus,,4,1,1,singleton,0,,
+34,Athak,OTOK,1,4,17,modern,0,45.7934210,16.5881516
+35,Othok,OTOK,4,6,15,modern,0,,
+36,"Athak, Themerye","OTOK,",1,1,1,singleton,0,45.7934210,16.5881516
+37,"Athak,Tamerye, Kamarchya","OTOK, DEMERJE,",1,2,2,modern,0,45.7934210,16.5881516
+38,"Atthak, Zenth Ilona apud Zamobor","OTOK, SVETA HELENA KOD SAMOBORA",4,3,3,modern,0,,
+39,Bapcha,Babča,4,4,11,manual,0,,
+40,Babyncz,BABINEC,2,1,7,singleton,0,46.3718386,16.1094420
+41,Babynschyna,Babinac Ivanski,1,2,2,manual,0,45.7495926,16.8120677
+42,"Babynschyna, Koren",,1,2,2,orthographic-fuzzy,1,,
+43,Bachyn,Ploščica,1,1,3,manual,0,45.7616253,16.8854923
+44,Baganoz,,1,1,2,singleton,0,,
+45,Bagenowcz,,1,1,2,singleton,0,,
+46,Bahonyn,Marinkovec,1,2,4,manual,0,,
+47,Bakheg,,1,1,1,singleton,0,,
+48,Bakolcza,Donja Bukovica,1,1,2,manual,0,,
+49,"Bakolcza, Zygeth",,1,1,1,singleton,0,,
+50,Bakowcza,Mali Bukovec,1,2,12,manual,0,46.285702,16.738299
+51,Bakwa,Špišić Bukovica,3,1,1,manual,0,45.8489000,17.4247000
+52,Bancz,,1,2,5,orthographic-fuzzy,1,,
+53,Banowch,,1,2,2,orthographic-exact,0,,
+54,"Banowcz, Gorycza",,1,1,1,singleton,0,,
+55,Banthusovcz,Bolč,1,2,2,manual,0,45.8908489,16.6763101
+56,Bara ad Belam,,1,1,1,singleton,0,,
+57,Barachka,,4,2,12,orthographic-exact,0,,
+58,Baranowcz,,1,1,2,singleton,0,,
+59,Barowcz,,1,1,1,singleton,0,,
+60,Barswelge,,1,1,1,singleton,0,,
+61,Barychewo,,4,1,1,singleton,0,,
+62,Batyna,Voćin,2,2,3,manual,0,,
+63,Bedenycza,BEDENICA,4,4,89,orthographic-exact,0,46.0326343,16.2432436
+64,"Bedenycza, Felsew Ztobicza","BEDENICA, GORNJA STUBICA",4,1,1,singleton,0,46.0326343,16.2432436
+65,Bednye,,1,2,16,orthographic-fuzzy,1,,
+66,Bedowcz,Klokočevac,1,3,10,manual,0,45.9178685,16.7839294
+67,Bedna,Petar Ludbreški,1,2,8,manual,0,46.2480556,16.6900000
+68,Bednye cum pertinentiis,,1,1,4,singleton,0,,
+69,Bednye seu Bwkowcz,,1,2,5,orthographic-exact,0,,
+70,Bedwdnycze,,4,1,4,singleton,0,,
+71,Bekethyncz,BEKETINEC,1,4,14,modern,0,46.0139151,16.4367650
+72,Bela,Bijela,1,2,8,manual,0,45.5627565,17.2903219
+73,Bela,BELA,2,4,12,modern,0,46.2074177,16.2552179
+74,Bwssyn,"BELA, IVANEC,",2,6,14,orthographic-fuzzy,1,46.2074177,16.2552179
+75,Lepaglawa,LEPOGLAVA,2,4,13,modern,0,46.2073666,16.0514452
+76,"Bela, Threm","BELA,",2,1,4,singleton,0,46.2074177,16.2552179
+77,Belowarcz,Bjelovar,1,4,17,manual,0,45.9064548,16.8261187
+78,Belcheucz,Grabrić,1,2,2,manual,0,45.9008124,16.5057456
+79,Belchowcz,,1,1,1,singleton,0,,
+80,Belcz,Bolč,1,1,1,manual,0,45.8908489,16.6763101
+81,Belecz,BELEC,2,4,23,modern,0,46.1317740,16.1205009
+82,Belosowcz,Čepelovac,1,4,13,manual,0,45.9949728,17.0425162
+83,Belethyncz,BELETINEC,2,3,12,modern,0,46.2220831,16.3110767
+84,Belozlawcz,BELOSLAVEC,4,4,21,modern,0,46.0350995,16.2204103
+85,Belkolcz,,2,1,1,singleton,0,,
+86,Belkowcz,Grabrić,1,1,1,manual,0,45.9008124,16.5057456
+87,Belyowcz,,1,3,5,orthographic-fuzzy,1,,
+88,Belwdowyna,,1,2,7,orthographic-exact,0,,
+89,Belwdoch-villicatus ad Zenth Georghwara,,1,1,1,singleton,0,,
+90,Belwdowcz ad Zenth Gergwara,,1,1,1,singleton,0,,
+91,Belywdowcz,Djurdjevac,1,1,1,manual,0,,
+92,Benchethyncz,,1,1,1,singleton,0,,
+93,Benedicoucz,,1,2,6,orthographic-exact,0,,
+94,Benedikowcz,Bršljanica,1,3,8,manual,0,45.5827915,16.8519325
+95,Benkowcz,", LADISLAVEC",2,2,11,orthographic-exact,1,,
+96,Berdekowcz ad Belam,,1,1,1,singleton,0,,
+97,Zomzedwara-castrum / Berdowcz,BRDOVEC,4,4,9,modern,0,45.8692724,15.7622811
+98,Beregi,,1,1,1,singleton,0,,
+99,Berethyncz,BERETINEC,2,1,9,singleton,0,46.2501436,16.3036423
+100,Beryzlawcz,BERISLAVEC,4,6,39,modern,0,45.9712828,16.2662788
+101,Berkyssewyna,Brkiševina,4,8,36,manual,0,45.4457065,16.0896594
+102,"Berkwssewyna, Pokwpya ad Thopozka-cum pertinentiis","BRKAŠEVINA, POKUPJE",4,1,1,singleton,0,,
+103,Bersancz ad Kaproncza,,1,2,2,orthographic-fuzzy,1,,
+104,Berschanowcz,Bršljanica,1,1,1,manual,0,45.5827915,16.8519325
+105,Bersthanowcz cum pertinentiis,,1,1,1,singleton,0,,
+106,Bersthianoucz,Bršljanica,1,1,2,manual,0,45.5827915,16.8519325
+107,Berywoy (Zenth Iwan?),,1,1,1,singleton,0,,
+108,Berywoy-oppidum (Zenth Iwan?),,1,1,1,singleton,0,,
+109,Berywoy-provincia (Zenth Iwan?),,1,1,2,singleton,0,,
+110,"Beryzlaucz, Kalynye",,4,1,1,singleton,0,,
+111,Berzewcz-provincia inferior,,1,2,2,orthographic-fuzzy,1,,
+112,Berzewcze,,1,1,2,singleton,0,,
+113,Berzyncz,,1,1,2,singleton,0,,
+114,Besenowcz,,1,1,2,singleton,0,,
+115,Bethowcz,,3,1,1,singleton,0,,
+116,Bezchyanowcz,,1,1,3,singleton,0,,
+117,Bigzaagh,,4,1,1,singleton,0,,
+118,Bykzad,BISAG,4,2,20,orthographic-exact,0,,
+119,Varasd,VARAŽDIN,2,8,29,modern,0,46.3079645,16.3378198
+120,Byskwpcz,BIŠKUPEC,4,7,29,orthographic-fuzzy,1,45.9615472,16.2325242
+121,Byztra,BISTRA,4,6,16,modern,0,45.8975346,15.8794733
+122,Blacha,,1,1,3,singleton,0,,
+123,Blagay,,1,1,2,singleton,0,,
+124,"Blagay, Glogowy",,1,1,1,singleton,0,,
+125,Blagwsa,BLAGUŠA,4,4,12,modern,0,45.8962214,16.1371338
+126,"Blagwssa, Symonchewcz","BLAGUŠA, ŠIMUNČEVEC",4,3,5,modern,0,45.8962214,16.1371338
+127,Blasew Werh,,1,1,1,singleton,0,,
+128,Blasewerh-ad Achyna,,1,2,2,orthographic-fuzzy,1,,
+129,"Blaskoucz, Glavnycza",,4,2,2,orthographic-exact,0,,
+130,Blathnycza,BLATNICA,4,5,16,orthographic-exact,0,45.5134071,15.7252417
+131,"Blathno, Remethinczy, Lwka",,4,2,2,orthographic-exact,0,,
+132,Blyzna,BLIZNEC,4,6,19,modern,0,45.8097069,16.0258615
+133,Bliznafew,Velike Sesvete,1,4,8,manual,0,46.055600,16.671700
+134,"Blyzna, Remethyncz","BLIZNEC,",4,1,1,singleton,0,45.8097069,16.0258615
+135,Bobowycza,BOBOVICA,4,9,21,modern,0,45.8308388,15.7142327
+136,"Bobowycza, Kapolna","BOBOVICA, KAPELA",1,1,2,singleton,0,,
+137,"Bobowycza, Kapolna, Othok, Jemryhowcz","BOBOVICA, KAPELA, OTOK, IMBRIOVEC",1,1,1,singleton,0,,
+138,Bothyncz,BOTINEC,4,6,17,modern,0,45.7546900,15.9360374
+139,Bogacho,BOGAČEVO,1,5,12,modern,0,46.0856167,16.4332486
+140,Bolch,BOLČ,1,2,4,orthographic-exact,0,45.8908489,16.6763101
+141,Bolethyna,,1,2,2,orthographic-fuzzy,1,,
+142,Bona-Hampo,,1,1,1,singleton,0,,
+143,Bona-Johannes Alapi,,4,1,1,singleton,0,,
+144,Bona-Nicolaus Zrini,,4,2,2,orthographic-exact,0,,
+145,Bona-Zlwny,,4,1,1,singleton,0,,
+146,Bonowk,,1,1,1,singleton,0,,
+147,Borchecz in pertinentiis Zomzedwara,BORČEC,4,1,1,singleton,0,45.8291916,15.8880104
+148,Borsowcz,Galovec,1,3,8,manual,0,46.0697306,16.1911811
+149,Borkowcz,BORKOVEC,2,4,21,modern,0,46.1080568,16.0835029
+150,Borcz ad Topozka (predium),BORKOVEC,4,1,1,singleton,0,,
+151,Borowe,Borovljani,1,1,1,manual,0,46.1077189,16.8904618
+152,Myrkowcz,MIRKOVEC,2,6,27,modern,0,,
+153,"Borychewcz, Marthyndoll",,2,1,2,singleton,0,,
+154,Bosyako,BOŽJAKOVINA,4,19,40,modern,0,45.8194685,16.2871783
+155,Bothcafeld,Mikleuška,1,1,2,manual,0,45.5527347,16.7279471
+156,Bothezyncz,Botinac,1,1,1,manual,0,45.9996711,16.8612684
+157,Bwthkafeld,Patkovac,1,5,24,manual,0,45.853900,16.929400
+158,Bothowcz,Botovo,3,1,4,manual,0,46.219678,16.919261
+159,Bothyncz,Botinac,1,1,4,manual,0,45.9996711,16.8612684
+160,Bothynowcz,Botinovec,1,3,5,manual,0,46.2063162,16.7707449
+161,Bozyas,,1,1,4,singleton,0,,
+162,Bradechyna ad Garych,,1,1,1,singleton,0,,
+163,Bradna,Bradna,1,1,7,manual,0,46.070511,16.692291
+164,Bradna inferior,,1,1,1,singleton,0,,
+165,Bragasowcz,,1,2,5,orthographic-exact,0,,
+166,Brakwnowcz,BROKUNJEVEC,4,1,1,singleton,0,,
+167,Bregchewcz,Brčevec,1,1,1,manual,0,45.8663641,16.4127097
+168,Breschyna,,1,1,1,singleton,0,,
+169,Bresnycze,Breznica,1,2,5,manual,0,45.745073,17.517561
+170,Bresnycza-ad Achynam,,1,1,2,singleton,0,,
+171,Bresowcz,Breza,1,2,3,manual,0,45.8796142,16.7235635
+172,Brezowycza,BREZOVICA,4,5,49,modern,0,45.7277707,15.9100676
+173,Brestoycha,Kobasičari,1,1,1,manual,0,45.9614269,16.8129844
+174,Brezewcze cum pertinentiis,,1,1,1,singleton,0,,
+175,Brezowcz,BREZOVEC,1,3,12,modern,0,45.9086711,16.2644717
+176,Brezoycha-ad Nagh Kemlek,,1,1,1,singleton,0,,
+177,Brezoycza,Brezovica,1,3,11,manual,0,46.0752302,17.0755450
+178,Brezt,,2,1,2,singleton,0,,
+179,Brezth,,4,1,2,singleton,0,,
+180,"Brezthowcz, Dolina",,1,2,2,orthographic-fuzzy,1,,
+181,Brezthye,,4,1,1,singleton,0,,
+182,Brezyancz,Brežanec,3,2,4,manual,0,46.151615,16.828087
+183,Brezyna,,1,1,3,singleton,0,,
+184,"Brezyna, Chakowcz",,1,1,1,singleton,0,,
+185,Brokwnowcz,BROKUNJOVEC,4,5,9,modern,0,,
+186,"Brokunoucz, Adamovcz","BROKUNJOVEC, ADAMOVEC",4,1,1,singleton,0,,
+187,"Brokwnyowcz, Glawnycza","BROKUNJOVEC, GLAVNICA",4,2,3,modern,0,,
+188,Brysnyak,,1,1,1,singleton,0,,
+189,Bryzthno,GORNJA BISTRA,4,1,1,singleton,0,45.9198183,15.8986398
+190,Bwdrowcz,Gudovec,1,4,9,manual,0,45.881140,16.784635
+191,"Budyndol, Pomperoucz, Hansevcz","BUDINŠČINA, POMNEROVAC,",2,1,2,singleton,0,46.1269062,16.2037628
+192,Bukovcz,Zvonik,1,1,2,manual,0,45.8983710,16.6365112
+193,Bwschyncz,Buščinec,1,2,7,manual,0,45.882398,16.672339
+194,Bwdyslwcz,,2,2,2,orthographic-fuzzy,1,,
+195,Bwdnak,Sesvete,1,1,1,manual,0,45.8139666,16.1261692
+196,Bwdrowcz,Budrovec,3,2,4,manual,0,,
+197,Bwdyndoll,,2,2,5,orthographic-exact,0,,
+198,"Bwdyndol, Hansewcz",,2,1,11,singleton,0,,
+199,"Bwdyndol, Hansewcz, Pomperowcz",", POMNEROVEC",2,1,1,singleton,0,,
+200,Bwdyzlawcz,,2,1,4,singleton,0,,
+201,"Bwdyzlawcz, Dymytrowcz",,2,1,1,singleton,0,,
+202,"Bwkowcz, Zelyna","BUKOVEC, ZELINA",4,1,1,singleton,0,45.7104144,15.8202926
+203,Bwkowschak,BUKOVŠĆAK,4,4,9,modern,0,45.9055538,15.8017033
+204,Bwssocz,,3,3,9,orthographic-fuzzy,1,,
+205,Bwsthincz,Bušić,1,2,2,manual,0,45.8137034,16.0237909
+206,"Bwzyn, Odra","BUZIN, ODRA",4,2,4,modern,0,45.7498707,15.9953199
+207,Bwyancz,,1,1,4,singleton,0,,
+208,Bwyowcz,,1,1,5,singleton,0,,
+209,Byenyk,Pobjenik,1,2,10,manual,0,45.7048930,16.6131474
+210,Byenyk ad Topozka (predium),,4,1,1,singleton,0,,
+211,Bygzad,,4,2,7,orthographic-exact,0,,
+212,Bykzad,BISAG,1,5,29,modern,0,46.0337432,16.2989057
+213,Bygzad-citra Lonyam,,4,1,1,singleton,0,,
+214,Bykalla,Korenovo,1,2,2,manual,0,45.8585850,16.8114639
+215,Bykchelethincz,Hampovica,1,2,2,manual,0,46.0156843,16.9540763
+216,Bykszad,Bisag,4,1,4,manual,0,,
+217,"Bykzad, Wyhel","BISAG, NOVO MJESTO",1,2,5,modern,0,46.0337432,16.2989057
+218,Bynowcz,Čepelovac,1,1,3,manual,0,45.9949728,17.0425162
+219,Byskwpcz,BISKUPEC,2,1,6,singleton,0,46.2856962,16.3354777
+220,Byskwpecz,BIŠKUPEC,2,1,1,singleton,0,46.2856962,16.3354777
+221,Byztrycza,BISTRICA,4,9,64,modern,0,45.9972059,16.1227427
+222,Byzkelethycz,,1,1,1,singleton,0,,
+223,Camarcha,Novigrad Podravski,1,1,1,manual,0,46.0757469,16.9497812
+224,"Camarcha, Thwlowa",,1,1,1,singleton,0,,
+225,Campus,,1,1,1,singleton,0,,
+226,Campus-Sancta Maria Virginis in Campo,,1,1,1,singleton,0,,
+227,Capella,STARA KAPELA,1,1,6,singleton,0,45.8909545,16.6063210
+228,"Cappela,Kelyanowcz",,1,1,1,singleton,0,,
+229,Chapalowcz,Čepelovac,1,3,9,manual,0,45.9949728,17.0425162
+230,Czargowcz,CERKOVEC,2,4,15,orthographic-exact,0,,
+231,Karlowcz,KARLOVEC,1,5,19,modern,0,,
+232,Czeraberda,,1,3,4,orthographic-fuzzy,1,,
+233,Cherztwecz,Čvrstec,1,11,25,manual,0,46.0044639,16.6638832
+234,Chakowcz,Čaklovac,1,1,19,manual,0,45.4530837,17.2847740
+235,"Chakowcz, Brezyna",,1,1,1,singleton,0,,
+236,Chaktornya,Čaklovac,1,1,2,manual,0,45.4530837,17.2847740
+237,Chalyncz,ČALINEC,2,4,13,modern,0,46.2890601,16.1806256
+238,Chyanyo,ČANJEVO,1,4,26,modern,0,46.1063890,16.3394440
+239,"Chanyo, Prezeka, Rauen","ČANJEVO,",1,1,2,singleton,0,46.1063890,16.3394440
+240,Charzyncz,,1,1,1,singleton,0,,
+241,Chazarwara,CESARGRAD,2,5,15,modern,0,46.0601275,15.7222748
+242,Chebenowcz,Cepidlak,1,1,2,manual,0,45.9751022,16.6913869
+243,Chehowyna ad portionem,,1,1,1,singleton,0,,
+244,Czekno,Bršljanica,1,2,3,manual,0,45.5827915,16.8519325
+245,Chelowechky,,2,1,1,singleton,0,,
+246,Chelycze,,1,3,3,orthographic-fuzzy,1,,
+247,Chemernicha,Čemernica Lonjska,1,3,6,manual,0,45.7658591,16.4168812
+248,Cheperlyncz,,2,1,12,singleton,0,,
+249,"Cheperlyncz, Stefancz",", ŠTEFANEC, OTOK",2,2,3,modern,0,,
+250,Zenth Berthalam,BARTOLOVEC,2,9,12,modern,0,46.2970896,16.4351454
+251,"Cherbenye, Lwkawecz",,1,1,1,singleton,0,,
+252,Cherbyncz,,2,1,2,singleton,0,,
+253,Cherchan ad Gemlech,,1,3,3,orthographic-fuzzy,1,,
+254,Chereborda,,1,2,4,orthographic-exact,0,,
+255,Cheresnye,,2,2,3,orthographic-fuzzy,1,,
+256,"Cheresnyo, Wydowcz",,2,1,1,singleton,0,,
+257,Chernkowcz,ČRNKOVEC,4,4,48,modern,0,45.7506386,16.1197623
+258,Chernacz,,3,1,1,singleton,0,,
+259,Chernareca,,1,1,1,singleton,0,,
+260,Chernareka,Hercegovac,1,1,4,manual,0,45.6553617,17.0090772
+261,Chernecz,,3,2,5,orthographic-exact,0,,
+262,"Cherneleucz, Toplychycza",", TOPLIČICA",4,1,1,singleton,0,,
+263,Chernesoucz,,1,2,4,orthographic-fuzzy,1,,
+264,"Chernkowcz, Schytaryo","ČRNKOVEC, ŠČITARJEVO",4,1,1,singleton,0,45.7506386,16.1197623
+265,Chernomercz,ČRNOMEREC,4,4,13,modern,0,45.8156371,15.9361636
+266,"Chernylewch, Thoplychycha",", TOPLICA",4,1,2,singleton,0,,
+267,Chernylno,,4,1,1,singleton,0,,
+268,Chero berdo,Cerovo brdo,1,1,1,manual,0,46.1330556,16.5500000
+269,Cherowoberdo,Cerovo brdo,1,1,1,manual,0,46.1330556,16.5500000
+270,Cherwylno,,4,1,5,singleton,0,,
+271,Cherztwecz Zenth Pether,Sveti Petar Čvrstec,1,1,5,manual,0,46.0044639,16.6638832
+272,Chesthylowcz,,1,1,1,singleton,0,,
+273,Chethertekhel,Četvrtkovac,1,1,1,manual,0,45.5833333,17.2333333
+274,Chezmycza Zenth Iwan,,1,1,1,singleton,0,,
+275,Cheztylowcz,,1,2,2,orthographic-exact,0,,
+276,Cnesancz,Maglenca,1,2,3,manual,0,45.9211719,16.9320077
+277,Chorgowcz,,2,1,4,singleton,0,,
+278,Chowcowyna,,1,1,1,singleton,0,,
+279,Chowkowyna,,1,1,1,singleton,0,,
+280,Chrechan,,4,2,2,orthographic-fuzzy,1,,
+281,Chremysthe,Cremušina,1,1,1,manual,0,45.7945543,17.1937699
+282,"Chresnevo, Obres",,2,1,1,singleton,0,,
+283,Chresno,Crešnjevica,1,2,8,manual,0,45.9200074,17.1467028
+284,Christalocz,Kreštelovac,1,7,12,manual,0,45.5765405,17.0519967
+285,Chrysthalowcz-cum provincia et pertinentiis,,1,1,1,singleton,0,,
+286,Chwcher,ČUČERJE,4,7,17,modern,0,45.8728865,16.0560140
+287,Chwchwwachincz,,1,1,1,singleton,0,,
+288,Chwdowcz,,1,1,1,singleton,0,,
+289,"Chwdowcz, Wynarcz",SUDOVEC I VINAREC,1,1,1,singleton,0,46.1058330,16.3630500
+290,Chwthenya,Kutina,1,1,4,manual,0,45.5186851,16.7911430
+291,Chyglana,Mala Ciglena,1,1,1,manual,0,45.8934246,16.9412226
+292,Cyglena,Dulepska,1,2,2,manual,0,45.8945450,16.3426353
+293,Chygleno,Dulepska,1,1,1,manual,0,45.8945450,16.3426353
+294,Chystho Hrastye,,3,1,1,singleton,0,,
+295,Chystho Hrazthya,,3,1,1,singleton,0,,
+296,Chyztahrazthya,,3,2,2,orthographic-fuzzy,1,,
+297,Czyrquena,CIRKVENA,1,3,7,orthographic-exact,0,45.9351219,16.6580807
+298,Civitas Montis Grecensis Zagrabiensis,GRIČ,4,5,14,modern,0,45.8162301,15.9735992
+299,"Clobwk, Jalsewcz, Zenth Iwan",,1,1,1,singleton,0,,
+300,Klokochowcz,KLOKOČEVEC,1,3,6,modern,0,45.8336653,15.7024738
+301,Clwch,Lipovac Lonjski,1,1,1,manual,0,,
+302,Conthowcz,Grubišno Polje,1,1,1,manual,0,45.7021875,17.1722368
+303,Copathowcz,Gornja Kovačica,1,1,3,manual,0,45.7710030,17.1093385
+304,Copozowcz,Čazma,1,1,1,manual,0,45.8383124,16.7079896
+305,Corbowa,,1,1,1,singleton,0,,
+306,Coren,Korenovo,1,1,1,manual,0,45.8585850,16.8114639
+307,"Coren, Zdela",,1,1,2,singleton,0,,
+308,Coroska,Koruška,1,1,1,manual,0,46.0226772,16.5359181
+309,Corpus Christi in Prodauiz,,1,1,1,singleton,0,,
+310,Cothnyak,,1,1,1,singleton,0,,
+311,Coznethyno,Mučna,1,1,1,manual,0,46.0689337,16.7375944
+312,Koznycza,KOSNICA,4,14,40,modern,0,45.7506038,16.0853697
+313,Coztanowcz,KOSTANJEVAC,1,1,1,singleton,0,46.0049015,16.9391526
+314,Kozthel,KOSTEL,2,8,19,modern,0,46.1839785,15.7256223
+315,Crachowcz,,1,1,1,singleton,0,,
+316,Krapyna,KRAPINA,2,7,22,modern,0,46.0983218,15.9377404
+317,"Craschych, Wywodyna","KRAŠIĆ,",4,1,1,singleton,0,45.6540864,15.5174579
+318,Crassulcz,,2,1,1,singleton,0,,
+319,Crawaryna,Grahovljani,1,1,3,manual,0,,
+320,Crawarzka,,4,1,1,singleton,0,,
+321,Crawloch,,1,1,1,singleton,0,,
+322,Crethyn in Dobrachwcha,,1,1,1,singleton,0,,
+323,Crisium,KRIŽEVCI,1,7,18,modern,0,46.0247391,16.5457794
+324,Crisium-civitas (taxa 500 fl),KRIŽEVCI,4,1,1,singleton,0,,
+325,Crisium-civitas inferior,KRIŽEVCI (INF.),1,1,5,singleton,0,46.0247391,16.5457794
+326,Crisium-civitas superior,KRIŽEVCI (SUP.),1,1,5,singleton,0,46.0247391,16.5457794
+327,Crisnychya,,1,1,1,singleton,0,,
+328,Crisnychya ad Galgoycza,,1,1,1,singleton,0,,
+329,Crisowlyan,KRIŽOVLJAN,1,4,9,modern,0,,
+330,Crysancz,,2,1,3,singleton,0,,
+331,Crysthesawcz-ad Galgowcz,,1,1,1,singleton,0,,
+332,Cryznychycha-ad Zenthywan dicata,,1,1,1,singleton,0,,
+333,Cwlpowcz,,1,1,1,singleton,0,,
+334,"Czebowcz, Kos",,2,1,1,singleton,0,,
+335,Czerowycza Zentiwan,Djurdjevac,1,2,2,manual,0,,
+336,Czerowycza Zenth Iwan- ad Zenth Gergerwara,,1,1,1,singleton,0,,
+337,Czerowycza-ad Zenth Gerghwara,,1,1,1,singleton,0,,
+338,Czerye,CERJE,4,1,7,singleton,0,45.8296604,16.1914690
+339,Czome,,1,1,1,singleton,0,,
+340,Czwethkowych,CVETKOVIĆ,4,4,4,modern,0,45.6507558,15.6470067
+341,Czyglenycza,CIGLENICA,2,1,5,singleton,0,46.3123951,16.3329490
+342,Demerye,DEMERJE,4,3,13,modern,0,45.7318815,15.8828849
+343,Darnowcz,Drenovac,1,2,4,manual,0,45.8265326,15.9960743
+344,Darnocz-cum pertinenciis,,1,5,5,orthographic-fuzzy,1,,
+345,Dorozlo Bakwa,Klokočevac,1,2,3,manual,0,45.9178685,16.7839294
+346,Dawch,,1,1,1,singleton,0,,
+347,Deche,Dišnik,1,1,5,manual,0,45.6076839,16.8758897
+348,Declyna,Diklenica,1,1,1,manual,0,45.9679929,16.8608972
+349,Decze,,3,1,3,singleton,0,,
+350,Dedochay sub Pokwpye,,4,1,2,singleton,0,,
+351,Dercowcz,Dereza Čazmanska,1,1,1,manual,0,45.7564558,16.5998185
+352,Derkowcz,Dereza Čazmanska,1,1,2,manual,0,45.7564558,16.5998185
+353,Dersze,,3,1,2,singleton,0,,
+354,Derze,,3,1,2,singleton,0,,
+355,Desnycze,Dišnik,1,1,9,manual,0,45.6076839,16.8758897
+356,Desowcz,,1,1,1,singleton,0,,
+357,Deykowcz-de Waska,,1,1,1,singleton,0,,
+358,Domagowych,DOMAGOVIĆ,4,4,23,modern,0,45.6287181,15.6380048
+359,Dimikowcz,Gradec,1,1,1,manual,0,45.9229065,16.4895691
+360,Dimitrowcz,Gradec,1,2,2,manual,0,45.9229065,16.4895691
+361,Dimytroucz,DIMITROVEC,2,2,2,orthographic-exact,0,,
+362,Districtus Capituli Zagrabiensis,KAPTOL,4,2,2,modern,0,45.8146150,15.9784733
+363,Dobochecz,,1,1,1,singleton,0,,
+364,Dobowcz,DUBOVEC,1,2,10,orthographic-exact,0,46.0084447,16.2865673
+365,Dobownyk,,3,1,7,singleton,0,,
+366,Dobowyna,,1,1,1,singleton,0,,
+367,Dobowyo in Berzewcze,,1,1,1,singleton,0,,
+368,Dobra Kuchya,Dobra Kuća,1,2,3,manual,0,45.6103079,17.2943775
+369,Dobrachwcha,,1,1,1,singleton,0,,
+370,Dobrachwcha cum pertinentiis,,1,1,1,singleton,0,,
+371,Dobrawa,Dubrava Samoborska Zagrebačka Dubrava,4,1,12,manual,0,45.8063140,15.6699200
+372,Dobrawa ad Lythwuanych,,4,2,2,orthographic-fuzzy,1,,
+373,Dobrawycza,,2,1,1,singleton,0,,
+374,Dobrokychya,,1,1,3,singleton,0,,
+375,Dobrowa Czerzka,,4,1,1,singleton,0,,
+376,Dobrowych,,1,4,15,orthographic-fuzzy,1,,
+377,Dol,,4,2,5,orthographic-exact,0,,
+378,Dolyane,Dolanski Jarak,4,7,16,manual,0,,
+379,Dolyan ad Belam,,1,1,1,singleton,0,,
+380,Dolyancz,Doljanec,1,1,6,manual,0,45.9908688,16.4493156
+381,Domankwsowcz,Grdjevac,1,3,4,manual,0,,
+382,Dombrensi,,1,1,1,singleton,0,,
+383,Dombro,Dubrava,1,1,8,manual,0,45.8423033,16.5349328
+384,"Dombro-oppidum, Gradecz",,1,1,1,singleton,0,,
+385,"Dombro-provincia, ad Sanctum Michaelem",,1,1,1,singleton,0,,
+386,Donadowcz,Tomodowcz,1,2,3,manual,0,,
+387,Dragalen,,1,1,2,singleton,0,,
+388,Dragalyn ad Belam,,1,1,1,singleton,0,,
+389,Dragalyna,,1,1,2,singleton,0,,
+390,Draganychy,DRAGANIĆI,4,4,4,modern,0,45.7599553,16.0059758
+391,Dragatyn,,1,1,4,singleton,0,,
+392,Dragonoscz,DRAGONOŽEC,4,3,6,modern,0,45.6610681,15.9471656
+393,Dragowyna,,1,2,5,orthographic-fuzzy,1,,
+394,Dragowya-ad Achynam,,1,1,1,singleton,0,,
+395,Drakcha,Graberje Ivaničko,1,1,1,manual,0,45.7101594,16.4712034
+396,Draschya,Graberje Ivaničko,1,2,5,manual,0,45.7101594,16.4712034
+397,Drascha ad Gemlech,,1,3,3,orthographic-fuzzy,1,,
+398,Drasowch,Djakovac,1,4,6,manual,0,,
+399,Drasewcz,Korenovo,1,1,1,manual,0,45.8585850,16.8114639
+400,Drasimercz,Draganec,1,1,1,manual,0,45.7806315,16.6253194
+401,Drawamelleke,Kloštar Podravski,1,2,3,manual,0,45.9838583,17.1570683
+402,Dremowa (Drenowa*),,4,1,1,singleton,0,,
+403,Drenowa,DRENOVA,4,3,70,modern,0,45.9332276,16.1779492
+404,"Drwskowcz, Oskowcz","DRUŽKOVEC, KOŠKOVEC",2,3,6,modern,0,,
+405,Drwskowcz,DRUŠKOVEC,2,1,12,singleton,0,46.2594132,16.1550276
+406,Dwbowcz,DUBOVICA,1,3,14,orthographic-exact,0,46.2880157,16.6916075
+407,"Dubouycza, Kapolna","DUBOVICA, KAPELA",1,1,3,singleton,0,46.2880157,16.6916075
+408,Dubrawa,Dubrava,4,2,8,manual,0,45.8380556,16.5438889
+409,Dwlyebzka,DULEPSKA,1,8,31,orthographic-fuzzy,1,45.8945450,16.3426353
+410,Dworany,,4,2,8,orthographic-fuzzy,1,,
+411,Dwbowecz,Dubovac,4,1,2,manual,0,45.4944439,15.5344392
+412,Dwbyno,,1,1,1,singleton,0,,
+413,Dwgy Werh,Dugi vrh,1,1,2,manual,0,46.0708460,16.3820790
+414,"Dwlepzka, Erdowcz","DULEPSKA, ERDOVEC",1,1,1,singleton,0,45.8945450,16.3426353
+415,Dwmowcz,,4,1,1,singleton,0,,
+416,Dworane,,4,1,2,singleton,0,,
+417,Dworyancz,,1,1,1,singleton,0,,
+418,Dworysche,DVORIŠĆE,1,3,5,modern,0,45.9847825,16.6004514
+419,Dworyschye Superior,DVORIŠĆE,4,3,4,modern,0,45.8238294,16.2758953
+420,Dworysche Superior,"DVORIŠĆE, OREHOVEC",4,1,1,singleton,0,45.8238294,16.2758953
+421,"Dworysche, Orehowcz","DVORIŠĆE, OREHOVEC",1,3,8,modern,0,45.9847825,16.6004514
+422,Dwsycza,DUŽICA,4,7,11,modern,0,45.9205259,16.1025239
+423,Dyakowch,Diankovec,1,2,2,manual,0,46.0413240,16.4817858
+424,Dyanfelde,Dijankovec,1,3,5,manual,0,46.0399845,16.4815465
+425,Dyewsewcz,,1,1,1,singleton,0,,
+426,Dymychffeld,,1,1,2,singleton,0,,
+427,Ebres,OBREŽ,1,5,28,modern,0,46.1182956,16.4352972
+428,Ecclesia Zagrabiensis,,4,1,1,singleton,0,,
+429,Eghywdowcz,,4,1,1,singleton,0,,
+430,"Egwdowcz, Chargowcz, Polyana",,2,1,1,singleton,0,,
+431,"Egywdo, Charkowcz",,2,1,1,singleton,0,,
+432,Jemryhowcz,IMBRIOVEC,1,6,18,modern,0,46.2563933,16.8216410
+433,Emryholcz,IMBRIOVEC,2,2,2,modern,0,,
+434,Erdowcz,ERDOVEC,1,4,13,modern,0,46.0298298,16.4813125
+435,Erpenye,,2,1,1,singleton,0,,
+436,Erwencze,,1,1,13,singleton,0,,
+437,Fabyanowcz,Narta,1,3,5,manual,0,45.8332696,16.7884696
+438,Fabyanchewcz,Narta,1,1,3,manual,0,45.8332696,16.7884696
+439,Farcasovcz,,1,1,1,singleton,0,,
+440,Farkadyn,,1,1,6,singleton,0,,
+441,Farkasowcz,,1,2,3,orthographic-exact,0,,
+442,Farkazowcz,,1,1,1,singleton,0,,
+443,Felse Chezmyche,Botinac,1,2,8,manual,0,45.9996711,16.8612684
+444,Felse Izdencz,Zdenci,1,3,7,manual,0,45.5877618,17.9514042
+445,Felsew Zemche,,1,3,5,orthographic-fuzzy,1,,
+446,Felsew Ztobycza,GORNJA STUBICA,4,14,306,modern,0,45.9749888,16.0175181
+447,"Felseu Ztobycza, Lepa Vez","GORNJA STUBICA, LEPA VES",4,1,1,singleton,0,45.9749888,16.0175181
+448,Felsew Bakwa,GORNJA BUKOVICA,1,1,3,singleton,0,,
+449,Felsew Bakwa,GORNJA BUKOVICA,3,2,3,modern,0,,
+450,Felso Czesmycze,GORNJA STUBICA,1,3,8,modern,0,,
+451,Felsew Gerzencze,Gračenica,1,1,2,manual,0,45.5149669,16.6540389
+452,Felsew Pozawye / Zablathye,,4,1,1,singleton,0,,
+453,Felsew Soploncza,Gornja Stupčanica,1,4,8,manual,0,45.6253030,17.3375580
+454,Felsew Totusewyna,Topolovac,1,2,2,manual,0,45.4605556,16.4358333
+455,"Felsew Zthwbycza, Bedenycze","GORNJA STUBICA, BEDENICA",4,1,1,singleton,0,45.9749888,16.0175181
+456,"Felsew Zthwbycza, Bosyako","GORNJA STUBICA, BOŽJAKOVINA",4,1,1,singleton,0,45.9749888,16.0175181
+457,Felsw Bakwa,GORNJA STUBICA,3,1,1,singleton,0,,
+458,Ferkwlowcz,FERKULJEVEC,2,6,10,modern,0,,
+459,Feyerkew,,1,1,1,singleton,0,,
+460,Feyrkew-waywodatus cum pertinentiis,,1,1,1,singleton,0,,
+461,Filyphfalwa,,1,3,3,orthographic-fuzzy,1,,
+462,Fynthyncz,Fištinec,1,3,4,manual,0,,
+463,Fodorowcz,FODOROVEC,3,2,4,orthographic-exact,0,,
+464,Fodrowcz,FODOROVEC,1,3,13,modern,0,,
+465,Fodorowczy,FODOROVEC,2,1,1,singleton,0,,
+466,Foryanowcz,,1,1,3,singleton,0,,
+467,Furmeghoch,,1,1,1,singleton,0,,
+468,Fwka,FUKA,1,1,3,singleton,0,45.8863448,16.5287441
+469,Fychowcz,Finčevac,1,1,1,manual,0,,
+470,Fyerky,,1,1,1,singleton,0,,
+471,Fylethyncz,,1,2,6,orthographic-exact,0,,
+472,Fynchewcz,Finčevac,1,1,1,manual,0,,
+473,Galgoncza,GLOGOVNICA,1,7,13,modern,0,45.9671904,16.5272109
+474,Galgowo,GALGOVO,4,2,12,modern,0,45.7436947,15.7490376
+475,Galowchecz,,1,1,1,singleton,0,,
+476,Galowcz,Galovac,1,1,2,manual,0,45.8439994,16.8524578
+477,Garazda,,1,1,1,singleton,0,,
+478,Garazdyncz,,1,2,7,orthographic-fuzzy,1,,
+479,Gardowa,Grdjevac,1,1,5,manual,0,,
+480,Garyghnycze,Garešnica,1,2,3,manual,0,45.6361735,16.8617380
+481,Gathalowcz,Grdjevac,1,4,14,manual,0,,
+482,Gothalowcz,GOTALOVEC,2,5,13,modern,0,46.1566949,16.2192725
+483,Gayancz,,2,1,1,singleton,0,,
+484,"Gayancz, Nedelyancz","GOJANEC, NEDELJANEC",2,1,2,singleton,0,46.2859049,16.3029011
+485,Gayanczy,GOJANEC,1,1,1,singleton,0,,
+486,Gedrocz,,1,2,2,orthographic-fuzzy,1,,
+487,Gemelgfelde,,1,1,2,singleton,0,,
+488,Geramuczyak,,2,1,1,singleton,0,,
+489,Greben,GREBEN,4,4,11,modern,0,45.7640352,15.3341556
+490,Gerecz,Stari Gradec,1,1,27,manual,0,45.924700,17.292500
+491,Gerecz,Gradec (Zagreb),4,1,1,manual,0,45.8162301,15.9735992
+492,Geremchari,,2,1,1,singleton,0,,
+493,Gerwasowcz,,1,1,3,singleton,0,,
+494,Gerzencze,Gračenica,1,1,3,manual,0,45.5149669,16.6540389
+495,Gorycza,GORICA,4,4,15,modern,0,45.4339204,15.4856451
+496,Glagowo,,4,1,2,singleton,0,,
+497,Glaunycza Sanctae Trinitatis,,4,1,3,singleton,0,,
+498,Glawnycza,GLAVNICA,4,7,70,orthographic-fuzzy,1,45.9315133,16.1417444
+499,Globochecz,GLOBOČEC,4,3,32,modern,0,46.0154688,16.1581992
+500,Globochecz,Lipovčani,1,3,10,manual,0,45.9855979,16.7882556
+501,"Globochecz, Polyana","GLOBOČEC, POLJANA",1,1,1,singleton,0,,
+502,"Glokosowcz, Mylethynch",,1,1,3,singleton,0,,
+503,"Golgoncza, Kalecz","GLOGOVNICA,",1,1,1,singleton,0,45.9671904,16.5272109
+504,Golyak- judicatus (Jazthrebarzka-castrum),,4,1,1,singleton,0,,
+505,Gorbonokfew,Kloštar Podravski,1,4,5,manual,0,45.9838583,17.1570683
+506,Gorbonok,Kloštar Podravski,1,2,5,manual,0,45.9838583,17.1570683
+507,"Gorbonok, Drawamelleke",,1,2,2,orthographic-fuzzy,1,,
+508,Gorbonwk-oppidum cum pertinentiis,,1,3,4,orthographic-fuzzy,1,,
+509,Gorbonwkfew ad Zenth Gergwara,,1,1,1,singleton,0,,
+510,Gorbowa,Grbavac,1,1,2,manual,0,45.7113545,17.1014906
+511,Gordowa,Grđevac,1,2,16,manual,0,45.7515565,17.0497322
+512,Goricza in episcopatu Zagrabiensi,,4,1,1,singleton,0,,
+513,Gorycza,GORICA,1,5,26,modern,0,46.2254584,16.7320479
+514,"Gorychan, Zbelye",,2,1,4,singleton,0,,
+515,Gorycza,GORICA,3,1,1,singleton,0,,
+516,Gorycza Maiori,,4,1,1,singleton,0,,
+517,Gorycza sive Pregrada,GORIČANOVEC,2,3,3,modern,0,46.1816180,15.8121486
+518,"Gorycza, Pleszo","GORICA, PLESO",4,1,1,singleton,0,45.4339204,15.4856451
+519,Gotaleryancz,,1,1,1,singleton,0,,
+520,"Gotalowcz, Zawersye","GOTALOVEC, ZAVRŠJE",2,2,2,orthographic-exact,0,46.1566949,16.2192725
+521,Gozthowychy,GOSTOVIĆ,1,3,6,modern,0,45.9283718,16.4445035
+522,Graberiancz,Dulepska,1,1,1,manual,0,45.8945450,16.3426353
+523,Graberya,GRABE,1,2,4,modern,0,,
+524,Graberye,GRABE,2,1,5,singleton,0,46.0747054,16.0078977
+525,Grabrych,GRABRIĆ,1,2,4,modern,0,45.9008124,16.5057456
+526,Grachan,GRAČANI,4,8,18,modern,0,45.8548503,15.9709014
+527,Grachina ad Garig,GRAČANI,1,1,1,singleton,0,45.8582472,15.9740813
+528,Grachyna,GRAČINA,1,1,1,singleton,0,45.9780218,16.5603046
+529,Gradacz,Gradec,1,1,1,manual,0,45.9229065,16.4895691
+530,"Gradacz, Jampnycza",", JAMNICA",4,2,5,orthographic-exact,0,,
+531,Gradchyna-ad Garych,,1,1,1,singleton,0,,
+532,Gradecz,GRADEC,1,3,17,modern,0,45.9229065,16.4895691
+533,Gradysche,Bršljanica,1,1,1,manual,0,45.5827915,16.8519325
+534,Gragena,Vojakovac,1,3,14,manual,0,46.0668813,16.5936927
+535,Gragyan,GRADNA,4,1,1,singleton,0,45.8230755,15.7406015
+536,Gramchoucz,Stare Plavnice,1,1,1,manual,0,45.8940344,16.8083834
+537,Grayan,,1,1,10,singleton,0,,
+538,Grebenna,Madžarevo,1,1,1,manual,0,46.1695487,16.3060711
+539,Greda,Greda Peskovečka,1,1,1,manual,0,,
+540,Gredakowcz ad Gemnecz,,1,1,1,singleton,0,,
+541,"Gredycze, Zabok","GUBAŠEVO, ZABOK",2,1,3,singleton,0,46.0198728,15.8656988
+542,Gregorchyncz,Virje,1,3,5,manual,0,46.0671920,16.9886896
+543,Gregorowcz,GREGUROVEC,1,7,22,modern,0,46.0297878,16.4498379
+544,Gregorowcz,GREGUROVEC,2,6,12,modern,0,46.1554811,15.9895455
+545,"Gregoryancz, Dorozlawcz, Camarcha",,1,1,1,singleton,0,,
+546,Gregwryewyna,,1,2,9,orthographic-fuzzy,1,,
+547,"Gregoryowcz, Zaywsawcz",,1,1,1,singleton,0,,
+548,Gregsynch,Mučna,1,1,1,manual,0,46.0689337,16.7375944
+549,"Gregwrowcz, Toplycza, Oskowcz","GREGUROVEC,",2,1,4,singleton,0,46.1554811,15.9895455
+550,Gregwrowcz-ad Nagh Kemlek,,1,1,1,singleton,0,,
+551,Grekzynchk,Mučna,1,1,1,manual,0,46.0689337,16.7375944
+552,Grexyncz,Mučna,1,2,3,manual,0,46.0689337,16.7375944
+553,Grobosincz,Grubišno Polje,1,2,4,manual,0,45.7021875,17.1722368
+554,Grymoucz,,1,2,2,orthographic-exact,0,,
+555,Grysnyak,,1,1,1,singleton,0,,
+556,"Gubassewo, Martyncze","GUBAŠEVO, MARTINEC",2,1,2,singleton,0,46.0198728,15.8656988
+557,"Gwbassewo, Prozenyk","GUBAŠEVO, PROSENIK",2,2,4,orthographic-exact,0,46.0198728,15.8656988
+558,Gwnnyak,Gunjak,1,4,10,manual,0,46.020737,16.649432
+559,Gwrgewcz,Graberje Ivaničko,1,8,11,manual,0,45.7101594,16.4712034
+560,Gwbassewo,GUBAŠEVO,2,5,6,modern,0,46.0198728,15.8656988
+561,Gwdowcz,Gudovac,1,2,4,manual,0,45.8811395,16.7846354
+562,Gwdowcz-cum pertinentis,,1,1,1,singleton,0,,
+563,Gywrsyncz,,1,2,6,orthographic-fuzzy,1,,
+564,Gymelchfeld,,1,1,2,singleton,0,,
+565,Gywgancz,Kaniška Iva,1,2,5,manual,0,45.5289318,16.9230556
+566,Gywrethyncz,,1,1,2,singleton,0,,
+567,Gywrkethyncz,,2,1,1,singleton,0,,
+568,Gywrynowcz,,1,1,1,singleton,0,,
+569,Habyanowcz,Habjanovac,1,1,1,manual,0,45.8782200,16.5500428
+570,Hegen,HAGANJ,1,4,8,modern,0,45.9147515,16.5787186
+571,Halehosowcz,Pavlin Kloštar,1,1,1,manual,0,46.0073012,16.8288694
+572,Hathko,Grdjevac,1,2,3,manual,0,,
+573,Hathkozenth Mihal,,1,2,2,orthographic-fuzzy,1,,
+574,Haznarcz,Sudovec,1,1,1,manual,0,46.1058330,16.3630500
+575,"Haznarcz, Turkoucz",,1,1,1,singleton,0,,
+576,Hedrihowcz,,1,2,2,orthographic-exact,0,,
+577,Hemowcz,Djurdjić,1,1,7,manual,0,,
+578,Herbothowcz,Fuka,1,3,3,manual,0,45.8863448,16.5287441
+579,Herbolthya,Veliki Poganac,1,2,3,manual,0,46.1490499,16.6151853
+580,Herborthya,Veliki Poganac,1,2,4,manual,0,46.1490499,16.6151853
+581,Hercowcz,,1,1,1,singleton,0,,
+582,Heresyncz,,1,3,3,orthographic-fuzzy,1,,
+583,Herethyncz,Galovac,1,1,1,manual,0,45.8439994,16.8524578
+584,"Hergowicza, Pwzta Dwsa",,4,1,1,singleton,0,,
+585,Herpeny,,2,2,2,orthographic-fuzzy,1,,
+586,Heryowcz,,1,1,1,singleton,0,,
+587,Herzowa,Hrsovo,1,1,1,manual,0,45.9383045,16.6850385
+588,Hewiz-oppidum ad Dobrachwcha,,1,1,1,singleton,0,,
+589,Hom,HUM,1,6,8,modern,0,,
+590,Hom,HUM,4,2,38,modern,0,45.8115399,15.5974865
+591,Horeowcz,Gračenica,1,1,7,manual,0,45.5149669,16.6540389
+592,Horzowa,Hrsovo,1,1,8,manual,0,45.9383045,16.6850385
+593,Hothko,Hotko,1,1,9,manual,0,45.751556,17.049732
+594,Hothnya Zenth Pal,Stari Pavljani,1,1,1,manual,0,45.8605809,16.8746878
+595,Hothowa,Djurdjevac,1,1,2,manual,0,,
+596,Hothowo ad Zenth Gergwara,,1,1,1,singleton,0,,
+597,Howano ad Kapruncza,,1,1,1,singleton,0,,
+598,Hozywfalw,,1,2,2,orthographic-fuzzy,1,,
+599,Hraschyna,HRAŠĆE,4,6,39,modern,0,45.7306053,16.0048816
+600,Hraschan,Raščani,1,1,5,manual,0,46.0207373,16.6494324
+601,Hraschyna ad Greben cum pertinentiis,,4,1,1,singleton,0,,
+602,Hraschyna in pertinentiis Greben,,4,1,1,singleton,0,,
+603,Hrasthan,Hršćani,1,1,3,manual,0,,
+604,Hrasthye,,4,1,1,singleton,0,,
+605,Hrastina,,1,1,1,singleton,0,,
+606,Hrastovica cum pertinentiis,,4,3,3,orthographic-fuzzy,1,,
+607,Hrastowicze-castrum cum pertinentiis,,4,4,4,orthographic-fuzzy,1,,
+608,Hrazthowycza-pertinencia,,4,1,1,singleton,0,,
+609,Hrazthowycze-pertinantiae,,4,1,1,singleton,0,,
+610,Hrazthye,HRAŠTJE,4,1,1,singleton,0,,
+611,Hrazthyna,HRAŠTJE,1,2,3,orthographic-exact,0,45.9782359,16.2688640
+612,Hrebyncz,,4,1,1,singleton,0,,
+613,Hrelychy,HRELIĆ,4,3,17,modern,0,45.7682685,16.0168954
+614,Hromchovcz,,1,2,2,orthographic-exact,0,,
+615,Hromkowcz,Stare Plavnice,1,1,1,manual,0,45.8940344,16.8083834
+616,Hrwsowcz,Ruševac,1,7,19,manual,0,46.0316718,16.6786684
+617,Hrustopecowyna,,1,1,1,singleton,0,,
+618,Hrwssowcz,HRUŠEVAC,4,5,50,modern,0,,
+619,Hrwskopekowyna,,1,1,1,singleton,0,,
+620,Hwdy Bythek,HUDI BITEK,4,1,1,singleton,0,45.7097190,15.8958866
+621,Hwethincz,,1,1,1,singleton,0,,
+622,Hwywaros,,1,1,1,singleton,0,,
+623,Hwzarcz,Husarec,1,1,16,manual,0,45.969039,16.539956
+624,"Hwzarcz, Zenthywan",,1,1,1,singleton,0,,
+625,Hyzdencz,Zdenci,1,1,5,manual,0,45.5877618,17.9514042
+626,Ilowa,,3,1,9,singleton,0,,
+627,Ilowa cum pertinentiis,,3,1,1,singleton,0,,
+628,Inferior Lwkawcz,LIKAVEC,4,1,1,singleton,0,,
+629,"Lwkavacz, Kozthanyewcz","LUKAVEC, KOSTANJEVEC",4,6,8,modern,0,45.7011134,15.9936241
+630,"Inferior Lwkawcz, Obres","LUKAVEC, OBREŽ",4,1,1,singleton,0,45.7011134,15.9936241
+631,Lwkawecz,LUKAVEC,4,11,73,modern,0,45.7011134,15.9936241
+632,Inferior Opathyncz,,1,1,1,singleton,0,,
+633,Inferior Vaska,,1,2,2,orthographic-exact,0,,
+634,"Inoskowcz, Foryanowcz",,1,1,1,singleton,0,,
+635,Insula,OTOK,2,5,28,modern,0,,
+636,Iwanusowcz,Sredice,1,6,13,manual,0,46.0374219,16.8129849
+637,Isanowcz,Hižanovec,1,1,3,manual,0,46.1137533,16.4217897
+638,Ista parte Zawe (s ove strane Save),,4,1,1,singleton,0,,
+639,Zenth Iwan,IVANEC,1,15,74,orthographic-fuzzy,1,46.2175711,16.1204500
+640,Iwelowcz,Grdjevac,1,1,4,manual,0,,
+641,Iwilovcz,,1,1,1,singleton,0,,
+642,Izdencz,Zdenci,1,1,2,manual,0,45.5877618,17.9514042
+643,Jacopowcz,Jakupovac Kapelski,1,4,4,manual,0,,
+644,Jacupelcz,Lipovac Lonjski,1,1,2,manual,0,,
+645,Jacupelcz,,2,1,1,singleton,0,,
+646,Jagwstanowcz,AUGUSTANOVEC,4,4,12,modern,0,45.4748574,15.9383109
+647,Jegywdowcz,JEŽDOVEC,4,7,30,modern,0,45.7766808,15.8460330
+648,Jakopowcz,,1,2,2,orthographic-fuzzy,1,,
+649,"Jakovllye, Felsew et Also Byztra, Podgorye, Pzarno","JAKOVLJE,GORNJA I DONJA BISTRA, PODGORJA,",4,1,2,singleton,0,45.9405659,15.8585629
+650,Jakowla,JAKOVLJE,4,2,2,modern,0,45.9405659,15.8585629
+651,Jakowlewcz,,1,1,1,singleton,0,,
+652,"Jakowlya, Also Byztra","JAKOVLJE, DONJA BISTRA",4,5,9,modern,0,45.9405659,15.8585629
+653,Jakwpelcz,Lipovac Lonjski,1,1,2,manual,0,,
+654,Jakwpowcz ad Belam,,1,1,1,singleton,0,,
+655,Jakwssewcz,JAKUŠEVEC,4,3,6,modern,0,45.7605543,16.0162815
+656,Jalecz,PODJALES,1,3,4,modern,0,45.9398153,16.4864737
+657,Jalkowcz,Galovac,1,1,1,manual,0,45.8439994,16.8524578
+658,Jalsewa,Čvrstec,1,10,59,manual,0,46.0044639,16.6638832
+659,"Jalsowcza, Ladyslawcz","JALŠEVEC, LADISLAVEC",2,4,8,modern,0,46.2078577,16.4827167
+660,"Jalsewcz, Zenth Iwan","JALŠEVEC, IVANEC",1,1,1,singleton,0,,
+661,Jalsownyk,,2,1,1,singleton,0,,
+662,Jamnycza,JAMNICA,4,6,67,modern,0,45.5994427,15.8790880
+663,"Jamnicza, Pokwpye","JAMNICA, POKUPSKO",4,4,7,modern,0,45.5994427,15.8790880
+664,Jendrassewcz,Andraševec,4,3,11,manual,0,46.0003464,15.9356094
+665,Janenowcz,,1,1,1,singleton,0,,
+666,Janosowcz,,1,3,16,orthographic-fuzzy,1,,
+667,Janowcz,,1,1,1,singleton,0,,
+668,Japathyncz,,1,1,1,singleton,0,,
+669,Jarebych,Jerebić,4,2,4,manual,0,45.5775055,15.9636954
+670,Jarna,Kloštar Podravski,1,1,1,manual,0,45.9838583,17.1570683
+671,Jarno,,1,1,1,singleton,0,,
+672,Jarosyna,Herešin,1,2,3,manual,0,46.1769365,16.8665800
+673,Jartholowcz,,1,2,7,orthographic-fuzzy,1,,
+674,Jaztrebarzka-cum pertinentiis,JASTREBARSKO,4,20,37,modern,0,45.6716565,15.6503928
+675,Jaworowcz,,1,1,1,singleton,0,,
+676,Jaworowcz ad Zenth Gergwara,,1,1,1,singleton,0,,
+677,Jawowcz (Jalsowcz*),,1,1,1,singleton,0,,
+678,Jawroch,,1,1,1,singleton,0,,
+679,Jezenowcz,JESENOVEC,4,4,34,modern,0,45.9191269,16.1428838
+680,Jaztrebynzkywerh,Pokupske,4,3,9,manual,0,,
+681,"Jegwdowcz, Botyncz","JEŽDOVEC, BOTINEC",4,2,2,orthographic-exact,0,45.7766808,15.8460330
+682,"Jegywdowcz, Syslawych","JEŽDOVEC, ŠIŠLJAVIĆ",4,3,3,modern,0,45.7766808,15.8460330
+683,"Jegywdowcz, Lochylnycza, Chehy, Nowaky, Bwzyn","JEŽDOVEC, LUČELNICA, ČEHI, NOVAKI, BUZIN",4,1,1,singleton,0,45.7766808,15.8460330
+684,"Jelakowcz, Zablatya","ĐELEKOVEC, ZABLETJE",1,2,2,orthographic-exact,0,46.2506365,16.8637838
+685,Jelkowcz,ĐELEKOVEC,1,1,3,singleton,0,46.2506365,16.8637838
+686,Jelye,,1,2,2,orthographic-exact,0,,
+687,"Jemryhoucz, Othok","IMBRIOVEC, OTOK",1,2,6,orthographic-exact,0,46.2563933,16.8216410
+688,Jenderkowcz ad Garigh,,1,2,2,orthographic-fuzzy,1,,
+689,Jenderkowcz sub Garych,,1,1,1,singleton,0,,
+690,Jerosyn,Galovac,1,1,2,manual,0,45.8439994,16.8524578
+691,Jezero,,4,1,2,singleton,0,,
+692,Jwrkethyncz,JURKETINEC,2,4,10,orthographic-exact,0,46.2829955,16.2184004
+693,"Jwgowcz, Powsincz",,3,1,1,singleton,0,,
+694,Jwrowlyan,,4,1,1,singleton,0,,
+695,Kalecz,TKALEC,1,6,11,modern,0,45.9705265,16.4497054
+696,Kalym,Kal inje,4,1,2,manual,0,,
+697,Kamacza,Novigrad Podravski,1,1,1,manual,0,46.0757469,16.9497812
+698,Kamarcza,Novigrad Podravski,1,2,5,manual,0,46.0757469,16.9497812
+699,Kamarya,Čaire,1,1,3,manual,0,45.5557797,16.7990067
+700,"Kamarya, Melesocz",,1,1,1,singleton,0,,
+701,Kamechecz-ad Nagh Kemlek,,1,3,3,orthographic-fuzzy,1,,
+702,Kamenycza,KAMEŠNICA,1,3,3,modern,0,46.0164481,16.4654737
+703,Kamenie,Kamanje,4,1,1,manual,0,45.6470034,15.4186638
+704,Kapella,KAPELA,1,2,2,modern,0,45.9897100,16.8443705
+705,"Kapolna, Bednye","KAPELA,",1,1,1,singleton,0,45.9897100,16.8443705
+706,"Kapolna, Dobowycza","KAPELA, DUBOVICA",1,2,5,modern,0,45.9897100,16.8443705
+707,"Kapolna, Dobowycza, Othok, Jemryhowcz","KAPELA, DUBOVICA, OTOK, IMBRIOVEC",1,1,2,singleton,0,45.9897100,16.8443705
+708,Kaproncza,KOPRIVNICA,1,10,14,modern,0,46.1672461,16.8102183
+709,Kaptholowcz,Ivanska Žabno,1,1,1,manual,0,,
+710,Karpowcz,KARLOVEC,2,1,1,singleton,0,,
+711,Kasyna,KAŠINA,4,2,2,orthographic-exact,0,45.9076390,16.1255313
+712,Kazmethyna,,1,1,1,singleton,0,,
+713,Kebel,KABEL,1,1,4,singleton,0,45.8380099,16.0553609
+714,Kelemynoch,,1,1,1,singleton,0,,
+715,Kenchelowcz,Kenđelovec,1,1,1,manual,0,45.945945,16.673362
+716,Kengelowcz,Kenđelovec,1,3,10,manual,0,45.945945,16.673362
+717,Kepchancz,,4,1,1,singleton,0,,
+718,Kerhennyna,,1,1,3,singleton,0,,
+719,Kerhennyna-waywodatus superior,,1,1,1,singleton,0,,
+720,Kerhnyewyna,,1,1,2,singleton,0,,
+721,Kerhtowcz,,3,3,6,orthographic-fuzzy,1,,
+722,Kernyn,Botinac,1,1,7,manual,0,45.9996711,16.8612684
+723,"Kernyn, Mathwsalowcz",,1,1,1,singleton,0,,
+724,Kerztynoucz,,1,1,1,singleton,0,,
+725,Kwscherowcz,GUŠĆEROVEC,1,10,26,modern,0,46.0539835,16.4846780
+726,Kyskemlek,KALNIK,1,12,37,modern,0,46.1326845,16.4866507
+727,Kladye,KLADJE,4,2,8,modern,0,45.7783575,15.7327973
+728,Klenocz,KLENOVEC,1,2,2,modern,0,46.0840030,16.4467590
+729,"Klenowhch, Orehowcz","KLENOVEC, OREHOVEC",1,1,1,singleton,0,46.0840030,16.4467590
+730,Klokowcz,"KLOKOČEVEC, MILETINEC",1,1,1,singleton,0,45.8336653,15.7024738
+731,Klwch,Clwch,1,1,1,manual,0,,
+732,Klwka,Kluka,4,1,1,manual,0,,
+733,Klynchazela,KLINČA SELA,4,5,19,modern,0,45.6922436,15.7435946
+734,"Klywka, Kowachewcz","KLJUKA,",4,2,6,modern,0,,
+735,Knegyncz,KNEGINEC,2,3,9,modern,0,46.2567690,16.3719611
+736,Knesancz,Maglenca,1,2,3,manual,0,45.9211719,16.9320077
+737,Knesech,,1,2,2,orthographic-exact,0,,
+738,Knesty,,1,1,1,singleton,0,,
+739,Knesyncz,,2,1,1,singleton,0,,
+740,Knezecz,,1,1,1,singleton,0,,
+741,Kobyle,,1,2,2,orthographic-fuzzy,1,,
+742,Kobylych,KOBILIĆ,4,2,10,modern,0,45.7319711,16.1012819
+743,"Kobylychy, Persynowcz","KOBILIĆ,",4,1,2,singleton,0,45.7319711,16.1012819
+744,Kochan,Konščani,1,1,1,manual,0,45.6648538,16.5497176
+745,Kochan,KUĆE,2,1,4,singleton,0,,
+746,"Koche, Lomnycza","KUČE, LOMNICA",4,3,4,modern,0,45.6761398,16.1423026
+747,Kochewcz,,2,1,1,singleton,0,,
+748,Kochycze,Konščani,1,1,1,manual,0,45.6648538,16.5497176
+749,Kochycze-insula,,2,1,1,singleton,0,,
+750,Kokorekowcz,,1,1,1,singleton,0,,
+751,Kolaryewcz,,1,2,2,orthographic-fuzzy,1,,
+752,Kolchewcz,KOPČEVEC,4,1,8,singleton,0,45.8039982,16.2147302
+753,Kolchewczy (Bosyako),,4,1,1,singleton,0,,
+754,"Koledyncz, Kwzmyncz, Jelekowcz","KOLEDINEC, KUZMINEC, ĐEELEKOVEC",1,2,3,modern,0,46.2390102,16.7698452
+755,Komarcha,,1,2,2,orthographic-exact,0,,
+756,Komaryn,,1,1,1,singleton,0,,
+757,Komor,KOMOR,2,1,15,singleton,0,46.1122725,16.0191713
+758,"Komor, Mwrkowcz","KOMOR, MIRKOVEC",2,2,6,modern,0,46.1122725,16.0191713
+759,"Komor, Wladyzlowcz",,2,1,1,singleton,0,,
+760,Komosowcz,,1,1,4,singleton,0,,
+761,Komozowcz,,1,1,1,singleton,0,,
+762,Konczka,,1,1,3,singleton,0,,
+763,Konschycza,Konšcica,4,2,18,manual,0,45.7650677,15.7260162
+764,Konthoch Zenthpeter,,3,2,4,orthographic-fuzzy,1,,
+765,Konthocz Zenthmyklos,,3,4,4,orthographic-fuzzy,1,,
+766,Konthowcz,Kontovac,1,1,3,manual,0,,
+767,Konthowcz cum pertinentiis,,3,3,4,orthographic-exact,0,,
+768,Konzka,Jakupovac Kapelski,1,1,8,manual,0,,
+769,Konzka-swpanathws,,1,1,1,singleton,0,,
+770,Konzka-woywodatus,,1,1,1,singleton,0,,
+771,Kopachowcz,Kopačevac,1,2,9,manual,0,45.9500000,17.2333333
+772,Kopakowcz,Gornja Kovačica,1,1,1,manual,0,45.7710030,17.1093385
+773,Kopchyna,KUPČINA,4,5,16,modern,0,45.6160186,15.5996565
+774,Kophachowcz,,1,1,2,singleton,0,,
+775,"Kopino, Sabnicha",,1,2,2,orthographic-fuzzy,1,,
+776,Kwpozoucz,Čazma,1,2,3,manual,0,45.8383124,16.7079896
+777,Kopynno,Haganj,1,1,1,manual,0,45.9147515,16.5787186
+778,Korbawa,Grdjevac,1,1,1,manual,0,,
+779,Kordwssowcz,,2,3,8,orthographic-exact,0,,
+780,"Kordwssowcz, Pethrossowcz",,2,1,1,singleton,0,,
+781,Koren,Korenovo,1,1,8,manual,0,45.8585850,16.8114639
+782,"Koren, Zdelya",,1,1,2,singleton,0,,
+783,Korenyak,KORENJAK,2,3,7,modern,0,46.2335701,16.3202548
+784,Korylowcz,KURILOVEC,4,3,39,modern,0,45.7022546,16.0717133
+785,Koroska,Koruška,1,1,2,manual,0,46.0226772,16.5359181
+786,"Koroska, Bedowcz",,1,1,1,singleton,0,,
+787,Koruska,Koruška,1,1,4,manual,0,46.0226772,16.5359181
+788,Korusta,,1,1,1,singleton,0,,
+789,"Korylowcz, Ilowenyak","KURILOVEC, ILOVENJAK",4,3,12,modern,0,45.7022546,16.0717133
+790,"Korylowcz, Mraczlyn","KURILOVEC, MRACLIN",4,1,5,singleton,0,45.7022546,16.0717133
+791,"Korythno, Bolch",,1,1,1,singleton,0,,
+792,"Korythno,Kebel, Dymytrowcz",,1,1,1,singleton,0,,
+793,Kos,,2,1,1,singleton,0,,
+794,Oskowcz,KOŠKOVEC,2,5,19,modern,0,46.2506981,16.1643217
+795,Koskolcz,,2,1,1,singleton,0,,
+796,Kossoycza,KOSNICA,2,1,1,singleton,0,,
+797,"Koztanyewcz, Lomnycza","KOSTANJEVEC, LOMNICA",4,5,7,modern,0,45.8408380,16.0032513
+798,"Kotenyak, Belycz","KORENJAK,",2,1,2,singleton,0,46.2335701,16.3202548
+799,Kothnyak,KUTNJAK,1,6,24,modern,0,46.2717025,16.7807856
+800,Kowachewcz,,2,1,1,singleton,0,,
+801,Kowachowcz,,1,1,1,singleton,0,,
+802,"Kowachowcz, Radoboye",,2,1,1,singleton,0,,
+803,"Koyenyk, Sythny Othok, Koznycza, Zelnycza",,4,1,1,singleton,0,,
+804,"Koyenyk-judicatus, Koznycza",,4,1,1,singleton,0,,
+805,Kozachyna,,1,2,4,orthographic-fuzzy,1,,
+806,Kozachyna-waywodatus inferior,,1,1,1,singleton,0,,
+807,Kozachyna-waywodatus superior,,1,1,1,singleton,0,,
+808,Kozak,Čemernica Lonjska,1,1,3,manual,0,45.7658591,16.4168812
+809,Kozolowcz,Grdjevac,1,1,1,manual,0,,
+810,Koztanowcz,KOSTANJEVEC,1,6,11,modern,0,46.1613615,16.2794839
+811,Kozthanyewcz,KOSTANJEVEC,4,5,34,modern,0,45.8408380,16.0032513
+812,"Koztanyewcz, Lekenyk, Thernovcz, Lukawecz, Korylowcz","KOSTANJEVEC, LEKENK, , LUKAVEC, KURILOVEC",4,1,1,singleton,0,45.8408380,16.0032513
+813,"Koztanyewcz, Obres","KOSTANJEVEC, OBREŽ",4,1,2,singleton,0,45.8408380,16.0032513
+814,"Koztanyoucz, Rauen","KOSTANJEVEC, RAVEN",1,1,1,singleton,0,46.1613615,16.2794839
+815,Kozynschak,KOZINŠĆAK,4,4,10,modern,0,45.8148367,16.2605310
+816,Krachowcz,,1,2,2,orthographic-fuzzy,1,,
+817,Krakowcz,,1,1,1,singleton,0,,
+818,Kralowcz,Kraljevac Križevački,1,1,1,manual,0,45.9734351,16.7402461
+819,Kralyowcz,KRALJEVEC,4,1,1,singleton,0,45.8305899,15.9688845
+820,Krawarzka,KRAVARSKO,4,3,21,modern,0,45.5864987,16.0471926
+821,Krawaryna,Grahovljani,1,1,6,manual,0,,
+822,Krayowcz,,3,1,2,singleton,0,,
+823,Krenyn,Botinac,1,1,2,manual,0,45.9996711,16.8612684
+824,"Krenyn, Mathowcz",,1,1,1,singleton,0,,
+825,"Krenyn, Pothna M.",,1,1,1,singleton,0,,
+826,Krysancz,KRIŽANEC,2,2,37,modern,0,46.2451850,16.3427013
+827,"Krysancz, Gredycze, Prozenyk","KRIŽANEC, GREDICE, PROSENIK",2,1,5,singleton,0,46.2451850,16.3427013
+828,Krysnychicha,,1,1,1,singleton,0,,
+829,Krysnychicha ad Galgwncza,,1,2,2,orthographic-fuzzy,1,,
+830,Krysowlyan,KRIŽOVLJAN,2,3,24,modern,0,46.2633287,16.5545664
+831,Krysthalowcz,Kreštelovac,1,1,1,manual,0,45.5765405,17.0519967
+832,Kwpyncz,Haganj,1,4,5,manual,1,45.9147515,16.5787186
+833,"Kuzmyncz, Koledyncz, Zablathya","KUZMINEC, KOLEDINEC, ZABLATJE",1,2,2,modern,0,46.2369918,16.7567560
+834,"Kwzmyncz, Koledyncz","KUZMINEC, KOLEDINEC",1,3,8,modern,0,46.2369918,16.7567560
+835,Kwchan,KUČAN,2,1,1,singleton,0,46.2894984,16.3709440
+836,Kwchye,KUĆE,4,2,3,modern,0,45.6761398,16.1423026
+837,"Kwchye, Lownycza",,4,1,1,singleton,0,,
+838,Kwkchowcz,,1,1,2,singleton,0,,
+839,Kwpchancz,,4,1,2,singleton,0,,
+840,Kwpchanoz,Kupinec,4,1,1,manual,0,45.7319444,15.7200000
+841,"Kwsherowcz, Bekethyncz","GUŠĆEROVEC, BEKETINEC",1,2,3,modern,0,46.0539835,16.4846780
+842,Kwskoucz,,1,1,1,singleton,0,,
+843,Kwtthennya,Kutina,1,4,11,manual,0,45.5186851,16.7911430
+844,Kwthetincz,,3,2,2,orthographic-exact,0,,
+845,Kwzmowcz,Kusanovec,1,1,1,manual,0,45.8194032,16.3491667
+846,Kwzmyncz,KUZMINEC,1,1,2,singleton,0,46.2369918,16.7567560
+847,"Kwzmyncz, Zablathye","KUZMINEC, ZABLATJE",1,1,1,singleton,0,46.2369918,16.7567560
+848,Kyralocz,,3,1,2,singleton,0,,
+849,Kyralowcz-cum pertinentiis,,3,2,3,orthographic-fuzzy,1,,
+850,"Kyskemlek, Ryeka, Deklessyncz","KALNIK, RIEKA, DEKLEŠANEC",1,4,8,modern,0,46.1326845,16.4866507
+851,Kys Lownyk,,1,1,1,singleton,0,,
+852,Kysmlaka,MALA MLAKA,4,2,30,modern,0,45.7289925,15.9772101
+853,Kys Thabor,MALI TABOR,2,1,1,singleton,0,46.2146835,15.6777004
+854,"Kyskemlek, fortalitium Reka cum pertinentiis","KALNIK , RIJEKA",1,1,2,singleton,0,46.1326845,16.4866507
+855,"Kysmlaka, Lochylnycza, Chehi, Nowaky, Syslawychy, Jegywdowcz","MALA MLAKA, LUČELNICA, ČEHI, NOVAKI, ŠIŠLJAVIĆ, JEŽDOVEC",4,1,1,singleton,0,45.7289925,15.9772101
+856,"Kysmlaka, Lochylnycza, Chehy, Nowaki","MALA MLAKA, LUČELNICA, ČEHI, NOVAKI",4,1,1,singleton,0,45.7289925,15.9772101
+857,"Kysmlaka, Lochylnyza, Chehy, Nowaky","MALA MLAKA, LUČILNICA, ČEHI, NOVAKI",4,1,1,singleton,0,45.7289925,15.9772101
+858,Labasowcz,Djurdjić,1,2,2,manual,0,,
+859,Labazowcz,,1,1,2,singleton,0,,
+860,Lachalowcz,Jakupovac Kapelski,1,1,1,manual,0,,
+861,Ladomercz,LADOMER,4,6,45,modern,0,,
+862,Ladislawcz,LADOMER,2,1,1,singleton,0,,
+863,Ladyzlawcz,LADISLAVEC,2,1,2,singleton,0,46.1086074,16.0627954
+864,"Ladyzlawcz, Zlatyna","LADISLAVEC,",2,1,2,singleton,0,46.1086074,16.0627954
+865,Laskaeghaz,,1,1,1,singleton,0,,
+866,Lazthesyn,Severin,1,4,16,manual,0,45.833300,16.966700
+867,Lathcowyna,,1,1,2,singleton,0,,
+868,Lathkowyna,Bršljanica,1,1,1,manual,0,45.5827915,16.8519325
+869,Lazachowcz,,1,4,5,orthographic-fuzzy,1,,
+870,Lazecz,Čemernica Lonjska,1,1,4,manual,0,45.7658591,16.4168812
+871,Lazen,Stare Plavnice,1,1,7,manual,0,45.8940344,16.8083834
+872,Lazyna,LAZINA,4,2,10,modern,0,45.8787204,16.0745122
+873,"Lekenyk, Thernowcz","LEKENIK,",4,3,9,modern,0,45.5842704,16.2106191
+874,Leskowcz,Bolč,1,7,11,manual,0,45.8908489,16.6763101
+875,Lekanucz ad Lwkawcz,,4,1,17,singleton,0,,
+876,Lekenyk,LEKENIK,4,5,13,modern,0,45.5842704,16.2106191
+877,"Lekenyk, Lwkawecz",LEKENIK. LUKAVEC,4,1,2,singleton,0,45.5842704,16.2106191
+878,Lepawez,LEPA VES,4,7,14,modern,0,46.0101068,15.9920646
+879,Lepenyak,,2,1,1,singleton,0,,
+880,Lepsincz,Bosiljevo Čazmansko,1,2,2,manual,0,,
+881,Leschan,,1,1,2,singleton,0,,
+882,Lesnekheg,,1,1,2,singleton,0,,
+883,Lestacowcz,,1,1,1,singleton,0,,
+884,Lestakowcz,,2,2,2,orthographic-exact,0,,
+885,"Lestakowcz, Zwhodoll",,2,2,2,orthographic-exact,0,,
+886,"Lestchancz, Palynowcz ad Belam",,1,1,1,singleton,0,,
+887,Lesthak,,2,1,1,singleton,0,,
+888,"Lesthakowcz, Berethyncz, Tharnowcz",,2,1,1,singleton,0,,
+889,Lesthyan,,1,1,1,singleton,0,,
+890,Lethowanych,LETOVANIĆ,4,11,19,modern,0,45.5078202,16.1989220
+891,Lezkov,,3,1,1,singleton,0,,
+892,Libewsthycza,,1,1,1,singleton,0,,
+893,Lypowcz,LIPOVEC,2,4,14,orthographic-exact,0,46.0529847,16.1323970
+894,Lyppa,,3,2,12,orthographic-exact,0,,
+895,Lywdbreg,LUDBREG,1,13,28,modern,0,46.2495239,16.6180913
+896,Lobor,LOBOR,2,2,23,modern,0,46.1591018,16.0701328
+897,Lochan,Komuševac,1,1,2,manual,0,45.7908706,16.6240677
+898,Lochylnycza,LUČELNICA,4,1,8,singleton,0,45.5936967,15.9245536
+899,"Lochylnycza, Chehy, Jegywdowcz, Mlaka, Nowaky, Bwzyn","LUČELNICA, ČEHI, JEŽDOVEC, MLAKA, NOVAKI, BUZIN",4,2,4,modern,0,45.5936967,15.9245536
+900,"Lochylnycza, Odra","LUČELNICA, ODRA",4,1,1,singleton,0,45.5936967,15.9245536
+901,"Lochylnycza, Podothochye, Odra, Bwzyn","LUČELNICA, PODOTOČJE, ODRA, BUZIN",4,1,1,singleton,0,45.5936967,15.9245536
+902,Loka,LUKA,1,3,5,modern,0,45.8765214,16.3806102
+903,Lwka,LUKA,4,7,25,modern,0,45.8301125,16.1086081
+904,Lwkawecz,LUKAVEC,1,2,3,modern,0,46.2429235,16.2152939
+905,Loky,Loky,1,1,1,manual,0,,
+906,Lombardya,,1,1,1,singleton,0,,
+907,Lompnycza,LOMNICA,4,2,5,modern,0,45.7149347,15.9999240
+908,"Lomnycza, Koche","LOMNICA, KUČE",4,2,8,modern,0,45.7149347,15.9999240
+909,Lose,,4,1,2,singleton,0,,
+910,Lowchowcz,,1,1,1,singleton,0,,
+911,Lowkowcz,Lukovec,1,3,8,manual,0,46.1904178,16.6815076
+912,Lownicza,,4,1,1,singleton,0,,
+913,Lubena,Lubena,1,5,8,manual,1,45.9213391,16.5160711
+914,Lubewschycza ad Nagkemlek,,1,2,2,orthographic-fuzzy,1,,
+915,Luchychowcz,,1,1,1,singleton,0,,
+916,Lupoglaw,LUPOGLAV,1,4,4,modern,0,45.7970952,16.3404828
+917,Lwbewschycza,,1,2,3,orthographic-fuzzy,1,,
+918,Lwchan,Komuševac,1,1,3,manual,0,45.7908706,16.6240677
+919,"Lwka, Rechycza","LUKA, REČICA",4,3,7,modern,0,45.8301125,16.1086081
+920,"Lwkavacz, Obres",LUKAVEC. OBREŽ,4,1,1,singleton,0,45.7011134,15.9936241
+921,Lwsye,Lusje,4,1,1,manual,0,,
+922,Lyplan,Bolč,1,2,3,manual,0,45.8908489,16.6763101
+923,Lypowecz,LIPOVEC,1,4,5,modern,0,46.1346564,16.8673583
+924,Lypyncz,Lipovo Brdo,1,4,7,manual,0,46.0031214,16.8738864
+925,Lyppowcz,LIPOVEC,4,2,2,modern,0,45.9593136,16.1552144
+926,Lyppycha,Čazma,1,2,2,manual,0,45.8383124,16.7079896
+927,Lypsycza,Čazma,1,1,1,manual,0,45.8383124,16.7079896
+928,Lywbesthycza-ad Kemlek,,1,1,1,singleton,0,,
+929,Lywblyana,LJUBLJANICA,4,1,5,singleton,0,45.7969739,15.9351671
+930,"Lywpkowcz, Zerdahel S.",,1,1,1,singleton,0,,
+931,Lyzychyncz,,1,1,1,singleton,0,,
+932,Markowcz,MARKOVAC,1,10,32,modern,0,45.9193334,16.8742369
+933,Magalowcz,Maglenca,1,2,5,manual,0,45.9211719,16.9320077
+934,Magyerlak,,1,3,4,orthographic-fuzzy,1,,
+935,Megwrechye,Međurić,1,8,29,manual,0,45.456900,16.938100
+936,Mahowcz,,4,1,4,singleton,0,,
+937,Malchewcz,,1,1,1,singleton,0,,
+938,Malchewcz,,4,2,5,orthographic-fuzzy,1,,
+939,Malchewcz-de Reka,,1,1,1,singleton,0,,
+940,Malkowch,,4,1,1,singleton,0,,
+941,Manchewcz,Mučna,1,1,2,manual,0,46.0689337,16.7375944
+942,Marchan,MARČAN,2,2,11,modern,0,46.3313541,16.1505918
+943,"Marcowcz, Chemerowcz","MARKOVAC,",1,1,1,singleton,0,45.9193334,16.8742369
+944,Marygolthowcz,MARIGUTIĆ,2,3,9,modern,0,46.1061764,16.1700226
+945,Marthonpathaka,Martinpotok,1,5,19,manual,0,,
+946,Markwssewcz,MARKUŠEVEC,4,1,1,singleton,0,45.8758347,16.0148138
+947,Zenth Iwan,SV. IVAN,4,5,7,modern,0,45.9028307,16.2628026
+948,Marosolcz,,2,1,1,singleton,0,,
+949,"Marosolcz, Krysolyan",,2,1,1,singleton,0,,
+950,Maroucha,,1,1,1,singleton,0,,
+951,Martynyancz,Martijanec,2,5,16,manual,0,46.2667778,16.5423856
+952,Marthyncz,MARTINEC (OREHOVIČKI),2,4,15,modern,0,46.0891232,15.9626404
+953,"Marthynczy, Gwbassewo","MARTINEC, GUBAŠEVO",2,3,8,modern,0,46.0891232,15.9626404
+954,Martyndol,MARTINKI,2,5,21,modern,0,,
+955,Marthynowcz,Martinac Trojstveni,1,1,2,manual,0,45.9491719,16.9156958
+956,Martinzkawez,MARTINSKA VES,4,9,14,modern,0,45.8805927,16.3975499
+957,Marthynzky,,2,1,1,singleton,0,,
+958,Martinowcz,,3,2,3,orthographic-exact,0,,
+959,Maryancz,,1,1,2,singleton,0,,
+960,Maryassowcz,MARUŠEVEC,2,3,23,orthographic-exact,0,46.2807993,16.1839860
+961,"Maryassowcz, Krysowlyan","MARUŠEVEC, KRIŽOVLJAN",2,1,9,singleton,0,46.2807993,16.1839860
+962,Maryncz,,4,1,2,singleton,0,,
+963,Mathewsowcz,,1,1,1,singleton,0,,
+964,"Mathewsowcz, Zerdahel",,1,1,1,singleton,0,,
+965,Mathwch,,1,1,3,singleton,0,,
+966,"Mathwsowcz, Marthynowcz",,1,1,2,singleton,0,,
+967,Mechenycze,,1,2,3,orthographic-fuzzy,1,,
+968,Medwe,MEDVEDGRAD,4,12,24,modern,0,45.8695479,15.9408864
+969,Megereche cum provincia,,1,1,1,singleton,0,,
+970,Meglech,Pupelica,1,1,4,manual,0,45.8798969,17.0362289
+971,Meglich,,1,1,2,singleton,0,,
+972,Megwrechye-oppidum,,1,1,1,singleton,0,,
+973,Megye,MEĐA,1,1,5,singleton,0,46.0505204,16.4656877
+974,Megyerlok,,1,1,1,singleton,0,,
+975,Mellesowcz,,1,3,4,orthographic-fuzzy,1,,
+976,"Mellesowcz, Palychna",,1,1,1,singleton,0,,
+977,Mendzent,,3,3,3,orthographic-fuzzy,1,,
+978,Myndzenth,Velike Sesvete,1,6,43,manual,0,46.055600,16.671700
+979,Myrynye,MERENJE,4,8,18,modern,0,45.9547190,15.7855215
+980,Zenthmyhal,Tomašica,1,9,16,manual,0,45.6432165,17.0173219
+981,Myholya,LETOVANIĆ,4,4,29,manual,0,45.5078202,16.1989220
+982,Mikchewcz,MIČEVEC,4,3,3,modern,0,45.7529444,16.0531946
+983,Mikechincz,Martinec,1,1,1,manual,0,,
+984,Mykethyncz,Miketinec,1,4,11,manual,0,,
+985,Mykwlych,MIKULIĆI,4,9,18,orthographic-fuzzy,1,45.8472620,15.9288418
+986,Mylethyncz,Miletinec,1,4,58,manual,0,45.933300,16.733300
+987,Mirina,"MIRKOVEC, BREZOVA",4,3,3,orthographic-exact,0,46.0540852,15.9325918
+988,Mislenincz,Remetinec Križevački,1,2,3,manual,0,45.9239375,16.5385563
+989,Mlaka,MLAKA,1,1,1,singleton,0,45.9088110,16.2907767
+990,Mlaka,MLAKA,4,1,12,singleton,0,45.9040939,16.2931969
+991,"Mlaka, Lochylnycza","MLAKA, LUČELNICA",4,2,5,modern,0,45.9040939,16.2931969
+992,"Mlaka, Nowaky, Zenth Gergh","MLAKA, NOVAKI, ŠIŠLJAVIĆ",4,1,1,singleton,0,45.9040939,16.2931969
+993,"Mlaka, Syslyanoychi","MLAKA, ŠIŠLJAVIĆ",4,2,2,modern,0,45.9040939,16.2931969
+994,Mnochowcz,,1,1,1,singleton,0,,
+995,Mochyla,Močila,1,2,10,manual,0,46.052442,16.672678
+996,Mochrycha,Svinjarec,1,1,1,manual,0,45.8022580,16.5670104
+997,Mochw,,1,1,1,singleton,0,,
+998,Mochylo,Sesvete,1,1,4,manual,0,45.8139666,16.1261692
+999,Modrowcz,,1,1,1,singleton,0,,
+1000,Moghoyna-de Kaproncza,Mogovina,1,2,4,manual,0,46.212333,16.770791
+1001,Mogoyna,Koprivnica,1,1,1,manual,0,46.1672461,16.8102183
+1002,Mokrycza,,1,1,3,singleton,0,,
+1003,Molwe ad Zenth Gergwara,,1,1,1,singleton,0,,
+1004,Molwycza,MOLVICE,4,5,10,modern,0,45.7688258,15.7544397
+1005,Molywa,,1,1,2,singleton,0,,
+1006,Monchewcz,Galovac,1,1,1,manual,0,45.8439994,16.8524578
+1007,Monchowcz,Galovac,1,1,4,manual,0,45.8439994,16.8524578
+1008,Monozlo,,1,1,19,singleton,0,,
+1009,Monozlo cum pertinentiis,,1,4,8,orthographic-fuzzy,1,,
+1010,Morawcz,Martinac Trojstveni,1,2,6,manual,0,45.9491719,16.9156958
+1011,Mosyna,Pupelica,1,2,5,manual,0,45.8798969,17.0362289
+1012,"Mosynya, Meglecz",,1,1,1,singleton,0,,
+1013,Moykowcz,MAJKOVEC,4,1,8,singleton,0,45.8787779,16.2805576
+1014,"Mraczlin, Korylowcz","MRACLIN, KURILOVEC",4,2,6,orthographic-exact,0,45.6667778,16.0967312
+1015,Mraczlyn,MRACLIN,4,1,21,singleton,0,45.6667778,16.0967312
+1016,Mwsyna,Šandrovac,1,1,1,manual,0,45.9101143,17.0209868
+1017,"Myhalaowcz, Lypowcz",,1,1,1,singleton,0,,
+1018,Myhalencz,Lipovac Lonjski,1,1,1,manual,0,,
+1019,"Myhalyownicza, Lypowcz",,1,1,1,singleton,0,,
+1020,Myholcz,MIHOLEC,1,6,9,modern,0,46.0545405,16.4462061
+1021,"Myholcz, Fodrowcz","MIHOLEC, FODOROVEC",1,2,5,modern,0,46.0545405,16.4462061
+1022,Myholnya,LETOVANIĆ,4,1,1,manual,0,45.5078202,16.1989220
+1023,Mykowcz,MIKOVEC,1,2,10,orthographic-exact,0,46.0879775,16.4765791
+1024,Mykowcz,MIKOVEC,4,1,1,singleton,0,46.0897231,16.4731708
+1025,Mykusewcz,Miklouš,1,1,1,manual,0,45.7266777,16.7043771
+1026,"Mylethynch, Kamarcha",,1,2,2,orthographic-fuzzy,1,,
+1027,Myndchenth,,1,1,1,singleton,0,,
+1028,Myndczenth,,3,1,3,singleton,0,,
+1029,Myndczenth cum pertinentiis,,3,2,2,orthographic-exact,0,,
+1030,Myndzenth,,4,1,1,singleton,0,,
+1031,Myndzenth-ad Racham,,1,1,1,singleton,0,,
+1032,"Myrkowcz, Brezowa","MIRKOVEC, BREZOVA",2,1,9,singleton,0,,
+1033,Nagh Gara,Velika Gora,4,2,4,manual,0,45.9591124,16.1943780
+1034,Nagh Thopalocz,,3,4,8,orthographic-fuzzy,1,,
+1035,Nagh Mlaka,VELIKA MLAKA,4,5,13,modern,0,45.7359614,16.0300097
+1036,Nagh Thabor,VELIKI TABOR,2,4,10,modern,0,46.1546586,15.6513664
+1037,Naghfalw,,1,1,1,singleton,0,,
+1038,"Naghy Kemlek, Brezowycza, Gregwrowcz","KALNIK, , GREGUROVEC",1,1,1,singleton,0,46.1326845,16.4866507
+1039,Narth,,1,1,8,singleton,0,,
+1040,Nassenyna,,2,2,13,orthographic-exact,0,,
+1041,Naseuyna,,2,1,3,singleton,0,,
+1042,Nassenya,,2,1,2,singleton,0,,
+1043,"Nedelyancz, Gayancz","NEDELJANEC, GOJANEC",2,2,6,modern,0,46.2890570,16.2912974
+1044,Nezpesa,NESPEŠ,4,5,27,modern,0,45.9445742,16.2007596
+1045,Nesethyno,,1,1,3,singleton,0,,
+1046,Nethech,Ferdinandovac,1,2,2,manual,0,46.0608291,17.1928025
+1047,Nezethyno,,1,1,1,singleton,0,,
+1048,Neznan,,1,1,1,singleton,0,,
+1049,Neznanheg,Čepelovac,1,3,4,manual,0,45.9949728,17.0425162
+1050,Nobiles unius sessionis,,4,1,41,singleton,0,,
+1051,Nofkowcz,Novaki,1,1,1,manual,0,45.8469164,16.5578347
+1052,"Nouigrad, Zdenchecz","NOVIGRAD,",4,3,3,modern,0,,
+1053,"Nouigrad, Zdenchecz, Jezero, Martinzkawez","NOVIGRAD, , MARTINSKA VES",4,1,1,singleton,0,,
+1054,Nowygrad,NOVIGRAD,4,6,7,modern,0,,
+1055,Nova Villa sub Gemlech,,1,1,1,singleton,0,,
+1056,Nowa Zenth Marton,Martinac Trojstveni,1,3,6,manual,0,45.9491719,16.9156958
+1057,Nowe Chyche,NOVE ČIČE,4,6,10,orthographic-fuzzy,1,45.7033996,16.1271734
+1058,Nowak,NOVAKI,1,2,8,modern,0,45.8469164,16.5578347
+1059,Zomzedwara-castrum / Nowak,NOVAKI,4,4,9,modern,0,45.7968280,15.8022318
+1060,Nowak-ad Achynam,,1,1,1,singleton,0,,
+1061,Nowakowcz,CERJE,4,2,4,manual,0,45.8296604,16.1914690
+1062,Obchewcz,Općevac,1,2,3,manual,0,45.7280399,16.5571761
+1063,Obed,OBEDIŠĆE,1,2,7,modern,0,45.7548925,16.3090960
+1064,Obranowcz Zenthmichael,,1,1,3,singleton,0,,
+1065,Obres,OBREŽ,4,3,8,modern,0,45.7159096,15.9417396
+1066,Obres,OBREŽ,2,3,8,modern,0,,
+1067,Obres,OBREŠKA,1,2,7,modern,0,45.7852319,16.4522465
+1068,"Obres, Koztanyewcz","OBREŽ, KOSTANJEVEC",4,2,2,orthographic-exact,1,45.7159096,15.9417396
+1069,"Obres, Lomnycza","OBREŽ, LOMNICA",4,1,2,singleton,0,45.7159096,15.9417396
+1070,"Obres, Welkowcz","OBREŽ,",2,1,2,singleton,0,,
+1071,Odra,ODRA,4,1,4,singleton,0,45.7297740,15.9925357
+1072,Odrazenthgergh,,4,5,5,orthographic-fuzzy,1,,
+1073,"Odra, Bwzyn","ODRA, BUZIN",4,2,16,orthographic-exact,0,45.7297740,15.9925357
+1074,"Odra, Bwzyn, Syllyakowyna","ODRA, BUZIN, ŠILJAKOVINA",4,1,4,singleton,0,45.7297740,15.9925357
+1075,"Odra, Syllyakowyna","ODRA, ŠILJAKOVINA",4,2,3,modern,0,45.7297740,15.9925357
+1076,Okchewcz,Općevac,1,1,1,manual,0,45.7280399,16.5571761
+1077,Okych,OKIĆ,4,16,40,modern,0,45.7487818,15.7067533
+1078,"Okych, Tersych","OKIĆ,",4,1,1,singleton,0,45.7487818,15.7067533
+1079,"Olywercz, Kothnak",,1,1,1,singleton,0,,
+1080,Omelya,,4,2,11,orthographic-exact,0,,
+1081,Omelye,,4,2,10,orthographic-exact,0,,
+1082,Omylya,Omillia,4,4,9,manual,0,,
+1083,Omnii Sancti,,1,1,4,singleton,0,,
+1084,"Omnii Sancti (Svi Sveti, Sesvete)",,1,1,2,singleton,0,,
+1085,Omnii Sancti ad Monozlo,,1,1,1,singleton,0,,
+1086,Omnii Sancti in Prodauiz,,1,1,1,singleton,0,,
+1087,Omnii Sancti-in portu,,4,1,8,singleton,0,,
+1088,Opathowcz,Apatovac,1,13,17,manual,0,,
+1089,Oppathowyna,,4,2,9,orthographic-exact,0,,
+1090,Opathowyna (dempto Gorzko),,4,1,1,singleton,0,,
+1091,Oppidum,,3,1,1,singleton,0,,
+1092,Opporowcz,OPOROVEC,4,1,1,singleton,0,45.8523340,16.0622955
+1093,Orbona,Obrovnica,1,1,9,manual,0,45.8293983,16.8754274
+1094,Orbowcz,,2,1,1,singleton,0,,
+1095,Orehocz,Orehovec,3,1,1,manual,0,,
+1096,Orehowcz,OREHOVEC,1,5,34,modern,0,46.0721813,16.4613862
+1097,Orehowcz,Orehovec,3,7,11,manual,0,,
+1098,"Orehowcz, Klenowcz","OREHOVEC, KLENOVEC",1,4,9,modern,0,46.0721813,16.4613862
+1099,"Orehowcz, Megye","OREHOVEC, MEĐA",1,2,8,orthographic-exact,0,46.0721813,16.4613862
+1100,"Orehowycza, Graberye","OREHOVICA , GRABE",2,2,5,orthographic-exact,1,46.1014693,15.9757103
+1101,Orehowycza,OREHOVICA,2,3,15,modern,0,46.1014693,15.9757103
+1102,"Orehowycza, Borychewcz","OREHOVICA, BORIČEVEC",2,3,8,modern,0,46.1014693,15.9757103
+1103,Orehowcz,OREHOVEC,2,1,2,singleton,0,46.1992334,16.3645309
+1104,Orehowcz Zent Peter,OREHOVEC SVETI PETAR,1,1,1,singleton,0,46.0721813,16.4613862
+1105,"Orehowcz, Polyana","OREHOVEC, POLJANA",1,1,1,singleton,0,46.0721813,16.4613862
+1106,Oresya,,3,1,4,singleton,0,,
+1107,Orosowcz,,1,3,4,orthographic-exact,0,,
+1108,"Orossowcz, Chakawcz",,1,1,1,singleton,0,,
+1109,Orozowcz,,1,1,1,singleton,0,,
+1110,Ortunoucz,,1,2,4,orthographic-fuzzy,1,,
+1111,Ostercz,OŠTRC,2,8,36,modern,0,46.1664,16.0845
+1112,Othnya Zenth Pal,,1,1,2,singleton,0,,
+1113,"Otthok, Jemryhowcz","OTOK, IMBRIOVEC",1,1,1,singleton,0,45.7934210,16.5881516
+1114,"Otthok-superior et inferior, Zenthilona apud Zamobor","OTOK, SV. HELENA",4,1,1,singleton,0,,
+1115,Owar,Starigrad,1,1,1,manual,0,46.1400000,16.8100000
+1116,Owar ad Caproncza,Starigrad,1,2,2,manual,0,46.1400000,16.8100000
+1117,Owar-waywodatus,Starigrad,1,1,1,manual,0,46.1400000,16.8100000
+1118,Ozal-castrum cum pertinentiis,OZALJ,4,7,10,modern,0,45.6144496,15.4784773
+1119,Ozterwna,OSTRNA,4,4,14,modern,0,45.7941141,16.2711123
+1120,Ozwgo,Osuđevo,1,2,5,manual,0,46.0138655,16.6313316
+1121,"Ozwgyo, Zenthgergh",,1,1,1,singleton,0,,
+1122,Ozwgyo-cum Zenthgeorgh,,1,1,1,singleton,0,,
+1123,Palata,,1,2,2,orthographic-exact,0,,
+1124,Palychna Zenth Peter,Severin,1,6,24,manual,0,45.833300,16.966700
+1125,Palotha,,1,1,2,singleton,0,,
+1126,Palychna,Palešnik,1,1,5,manual,0,45.6364872,16.9776100
+1127,"Palychna Zenthpeter, Gradysthe",,1,1,1,singleton,0,,
+1128,"Panynch, Chernech, Antholowcz, Thremech",,3,1,1,singleton,0,,
+1129,Paulowcz,PARUŽEVAC,1,8,14,modern,0,45.8350330,16.4979893
+1130,Parwsowcz ad Belam,,1,1,3,singleton,0,,
+1131,"Parwzowcz, Kwrenowcz, Blasowcz",,1,1,1,singleton,0,,
+1132,Pasahegh,,1,1,1,singleton,0,,
+1133,Paschyncz,,1,2,3,orthographic-fuzzy,1,,
+1134,Pasthincz,,1,1,1,singleton,0,,
+1135,Pathak,POTOK,1,2,11,modern,0,46.1152597,16.4821263
+1136,"Paulosancz, Bresowcz",,1,1,1,singleton,0,,
+1137,Pavkowcz,,1,1,1,singleton,0,,
+1138,"Pawlochancz, Brezowcz",,1,1,2,singleton,0,,
+1139,"Pawlowcz, Palche Polye",,1,1,1,singleton,0,,
+1140,Peherio i Bedenycha,"PSARJEVO, BEDENICA",4,1,1,singleton,0,45.9434583,16.2203369
+1141,Pekercz,,1,1,3,singleton,0,,
+1142,Peklencze-waywodatus inferior,,1,2,3,orthographic-fuzzy,1,,
+1143,Pekercz-waywodatus medius,,1,1,1,singleton,0,,
+1144,Pekercz-waywodatus superior,,1,2,2,orthographic-fuzzy,1,,
+1145,Pekerzerdahel,Sredjani,1,1,3,manual,0,,
+1146,Peklenycze,Paklenica,1,2,3,manual,0,45.3271695,17.0187837
+1147,Pekrecz,Pakrac,1,1,2,manual,0,45.4366097,17.1935694
+1148,Perchinowcz,,1,1,1,singleton,0,,
+1149,Perchinowcz cum Nagkemlek,,1,1,1,singleton,0,,
+1150,"Perchynowcz, Bywrynowcz-ad Nagh Kemlek",,1,1,1,singleton,0,,
+1151,Perhoch,,4,1,2,singleton,0,,
+1152,Persinowcz,,1,2,2,orthographic-exact,0,,
+1153,Persynowcz,KOBILIĆ,4,1,6,manual,0,45.7319711,16.1012819
+1154,Petrwsowcz,PETRUŠEVEC,2,9,14,modern,0,46.1213711,16.1387745
+1155,Peschenycza,PEŠĆENICA,4,5,11,modern,0,45.8123638,16.0078639
+1156,Pesthenye,Pistana,1,4,45,manual,0,,
+1157,Pezeryo,PSARJEVO,4,6,93,modern,0,45.9434583,16.2203369
+1158,Peteryancz,Peteranec,3,3,8,manual,0,46.1883011,16.8841455
+1159,Petrowyna,PETROVINA,4,6,54,orthographic-exact,0,45.6928387,16.0312510
+1160,Petrwsowcz,PETRUŠEVEC,4,4,5,modern,0,45.7717668,16.0592337
+1161,Petrosancz,PETRUŠEVEC,3,1,1,singleton,0,,
+1162,Petrowcz,,3,2,8,orthographic-exact,0,,
+1163,Petrowcz,,1,1,2,singleton,0,,
+1164,Petrowdolecz,,3,1,2,singleton,0,,
+1165,Petrowyna,Petrovina,1,2,18,manual,0,,
+1166,Petrowyna in Farkasowcz,,1,1,1,singleton,0,,
+1167,Pezedolcz ad Belam,,1,1,1,singleton,0,,
+1168,"Pezeryo, Bukoucz","PSARJEVO, BUKOVEC",4,1,2,singleton,0,45.9434583,16.2203369
+1169,Pinchowcz,,1,1,1,singleton,0,,
+1170,Planyna,PLANINA,4,3,20,modern,0,45.9272658,16.0879858
+1171,Pleszo,PLESO,4,2,9,modern,0,45.7402719,16.0722475
+1172,"Plezo, Gorycza","PLESO, GORICA",4,2,2,modern,0,45.7402719,16.0722475
+1173,Pobresye,PODBREŽJE,4,6,96,modern,0,45.7687175,15.9688941
+1174,"Pobresye, Thernye, Kerchy","PODBREŽJE, TRNJE, KRČEVINE",4,1,1,singleton,0,45.7687175,15.9688941
+1175,"Pobresye, Therye","PODBREŽJE, TRNJE",4,1,1,singleton,0,45.7687175,15.9688941
+1176,Podbresye,Čepelovac,1,5,9,manual,0,45.9949728,17.0425162
+1177,Podbwkowcz,,1,1,1,singleton,0,,
+1178,Podgaycz,,1,1,1,singleton,0,,
+1179,Podgorya,Podgorje,1,1,12,manual,0,45.961240,17.063643
+1180,Podgorya,Sveta Jana,4,1,8,manual,0,45.4808110,15.8435920
+1181,Podgorya-ad Zenthlelek,,1,1,3,singleton,0,,
+1182,Podgorya-plebanatus,,4,1,1,singleton,0,,
+1183,Podgorye-de Gorbonok,,1,1,1,singleton,0,,
+1184,Podgradie,Blinja,4,1,2,manual,0,45.4225100,16.4572695
+1185,Podkraych,,1,1,1,singleton,0,,
+1186,Podkrayta,,1,1,2,singleton,0,,
+1187,"Podotoche, Lwchylnycza","PODOTOČJE, LUČILNICA",4,3,6,modern,0,45.6953168,16.1460850
+1188,Podotochye,PODOTOČJE,4,6,12,modern,0,45.6953168,16.1460850
+1189,"Podothochye, Bwzyn","PODOTOČJE, BUZIN",4,1,1,singleton,0,45.6953168,16.1460850
+1190,"Podothochye, Odra, Bwzyn, Lwchylnycza","PODOTOČJE, ODRA, BUZIN, LUČELNICA",4,2,3,modern,0,45.6953168,16.1460850
+1191,"Podotochye, Odra, Bwzyn, Lochylnycza, Lekenyk","PODOTOČJE, ODRA, BUZIN, LUČELNICA, LEKENIK",4,2,6,modern,0,45.6953168,16.1460850
+1192,"Podotochie, Luchilnycza","PODOTOČJE, LUČELNICA",4,1,3,singleton,0,45.6953168,16.1460850
+1193,Podwerh,,4,1,1,singleton,0,,
+1194,Poganecz,POGANČEC,1,3,25,modern,0,45.9455926,16.3865448
+1195,"Poganchez, Zenth Dienes","POGANČEC, DIANEŠ",1,1,1,singleton,0,45.9455926,16.3865448
+1196,"Pohakowcz, Czyglenycze",", CIGLENICA",2,1,2,singleton,0,,
+1197,Poklechan,,2,2,2,orthographic-fuzzy,1,,
+1198,Pokwpye,POKUPSKO,4,9,75,modern,0,45.4852572,15.9919061
+1199,Pokwpzkywerh,,4,2,3,orthographic-fuzzy,1,,
+1200,Pokorenowecz,,1,3,4,orthographic-fuzzy,1,,
+1201,Pokwpsky Werh,,4,1,1,singleton,0,,
+1202,Polyana,POLJANA,1,7,33,modern,0,45.8474060,16.4411653
+1203,Polosythycza,Stara Plošćica,1,1,3,manual,0,45.7616253,16.8854923
+1204,Polyana,Poljana,2,1,6,manual,0,46.2700000,16.3180556
+1205,Polye,POLJE (KOD KRIŽA),1,1,1,singleton,0,45.9643556,16.7430610
+1206,Pomperowcz,POMNEROVAC,2,2,10,modern,0,,
+1207,Ponkowcz,,1,1,1,singleton,0,,
+1208,Popowcz,,1,1,9,singleton,0,,
+1209,Popowcz,,2,1,1,singleton,0,,
+1210,Popwd,Bršljanica,1,1,1,manual,0,45.5827915,16.8519325
+1211,Popwd Podgorya,,1,1,4,singleton,0,,
+1212,Posahecz,,1,1,3,singleton,0,,
+1213,Posaheg,Powasahegh,1,3,12,manual,0,46.149050,16.615185
+1214,Poszawye,,4,1,1,singleton,0,,
+1215,Pothkraycz,,1,1,2,singleton,0,,
+1216,Powsevcz,,3,1,2,singleton,0,,
+1217,Powsincz,,1,2,8,orthographic-exact,0,,
+1218,Powsyncz,,3,2,4,orthographic-exact,0,,
+1219,Pozawye,,4,2,3,orthographic-exact,0,,
+1220,Pozawya,,4,1,1,singleton,0,,
+1221,Pozrednye Zelo,,1,1,1,singleton,0,,
+1222,Praschowcz,PRAŠČEVAC,1,2,6,modern,0,45.9195895,16.6499108
+1223,Prasnycza,Zdenčac,1,4,19,manual,0,45.6252288,16.9521998
+1224,Prasnycza-fortalitium novum,,1,1,2,singleton,0,,
+1225,Prastowcz,Prašćevac,1,3,3,manual,0,45.9195895,16.6499108
+1226,Praznycha,,1,1,6,singleton,0,,
+1227,Prebinowcz,,1,1,2,singleton,0,,
+1228,Prechecz,PREČEC,1,2,4,orthographic-exact,0,45.7614497,16.3527958
+1229,Predriho,Gornje Predrijevo,1,2,4,manual,0,,
+1230,Pregory,,2,1,1,singleton,0,,
+1231,Prelezye,Prilesje,1,1,1,manual,0,45.8586483,16.4219004
+1232,Prennar,,2,1,1,singleton,0,,
+1233,Prepwstowcz,PREPUŠTOVEC,2,2,3,orthographic-exact,0,46.1042619,16.1842743
+1234,Prezeka,PRESEKA,1,9,72,modern,0,45.9768556,16.3871555
+1235,Prezechna,PRESEČNO,1,5,30,modern,0,46.1964754,16.3469746
+1236,Prethoka,,4,2,6,orthographic-fuzzy,1,,
+1237,"Prezeka, Welyka","PRESEKA, VELIKA",1,1,1,singleton,0,45.9768556,16.3871555
+1238,Prezovicha-oppidum sub Nagkemlek,,1,1,1,singleton,0,,
+1239,Prykraye,,4,3,15,orthographic-fuzzy,1,,
+1240,Prykray ad Zenth Gergwara,,1,2,2,orthographic-fuzzy,1,,
+1241,Pristawcz,,1,2,3,orthographic-exact,0,,
+1242,Priulaka,,1,1,1,singleton,0,,
+1243,Processus Georgii Pyzacz ultra Kwppam,,4,1,1,singleton,0,,
+1244,Procurancia domini episcopi (Capella-villicatus),,1,1,1,singleton,0,,
+1245,Prodawyz,Virje,1,2,15,manual,0,46.0671920,16.9886896
+1246,Progowcz,Progovec,1,1,5,manual,0,,
+1247,Provinica domini episcopi,,1,1,1,singleton,0,,
+1248,Prwgowcz,Prugovac,1,1,3,manual,0,45.9699075,17.1202283
+1249,Prybychy,,4,1,1,singleton,0,,
+1250,Prychrethye,,1,1,3,singleton,0,,
+1251,Prygorya,PRIGORJE,2,2,8,modern,0,46.1805003,15.7940169
+1252,Prykray,Djurdjevac,1,1,1,manual,0,,
+1253,Pryztawcz,"RAVEN,",1,2,4,manual,0,45.9888598,16.4849942
+1254,Pwhakowcz,,2,1,1,singleton,0,,
+1255,"Pwhakowcz, Czyglena",", CIGLENICA (ZAGORSKA)",2,3,7,modern,0,,
+1256,Pwnek,,1,1,1,singleton,0,,
+1257,Pwnekowcz,,1,1,5,singleton,0,,
+1258,"Pwnekowcz, Myklwsowcz",,1,1,4,singleton,0,,
+1259,Pwschya,,4,1,1,singleton,0,,
+1260,"Pwztha Dwssycza, Hergowych Uterque","DUŽICA,",4,1,1,singleton,0,45.9205259,16.1025239
+1261,Pwztha Dwsycza,,4,1,1,singleton,0,,
+1262,"Pwztha Dwsycza, Hergoychy-ad Hrazthowycza pertinentes",,4,1,1,singleton,0,,
+1263,Pychwlyncz,,1,2,4,orthographic-exact,0,,
+1264,Pylethyncz,,1,1,1,singleton,0,,
+1265,Pyskopowczy,Biškupec Zelinski,4,1,1,manual,0,45.9615472,16.2325242
+1266,Pzaryewo,,4,1,2,singleton,0,,
+1267,Rachycza Zenth Istwan,Račica,1,4,6,manual,0,46.104251,16.863839
+1268,Racha,Račica,1,2,15,manual,0,46.104251,16.863839
+1269,Rachythoych,,4,1,1,singleton,0,,
+1270,Radessych,,1,1,1,singleton,0,,
+1271,"Radessych, Dywrynowcz-ad Kemlek",,1,1,1,singleton,0,,
+1272,Radhycza Zenth Iwan,,1,1,1,singleton,0,,
+1273,Radmanczy,BUKOVŠĆAK,4,3,5,manual,0,45.9055538,15.8017033
+1274,Radnak,Rayncek,1,1,2,manual,0,,
+1275,Radoboya,,2,1,1,singleton,0,,
+1276,Radoysche,,1,2,4,orthographic-fuzzy,1,,
+1277,Radozlawcz,,1,1,2,singleton,0,,
+1278,Rahowcza,RAKOVEC,1,7,34,modern,0,46.1746769,16.4228180
+1279,Rahocza,Orahovica,1,1,2,manual,0,,
+1280,Rakarye,RAKARJE,4,4,26,modern,0,45.7260048,16.0869098
+1281,"Rakitowcz, Pertwssewcz","RAKITOVEC, PETRUŠEVEC,",4,3,3,modern,0,45.6579460,16.1409029
+1282,Rakwsowcz,,1,1,1,singleton,0,,
+1283,Rakythnicha,RAKITNICA,1,2,2,orthographic-exact,0,45.8332906,16.6861952
+1284,"Rakythowcz, Petrwssowcz","RAKITOVEC, PETRUŠEVEC",4,6,9,modern,0,45.6579460,16.1409029
+1285,Rakythowcz,RAKITOVEC,4,3,24,modern,0,45.6579460,16.1409029
+1286,"Rakythowcz, Nag Mlaka","RAKITOVEC, VELIKA MLAKA",4,2,4,orthographic-exact,0,45.6579460,16.1409029
+1287,Ramachawelgh,,1,2,2,orthographic-fuzzy,1,,
+1288,Ramagawelge,,1,1,1,singleton,0,,
+1289,Rampolcz,,1,1,1,singleton,0,,
+1290,"Ranyncz, Chernecz, Antholowcz, Thremecz",,3,1,1,singleton,0,,
+1291,Rassa,Rača,1,1,3,manual,0,45.7988038,16.9521934
+1292,Rathkolcz,,2,1,1,singleton,0,,
+1293,"Rathkowcz, Germchar","RATKOVEC, GRANČAR",2,4,8,modern,0,46.1181671,16.0847006
+1294,"Rathkowcz, Kolarowcz, Rawno",RATKOVEC,2,6,7,modern,0,46.1181671,16.0847006
+1295,"Rathkowcz, Myrkowcz","RATKOVEC, MIRKOVEC",2,1,2,singleton,0,46.1181671,16.0847006
+1296,Rathkowelge,,1,1,1,singleton,0,,
+1297,"Rauencz, Chernyncz, Anthalowcz, Tremecz",,3,1,1,singleton,0,,
+1298,Rawen,RAVEN,1,2,33,orthographic-exact,0,45.9888598,16.4849942
+1299,"Rawen, Kozthanyowez","RAVEN,",1,1,1,singleton,0,45.9888598,16.4849942
+1300,Ray,,1,1,9,singleton,0,,
+1301,"Ray, Chepyn",,1,1,1,singleton,0,,
+1302,Raykowcz,,1,1,6,singleton,0,,
+1303,Raynok,,1,1,4,singleton,0,,
+1304,Razmerowcz,,1,1,1,singleton,0,,
+1305,Raznethyne,,1,1,1,singleton,0,,
+1306,Razossya,,1,1,2,singleton,0,,
+1307,Razthoka,RASTOKI,4,2,2,modern,0,45.6894353,15.5702461
+1308,Razyna,RASINJA,1,6,29,modern,0,46.1879999,16.7085329
+1309,"Razynya, Kwzmyncz, Koledyncz","RASINJA, KUZMINEC, KOLEDINEC",1,4,7,modern,0,46.1879999,16.7085329
+1310,"Razynya, Gorycza","RASINJA, GORICA",1,1,2,singleton,0,46.1879999,16.7085329
+1311,"Razynya, Kwzmyncz cum pertinentiis","RASINJA, KUZMINEC",1,1,1,singleton,0,46.1879999,16.7085329
+1312,"Razynya, Kwzmyncz, Koledyncz, Jelkowcz","RASINJA, KUZMINEC, KOLEDINEC, ĐELEKOVEC",1,1,1,singleton,0,46.1879999,16.7085329
+1313,Rechycza,REČICA,4,5,14,modern,0,45.5082501,15.6617627
+1314,Reche,,1,1,3,singleton,0,,
+1315,Reche-Suppanatus,,1,2,2,orthographic-fuzzy,1,,
+1316,Reche-Vayuodatus,,1,2,2,orthographic-fuzzy,1,,
+1317,"Rechycza, Lwka","REČICA, LUKA",4,1,1,singleton,0,45.5082501,15.6617627
+1318,Regaryowecz,,1,1,1,singleton,0,,
+1319,Regowcz,,1,2,4,orthographic-fuzzy,1,,
+1320,Ryeka,Reka,4,2,15,manual,0,46.1315112,16.7711853
+1321,Reka cum pertinetiis Kys Kemlek,,1,2,2,orthographic-fuzzy,1,,
+1322,"Reka, Malchez",,1,1,1,singleton,0,,
+1323,Remethe,,1,1,3,singleton,0,,
+1324,Remethyncz,REMETINEC,1,6,22,modern,0,45.9270441,16.5534121
+1325,"Remethincz, Magerowcz",,1,1,1,singleton,0,,
+1326,Remethyncz-sub Medwewar,REMETE,4,2,2,modern,0,45.8427380,15.9956597
+1327,Repyncz,REPINEC,1,4,13,modern,0,45.9496503,16.5053178
+1328,"Repyncz-fortalitium, Megye","REPINEC, MEĐA",1,1,1,singleton,0,45.9496503,16.5053178
+1329,"Rethkowcz, Erdowcz",", ERDOVEC",1,1,3,singleton,0,,
+1330,Rewche,,1,1,3,singleton,0,,
+1331,Rogaryewcz,,1,2,3,orthographic-fuzzy,1,,
+1332,Rogozna,,1,1,10,singleton,0,,
+1333,Rokonok,Rakovec,1,20,49,manual,0,45.9333,16.3167
+1334,Rokonok,RAKOVAC,4,1,3,singleton,0,45.7055813,15.6694216
+1335,"Romethincz, Garych, Solyn",,1,1,1,singleton,0,,
+1336,Rosenycza,ROŽENICA,4,3,12,modern,0,45.5438055,16.0095091
+1337,Rosenyk,ROŽENICA,1,3,13,modern,0,,
+1338,Rosewcz,,1,1,1,singleton,0,,
+1339,Rosoncz,Ruškovac,1,1,3,manual,0,45.7205173,16.8777698
+1340,Rowno,,2,1,3,singleton,0,,
+1341,Roycha,,1,1,1,singleton,0,,
+1342,Royche,Rovišće,1,1,3,manual,0,45.9492731,16.7277986
+1343,Rwchlewcz,,1,1,2,singleton,0,,
+1344,Rwdynwelge,,2,1,1,singleton,0,,
+1345,Ryeka,RIJEKA,1,1,1,singleton,0,,
+1346,Rypach,,4,1,1,singleton,0,,
+1347,Sabacz,,2,1,6,singleton,0,,
+1348,Sabnycza,SVETI IVAN ŽABNO,1,6,40,modern,0,45.9464805,16.6055861
+1349,"Sabnycza, Mindchenth",,1,1,1,singleton,0,,
+1350,"Sabnycza,Bablyak, Czyrquena",,1,1,1,singleton,0,,
+1351,Sabnycza-in Markowcz,,1,1,2,singleton,0,,
+1352,Sabnyk Zenthberthalam,,2,1,1,singleton,0,,
+1353,Salethyncz,,1,1,3,singleton,0,,
+1354,Salgo,,1,1,1,singleton,0,,
+1355,Salmocz,,2,1,1,singleton,0,,
+1356,Zamobor,SAMOBOR,4,4,64,modern,0,45.8032792,15.7179232
+1357,Samsynowcz,ŠAŠINOVEC,4,5,17,modern,0,45.8505596,16.1655408
+1358,Sancta Anna (Wragoucz),,1,1,1,singleton,0,,
+1359,Zenth Clara,SV. KLARA,1,2,2,modern,0,,
+1360,Sancta Clara-area prope Zawam,SV. KLARA,4,1,1,singleton,0,45.7557893,15.9721542
+1361,Sancta Elena,,4,1,2,singleton,0,,
+1362,Sancta Katharina,,1,1,1,singleton,0,,
+1363,Sancta Maria sub Okych,,4,1,1,singleton,0,,
+1364,Sancta Maria-plebanatus,,4,1,1,singleton,0,,
+1365,Sancte Anna,,1,1,1,singleton,0,,
+1366,Sancte Crucis,KRIŽ,1,1,1,singleton,0,45.6632061,16.5204571
+1367,Sancte Crucis Insula,,2,1,1,singleton,0,,
+1368,Sancti Cosme,,1,1,1,singleton,0,,
+1369,Sancti Cosme-ad Achynam,,1,1,1,singleton,0,,
+1370,Sancti Georgius-in Hemowcz,,1,1,1,singleton,0,,
+1371,Sancti Martini-ad Zalathnok,,1,1,1,singleton,0,,
+1372,Sancti Martinus,,4,1,1,singleton,0,,
+1373,Sanctus Benedictus,,1,1,1,singleton,0,,
+1374,Sanctus Cosma,,1,1,1,singleton,0,,
+1375,Sanctus Crux,,1,1,4,singleton,0,,
+1376,Sanctus Dominicus,,1,1,1,singleton,0,,
+1377,Sanctus Johannes in Prodawiz,,1,1,1,singleton,0,,
+1378,Sanctus Nicolaus,,1,1,3,singleton,0,,
+1379,Sanctus Stephanus,,1,1,3,singleton,0,,
+1380,Saranowcz,,1,1,1,singleton,0,,
+1381,Sasyn,ŽAŽINA,4,11,30,modern,0,45.5136849,16.2501045
+1382,Satran,,1,1,1,singleton,0,,
+1383,"Scherbyncz, Geremchar, Ratkowcz","ŠĆERBINEC, GRANČARI, RATKOVEC",2,2,2,orthographic-exact,0,,
+1384,"Scherbyncz, Germchar","ŠĆERBINEC, GRANČARI",2,3,3,modern,0,,
+1385,"Scherbyncz, Ratkowcz, Bathyna","ŠĆERBINEC, RATKOVEC",2,1,1,singleton,0,,
+1386,Schytaryo,ŠČITARJEVO,4,7,73,modern,0,45.7688858,16.1170565
+1387,Schwkancz,,1,1,7,singleton,0,,
+1388,"Schytaryio, Chernkowcz","ŠČITARJEVO, ČRNKOVEC",4,3,5,modern,0,45.7688858,16.1170565
+1389,"Sczezhwpnycze, Zlanowch sub Medwewar",,4,1,1,singleton,0,,
+1390,Sebastyanowcz,,2,1,1,singleton,0,,
+1391,Selyn-cum pertinentiis,ŽELIN,4,17,25,modern,0,45.7150002,16.0860883
+1392,Selynok,,1,1,1,singleton,0,,
+1393,Zwhodol,SEMOVEC,2,7,40,modern,0,46.3008848,16.4777174
+1394,Zenkowcz,SENKOVČICA,4,3,9,modern,0,,
+1395,Serdethyncz,,2,1,1,singleton,0,,
+1396,Seryawyncz,ŽERJAVINEC,4,3,11,modern,0,45.8688625,16.1650186
+1397,Sydyna,,1,4,7,orthographic-exact,0,,
+1398,Simonoucz,ŠIMUNOVEC,3,1,1,singleton,0,,
+1399,Simwnowcz,Šimunčevec Šimunovec,4,8,57,manual,0,,
+1400,Simonwelge,,3,2,15,orthographic-exact,0,,
+1401,Sythomyer,ŽITOMIR,4,6,24,modern,0,46.0171515,16.1966643
+1402,Slywercz,,1,1,1,singleton,0,,
+1403,Sokowcz,,1,1,2,singleton,0,,
+1404,Soploncza,Gornja Stupčanica,1,1,13,manual,0,45.6253030,17.3375580
+1405,Soproncha,,1,3,8,orthographic-exact,0,,
+1406,Sosomberk,Sušobreg,4,4,16,manual,0,46.0386289,16.1659329
+1407,Sosen,,1,1,1,singleton,0,,
+1408,Spanicz,,1,1,1,singleton,0,,
+1409,Srachyncz,,2,1,1,singleton,0,,
+1410,Steffancz,ŠTEFANEC,2,5,7,modern,0,46.3031360,16.4579003
+1411,Stenyowcz,,4,1,1,singleton,0,,
+1412,Stephancz,ŠTEFANEC,1,1,1,manual,0,,
+1413,Stholnikowcz,,1,1,1,singleton,0,,
+1414,Zomzedwara-castrum / Ztopnyk,STUPNIK,4,5,10,modern,0,45.7465555,15.8434018
+1415,Supa,,1,1,1,singleton,0,,
+1416,Supancz,,1,1,1,singleton,0,,
+1417,Superior Opathyncz,OPATINEC,1,1,1,singleton,0,45.7172645,16.3718025
+1418,Swkowcz,,1,1,1,singleton,0,,
+1419,Swmechecz,Osek,1,1,3,manual,0,,
+1420,Swpancz ad Zenth Gergwara,,1,1,1,singleton,0,,
+1421,Swssomberk,ŠUŠOMBERK,4,1,1,singleton,0,,
+1422,Swystowcz,Klokočevac,1,1,1,manual,0,45.9178685,16.7839294
+1423,Sybrynowcz,Žibrinovec,1,3,5,manual,0,46.0993116,16.5137292
+1424,"Sybrynocz, Jalsovcz",,1,1,1,singleton,0,,
+1425,Sylakowyna,ŠILJAKOVINA,4,1,2,singleton,0,45.6337476,16.0228458
+1426,"Syllyakowyna, Odra","ŠILJAKOVINA, ODRA",4,2,4,orthographic-exact,0,45.6337476,16.0228458
+1427,"Symonowcz, Zelyna","ŠIMUNOVEC, ZELINA",4,1,1,singleton,0,,
+1428,Symwchowcz,,1,1,1,singleton,0,,
+1429,Synchewcz,,1,1,1,singleton,0,,
+1430,Sypak,ŠIPAK,4,1,12,singleton,0,45.6192462,15.5669341
+1431,Syprak,,1,1,1,singleton,0,,
+1432,Syslawychy,ŠIŠLJAVIĆ,4,6,38,modern,0,45.5193724,15.7593968
+1433,Syssyncz,ŠIŠINEC,4,5,16,modern,0,45.4502378,16.0791404
+1434,Sywecz,,1,1,4,singleton,0,,
+1435,Zyzek,SISAK,4,12,31,modern,0,45.4891750,16.3746041
+1436,Thabor,TABOR,2,3,5,modern,0,46.2079223,15.7701762
+1437,Thernowcz,TRNOVEC,2,5,10,modern,0,46.2942784,16.3992728
+1438,"Temerye, Czezarowcz",,1,1,2,singleton,0,,
+1439,"Temerye, Mylethyncz",,1,1,1,singleton,0,,
+1440,Terbennye,Turbina,1,1,1,manual,0,,
+1441,"Terbyne, Lokawecz",,1,1,1,singleton,0,,
+1442,"Thernowcz, Kochan","TRNOVEC, KUČAN",2,5,6,modern,0,46.2942784,16.3992728
+1443,Thernowcz,Markuševačka Trnava,4,3,4,manual,0,45.8808394,16.0330110
+1444,Tesnahege,,1,1,1,singleton,0,,
+1445,Thalanoucz,,3,1,2,singleton,0,,
+1446,Thallocz,,3,1,5,singleton,0,,
+1447,"Thallocz, Lyppa, Martinowcz",,3,1,2,singleton,0,,
+1448,Thaloucz,,3,1,2,singleton,0,,
+1449,"Tharnowcz, Berethyncz","TRNOVEC, BERETINEC",2,5,29,modern,0,46.2942784,16.3992728
+1450,Tharnowcz,TRNOVEC,1,1,1,singleton,0,46.2981151,16.4428652
+1451,Thassolcz,BEDENICA,4,1,1,manual,0,46.0326343,16.2432436
+1452,Thechenyk,TUČENIK,1,1,1,singleton,0,45.9412351,16.5289692
+1453,Themennycze,,1,1,1,singleton,0,,
+1454,Themerye,Temerie,1,1,9,manual,0,,
+1455,"Themerye, Zdenchan",,1,1,1,singleton,0,,
+1456,"Themerye, Zenth Iwan",,1,1,1,singleton,0,,
+1457,Themeryen,,1,1,2,singleton,0,,
+1458,"Themeryen,Cherarocz",,1,1,1,singleton,0,,
+1459,"Therbenye, Lwkaucz",,1,2,2,orthographic-fuzzy,1,,
+1460,Therchech,Tomašica,1,1,1,manual,0,45.6432165,17.0173219
+1461,Therchyan,,1,1,1,singleton,0,,
+1462,Thermchan ad Gemlech,,1,1,1,singleton,0,,
+1463,Thernawa,,1,1,1,singleton,0,,
+1464,"Thernawa, Nowaki",,4,1,1,singleton,0,,
+1465,"Thernowcz, Korylowcz",", KURILOVEC",4,2,6,modern,0,,
+1466,"Thernowcz, Rakythowcz",", RAKITOVEC",4,1,2,singleton,0,,
+1467,"Thernowcz, Rakythowcz, Mraczlyn",", RAKITOVEC, MRACLIN",4,1,1,singleton,0,,
+1468,"Thernowcz, Zobachlaz",,4,1,2,singleton,0,,
+1469,Therschan,,1,1,1,singleton,0,,
+1470,Thersich,,4,2,4,orthographic-exact,0,,
+1471,Thersthyan,,1,1,1,singleton,0,,
+1472,Thersych ad Okych,,4,1,1,singleton,0,,
+1473,Thersych-oppidum ad Okych,,4,1,1,singleton,0,,
+1474,Therzthenycze,Teratenik,1,2,3,manual,0,,
+1475,Thomasdowcz,Tomašica,1,2,4,manual,0,45.6432165,17.0173219
+1476,Thomasewcz,,2,1,1,singleton,0,,
+1477,"Thomassewcz, Cherncz, Byskupowcz",,2,1,1,singleton,0,,
+1478,Thoplicensis,Varaždinske Toplice,2,1,1,manual,0,46.2166667,16.4166667
+1479,Thoplychycza,TOPLICA,4,6,20,modern,0,45.2943011,15.9707037
+1480,Thoplycza,TOPLICA,2,4,19,modern,0,,
+1481,Thopolchazenthgergh,,1,1,2,singleton,0,,
+1482,Thopolyancz,,1,1,2,singleton,0,,
+1483,Thopozka,Topusko,4,1,1,manual,0,45.2943011,15.9707037
+1484,Thorchecz,Tomašica,1,1,1,manual,0,45.6432165,17.0173219
+1485,Thornava,,1,1,1,singleton,0,,
+1486,Thossewczy,BEDENICA,4,1,1,manual,0,46.0326343,16.2432436
+1487,Thossowcz,,4,1,1,singleton,0,,
+1488,Thothwsewyna,,1,2,2,orthographic-exact,0,,
+1489,Thrakostyan,TRAKOŠĆAN,2,8,16,modern,0,46.2589761,15.9482046
+1490,Threm,,4,4,20,orthographic-fuzzy,1,,
+1491,Tremecz,Strmec Ravenski,1,2,15,manual,0,,
+1492,Tremysche,Cremušina,1,2,2,manual,0,45.7945543,17.1937699
+1493,Threwm,,4,1,1,singleton,0,,
+1494,Thryen,,4,1,2,singleton,0,,
+1495,Twlowa,Pavlin,1,2,3,manual,0,46.0073012,16.8288694
+1496,Thwran,Turanj,4,2,12,manual,0,45.4612412,15.5695859
+1497,Thwran-castrum cum pertinentiis,,4,1,1,singleton,0,,
+1498,Thwrcoucz,,1,1,1,singleton,0,,
+1499,Thwrkowcz,,1,1,1,singleton,0,,
+1500,Thwrkowschyna,TURKOVČINA,4,4,24,modern,0,46.0440084,16.2455029
+1501,Thwropolia,Turopolje,4,1,1,manual,0,45.6491798,16.1402032
+1502,Thybonyncz,,1,1,3,singleton,0,,
+1503,Trachyncz,,1,1,1,singleton,0,,
+1504,Trachyncz-ad Achyna,,1,1,1,singleton,0,,
+1505,Tracostyan,Trakošćan,2,1,1,manual,0,46.2589761,15.9482046
+1506,Trambeth,,1,1,1,singleton,0,,
+1507,Tremlan,,1,1,1,singleton,0,,
+1508,Trombetharyewcz,,1,2,2,orthographic-fuzzy,1,,
+1509,Turkousschyna aliter Zuhodol,,4,1,1,singleton,0,,
+1510,Twtwsewyna inferior,,1,1,1,singleton,0,,
+1511,Twtwsewyna superior,,1,1,1,singleton,0,,
+1512,Tzemerye (Themerye?),,1,1,1,singleton,0,,
+1513,Wgra,VUGROVEC,4,17,24,modern,0,45.8784794,16.1087014
+1514,Vechezlawcz,Većeslavec,1,4,5,manual,0,46.041918,16.694171
+1515,Welyka,VELIKA,1,9,27,modern,0,45.9545093,16.7024843
+1516,Velykagora,,4,1,1,singleton,0,,
+1517,Werbowa,VRBOVO,4,4,16,modern,0,45.6737244,16.2359189
+1518,Wehowlan,Marinkovec,1,4,6,manual,0,,
+1519,Versynowcz in Berzewcze,,1,1,1,singleton,0,,
+1520,Vicus Latinorum,Laška ulica (Zagreb),4,1,4,manual,0,45.8364382,16.0426652
+1521,Wydyncz,,1,2,3,orthographic-exact,0,,
+1522,Wydowcz,VIDOVEC,2,5,86,modern,0,46.2863481,16.2504203
+1523,Wynarcz,VINAREC,1,3,7,orthographic-exact,0,46.1005165,16.4466304
+1524,Wynnychno,VINIČNO,1,8,21,orthographic-fuzzy,1,46.0780080,16.3007264
+1525,Wynnycza,VINICA,2,8,35,modern,0,46.3422862,16.1703246
+1526,Wynno,VINO,2,3,10,orthographic-exact,0,46.0892201,15.8539643
+1527,Vokachincz,,1,1,1,singleton,0,,
+1528,Wokowyna,VUKOVINA,4,20,31,orthographic-fuzzy,1,45.6823954,16.1112977
+1529,Vokssyncz,,4,1,1,singleton,0,,
+1530,Wolyncz,,2,2,10,orthographic-exact,0,,
+1531,"Wolyncz, Chalyncz",", ČALINEC",2,3,5,modern,0,,
+1532,Wrasylaz,Laz Bistrički,4,11,13,manual,0,45.9710422,16.0987558
+1533,Vrbanowcz,Vrbanovec,2,1,1,manual,0,46.2635150,16.5208508
+1534,Wrbowcz,VRBOVEC,1,11,80,modern,0,45.8856479,16.4181159
+1535,Vrbowcz,Vrbovec,2,1,1,manual,0,,
+1536,Wrnowcz,VURNOVEC,4,5,18,modern,0,45.8886646,16.1366229
+1537,Wychazela,VIČA SELA,2,3,6,modern,0,46.0509367,15.8627553
+1538,Wyhel,NOVO MJESTO,1,6,28,modern,0,45.9534304,16.2891326
+1539,Wyzoka,VISOKA,1,3,21,modern,0,,
+1540,Wahtaryowcz ad Belam,,1,1,1,singleton,0,,
+1541,Wakegh,,1,1,1,singleton,0,,
+1542,Wamhyda,,1,1,5,singleton,0,,
+1543,Warallya,Moslavina,1,2,5,manual,0,45.5739858,16.6428554
+1544,Waska,Vaška,1,1,3,manual,0,45.8154349,17.6662543
+1545,Waska Inferior,,1,1,1,singleton,0,,
+1546,"Waska Inferior, Dytrowcz",,1,1,1,singleton,0,,
+1547,Waska Zygeth,,1,1,3,singleton,0,,
+1548,Waska-ad Zagyowcz,,1,1,1,singleton,0,,
+1549,Wasmegywrechye,Medjurača,1,1,3,manual,0,,
+1550,Wasmegywrechye predium,,1,1,1,singleton,0,,
+1551,Waswarowcz,,1,4,4,orthographic-fuzzy,1,,
+1552,Wehthocz,,1,1,1,singleton,0,,
+1553,Welessewcz,Veleševec,4,5,10,manual,1,45.6531899,16.2623047
+1554,Welkowcz,Jalkovec,2,2,19,manual,0,46.2780556,16.3188889
+1555,"Welyke, Dwlepzka","VELIKA, DULEPSKA",1,1,1,singleton,0,45.9545093,16.7024843
+1556,Werbowcz,VRBOVO,1,1,2,singleton,0,46.0773588,16.2326727
+1557,Wereucze,Virovitica,3,6,22,manual,0,45.8325000,17.3839000
+1558,Werh,Celine,1,1,1,manual,0,45.8916188,16.4048813
+1559,"Werh, Zerdahel",,1,1,1,singleton,0,,
+1560,Werhancz,,1,1,1,singleton,0,,
+1561,Werhoucz,Vrhovec Rakovečki i NE,1,2,2,manual,0,,
+1562,Werhowch,Vrhovac,4,2,2,manual,0,45.6353927,15.4863056
+1563,Wertlyn,Vrtlinska,1,2,2,manual,0,45.6866082,16.6162455
+1564,Werthlyn ad Monozlo,,1,1,1,singleton,0,,
+1565,Werussewych,,1,1,4,singleton,0,,
+1566,Werzynowcz,,1,1,1,singleton,0,,
+1567,Wethech,,1,1,1,singleton,0,,
+1568,Wezelkowcz,,1,2,2,orthographic-fuzzy,1,,
+1569,"Wogrynowcz, Markowcz",,1,2,2,orthographic-fuzzy,1,,
+1570,"Wkowyna cum pertinetiis, Kopchyna, Wraccza","VUKOVINA, KUPČINA, VRATEČKO",4,1,1,singleton,0,45.6823954,16.1112977
+1571,Wlachin,,3,2,12,orthographic-exact,0,,
+1572,"Wlachin, Rawennyk",,3,3,4,orthographic-exact,0,,
+1573,"Wlachyn, utraque Rawennyk",,3,2,3,orthographic-exact,0,,
+1574,"Wugrynincz, Wlachyn, uterque Ravenyk",,3,2,2,orthographic-fuzzy,1,,
+1575,Wogrynocz,,1,3,3,orthographic-fuzzy,1,,
+1576,"Wogrynecz, Wlachin",,3,2,2,orthographic-fuzzy,1,,
+1577,"Wogrynincz, utraque Rawennyk",,3,1,1,singleton,0,,
+1578,Wokomercz,VUKOMEREC,4,2,4,modern,0,45.8073746,16.0416862
+1579,Wolowlya,VOLAVJE,3,3,10,modern,0,,
+1580,"Wolyncz, Babyncz",", BABINEC",2,1,2,singleton,0,,
+1581,Wolywercz,,1,1,1,singleton,0,,
+1582,"Wolywercz, Kothenyak",,1,1,1,singleton,0,,
+1583,Wychkowcz,Vitkovec,1,3,6,manual,0,45.935122,16.658081
+1584,Woynche,,2,1,1,singleton,0,,
+1585,Woynowcz,VOJNOVEC,1,1,6,singleton,0,46.1205647,16.4244075
+1586,Woznekowcz,,1,1,2,singleton,0,,
+1587,Wracza,VRATEČKO,4,5,11,modern,0,45.4613653,16.1118753
+1588,Wradchya,,4,1,1,singleton,0,,
+1589,Wragowcz,,1,2,7,orthographic-exact,0,,
+1590,Wrapchia,VRAPČE,4,1,1,singleton,0,45.8129884,15.9062064
+1591,Wrathkowcz,,2,1,1,singleton,0,,
+1592,Wratisincz,Hercegovac,1,3,3,manual,0,45.6553617,17.0090772
+1593,Wratza,,4,1,1,singleton,0,,
+1594,Wreucze,,3,1,1,singleton,0,,
 1595,Wzmowcz,Kusanovec,1,2,3,manual,0,45.8194032,16.3491667
 1596,Wydowcz,VIDOVEC,1,1,1,singleton,0,,
 1597,Wyeghaz,,1,1,1,singleton,0,,

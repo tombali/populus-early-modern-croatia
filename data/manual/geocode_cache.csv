@@ -688,3 +688,11 @@ county,query,lat,lon,display_name,source
 4,Opatija Opatovina Topusko,,,,nominatim
 4,Pokupske,,,,nominatim
 1,Starigrad,46.1400000,16.8100000,"Starigrad, predgrađe Koprivnice (user; Petrić: =Owar)",manual
+1,Četvrtkovac,45.5833333,17.2333333,Četvrtkovac (user-pinned),manual
+1,Cerovo brdo,46.1330556,16.5500000,Cerovo brdo (user-pinned),manual
+1,Dugi vrh,46.0708460,16.3820790,Dugi vrh (user-pinned),manual
+1,Gornja Stupčanica,45.6253030,17.3375580,Gornja Stupčanica (user-pinned),manual
+1,Topolovac,45.4605556,16.4358333,Topolovac (user-pinned),manual
+4,Kupinec,45.7319444,15.7200000,Kupinec (user-pinned),manual
+3,Špišić Bukovica,45.8489000,17.4247000,Špišić Bukovica (user/book-pinned),manual
+3,Virovitica,45.8325000,17.3839000,Virovitica (user/book-pinned),manual
