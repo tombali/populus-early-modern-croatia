@@ -195,29 +195,9 @@
       +`<span class="m">smaller → larger tax base</span></span>`;
   }
 
-  // ---- TABLE (accessibility) ------------------------------------------
-  const order=[4,1,2,3];
-  function drawTable(){
-    let h=`<table><caption>Taxable selišta by county and census year</caption>`
-      +`<thead><tr><th>Year</th>`
-      +order.map(c=>`<th>${DATA.counties[c].name}</th>`).join("")+`</tr></thead><tbody>`;
-    DATA.years.forEach(y=>{h+=`<tr><td>${y}</td>`+order.map(c=>{
-      const d=(DATA.trends[c]||[]).find(p=>p[0]===y);
-      return `<td>${d?fmt(d[1]):"·"}</td>`;}).join("")+`</tr>`;});
-    $("panel-table").innerHTML=h+`</tbody></table>`;
-  }
-
   // ---- controls --------------------------------------------------------
-  let tableOn=false;
-  function sync(){
-    $("panel-map").classList.toggle("hidden",tableOn);
-    $("panel-table").classList.toggle("hidden",!tableOn);
-    $("tbl").setAttribute("aria-pressed",tableOn);
-    if(tableOn)drawTable();
-    else drawMap(cur());
-  }
+  function sync(){drawMap(cur());}
   const cur=()=>DATA.years[+$("slider").value];
-  $("tbl").onclick=()=>{tableOn=!tableOn;sync();};
   $("theme").onclick=()=>{const d=!isDark();
     document.documentElement.setAttribute("data-theme",d?"dark":"light");
     $("theme").textContent=d?"Light":"Dark";sync();};
@@ -225,7 +205,7 @@
   // slider + play
   const sl=$("slider"); sl.max=DATA.years.length-1;
   sl.value=DATA.years.indexOf(1507)>=0?DATA.years.indexOf(1507):0;
-  sl.oninput=()=>{if(!tableOn)drawMap(cur());};
+  sl.oninput=()=>drawMap(cur());
   let timer=null;
   $("play").onclick=()=>{
     if(timer){clearInterval(timer);timer=null;$("play").textContent="▶";return;}

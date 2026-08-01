@@ -80,11 +80,6 @@
   .border{fill:none;stroke:var(--border-line);stroke-width:1;stroke-linejoin:round}
   .river{fill:none;stroke:var(--river);stroke-width:1.4;stroke-opacity:.9;
     stroke-linecap:round;stroke-linejoin:round}
-  table{border-collapse:collapse;width:100%;font-size:13px;
-    font-variant-numeric:tabular-nums}
-  th,td{border-bottom:1px solid var(--grid);padding:5px 8px;text-align:right}
-  th:first-child,td:first-child{text-align:left}
-  caption{text-align:left;color:var(--ink2);margin-bottom:8px}
   .note{color:var(--ink2);font-size:13px;margin-top:12px}
   a{color:inherit}
 </style>
@@ -99,7 +94,6 @@
     </div>
     <div class="head-ctl">
       <a class="btn" href="explorer.html">Browse</a>
-      <button id="tbl">Table</button>
       <button id="theme">Dark</button>
     </div>
   </header>
@@ -126,8 +120,6 @@
        drag to pan, or use the +/− buttons. Marker colour shows how confident the
        location is; places with no coordinates are scattered around their county town.</p>
   </section>
-
-  <section id="panel-table" class="panel hidden" aria-live="polite"></section>
 </div>
 
 <div class="tip" id="tip"></div>
