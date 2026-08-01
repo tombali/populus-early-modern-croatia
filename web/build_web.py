@@ -1,10 +1,10 @@
-"""Build the self-contained web visualization (web/index.html).
+"""Build the web visualization (web/index.html).
 
 Queries db/tax_lists.sqlite, computes per-place map positions + confidence
 tiers, per-year tax burden, and county trends, then inlines the data as JSON
-into web/template.html. Output is a single dependency-free HTML file: no
-external scripts, tiles, fonts or network calls, so it works as a static file
-and as a CSP-restricted artifact. Stdlib only.
+into web/template.html. Application logic lives in web/map.js (committed).
+Output is dependency-free: no external tiles, fonts or network calls beyond
+the sibling map.js script. Stdlib only.
 """
 import csv  # noqa: F401  (kept for parity; not required)
 import json

@@ -1,16 +1,24 @@
 # Web visualizations
 
-Two interactive views of the tax-list data, in one self-contained page
-(`index.html`): a **year-by-year map** of taxable *selišta* and a **decline
-chart** of the county tax base over 1495–1596.
+Two interactive views of the tax-list data: a **year-by-year map** of taxable
+*selišta* and a **decline chart** of the county tax base over 1495–1596.
 
-`index.html` is fully self-contained — the data is inlined, and there are no
-external scripts, tiles, fonts or network calls — so it runs from `file://`,
-any static host, or a CSP-restricted embed.
+The page is static HTML + a sibling `map.js` (no build step for JS edits).
+Census data is inlined into `index.html` at rebuild time; there are no external
+tiles, fonts or network calls.
+
+## Source files
+
+| File | Role |
+|------|------|
+| `template.html` | HTML shell; `build_web.py` copies it to `index.html` and injects data |
+| `map.js` | Map/table UI logic (edit this for behaviour changes) |
+| `index.html` | Generated output — HTML + inlined `DATA` + `<script src="map.js">` |
+| `geo.json` | County borders + rivers (optional map context) |
 
 ## Rebuild
 
-Regenerate `index.html` from the committed database after the pipeline changes:
+Regenerate `index.html` from the committed database after pipeline/data changes:
 
 ```bash
 python web/build_web.py        # reads db/tax_lists.sqlite, writes web/index.html
@@ -19,7 +27,8 @@ python web/build_web.py        # reads db/tax_lists.sqlite, writes web/index.htm
 Only the Python standard library is required (`sqlite3`, `json`). `build_web.py`
 computes each place's map position and confidence tier, the per-year burden, and
 the county trends, then inlines them into `template.html` — along with the map
-context geometry from `geo.json` if present.
+context geometry from `geo.json` if present. Edit `map.js` directly for UI
+changes; no rebuild needed unless data changed.
 
 **Map context geometry** (county borders + the Sava/Drava rivers) is cached in
 `geo.json` and committed, so a normal rebuild needs no network. To refresh it
@@ -42,13 +51,12 @@ python -m http.server 8137 --directory web
 
 ## Deploy to the web
 
-`index.html` is a single static file — host it anywhere:
+Deploy the whole `web/` folder (at minimum `index.html`, `map.js`, and `geo.json`):
 
 - **GitHub Pages**: the workflow in `.github/workflows/pages.yml` rebuilds and
   publishes `web/` on every push to `main`. Enable Pages → "GitHub Actions" in
   the repo settings once.
-- **Netlify / any static host / S3**: drop in `web/index.html` (rename to
-  `index.html` at the site root if needed).
+- **Netlify / any static host / S3**: upload the `web/` directory.
 
 ## Reading the map
 
