@@ -11,6 +11,7 @@ import json
 import os
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -28,10 +29,25 @@ COUNTIES = [
 ]
 
 
-def get(url, data=None):
+def get(url, data=None, timeout=90):
     req = urllib.request.Request(url, data=data, headers=UA)
-    with urllib.request.urlopen(req, timeout=90) as r:
+    with urllib.request.urlopen(req, timeout=timeout) as r:
         return json.load(r)
+
+
+def overpass(ql, timeout=180):
+    """Run an Overpass query, retrying once on gateway timeout."""
+    data = urllib.parse.urlencode({"data": ql}).encode()
+    url = "https://overpass-api.de/api/interpreter"
+    for attempt in range(2):
+        try:
+            return get(url, data=data, timeout=timeout)
+        except urllib.error.HTTPError as e:
+            if e.code == 504 and attempt == 0:
+                print("  overpass timeout, retrying…", file=sys.stderr)
+                time.sleep(3)
+                continue
+            raise
 
 
 def _perp(p, a, b):
@@ -88,23 +104,39 @@ def fetch_counties():
     return counties
 
 
+def _river_kind(name):
+    """Classify an OSM river name as Sava, Drava, or skip."""
+    n = (name or "").strip().lower()
+    if not n or n.startswith("stara drava"):
+        return None
+    if n.startswith("sava"):
+        return "Sava"
+    # Drava is tagged Drava, Dráva, Drava / Dráva, … on different ways
+    if n.startswith("drava") or n.startswith("dráva") or " drava" in n or " dráva" in n:
+        return "Drava"
+    return None
+
+
 def fetch_rivers():
     s, w, n, e = BBOX
-    ql = (f'[out:json][timeout:90];('
-          f'way["waterway"="river"]["name"="Sava"]({s},{w},{n},{e});'
-          f'way["waterway"="river"]["name"="Drava"]({s},{w},{n},{e}););out geom;')
-    d = get("https://overpass-api.de/api/interpreter",
-            data=urllib.parse.urlencode({"data": ql}).encode())
     rivers = {"Sava": [], "Drava": []}
-    for elem in d.get("elements", []):
-        nm = elem.get("tags", {}).get("name")
-        g = elem.get("geometry")
-        if nm in rivers and g:
-            line = [[round(p["lon"], 5), round(p["lat"], 5)] for p in g]
-            if len(line) >= 2:
-                rivers[nm].append(dp(line))
-    for nm, ls in rivers.items():
-        print(f"  river {nm}: {len(ls)} segments")
+    # Two queries — simpler than one combined regex query on Overpass
+    for label, ql in (
+        ("Sava", f'[out:json][timeout:120];way["waterway"="river"]["name"~"^Sava",i]'
+                 f'({s},{w},{n},{e});out geom;'),
+        ("Drava", f'[out:json][timeout:120];way["waterway"="river"]["name"~"Drava",i]'
+                  f'({s},{w},{n},{e});out geom;'),
+    ):
+        d = overpass(ql)
+        for elem in d.get("elements", []):
+            nm = elem.get("tags", {}).get("name", "")
+            kind = _river_kind(nm)
+            g = elem.get("geometry")
+            if kind and g:
+                line = [[round(p["lon"], 5), round(p["lat"], 5)] for p in g]
+                if len(line) >= 2:
+                    rivers[kind].append(dp(line))
+        print(f"  river {label}: {len(rivers[label])} segments")
     return [{"name": k, "lines": v} for k, v in rivers.items() if v]
 
 

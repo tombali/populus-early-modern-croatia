@@ -32,23 +32,31 @@
   *{box-sizing:border-box}
   body{margin:0;background:var(--plane);color:var(--ink);
     font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
-  .wrap{max-width:1040px;margin:0 auto;padding:24px 20px 60px}
+  .wrap{width:100%;max-width:none;margin:0;padding:16px 16px 24px}
+  .head{display:flex;align-items:flex-start;justify-content:space-between;
+    gap:16px;margin-bottom:18px}
+  .head-titles{min-width:0}
   h1{font-size:22px;margin:0 0 2px}
-  .sub{color:var(--ink2);margin:0 0 18px}
-  .bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:14px}
-  .tabs{display:flex;gap:4px}
+  .sub{color:var(--ink2);margin:0}
+  .head-ctl{display:flex;gap:8px;flex-shrink:0;align-items:center;padding-top:2px}
   button{font:inherit;color:var(--ink);background:var(--surface);
     border:1px solid var(--ring);border-radius:8px;padding:6px 12px;cursor:pointer}
   button:hover{border-color:var(--axis)}
   button[aria-pressed="true"]{background:var(--ink);color:var(--surface);
     border-color:var(--ink)}
-  .spacer{flex:1}
   .panel{background:var(--surface);border:1px solid var(--ring);
     border-radius:12px;padding:16px}
   .hidden{display:none}
   svg{width:100%;height:auto;display:block;touch-action:none}
-  .mapbox{height:min(68vh,700px)}
-  #map{height:100%}
+  .mapbox{position:relative;width:100%;height:calc(100vh - 220px);min-height:360px;
+    border:1px solid var(--ring);border-radius:12px;overflow:hidden;
+    background:var(--surface)}
+  #map{width:100%;height:100%;cursor:grab}
+  #map.dragging{cursor:grabbing}
+  .zoom-ctl{position:absolute;top:10px;right:10px;display:flex;flex-direction:column;
+    gap:4px;z-index:2}
+  .zoom-ctl button{width:36px;height:36px;padding:0;font-size:18px;line-height:1;
+    background:var(--surface);box-shadow:0 1px 4px rgba(0,0,0,.12)}
   .ctl{display:flex;gap:12px;align-items:center;margin:0 0 12px;flex-wrap:wrap}
   input[type=range]{flex:1;min-width:160px;accent-color:var(--good)}
   .yr{font-variant-numeric:tabular-nums;font-weight:600;font-size:20px;
@@ -58,7 +66,6 @@
   .legend .item{display:flex;gap:6px;align-items:center}
   .dot{width:12px;height:12px;border-radius:50%;flex:none;
     box-shadow:0 0 0 1px var(--ring) inset}
-  .swatch{width:14px;height:3px;border-radius:2px;flex:none}
   .tip{position:fixed;pointer-events:none;z-index:9;opacity:0;
     transition:opacity .08s;background:var(--surface);color:var(--ink);
     border:1px solid var(--axis);border-radius:8px;padding:8px 10px;
@@ -66,13 +73,9 @@
   .tip b{font-weight:600} .tip .m{color:var(--ink2)}
   .cap{fill:var(--muted);font-size:11px;font-weight:600}
   .capdot{fill:none;stroke:var(--muted);stroke-width:1.2}
-  .grid{stroke:var(--grid);stroke-width:1}
   .border{fill:none;stroke:var(--border-line);stroke-width:1;stroke-linejoin:round}
   .river{fill:none;stroke:var(--river);stroke-width:1.4;stroke-opacity:.9;
     stroke-linecap:round;stroke-linejoin:round}
-  .axis{stroke:var(--axis);stroke-width:1}
-  .tick{fill:var(--muted);font-size:11px;font-variant-numeric:tabular-nums}
-  .lbl{font-size:12px;font-weight:600}
   table{border-collapse:collapse;width:100%;font-size:13px;
     font-variant-numeric:tabular-nums}
   th,td{border-bottom:1px solid var(--grid);padding:5px 8px;text-align:right}
@@ -84,19 +87,17 @@
 </head>
 <body>
 <div class="wrap">
-  <h1>Croatian tax lists, 1495–1596</h1>
-  <p class="sub">Taxable <i>selišta</i> (hearths) from the Kampuš–Adamček
-     censuses of the Zagreb, Križevci, Varaždin and Virovitica counties.</p>
-
-  <div class="bar">
-    <div class="tabs">
-      <button id="tab-map" aria-pressed="true">Map by year</button>
-      <button id="tab-trend" aria-pressed="false">Decline over time</button>
+  <header class="head">
+    <div class="head-titles">
+      <h1>Croatian tax lists, 1495–1596</h1>
+      <p class="sub">Taxable <i>selišta</i> (hearths) from the Kampuš–Adamček
+         censuses of the Zagreb, Križevci, Varaždin and Virovitica counties.</p>
     </div>
-    <div class="spacer"></div>
-    <button id="tbl">Table</button>
-    <button id="theme">Dark</button>
-  </div>
+    <div class="head-ctl">
+      <button id="tbl">Table</button>
+      <button id="theme">Dark</button>
+    </div>
+  </header>
 
   <section id="panel-map" class="panel">
     <div class="ctl">
@@ -105,22 +106,20 @@
              aria-label="Census year">
       <span class="yr" id="yrlab">—</span>
     </div>
-    <div class="mapbox"><svg id="map" viewBox="0 0 1000 640"
-         preserveAspectRatio="xMidYMid meet" role="img"
-         aria-label="Map of taxable selišta by place"></svg></div>
+    <div class="mapbox">
+      <div class="zoom-ctl" aria-label="Map zoom controls">
+        <button id="zoom-in" type="button" title="Zoom in" aria-label="Zoom in">+</button>
+        <button id="zoom-out" type="button" title="Zoom out" aria-label="Zoom out">−</button>
+        <button id="zoom-reset" type="button" title="Reset view" aria-label="Reset view">⌂</button>
+      </div>
+      <svg id="map" viewBox="0 0 1000 640"
+           preserveAspectRatio="xMidYMid meet" role="img"
+           aria-label="Map of taxable selišta by place"></svg>
+    </div>
     <div class="legend" id="map-legend"></div>
-    <p class="note">Circle area ∝ taxable <i>selišta</i> that year. Marker colour
-       shows how confident the location is; places with no coordinates are
-       scattered around their county town.</p>
-  </section>
-
-  <section id="panel-trend" class="panel hidden">
-    <svg id="trend" viewBox="0 0 1000 560" role="img"
-         aria-label="Taxable selišta by county over time"></svg>
-    <div class="legend" id="trend-legend"></div>
-    <p class="note">Total taxable <i>selišta</i> per county per census. The
-       frontier counties' base collapses across the century as Ottoman raids
-       depopulate the region — Križevci falls from ~18,000 (1507) to under 100.</p>
+    <p class="note">Circle area ∝ taxable <i>selišta</i> that year. Scroll to zoom,
+       drag to pan, or use the +/− buttons. Marker colour shows how confident the
+       location is; places with no coordinates are scattered around their county town.</p>
   </section>
 
   <section id="panel-table" class="panel hidden" aria-live="polite"></section>
@@ -142,7 +141,6 @@ const DATA = /*__DATA__*/null;
   const isDark=()=>document.documentElement.getAttribute("data-theme")==="dark"
       || (!document.documentElement.getAttribute("data-theme")
           && matchMedia("(prefers-color-scheme: dark)").matches);
-  const ccol=cty=>{const c=DATA.counties[cty];return isDark()?c.dark:c.light;};
 
   const byId={}; DATA.places.forEach(p=>byId[p[0]]={
     id:p[0],name:p[1],modern:p[2],cty:p[3],lat:p[4],lon:p[5],tier:p[6]});
@@ -159,9 +157,52 @@ const DATA = /*__DATA__*/null;
   const midLat=(latMin+latMax)/2, kx=Math.cos(midLat*Math.PI/180);
   const geoW=(lonMax-lonMin)*kx, geoH=(latMax-latMin);
   const MW=1000, MH=Math.round(MW*geoH/geoW);
-  $("map").setAttribute("viewBox",`0 0 ${MW} ${MH}`);
+  const mapSvg=$("map");
+  mapSvg.setAttribute("viewBox",`0 0 ${MW} ${MH}`);
   const px=lon=>((lon-lonMin)*kx)/geoW*MW;
   const py=lat=>(latMax-lat)/geoH*MH;
+
+  // ---- pan / zoom (viewBox) --------------------------------------------
+  const vb0={x:0,y:0,w:MW,h:MH};
+  let vb={...vb0};
+  const MIN_Z=1, MAX_Z=32;
+  function applyVB(){
+    mapSvg.setAttribute("viewBox",`${vb.x} ${vb.y} ${vb.w} ${vb.h}`);}
+  function zoomAt(factor,cx,cy){
+    const nx=vb.x+cx*vb.w, ny=vb.y+cy*vb.h;
+    const nw=Math.min(Math.max(vb.w/factor,vb0.w/MAX_Z),vb0.w/MIN_Z);
+    const nh=nw*vb0.h/vb0.w;
+    vb.x=nx-cx*nw; vb.y=ny-cy*nh; vb.w=nw; vb.h=nh; applyVB();}
+  function resetView(){vb={...vb0};applyVB();}
+  applyVB();
+  mapSvg.addEventListener("wheel",ev=>{
+    ev.preventDefault();
+    const r=mapSvg.getBoundingClientRect();
+    zoomAt(ev.deltaY<0?1.18:1/1.18,
+      (ev.clientX-r.left)/r.width,(ev.clientY-r.top)/r.height);},
+    {passive:false});
+  let drag=null;
+  mapSvg.addEventListener("pointerdown",ev=>{
+    if(ev.button!==0)return;
+    const t=ev.target;
+    if(t!==mapSvg&&t.tagName!=="path"&&t.tagName!=="text")return;
+    drag={x:ev.clientX,y:ev.clientY,vb:{...vb}}; mapSvg.classList.add("dragging");
+    mapSvg.setPointerCapture(ev.pointerId);});
+  mapSvg.addEventListener("pointermove",ev=>{
+    if(!drag)return;
+    const r=mapSvg.getBoundingClientRect();
+    vb.x=drag.vb.x-(ev.clientX-drag.x)/r.width*drag.vb.w;
+    vb.y=drag.vb.y-(ev.clientY-drag.y)/r.height*drag.vb.h;
+    applyVB();});
+  const endDrag=ev=>{
+    if(!drag)return;
+    drag=null; mapSvg.classList.remove("dragging");
+    try{mapSvg.releasePointerCapture(ev.pointerId);}catch(_){}};
+  mapSvg.addEventListener("pointerup",endDrag);
+  mapSvg.addEventListener("pointercancel",endDrag);
+  $("zoom-in").onclick=()=>zoomAt(1.4,.5,.5);
+  $("zoom-out").onclick=()=>zoomAt(1/1.4,.5,.5);
+  $("zoom-reset").onclick=resetView;
 
   // ---- map size scale --------------------------------------------------
   let maxTax=1;
@@ -201,7 +242,7 @@ const DATA = /*__DATA__*/null;
   const linePath=r=>r.map((q,i)=>(i?"L":"M")+px(q[0]).toFixed(1)+" "
     +py(q[1]).toFixed(1)).join(" ");
   function drawMap(year){
-    const svg=$("map"); svg.textContent="";
+    const svg=mapSvg; svg.textContent="";
     // county borders (context), then rivers, then everything else on top
     (DATA.geo.counties||[]).forEach(c=>c.rings.forEach(r=>
       svg.appendChild(el("path",{d:ringPath(r),class:"border"}))));
@@ -249,71 +290,8 @@ const DATA = /*__DATA__*/null;
       +`<span class="m">smaller → larger tax base</span></span>`;
   }
 
-  // ---- TRENDS ----------------------------------------------------------
-  const TW=1000,TH=560,M={t:18,r:96,b:38,l:64};
-  const order=[4,1,2,3];   // fixed county → colour-slot assignment
-  function drawTrend(){
-    const svg=$("trend"); svg.textContent="";
-    const yrs=DATA.years, xMin=yrs[0], xMax=yrs[yrs.length-1];
-    let yMax=0; order.forEach(c=>(DATA.trends[c]||[]).forEach(d=>yMax=Math.max(yMax,d[1])));
-    yMax=Math.ceil(yMax/2000)*2000;
-    const X=y=>M.l+(y-xMin)/(xMax-xMin)*(TW-M.l-M.r);
-    const Y=v=>TH-M.b-v/yMax*(TH-M.t-M.b);
-    // gridlines + y ticks
-    for(let v=0;v<=yMax;v+=2000){
-      svg.appendChild(el("line",{x1:M.l,y1:Y(v),x2:TW-M.r,y2:Y(v),class:"grid"}));
-      const t=el("text",{x:M.l-8,y:Y(v)+4,class:"tick","text-anchor":"end"});
-      t.textContent=(v/1000)+"k";svg.appendChild(t);}
-    svg.appendChild(el("line",{x1:M.l,y1:TH-M.b,x2:TW-M.r,y2:TH-M.b,class:"axis"}));
-    // x ticks — a spaced subset so the clustered late years don't collide
-    let lastL=-99;
-    yrs.forEach((y,i)=>{
-      if(y-lastL<9 && i!==yrs.length-1)return;
-      if(i===yrs.length-1 && y-lastL<6)return;
-      lastL=y;
-      const t=el("text",{x:X(y),y:TH-M.b+16,class:"tick","text-anchor":"middle"});
-      t.textContent=y;svg.appendChild(t);});
-    // lines
-    const ends=[];
-    order.forEach(c=>{
-      const col=ccol(c), pts=(DATA.trends[c]||[]).slice().sort((a,b)=>a[0]-b[0]);
-      if(!pts.length)return;
-      const d=pts.map((p,i)=>(i?"L":"M")+X(p[0])+" "+Y(p[1])).join(" ");
-      svg.appendChild(el("path",{d,fill:"none",stroke:col,"stroke-width":2,
-        "stroke-linejoin":"round","stroke-linecap":"round"}));
-      pts.forEach(p=>svg.appendChild(el("circle",
-        {cx:X(p[0]),cy:Y(p[1]),r:2.4,fill:col})));
-      const last=pts[pts.length-1];
-      ends.push({name:DATA.counties[c].name,col,x:X(last[0]),y:Y(last[1])});});
-    // end labels: de-collide the ones bunched at the right edge
-    const rightX=X(xMax);
-    const edge=ends.filter(e=>e.x>rightX-2).sort((a,b)=>a.y-b.y);
-    for(let i=1;i<edge.length;i++)
-      if(edge[i].y-edge[i-1].y<13)edge[i].y=edge[i-1].y+13;
-    ends.forEach(e=>{const lb=el("text",{x:e.x+8,y:e.y+4,class:"lbl",fill:e.col});
-      lb.textContent=e.name;svg.appendChild(lb);});
-    // hover crosshair
-    const hit=el("rect",{x:M.l,y:M.t,width:TW-M.l-M.r,height:TH-M.t-M.b,
-      fill:"transparent"});
-    const cross=el("line",{y1:M.t,y2:TH-M.b,class:"axis",opacity:0});
-    svg.appendChild(hit);svg.appendChild(cross);
-    hit.addEventListener("pointermove",ev=>{
-      const r=svg.getBoundingClientRect();
-      const gx=(ev.clientX-r.left)/r.width*TW;
-      const yr=Math.round(xMin+(gx-M.l)/(TW-M.l-M.r)*(xMax-xMin));
-      const near=yrs.reduce((a,b)=>Math.abs(b-yr)<Math.abs(a-yr)?b:a);
-      cross.setAttribute("x1",X(near));cross.setAttribute("x2",X(near));
-      cross.setAttribute("opacity",1);
-      let rows=order.map(c=>{const d=(DATA.trends[c]||[]).find(p=>p[0]===near);
-        return d?`<br><span class="m">${DATA.counties[c].name}:</span> <b>${fmt(d[1])}</b>`:"";}).join("");
-      showTip(`<b>${near}</b>${rows||"<br><span class=m>no data</span>"}`,ev);});
-    hit.addEventListener("pointerleave",()=>{hideTip();cross.setAttribute("opacity",0);});
-    $("trend-legend").innerHTML=order.map(c=>
-      `<span class="item"><span class="swatch" style="background:${ccol(c)}"></span>`
-      +`${DATA.counties[c].name}</span>`).join("");
-  }
-
   // ---- TABLE (accessibility) ------------------------------------------
+  const order=[4,1,2,3];
   function drawTable(){
     let h=`<table><caption>Taxable selišta by county and census year</caption>`
       +`<thead><tr><th>Year</th>`
@@ -324,22 +302,16 @@ const DATA = /*__DATA__*/null;
     $("panel-table").innerHTML=h+`</tbody></table>`;
   }
 
-  // ---- tabs / controls -------------------------------------------------
-  let view="map", tableOn=false;
+  // ---- controls --------------------------------------------------------
+  let tableOn=false;
   function sync(){
-    $("panel-map").classList.toggle("hidden",view!=="map"||tableOn);
-    $("panel-trend").classList.toggle("hidden",view!=="trend"||tableOn);
+    $("panel-map").classList.toggle("hidden",tableOn);
     $("panel-table").classList.toggle("hidden",!tableOn);
-    $("tab-map").setAttribute("aria-pressed",view==="map");
-    $("tab-trend").setAttribute("aria-pressed",view==="trend");
     $("tbl").setAttribute("aria-pressed",tableOn);
     if(tableOn)drawTable();
-    else if(view==="map")drawMap(cur());
-    else drawTrend();
+    else drawMap(cur());
   }
   const cur=()=>DATA.years[+$("slider").value];
-  $("tab-map").onclick=()=>{view="map";sync();};
-  $("tab-trend").onclick=()=>{view="trend";sync();};
   $("tbl").onclick=()=>{tableOn=!tableOn;sync();};
   $("theme").onclick=()=>{const d=!isDark();
     document.documentElement.setAttribute("data-theme",d?"dark":"light");
@@ -348,11 +320,11 @@ const DATA = /*__DATA__*/null;
   // slider + play
   const sl=$("slider"); sl.max=DATA.years.length-1;
   sl.value=DATA.years.indexOf(1507)>=0?DATA.years.indexOf(1507):0;
-  sl.oninput=()=>{if(!tableOn&&view==="map")drawMap(cur());};
+  sl.oninput=()=>{if(!tableOn)drawMap(cur());};
   let timer=null;
   $("play").onclick=()=>{
     if(timer){clearInterval(timer);timer=null;$("play").textContent="▶";return;}
-    $("play").textContent="⏸";view="map";sync();
+    $("play").textContent="⏸";sync();
     timer=setInterval(()=>{
       sl.value=(+sl.value+1)%DATA.years.length;drawMap(cur());
       if(+sl.value===DATA.years.length-1){clearInterval(timer);timer=null;
