@@ -41,6 +41,10 @@
   .head-ctl{display:flex;gap:8px;flex-shrink:0;align-items:center;padding-top:2px}
   button{font:inherit;color:var(--ink);background:var(--surface);
     border:1px solid var(--ring);border-radius:8px;padding:6px 12px;cursor:pointer}
+  a.btn{font:inherit;color:var(--ink);background:var(--surface);
+    border:1px solid var(--ring);border-radius:8px;padding:6px 12px;
+    text-decoration:none;display:inline-block}
+  a.btn:hover{border-color:var(--axis)}
   button:hover{border-color:var(--axis)}
   button[aria-pressed="true"]{background:var(--ink);color:var(--surface);
     border-color:var(--ink)}
@@ -94,6 +98,7 @@
          censuses of the Zagreb, Križevci, Varaždin and Virovitica counties.</p>
     </div>
     <div class="head-ctl">
+      <a class="btn" href="explorer.html">Browse</a>
       <button id="tbl">Table</button>
       <button id="theme">Dark</button>
     </div>

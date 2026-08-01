@@ -26,8 +26,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-      - name: Rebuild index.html from the database
-        run: python web/build_web.py
+      - name: Rebuild web pages from the database
+        run: |
+          python web/build_web.py
+          python web/build_explorer.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

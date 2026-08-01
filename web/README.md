@@ -1,27 +1,30 @@
 # Web visualizations
 
-Two interactive views of the tax-list data: a **year-by-year map** of taxable
-*selišta* and a **decline chart** of the county tax base over 1495–1596.
+Interactive views of the tax-list data:
 
-The page is static HTML + a sibling `map.js` (no build step for JS edits).
-Census data is inlined into `index.html` at rebuild time; there are no external
+- **Map** (`index.html`) — year-by-year map of taxable *selišta* and county trends
+- **Browse** (`explorer.html`) — filter and export all 11,792 entries from `v_entries_full`
+
+Static HTML + sibling JS files. Census data is inlined at rebuild time; no external
 tiles, fonts or network calls.
 
 ## Source files
 
 | File | Role |
 |------|------|
-| `template.html` | HTML shell; `build_web.py` copies it to `index.html` and injects data |
-| `map.js` | Map/table UI logic (edit this for behaviour changes) |
-| `index.html` | Generated output — HTML + inlined `DATA` + `<script src="map.js">` |
+| `template.html` | Map shell → `build_web.py` → `index.html` |
+| `map.js` | Map/table UI logic |
+| `explorer_template.html` | Browse shell → `build_explorer.py` → `explorer.html` |
+| `explorer.js` | Filter/table UI logic |
 | `geo.json` | County borders + rivers (optional map context) |
 
 ## Rebuild
 
-Regenerate `index.html` from the committed database after pipeline/data changes:
+After pipeline or database changes:
 
 ```bash
-python web/build_web.py        # reads db/tax_lists.sqlite, writes web/index.html
+python web/build_web.py         # map → index.html
+python web/build_explorer.py    # browse → explorer.html
 ```
 
 Only the Python standard library is required (`sqlite3`, `json`). `build_web.py`
@@ -44,14 +47,14 @@ Because browsers block `file://` for some features, serve the folder:
 
 ```bash
 python -m http.server 8137 --directory web
-# then open http://127.0.0.1:8137/index.html
+# then open http://127.0.0.1:8137/index.html or …/explorer.html
 ```
 
 (Opening `index.html` directly also works in most browsers.)
 
 ## Deploy to the web
 
-Deploy the whole `web/` folder (at minimum `index.html`, `map.js`, and `geo.json`):
+Deploy the whole `web/` folder (`index.html`, `explorer.html`, `*.js`, `geo.json`):
 
 - **GitHub Pages**: the workflow in `.github/workflows/pages.yml` rebuilds and
   publishes `web/` on every push to `main`. Enable Pages → "GitHub Actions" in
