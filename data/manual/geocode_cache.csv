@@ -744,3 +744,42 @@ county,query,lat,lon,display_name,source
 1,Gatalovec,45.7120000,17.0560000,"Gatalovec = Gathalowcz, oko Velikog Grđevca (approx)",manual
 1,Pavlovac,45.7118000,17.0671000,"Pavlovac = Zenthpal/Radowan (monograph + Pálosfalvi)",manual
 1,Sesvete,45.6960000,17.0300000,"Sesvete/Svi Sveti = Omnium sanctorum, oko Velikog Grđevca (approx, offset)",manual
+2,Završje,46.2161000,16.2711000,"Završje = Zawersye (user)",manual
+2,Karlovec,46.2889000,16.6281000,"Karlovec = Karpowcz (user)",manual
+1,Vaška,45.8000000,17.7333000,"Vaška = Waska Zygeth (user)",manual
+1,Sasovac,45.7629000,16.9291000,"Sasovac=Zazowcz (Heller)",manual
+1,Prugovac,45.9699075,17.1202283,"Prugovac=Progowcz",manual
+1,Gornje Sredice,46.0349000,16.8192000,"Gornje Sredice=Zredysche",manual
+1,Molve,46.1057000,17.0306000,"Molve=Molywa",manual
+1,Međurić,45.4569000,16.9381000,"Međurić=Wasmegywrechye",manual
+1,Međurača,45.7945000,16.8940000,"Međurača=Megereche",manual
+1,Baničevec,45.9209000,16.2929000,"Baničevec=Bancz",manual
+1,Strmec Ravenski,45.6700000,17.1000000,"Strmec Ravenski=Tremecz",manual
+1,Mokrice Miholečke,46.0522000,16.3825000,"Mokrice Miholečke=Mokrycza",manual
+1,Temerje,46.0250000,16.5500000,"Temerje=Themerye",manual
+1,Topolovac,45.4605556,16.4358333,"Topolovac",manual
+1,Gudovac,45.8811395,16.7846354,"Gudovac",manual
+1,Veliki Kalnik,46.1332000,16.4644000,"Veliki Kalnik",manual
+1,Brezovica Kalnička,46.1420000,16.4560000,"Brezovica Kalnička",manual
+1,Babinac Ivanski,45.7495926,16.8120677,"Babinac Ivanski (Heller sweep)",manual
+1,Gorica Miholečka,46.0540578,16.4253175,"Gorica Miholečka (Heller sweep)",manual
+1,Kapela Ravenska,46.0282876,16.4289645,"Kapela Ravenska (Heller sweep)",manual
+1,Prnjavor Lepavinski,46.1239088,16.6784270,"Prnjavor Lepavinski (Heller sweep)",manual
+1,Graberje Ivaničko,45.7101594,16.4712034,"Graberje Ivaničko (Heller sweep)",manual
+1,Begovača,45.6649511,16.8650982,"Begovača (Heller sweep)",manual
+1,Javorovac,46.0478578,16.8973574,"Javorovac (Heller sweep)",manual
+1,Palešnik,45.6364872,16.9776100,"Palešnik (Heller sweep)",manual
+1,Orovac,45.8837762,16.9769859,"Orovac (Heller sweep)",manual
+1,Brezovac,45.3849241,17.0651291,"Brezovac (Heller sweep)",manual
+1,Prkos Ivanićki,45.7125481,16.4311853,"Prkos Ivanićki (Heller sweep)",manual
+1,Prikraj Križevački,45.9991179,16.5339176,"Prikraj Križevački (Heller sweep)",manual
+1,Rovci,46.0250415,16.3492964,"Rovci (Heller sweep)",manual
+1,Rogoža,45.5487456,16.8619831,"Rogoža (Heller sweep)",manual
+1,Opčevac,45.7280399,16.5571761,"Opčevac (Heller sweep)",manual
+1,Žabno,45.9464805,16.6055861,"Žabno (Heller sweep)",manual
+1,Zvekovac,45.8194598,16.5009602,"Zvekovac (Heller sweep)",manual
+1,Selanec,46.0788490,16.4761055,"Selanec (Heller sweep)",manual
+1,Žibrinovec,46.1016303,16.5230248,"Žibrinovec (Heller sweep)",manual
+1,Zgališće,45.8327700,16.5474159,"Zgališće (Heller sweep)",manual
+1,Zetkan,45.8211642,16.5415532,"Zetkan (Heller sweep)",manual
+1,Žunci,45.9568877,16.4242631,"Žunci (Heller sweep)",manual
