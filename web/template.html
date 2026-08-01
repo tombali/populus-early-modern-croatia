@@ -236,6 +236,44 @@ const DATA = /*__DATA__*/null;
   const hideTip=()=>tip.style.opacity=0;
   const fmt=n=>Math.round(n).toLocaleString("en");
 
+  // ---- duplicate-coordinate spread (visual only; lat/lon unchanged) ------
+  const GOLDEN=Math.PI*(3-Math.sqrt(5));
+  const coordKey=p=>`${p.lat},${p.lon}`;
+
+  function buildClusterLayout(all){
+    const groups=new Map();
+    all.forEach(r=>{
+      const k=coordKey(r.p);
+      if(!groups.has(k))groups.set(k,[]);
+      groups.get(k).push(r);
+    });
+    const layout=new Map();
+    groups.forEach(members=>{
+      if(members.length<=1)return;
+      members.sort((a,b)=>a.p.id-b.p.id);
+      const maxR=Math.max(...members.map(m=>rOf(m.tax)));
+      const baseSep=maxR*.55, step=maxR*.35, n=members.length;
+      const raw=members.map((_,i)=>{
+        const rad=baseSep+step*Math.sqrt(i), ang=i*GOLDEN;
+        return[rad*Math.cos(ang),rad*Math.sin(ang)];});
+      const cx=raw.reduce((s,o)=>s+o[0],0)/n, cy=raw.reduce((s,o)=>s+o[1],0)/n;
+      members.forEach((m,i)=>layout.set(m.p.id,{dx:raw[i][0]-cx,dy:raw[i][1]-cy}));
+    });
+    return layout;
+  }
+  function visPos(r,layout){
+    const bx=px(r.p.lon), by=py(r.p.lat);
+    const off=layout.get(r.p.id);
+    return off?{x:bx+off.dx,y:by+off.dy}:{x:bx,y:by};
+  }
+  function tipHtml(r,tier,year){
+    return `<b>${r.p.name}</b>`+(r.p.modern?` <span class="m">= ${r.p.modern}</span>`:"")
+      +`<br>${DATA.counties[r.p.cty].name} county · ${year}`
+      +`<br>taxable <b>${fmt(r.tax)}</b> selišta`
+      +(r.ab>0?` · abandoned ${fmt(r.ab)}`:"")
+      +`<br><span class="m">${TIER[tier].label}</span>`;
+  }
+
   // ---- MAP -------------------------------------------------------------
   const ringPath=r=>r.map((q,i)=>(i?"L":"M")+px(q[0]).toFixed(1)+" "
     +py(q[1]).toFixed(1)).join(" ")+"Z";
@@ -259,17 +297,14 @@ const DATA = /*__DATA__*/null;
     // on top; within a tier largest first so small ones stay clickable.
     const all=(DATA.burden[year]||[]).map(e=>({p:byId[e[0]],tax:e[1],ab:e[2]}))
       .filter(r=>r.p);
+    const layout=buildClusterLayout(all);
     const opac=[.82,.82,.5];
     [2,1,0].forEach(tier=>{
       all.filter(r=>r.p.tier===tier).sort((a,b)=>b.tax-a.tax).forEach(r=>{
-        const c=marker(r.p.cty,px(r.p.lon),py(r.p.lat),rOf(r.tax),
+        const v=visPos(r,layout);
+        const c=marker(r.p.cty,v.x,v.y,rOf(r.tax),
           cssv("--"+TIER[tier].k),opac[tier]);
-        c.addEventListener("pointerenter",ev=>showTip(
-          `<b>${r.p.name}</b>`+(r.p.modern?` <span class="m">= ${r.p.modern}</span>`:"")
-          +`<br>${DATA.counties[r.p.cty].name} county · ${year}`
-          +`<br>taxable <b>${fmt(r.tax)}</b> selišta`
-          +(r.ab>0?` · abandoned ${fmt(r.ab)}`:"")
-          +`<br><span class="m">${TIER[tier].label}</span>`,ev));
+        c.addEventListener("pointerenter",ev=>showTip(tipHtml(r,tier,year),ev));
         c.addEventListener("pointermove",ev=>showTip(tip.innerHTML,ev));
         c.addEventListener("pointerleave",hideTip);
         svg.appendChild(c);});});
