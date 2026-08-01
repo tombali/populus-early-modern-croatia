@@ -628,7 +628,7 @@ county,query,lat,lon,display_name,source
 1,Čazma,45.8383124,16.7079896,"Česma, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
 1,Ivanska Žabno,,,,nominatim
 1,Medjurača,,,,nominatim
-1,Novoselec,45.8524182,16.0823083,"Mjesni odbor Novoselec, Gradska četvrt Gornja Dubrava, Zagreb, Grad Zagreb, Hrvatska",nominatim
+1,Novoselec,45.6529782,16.5345145,"Novoselec, Općina Križ, Moslavina (HTRS96 E502690 N5057010)",manual
 1,Palešnik,45.6364872,16.9776100,"Palešnik, Općina Hercegovac, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
 1,Pašijan,45.6362063,16.9207348,"Mali Pašijan, Grad Garešnica, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
 1,Prilesje,45.8586483,16.4219004,"Prilesje, Grad Vrbovec, Zagrebačka županija, Hrvatska",nominatim

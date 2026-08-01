@@ -1645,7 +1645,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1644,Zela,SELA,1,1,6,singleton,0,45.5084333,16.3019739
 1645,Zela,SELA,4,6,14,modern,0,45.6922436,15.7435946
 1646,"Zela, Ozterwna","SELA, OSTRNA",4,3,6,orthographic-exact,0,45.6922436,15.7435946
-1647,Zelcze,Novoselec,1,3,4,manual,0,45.8524182,16.0823083
+1647,Zelcze,Novoselec,1,3,4,manual,0,45.6529782,16.5345145
 1648,Zelyna,ZELINA,4,11,100,orthographic-fuzzy,1,45.8590511,16.2382381
 1649,Zelna,ZELINA,1,1,4,singleton,0,45.9597901,16.2430942
 1650,Zelnycze,SELNICA,2,3,15,modern,0,46.0266777,16.0448657
