@@ -2748,8 +2748,8 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2747,Regowcz,1,1317,orthographic-fuzzy,1
 2748,Regowecz,1,1317,orthographic-fuzzy,1
 2749,Reka,4,1318,manual,0
-2750,Reka cum pertinentiis Kys Kemlek,1,1319,orthographic-fuzzy,1
-2751,Reka cum pertinetiis Kys Kemlek,1,1319,orthographic-fuzzy,1
+2750,Reka cum pertinentiis Kys Kemlek,1,1319,manual,0
+2751,Reka cum pertinetiis Kys Kemlek,1,1319,manual,0
 2752,"Reka, Malchez",1,1320,singleton,0
 2753,Remethe,1,1321,singleton,0
 2754,Remethincz,1,1322,modern,0

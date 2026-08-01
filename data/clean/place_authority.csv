@@ -1317,7 +1317,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1316,Regaryowecz,,1,1,1,singleton,0,,
 1317,Regowcz,,1,2,4,orthographic-fuzzy,1,,
 1318,Ryeka,Reka,4,2,15,manual,0,46.1315112,16.7711853
-1319,Reka cum pertinetiis Kys Kemlek,,1,2,2,orthographic-fuzzy,1,,
+1319,Reka cum pertinetiis Kys Kemlek,Gornja Rijeka,1,2,2,manual,0,46.1097000,16.3924000
 1320,"Reka, Malchez",,1,1,1,singleton,0,,
 1321,Remethe,,1,1,3,singleton,0,,
 1322,Remethyncz,REMETINEC,1,6,22,modern,0,45.9270441,16.5534121
