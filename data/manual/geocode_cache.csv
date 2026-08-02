@@ -833,3 +833,12 @@ county,query,lat,lon,display_name,source
 4,Ladomer kod Jastrebarskog,45.6700000,15.6500000,"Ladomer kod Jastrebarskog (district/institution, fuzzy)",manual
 4,Hruševac kod Topuskog,45.2930000,15.9700000,"Hruševac kod Topuskog (district/institution, fuzzy)",manual
 4,Zagreb (Kaptol),45.8140000,15.9790000,"Zagreb (Kaptol) (district/institution, fuzzy)",manual
+1,Finčevec,46.0983830,16.4273423,"Finčevec (miss-recovery sweep)",manual
+1,Grahovljani,45.4929786,17.2552754,"Grahovljani (miss-recovery sweep)",manual
+3,Budrovac,45.9846315,17.0567113,"Budrovac (miss-recovery sweep)",manual
+4,Lukavec Turopoljski,45.7011134,15.9936241,"Lukavec Turopoljski (miss-recovery sweep)",manual
+2,Varaždinske Toplice,46.2092637,16.4211576,"Varaždinske Toplice (miss-recovery sweep)",manual
+4,Suhodol Zelinski,45.9266474,16.2173760,"Suhodol Zelinski (miss-recovery sweep)",manual
+1,Karlovec Ludbreški,46.2876860,16.6287750,"Karlovec Ludbreški (miss-recovery sweep)",manual
+1,Kloštar Podravski,45.9736940,17.1663312,"Kloštar Podravski (county-1 Heller sweep)",manual
+1,Vaška,45.8154349,17.6662543,"Vaška (county-1 Heller sweep)",manual
