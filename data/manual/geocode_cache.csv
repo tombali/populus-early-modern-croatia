@@ -903,3 +903,18 @@ county,query,lat,lon,display_name,source
 4,Križevci,46.0247000,16.5460000,"Križevci (c4 reds-with-modern batch)",manual
 2,Otok kod Vrbovca,45.8900000,16.4300000,"Otok kod Vrbovca, near Vrbovec (user hint)",manual
 2,Zrepišar kod Vrbovca,45.8950000,16.4400000,"Zrepišar kod Vrbovca, near Vrbovec (user hint)",manual
+3,Ilova kod Grubišnog Polja,45.6900000,17.1500000,"Ilova kod Grubišnog Polja (Pavleš Gordova/Kontovec monograph)",manual
+3,Kontovec kod Grubišnog Polja,45.6500000,17.2000000,"Kontovec kod Grubišnog Polja (Pavleš Gordova/Kontovec monograph)",manual
+3,Lipa kod Slatine,45.7016000,17.6874000,"Lipa kod Slatine (Buturac: south of Virovitica, neighboring Talovec/Sesvete)",manual
+3,Kraljevec kod Virovitice,45.6600000,17.2200000,"Kraljevec kod Virovitice (Heller/monograph region anchor)",manual
+2,Slatina kod Ivanić-Grada,45.7100000,16.4000000,"Slatina kod Ivanić-Grada (Heller/monograph region anchor)",manual
+3,Virovitica (imanje Derže),45.8331404,17.3853376,"Virovitica town center (Derze estate documented nearby, Pavleš + Pálosfalvi)",manual
+3,Špišić Bukovica,45.8578490,17.3011788,"Špišić Bukovica (Engel/Koppány, castellum Bakwa west of Virovitica)",manual
+1,Čazma (izgubljeno selo blizu Čazme),45.7483719,16.6132008,"Čazma town center (Zenth Jacab/Szentjakab, lost village near Čazma/Csezmice per Pálosfalvi)",manual
+1,Ivanec Križevački,46.0759345,16.5687713,"Ivanec Križevački (Pavleš: Templar/Hospitaller estate of Sveti Ivan, village named for the church)",manual
+1,IVANEC,46.0759345,16.5687713,"Ivanec Križevački (correction: compiler-guessed 'IVANEC' for county-1 entries almost certainly means the local Ivanec, not the Varaždin-county town; overrides the earlier bare Nominatim match)",manual
+1,Ivanić-Grad,45.7056756,16.3920092,"Ivanić-Grad (Kampuš/Adamček compiler modern_place=IVANIĆ for Iwanych, distinct from the IVANEC-guessed cluster)",manual
+1,Moravče,45.9330556,16.1669444,"Moravče (Dobronić: Marocha = old Moravče, plebanus ecclesiae Trinitatis in Marocha 1605, Comitatu Zagrabiensi)",manual
+1,Čađavica,45.7462539,17.8632019,"Čađavica (Palosfalvi/Csánki: Zagyolca in Körös county, late 15th c.)",manual
+1,Trema (okolica Čvrsteca),45.9948837,16.6133459,"Trema (Pavleš: nobles of Farkadin grouped with Čvrstec/Rašćani/Vrhovljan/Šumečec cluster near Trema)",manual
+1,Badljevina,45.5132189,17.1924562,"Badljevina (Buturac: sancte crucis de Bagen 1334, Jacobus sancte crucis in Bagenowoz 1501)",manual

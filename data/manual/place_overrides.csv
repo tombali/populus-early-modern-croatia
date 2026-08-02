@@ -143,8 +143,8 @@ place_id,group_key,canonical_name,modern_place,needs_review
 391,pavles_194,Bwdrowcz,Budrovec
 393,pavles_194,Bwdrowcz,Budrovec
 328,pavles_156,Bothowcz,Botovo
-369,pavles_180,Brezyancz,Brežanec
-372,pavles_180,Brezyancz,Brežanec
+369,pavles_180,Brezyancz,Ilova kod Grubišnog Polja,1
+372,pavles_180,Brezyancz,Ilova kod Grubišnog Polja,1
 2048,pavles_998,Moghoyna-de Kaproncza,Mogovina
 2049,pavles_998,Moghoyna-de Kaproncza,Mogovina
 3389,vivodina,Wywodyna,Vivodina
@@ -1270,3 +1270,43 @@ place_id,group_key,canonical_name,modern_place,needs_review
 3773,zrepisar_vrbovec,Zrepychar-insula,Zrepišar kod Vrbovca,1
 3774,zrepisar_vrbovec,Zrepychar-insula,Zrepišar kod Vrbovca,1
 3775,zrepisar_vrbovec,Zrepychar-insula,Zrepišar kod Vrbovca,1
+1222,ilova_a,Ilowa,Ilova kod Grubišnog Polja,1
+1223,ilova_b,Ilowa cum pertinentiis,Ilova kod Grubišnog Polja,1
+1520,kontovec_a,Konthowcz cum pertinentiis,Kontovec kod Grubišnog Polja,1
+1524,kontovec_a,Konthowcz cum pertinentiis,Kontovec kod Grubišnog Polja,1
+1525,kontovec_a,Konthowcz cum pertinentiis,Kontovec kod Grubišnog Polja,1
+1517,kontovec_b,Konthocz Zenthmyklos,Kontovec kod Grubišnog Polja,1
+1518,kontovec_b,Konthocz Zenthmyklos,Kontovec kod Grubišnog Polja,1
+1521,kontovec_b,Konthocz Zenthmyklos,Kontovec kod Grubišnog Polja,1
+1522,kontovec_b,Konthocz Zenthmyklos,Kontovec kod Grubišnog Polja,1
+3013,talovec_a,Thallocz,Lipa kod Slatine,1
+1795,lipa_c3,Lyppa,Lipa kod Slatine,1
+1876,lipa_c3,Lyppa,Lipa kod Slatine,1
+3014,talovec_b,Thallocz Lyppa Martinowcz,Lipa kod Slatine,1
+3015,talovec_c,Thaloucz,Lipa kod Slatine,1
+1701,kyralowcz,Kyralowcz-cum pertinentiis,Kraljevec kod Virovitice,1
+1702,kyralowcz,Kyralowcz-cum pertinentiis,Kraljevec kod Virovitice,1
+3692,zlatina_ivanic,Zlathyna,Slatina kod Ivanić-Grada,1
+3693,zlatina_ivanic,Zlathyna,Slatina kod Ivanić-Grada,1
+691,derze_c3,Derze,Virovitica (imanje Derže),1
+690,derze_c3,Derze,Virovitica (imanje Derže),1
+868,felsew_bakwa,Felsew Bakwa,Špišić Bukovica,1
+895,felsew_bakwa,Felsew Bakwa,Špišić Bukovica,1
+3557,zenth_jacab,Zenth Jacab,Čazma (izgubljeno selo blizu Čazme),1
+3556,zenth_iwan,Zenth Iwan cum Krysnychya,Ivanec Križevački,1
+3554,zenth_iwan,Zenth Iwan cum Krysnychya,Ivanec Križevački,1
+3614,zenth_iwan,Zenth Iwan cum Krysnychya,Ivanec Križevački,1
+3645,zenth_iwan,Zenth Iwan cum Krysnychya,Ivanec Križevački,1
+1254,ivanych_oppidum_lupoglav,Iwanych-oppidum cum pertinentiis,Lupoglav,1
+1255,ivanych_oppidum_lupoglav,Iwanych-oppidum cum pertinentiis,Lupoglav,1
+1253,iwanych_ivanic,Iwanych,Ivanić-Grad,1
+1929,marocha_moravce,Marocha,Moravče,1
+3559,zenth_jacab,Zenth Jacab,Čazma (izgubljeno selo blizu Čazme),1
+3560,zenth_jacab,Zenth Jacab,Čazma (izgubljeno selo blizu Čazme),1
+3412,zagolca_cadavica,Zagolcza,Čađavica,1
+3417,zagolca_cadavica,Zagolcza,Čađavica,1
+3418,zagolca_cadavica,Zagolcza,Čađavica,1
+855,farkadin_trema,Farkadyn,Trema (okolica Čvrsteca),1
+1080,gregurovec,Gregwryewyna,Gregurovec,1
+93,bagenowcz_badljevina,Bagenowcz,Badljevina,1
+1318,janosowcz_sredice,Janosowcz,Sredice,1
