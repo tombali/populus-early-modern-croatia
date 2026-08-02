@@ -24,7 +24,7 @@ import time
 import urllib.parse
 import urllib.request
 
-from common import CLEAN_DIR, ROOT, ensure_dirs, geocode_query
+from common import CLEAN_DIR, ROOT, ensure_dirs, geocode_key, geocode_query
 
 CACHE_CSV = os.path.join(ROOT, "data", "manual", "geocode_cache.csv")
 AUTHORITY_CSV = os.path.join(CLEAN_DIR, "place_authority.csv")
@@ -67,7 +67,9 @@ def load_cache():
     out = {}
     with open(CACHE_CSV, encoding="utf-8") as fh:
         for r in csv.DictReader(fh):
-            k = (r.get("county", ""), r["query"])
+            # case-insensitive key so ALL-CAPS and proper-cased spellings of
+            # the same name share one cache entry (no redundant re-fetch).
+            k = (r.get("county", ""), geocode_key(r["query"]))
             if k not in out or out[k].get("source") == "error":
                 out[k] = r
     return out
@@ -84,6 +86,11 @@ def query_variants(name):
     if re.search(r"(?i)\bsv[.\s]", name):
         bases = [re.sub(r"(?i)\bsv[.\s]+", "Sveti ", name),
                  re.sub(r"(?i)\bsv[.\s]+", "Sveta ", name)]
+    # the source often writes the Croatian đ as the digraph "dj" (Djurdjevac,
+    # Grdjevac); OSM indexes the đ form, so try it too.
+    if re.search("dj", name, re.IGNORECASE):
+        bases = bases + [b.replace("dj", "đ").replace("Dj", "Đ").replace("DJ", "Đ")
+                         for b in bases]
     out = []
     for base in bases:
         out.append(base)
@@ -150,9 +157,10 @@ def main():
                         for r in csv.DictReader(fh)} - {(c, "") for c in "1234"})
     pairs = [p for p in pairs if p[1]]
 
-    cache = load_cache()
+    cache = load_cache()   # keyed (county, geocode_key(name)) — case-insensitive
     todo = [p for p in pairs
-            if p not in cache or cache[p].get("source") == "error"]
+            if (p[0], geocode_key(p[1])) not in cache
+            or cache[(p[0], geocode_key(p[1]))].get("source") == "error"]
     print(f"{len(pairs)} (county,name) pairs; {len(cache)} cached; "
           f"{len(todo)} to fetch (~{len(todo) * DELAY_S / 60:.1f} min)")
 

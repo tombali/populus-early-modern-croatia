@@ -24,7 +24,7 @@ from collections import Counter, defaultdict
 from difflib import SequenceMatcher
 
 from authority_lib import UnionFind, fold, vowel_skeleton
-from common import CLEAN_DIR, ROOT, ensure_dirs, geocode_query
+from common import CLEAN_DIR, ROOT, ensure_dirs, geocode_key, title_place
 
 PLACES_CSV = os.path.join(CLEAN_DIR, "places.csv")
 ENTRIES_CSV = os.path.join(CLEAN_DIR, "tax_entries.csv")
@@ -92,7 +92,10 @@ def load_geocode_cache():
     with open(GEOCODE_CACHE, encoding="utf-8") as fh:
         for r in csv.DictReader(fh):
             if r.get("lat") and r.get("lon"):
-                out[(r.get("county", ""), r["query"])] = (r["lat"], r["lon"])
+                # case-insensitive key: ALL-CAPS source names and proper-cased
+                # manual pins must resolve to the same coordinate.
+                out[(r.get("county", ""), geocode_key(r["query"]))] = (
+                    r["lat"], r["lon"])
     return out
 
 
@@ -214,6 +217,7 @@ def main():
         canonical_name = gmeta.get("canonical_name") or canon["historical_name"]
         modern = gmeta.get("modern_place") or (
             moderns.most_common(1)[0][0] if moderns else "")
+        modern = title_place(modern)   # ALL-CAPS source names -> Croatian case
 
         conflict = len(moderns) > 1
         if is_manual:
@@ -230,7 +234,7 @@ def main():
         if gmeta.get("needs_review") == "1":   # manual "mark as fuzzy" flag
             needs_review = 1
 
-        lat, lon = geocode.get((cid, geocode_query(modern)), ("", ""))
+        lat, lon = geocode.get((cid, geocode_key(modern)), ("", ""))
 
         auth_rows.append([aid, canonical_name, modern, cid, len(members),
                           sum(m["n_entries"] for m in members), method,

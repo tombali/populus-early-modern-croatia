@@ -87,3 +87,44 @@ def geocode_query(modern):
     m = m.split(",")[0].strip()          # first toponym of a compound value
     m = re.sub(r"\s*\([^)]*\)", "", m)    # drop qualifiers like "(INF.)"
     return m.rstrip("?").strip()
+
+
+def geocode_key(modern):
+    """Case-insensitive cache key for a modern place. The geocode cache mixes
+    ALL-CAPS source names with proper-cased manual pins, so match on casefold
+    to keep both spellings interchangeable."""
+    return geocode_query(modern).casefold()
+
+
+# Croatian lowercase particles that stay lowercase mid-name.
+_PLACE_LOWER = {"na", "pod", "kod", "nad", "pri", "za", "uz", "iz", "do",
+                "od", "u", "i", "sa", "ob"}
+
+
+def title_place(name):
+    """Re-case an ALL-CAPS modern place name to Croatian naming conventions
+    (e.g. "GORNJA STUBICA" -> "Gornja Stubica", "NOVIGRAD NA DOBRI" ->
+    "Novigrad na Dobri"). Mixed-case values are already curated and returned
+    unchanged so hand-cased names/diacritics are never clobbered."""
+    m = norm_ws(name)
+    # drop stray leading/trailing commas (keep internal ones of compounds)
+    m = re.sub(r"^[\s,]+|[\s,]+$", "", m)
+    letters = [c for c in m if c.isalpha()]
+    if not letters or not all(c.isupper() for c in letters):
+        return m                          # only normalise pure ALL-CAPS values
+
+    def cap(tok):
+        return "-".join(p[:1].upper() + p[1:] if p else p
+                        for p in tok.split("-"))
+
+    out, first = [], True
+    for tok in m.lower().split(" "):
+        if not tok:
+            continue
+        # a leading particle still capitalises (start of a name/segment)
+        if not first and tok.rstrip(",") in _PLACE_LOWER:
+            out.append(tok)
+        else:
+            out.append(cap(tok))
+        first = tok.endswith(",")         # segment restart after a comma
+    return " ".join(out)

@@ -784,3 +784,52 @@ county,query,lat,lon,display_name,source
 1,Zetkan,45.8211642,16.5415532,"Zetkan (Heller sweep)",manual
 1,Žunci,45.9568877,16.4242631,"Žunci (Heller sweep)",manual
 1,Gornja Rijeka,46.1097000,16.3924000,"Gornja Rijeka = Reka/Kis Kemlek (Heller)",manual
+4,Kravarsko,45.5864987,16.0471926,"Kravarsko, Općina Kravarsko, Zagrebačka županija, Hrvatska",manual
+4,Novigrad na Dobri,45.4719042,15.4437428,"Novigrad na Dobri, Općina Netretić, Karlovačka županija, Hrvatska",nominatim
+4,Šimunovec,,,,nominatim
+4,Šimunovec,45.8781,16.0911,"Šimunovec near Sesvete/Kašina (user coords)",manual
+4,Gradec Pokupski,45.5479053,15.8695123,"Gradec Pokupski, Pisarovina, Zagrebačka (Gradacz+Jamnica)",manual
+4,Doljani Žumberački,45.7164511,15.2914265,"Doljani Žumberački, Ozalj, Karlovačka (Heller/user)",manual
+4,Brekunjevec,45.9180000,16.1650000,"Brekunjevec approx S of Moravče (Heller 1910, fuzzy)",manual
+4,Hrastovica,45.3987583,16.2717361,"Hrastovica (county-4 sweep, Heller)",manual
+4,Zdenci Brdovečki,45.8628953,15.7540367,"Zdenci Brdovečki (county-4 sweep, Heller)",manual
+4,Brdovec,45.8692724,15.7622811,"Brdovec (county-4 sweep, Heller)",manual
+4,Novaki Bistranski,45.8855037,15.8617381,"Novaki Bistranski (county-4 sweep, Heller)",manual
+4,Stupnik,45.7465555,15.8434018,"Stupnik (county-4 sweep, Heller)",manual
+4,Donja Pušća,45.9130219,15.7792389,"Donja Pušća (county-4 sweep, Heller)",manual
+4,Zaprešić,45.8572728,15.8050436,"Zaprešić (county-4 sweep, Heller)",manual
+4,Stenjevec,45.8025481,15.8857775,"Stenjevec (county-4 sweep, Heller)",manual
+4,Jablanovec,45.8756514,15.8488998,"Jablanovec (county-4 sweep, Heller)",manual
+4,Tržić,45.7143241,15.7296259,"Tržić (county-4 sweep, Heller)",manual
+4,Stankovo,45.7116856,15.7002110,"Stankovo (county-4 sweep, Heller)",manual
+4,Vranov Dol,45.7226908,15.6275766,"Vranov Dol (county-4 sweep, Heller)",manual
+4,Podgorje Susedgradsko,45.8209845,15.8307946,"Podgorje Susedgradsko (county-4 sweep, Heller)",manual
+4,Susedgrad,45.8209845,15.8307946,"Susedgrad (county-4 sweep, Heller)",manual
+4,Trnava Oporovečka,45.8450000,16.0750000,"Trnava Oporovečka (county-4 sweep, Heller)",manual
+4,Kluka,45.6070000,15.9810000,"Kluka (county-4 sweep, Heller)",manual
+4,Berkuševina,45.2930000,15.9700000,"Berkuševina (county-4 sweep, Heller)",manual
+4,Koyenik,45.7450000,15.7830000,"Koyenik (county-4 sweep, Heller)",manual
+4,Posavje Susedgradsko,45.8209845,15.8307946,"Posavje Susedgradsko (county-4 sweep, Heller)",manual
+4,Sveta Jelena Samoborska,45.8020000,15.7110000,"Sveta Jelena Samoborska (county-4 sweep, Heller)",manual
+4,Omnium Sanctorum kod Popovca,45.8470000,16.1700000,"Omnium Sanctorum kod Popovca (county-4 sweep, Heller)",manual
+4,Hrastina Samoborska,45.8074167,15.7398733,"Hrastina Samoborska (county-4 sweep, Heller)",manual
+4,Zamersje kod Zaprešića,45.8572728,15.8050436,"Zamersje kod Zaprešića (county-4 sweep, Heller)",manual
+4,Vranov Dol,45.7250,15.6319,"Vranov Dol kod Plešivice, Jastrebarsko (user coords)",manual
+1,Đurđevac,46.0410468,17.0678562,"Đurđevac (dj->đ fix, county-1)",manual
+1,Đurđic,46.0027595,16.5846866,"Đurđic (dj->đ fix, county-1)",manual
+1,Međurača,45.7945307,16.8940401,"Međurača (dj->đ fix, county-1)",manual
+1,Veliki Grđevac,45.7515565,17.0497322,"Veliki Grđevac (dj->đ fix, county-1)",manual
+1,Dijakovac,45.7006,17.3514,"Dijakovac, Grubišno Polje (user coords)",manual
+4,Dužica,45.5381486,16.2364540,"Dužica (county-4 sweep)",manual
+4,Pribić,45.6628615,15.5320867,"Pribić (county-4 sweep)",manual
+4,Brest Pokupski,45.4532035,16.2560801,"Brest Pokupski (county-4 sweep)",manual
+4,Šenkovec,45.8903120,15.6949610,"Šenkovec (county-4 sweep)",manual
+4,Jezero Posavsko,45.6346553,16.3117931,"Jezero Posavsko (county-4 sweep)",manual
+4,Opatovina,45.8158883,15.9773457,"Opatovina (county-4 sweep)",manual
+4,Stermec kod Pribića,45.6628615,15.5320867,"Stermec kod Pribića (county-4 sweep)",manual
+4,Jastrebarski Vrh,45.6700000,15.6500000,"Jastrebarski Vrh (county-4 sweep)",manual
+4,Omelja kod Marče,45.7200000,16.3500000,"Omelja kod Marče (county-4 sweep)",manual
+4,Lekanec kod Lukavca,45.6850000,16.0700000,"Lekanec kod Lukavca (county-4 sweep)",manual
+4,Ladomer kod Jastrebarskog,45.6700000,15.6500000,"Ladomer kod Jastrebarskog (district/institution, fuzzy)",manual
+4,Hruševac kod Topuskog,45.2930000,15.9700000,"Hruševac kod Topuskog (district/institution, fuzzy)",manual
+4,Zagreb (Kaptol),45.8140000,15.9790000,"Zagreb (Kaptol) (district/institution, fuzzy)",manual
