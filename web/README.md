@@ -72,5 +72,4 @@ Deploy the whole `web/` folder (`index.html`, `explorer.html`, `*.js`, `geo.json
 - Today's **county borders** and the **Sava/Drava rivers** are drawn for
   geographic context (from OpenStreetMap, embedded — no live map tiles).
 - Use the **year slider** (or ▶) to step through the 23 census campaigns; the
-  **Table** button shows the underlying numbers; the theme button toggles
-  light/dark.
+  theme button toggles light/dark.
