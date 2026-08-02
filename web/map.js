@@ -183,7 +183,6 @@
         c.addEventListener("pointermove",ev=>showTip(tip.innerHTML,ev));
         c.addEventListener("pointerleave",hideTip);
         svg.appendChild(c);});});
-    $("yrlab").textContent=year;
   }
   function mapLegend(){
     const tc=DATA.tierCounts;
@@ -210,15 +209,33 @@
   // slider + play
   const sl=$("slider"); sl.max=DATA.years.length-1;
   sl.value=DATA.years.indexOf(1507)>=0?DATA.years.indexOf(1507):0;
-  sl.oninput=()=>drawMap(cur());
+  // Year ticks under the track (clickable). Thumb inset ~7px each side.
+  const yearMarks=[];
+  const yearsBox=$("slider-years");
+  const nYears=DATA.years.length;
+  DATA.years.forEach((y,i)=>{
+    const b=document.createElement("button");
+    b.type="button"; b.textContent=y; b.title=String(y);
+    b.style.left=nYears<=1?"50%":
+      `calc(${i/(nYears-1)} * (100% - 14px) + 7px)`;
+    b.onclick=()=>{sl.value=i;drawMap(cur());markYear();};
+    yearsBox.appendChild(b); yearMarks.push(b);
+  });
+  function markYear(){
+    const i=+$("slider").value;
+    yearMarks.forEach((b,j)=>b.setAttribute("aria-current",j===i?"true":"false"));
+  }
+  const onSlide=()=>{drawMap(cur());markYear();};
+  sl.oninput=onSlide;
   let timer=null;
   $("play").onclick=()=>{
     if(timer){clearInterval(timer);timer=null;$("play").textContent="▶";return;}
     $("play").textContent="⏸";sync();
     timer=setInterval(()=>{
-      sl.value=(+sl.value+1)%DATA.years.length;drawMap(cur());
+      sl.value=(+sl.value+1)%DATA.years.length;onSlide();
       if(+sl.value===DATA.years.length-1){clearInterval(timer);timer=null;
         $("play").textContent="▶";}},900);};
+  markYear();
 
   mapLegend(); sync();
   matchMedia("(prefers-color-scheme: dark)").addEventListener("change",sync);
