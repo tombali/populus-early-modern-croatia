@@ -40,6 +40,7 @@
     border:1px solid var(--ring);border-radius:8px;padding:6px 12px;cursor:pointer;
     text-decoration:none;display:inline-block}
   button:hover,.btn:hover{border-color:var(--axis)}
+  .hidden,#theme[hidden]{display:none!important}
   .panel{background:var(--surface);border:1px solid var(--ring);
     border-radius:12px;padding:16px}
   .filters{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));
@@ -86,7 +87,7 @@
     </div>
     <div class="head-ctl">
       <a class="btn" href="index.html">Map</a>
-      <button id="theme" type="button">Dark</button>
+      <button id="theme" class="hidden" type="button" hidden>Dark</button>
     </div>
   </header>
 
