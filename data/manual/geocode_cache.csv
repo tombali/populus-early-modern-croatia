@@ -872,3 +872,34 @@ county,query,lat,lon,display_name,source
 1,Kloštar Podravski,45.9736940,17.1663312,"Kloštar Podravski (Engel map co-location)",manual
 1,Zdenčec kod Koprivnice,46.1622000,16.8277000,"Zdenčec kod Koprivnice (Engel map co-location)",manual
 1,Tiboninc kod Kloštra Podravskog,45.9800000,17.1500000,"Tiboninc kod Kloštra Podravskog (Engel map)",manual
+1,Adamovec,45.9044495,16.1633161,"Adamovec (leftover reds-with-modern batch)",manual
+1,Martinec Orehovički,46.0891232,15.9626404,"Martinec Orehovički (leftover reds-with-modern batch)",manual
+1,Osekovo,45.5206332,16.6149659,"Osekovo (leftover reds-with-modern batch)",manual
+1,Ivanska,45.7794464,16.8063455,"Ivanska (leftover reds-with-modern batch)",manual
+1,Sveta Klara,45.7606828,15.9608781,"Sveta Klara (leftover reds-with-modern batch)",manual
+1,Jalševec Svibovečki,46.2078577,16.4827167,"Jalševec Svibovečki (leftover reds-with-modern batch)",manual
+1,Hum,45.6666512,17.5305513,"Hum (leftover reds-with-modern batch)",manual
+1,Lipovljani,45.4028679,16.8825616,"Lipovljani (leftover reds-with-modern batch)",manual
+1,Gornja Stubica,45.9749888,16.0175181,"Gornja Stubica (leftover reds-with-modern batch)",manual
+1,Štefanec,46.3031360,16.4579003,"Štefanec (leftover reds-with-modern batch)",manual
+3,Bartolovec,46.2970896,16.4351454,"Bartolovec (c2/c3 reds-with-modern batch)",manual
+3,Volavje,45.6550577,15.6058087,"Volavje (c2/c3 reds-with-modern batch)",manual
+3,Šimunovec,45.8781000,16.0911000,"Šimunovec (c2/c3 reds-with-modern batch)",manual
+2,Vrbovec,45.8856479,16.4181159,"Vrbovec (c2/c3 reds-with-modern batch)",manual
+2,Mirkovec,46.0540852,15.9325918,"Mirkovec (c2/c3 reds-with-modern batch)",manual
+2,Imbriovec,46.2563933,16.8216410,"Imbriovec (c2/c3 reds-with-modern batch)",manual
+2,Fodorovec,46.0406624,16.4103609,"Fodorovec (c2/c3 reds-with-modern batch)",manual
+2,Druškovec,46.2567406,16.1494558,"Druškovec (c2/c3 reds-with-modern batch)",manual
+2,Sveti Martin,45.9982709,16.5197248,"Sveti Martin (c2/c3 reds-with-modern batch)",manual
+3,Gornja Stubica,45.9749888,16.0175181,"Gornja Stubica (c2/c3 reds-with-modern batch)",manual
+3,Petruševec,46.1213711,16.1387745,"Petruševec (c2/c3 reds-with-modern batch)",manual
+2,Vočin,45.6198011,17.5481532,"Vočin (c2/c3 reds-with-modern batch)",manual
+4,Bisag,46.0337432,16.2989057,"Bisag (c4 reds-with-modern batch)",manual
+4,Samoborski Otok,45.8372681,15.7319730,"Samoborski Otok (c4 reds-with-modern batch)",manual
+4,Topusko,45.2931510,15.9789277,"Topusko (c4 reds-with-modern batch)",manual
+4,Žumberak,45.7670537,15.4150520,"Žumberak (c4 reds-with-modern batch)",manual
+4,Kalinje,45.9814531,16.2380747,"Kalinje (c4 reds-with-modern batch)",manual
+4,Hrastje,45.9782359,16.2688640,"Hrastje (c4 reds-with-modern batch)",manual
+4,Križevci,46.0247000,16.5460000,"Križevci (c4 reds-with-modern batch)",manual
+2,Otok kod Vrbovca,45.8900000,16.4300000,"Otok kod Vrbovca, near Vrbovec (user hint)",manual
+2,Zrepišar kod Vrbovca,45.8950000,16.4400000,"Zrepišar kod Vrbovca, near Vrbovec (user hint)",manual
