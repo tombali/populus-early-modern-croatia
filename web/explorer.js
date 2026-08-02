@@ -26,8 +26,6 @@
         &&matchMedia("(prefers-color-scheme: dark)").matches);
 
   // ---- filter UI -------------------------------------------------------
-  $("total-lab").textContent=DATA.rows.length.toLocaleString("en");
-
   const yearSel=$("f-year");
   DATA.years.forEach(y=>{
     const o=document.createElement("option");
