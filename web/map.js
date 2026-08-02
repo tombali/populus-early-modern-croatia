@@ -20,8 +20,13 @@
   const grow=(lo,la)=>{latMin=Math.min(latMin,la);latMax=Math.max(latMax,la);
     lonMin=Math.min(lonMin,lo);lonMax=Math.max(lonMax,lo);};
   DATA.places.forEach(p=>grow(p[5],p[4]));
-  // frame the map by the county borders too, so the region is fully shown
-  (DATA.geo.counties||[]).forEach(c=>c.rings.forEach(r=>r.forEach(q=>grow(q[0],q[1]))));
+  // Frame by the core county mosaic only — Međimurje / Požega-Slavonia are
+  // drawn for context but must not push the initial view past current edges.
+  const NO_FRAME=new Set(["Međimurska županija","Požeško-slavonska županija"]);
+  (DATA.geo.counties||[]).forEach(c=>{
+    if(NO_FRAME.has(c.name))return;
+    c.rings.forEach(r=>r.forEach(q=>grow(q[0],q[1])));
+  });
   const pad=.05*(latMax-latMin);
   latMin-=pad;latMax+=pad;lonMin-=pad;lonMax+=pad;
   const midLat=(latMin+latMax)/2, kx=Math.cos(midLat*Math.PI/180);

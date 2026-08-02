@@ -33,9 +33,9 @@ the county trends, then inlines them into `template.html` — along with the map
 context geometry from `geo.json` if present. Edit `map.js` directly for UI
 changes; no rebuild needed unless data changed.
 
-**Map context geometry** (county borders + the Sava/Drava rivers) is cached in
-`geo.json` and committed, so a normal rebuild needs no network. To refresh it
-from OSM Nominatim (borders) and Overpass (rivers):
+**Map context geometry** (county borders + the Sava/Drava/Mura/Kupa rivers) is
+cached in `geo.json` and committed, so a normal rebuild needs no network. To
+refresh it from OSM Nominatim (borders) and Overpass (rivers):
 
 ```bash
 python web/fetch_geo.py --force
@@ -69,7 +69,8 @@ Deploy the whole `web/` folder (`index.html`, `explorer.html`, `*.js`, `geo.json
 - **Marker colour = how confident the location is** — 🟢 exact geocode ·
   🟡 geocoded but the modern identification is uncertain/fuzzy · 🔴 no
   coordinates, so the place is scattered around its **county town**.
-- Today's **county borders** and the **Sava/Drava rivers** are drawn for
-  geographic context (from OpenStreetMap, embedded — no live map tiles).
+- Today's **county borders** and the **Sava / Drava / Mura / Kupa** rivers are
+  drawn for geographic context (from OpenStreetMap, embedded — no live map
+  tiles).
 - Use the **year slider** (or ▶) to step through the 23 census campaigns; the
   theme button toggles light/dark.

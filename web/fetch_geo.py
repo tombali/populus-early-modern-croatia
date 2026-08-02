@@ -1,9 +1,9 @@
 """Fetch + simplify map context geometry, cached to web/geo.json.
 
-County borders come from OSM Nominatim (polygon_geojson); the Sava and Drava
-rivers from the Overpass API. Geometry is simplified (Douglas-Peucker) so it
-inlines small, keeping web/index.html self-contained. Network step, run rarely;
-skips work if web/geo.json already exists (use --force to refetch).
+County borders come from OSM Nominatim (polygon_geojson); rivers (Sava, Drava,
+Mura, Kupa) from the Overpass API. Geometry is simplified (Douglas-Peucker) so
+it inlines small, keeping web/index.html self-contained. Network step, run
+rarely; skips work if web/geo.json already exists (use --force to refetch).
 
 Stdlib only. Polite: 1 req/s, descriptive User-Agent.
 """
@@ -26,6 +26,8 @@ COUNTIES = [
     "Sisačko-moslavačka županija", "Karlovačka županija",
     "Varaždinska županija", "Koprivničko-križevačka županija",
     "Bjelovarsko-bilogorska županija", "Virovitičko-podravska županija",
+    # Drawn for context; map.js does not let these expand the initial frame.
+    "Međimurska županija", "Požeško-slavonska županija",
 ]
 
 
@@ -36,16 +38,18 @@ def get(url, data=None, timeout=90):
 
 
 def overpass(ql, timeout=180):
-    """Run an Overpass query, retrying once on gateway timeout."""
+    """Run an Overpass query, retrying on gateway timeout / rate limit."""
     data = urllib.parse.urlencode({"data": ql}).encode()
     url = "https://overpass-api.de/api/interpreter"
-    for attempt in range(2):
+    for attempt in range(4):
         try:
             return get(url, data=data, timeout=timeout)
         except urllib.error.HTTPError as e:
-            if e.code == 504 and attempt == 0:
-                print("  overpass timeout, retrying…", file=sys.stderr)
-                time.sleep(3)
+            if e.code in (429, 504) and attempt < 3:
+                wait = 8 * (attempt + 1)
+                print(f"  overpass {e.code}, retrying in {wait}s…",
+                      file=sys.stderr)
+                time.sleep(wait)
                 continue
             raise
 
@@ -105,28 +109,41 @@ def fetch_counties():
 
 
 def _river_kind(name):
-    """Classify an OSM river name as Sava, Drava, or skip."""
+    """Classify an OSM river name, or None to skip."""
     n = (name or "").strip().lower()
     if not n or n.startswith("stara drava"):
         return None
     if n.startswith("sava"):
         return "Sava"
-    # Drava is tagged Drava, Dráva, Drava / Dráva, … on different ways
-    if n.startswith("drava") or n.startswith("dráva") or " drava" in n or " dráva" in n:
+    # Drava / Dráva (and bilingual "Drava / Dráva") on different ways
+    if (n.startswith("drava") or n.startswith("dráva")
+            or " drava" in n or " dráva" in n):
         return "Drava"
+    # Mura / Mur (de)
+    if n.startswith("mura") or n == "mur" or n.startswith("mur "):
+        return "Mura"
+    # Kupa (hr) / Kolpa (sl)
+    if n.startswith("kupa") or n.startswith("kolpa"):
+        return "Kupa"
     return None
+
+
+# Overpass name regex → canonical label. Each result is re-checked by _river_kind.
+RIVER_QUERIES = (
+    ("Sava", "^Sava"),
+    ("Drava", "Drava|Dráva"),
+    ("Mura", "^Mura|^Mur$|^Mur "),
+    ("Kupa", "Kupa|Kolpa"),
+)
 
 
 def fetch_rivers():
     s, w, n, e = BBOX
-    rivers = {"Sava": [], "Drava": []}
-    # Two queries — simpler than one combined regex query on Overpass
-    for label, ql in (
-        ("Sava", f'[out:json][timeout:120];way["waterway"="river"]["name"~"^Sava",i]'
-                 f'({s},{w},{n},{e});out geom;'),
-        ("Drava", f'[out:json][timeout:120];way["waterway"="river"]["name"~"Drava",i]'
-                  f'({s},{w},{n},{e});out geom;'),
-    ):
+    rivers = {label: [] for label, _ in RIVER_QUERIES}
+    for label, pattern in RIVER_QUERIES:
+        ql = (f'[out:json][timeout:120];'
+              f'way["waterway"="river"]["name"~"{pattern}",i]'
+              f'({s},{w},{n},{e});out geom;')
         d = overpass(ql)
         for elem in d.get("elements", []):
             nm = elem.get("tags", {}).get("name", "")
@@ -137,7 +154,9 @@ def fetch_rivers():
                 if len(line) >= 2:
                     rivers[kind].append(dp(line))
         print(f"  river {label}: {len(rivers[label])} segments")
-    return [{"name": k, "lines": v} for k, v in rivers.items() if v]
+        time.sleep(1.5)
+    order = ["Drava", "Mura", "Sava", "Kupa"]
+    return [{"name": k, "lines": rivers[k]} for k in order if rivers.get(k)]
 
 
 def main():
