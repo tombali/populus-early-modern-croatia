@@ -571,7 +571,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 570,Chreztwecz*,1,233,manual,0
 571,Christalocz,1,284,manual,0
 572,Christhalowcz,1,284,manual,0
-573,Chrysthalowcz-cum provincia et pertinentiis,1,285,singleton,0
+573,Chrysthalowcz-cum provincia et pertinentiis,1,285,manual,1
 574,Chucher,4,286,modern,0
 575,Chwcher,4,286,modern,0
 576,Chwcherye,4,286,modern,0
@@ -1531,8 +1531,8 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1530,Kopakowcz,1,770,manual,0
 1531,Kopchyna,4,771,modern,0
 1532,Kophachowcz,1,772,singleton,0
-1533,"Kopino, Sabnicha",1,773,orthographic-fuzzy,1
-1534,"Kopino, Sabpnicha",1,773,orthographic-fuzzy,1
+1533,"Kopino, Sabnicha",1,773,manual,0
+1534,"Kopino, Sabpnicha",1,773,manual,0
 1535,Kopochowcz,1,769,manual,0
 1536,Kopozowcz,1,774,manual,0
 1537,Kopynno,1,775,manual,0
@@ -2405,13 +2405,13 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2404,Pawlyssowcz,1,1126,modern,0
 2405,Peherio i Bedenycha,4,1137,singleton,0
 2406,Pekercz,1,1138,manual,0
-2407,Pekercz-waywodatus inferior,1,1139,orthographic-fuzzy,1
-2408,Pekercz-waywodatus medius,1,1140,singleton,0
-2409,Pekercz-waywodatus superior,1,1141,orthographic-fuzzy,1
+2407,Pekercz-waywodatus inferior,1,1139,manual,0
+2408,Pekercz-waywodatus medius,1,1140,manual,0
+2409,Pekercz-waywodatus superior,1,1141,manual,0
 2410,Pekerzerdahel,1,1142,manual,0
 2411,Peklencze,1,1143,manual,0
-2412,Peklencze-waywodatus inferior,1,1139,orthographic-fuzzy,1
-2413,Peklencze-waywodatus superior,1,1141,orthographic-fuzzy,1
+2412,Peklencze-waywodatus inferior,1,1139,manual,0
+2413,Peklencze-waywodatus superior,1,1141,manual,0
 2414,Peklenycze,1,1143,manual,0
 2415,Pekrecz,1,1144,manual,0
 2416,Perchinowcz,1,1145,manual,1
@@ -2637,8 +2637,8 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2636,"Pwhakowcz, Czyglenycza",2,1252,modern,0
 2637,"Pwhakowcz, Zyglenycze",2,1252,modern,0
 2638,Pwnek,1,1253,singleton,0
-2639,Pwnekowcz,1,1254,singleton,0
-2640,"Pwnekowcz, Myklwsowcz",1,1255,singleton,0
+2639,Pwnekowcz,1,1254,manual,1
+2640,"Pwnekowcz, Myklwsowcz",1,1255,manual,1
 2641,Pwschya,4,1256,singleton,0
 2642,"Pwztha Dwssycza, Hergowych Uterque",4,1257,singleton,0
 2643,Pwztha Dwsycza,4,1258,manual,0
@@ -2738,9 +2738,9 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2737,"Razynya, Kwzmyncz, Koledyncz",1,1306,modern,0
 2738,"Razynya, Kwzmyncz, Koledyncz, Jelkowcz",1,1309,singleton,0
 2739,Recchycza,4,1310,modern,0
-2740,Reche,1,1311,singleton,0
-2741,Reche-Suppanatus,1,1312,orthographic-fuzzy,1
-2742,Reche-Vayuodatus,1,1313,orthographic-fuzzy,1
+2740,Reche,1,1311,manual,0
+2741,Reche-Suppanatus,1,1312,manual,1
+2742,Reche-Vayuodatus,1,1313,manual,1
 2743,Rechycha,4,1310,modern,0
 2744,Rechycza,4,1310,modern,0
 2745,"Rechycza, Lwka",4,1314,singleton,0
@@ -2807,8 +2807,8 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2806,Rowno,2,1337,singleton,0
 2807,Roycha,1,1338,manual,0
 2808,Royche,1,1339,manual,0
-2809,Royche-supanatus,1,1312,orthographic-fuzzy,1
-2810,Royche-waywodatus,1,1313,orthographic-fuzzy,1
+2809,Royche-supanatus,1,1312,manual,1
+2810,Royche-waywodatus,1,1313,manual,1
 2811,Rwchlewcz,1,1340,singleton,0
 2812,Rwdynwelge,2,1341,singleton,0
 2813,Ryeka,1,1342,manual,0
@@ -3465,7 +3465,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3464,"Zdenchan, Thamadocz",1,1632,singleton,0
 3465,Zdenchec ad Kaproncza,1,1633,manual,1
 3466,Zdenchecz,1,1634,manual,0
-3467,Zdenchych ad Owar,1,1635,singleton,0
+3467,Zdenchych ad Owar,1,1635,manual,1
 3468,Zdencz,1,1636,manual,0
 3469,Zebencz,1,1637,singleton,0
 3470,Zebenyancz,1,1638,singleton,0
@@ -3767,7 +3767,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3766,Zredistha,1,1754,singleton,0
 3767,Zrednawecz,1,1755,orthographic-fuzzy,1
 3768,Zrednyawcz,1,1755,orthographic-fuzzy,1
-3769,Zrednyawez,1,1756,singleton,0
+3769,Zrednyawez,1,1756,manual,1
 3770,Zredysche,1,1757,manual,0
 3771,Zredyscze,1,1757,manual,0
 3772,Zrepychak- insula,2,1758,modern,0
@@ -3835,7 +3835,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3834,Zwmzedwar cum pertinentiis,4,1742,modern,0
 3835,Zwmzedwara cum pertinentiis,4,1742,modern,0
 3836,Zwpya,1,1787,singleton,0
-3837,Zwsycha,1,1788,singleton,0
+3837,Zwsycha,1,1788,manual,1
 3838,Zwsycza ad Zenth Gergwara,1,1789,singleton,0
 3839,Zwsycze,1,1790,singleton,0
 3840,Zwthezka,2,1791,singleton,0

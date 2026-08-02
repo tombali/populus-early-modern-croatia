@@ -283,7 +283,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 282,"Chresnevo, Obres",,2,1,1,singleton,0,,
 283,Chresno,Crešnjevica,1,2,8,manual,0,45.9200074,17.1467028
 284,Christalocz,Kreštelovac,1,7,12,manual,0,45.5765405,17.0519967
-285,Chrysthalowcz-cum provincia et pertinentiis,,1,1,1,singleton,0,,
+285,Chrysthalowcz-cum provincia et pertinentiis,Kreštelovac,1,1,1,manual,1,45.5765405,17.0519967
 286,Chwcher,Čučerje,4,7,17,modern,0,45.8728865,16.0560140
 287,Chwchwwachincz,,1,1,1,singleton,0,,
 288,Chwdowcz,,1,1,1,singleton,0,,
@@ -771,7 +771,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 770,Kopakowcz,Gornja Kovačica,1,1,1,manual,0,45.7710030,17.1093385
 771,Kopchyna,Kupčina,4,5,16,modern,0,45.6160186,15.5996565
 772,Kophachowcz,,1,1,2,singleton,0,,
-773,"Kopino, Sabnicha",,1,2,2,orthographic-fuzzy,1,,
+773,Kopino Sabnicza,Sveti Ivan Žabno,1,2,2,manual,0,45.9464805,16.6055861
 774,Kwpozoucz,Čazma,1,2,3,manual,0,45.8383124,16.7079896
 775,Kopynno,Haganj,1,1,1,manual,0,45.9147515,16.5787186
 776,Korbawa,Veliki Grđevac,1,1,1,manual,1,45.7515565,17.0497322
@@ -1136,13 +1136,13 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1135,Pawlochancz  Brezowcz,Brezovac,1,1,2,manual,0,45.3849241,17.0651291
 1136,"Pawlowcz, Palche Polye",,1,1,1,singleton,0,,
 1137,Peherio i Bedenycha,"Psarjevo, Bedenica",4,1,1,singleton,0,45.9434583,16.2203369
-1138,Pekercz,Pakrac,1,1,3,manual,0,45.4366097,17.1935694
-1139,Peklencze-waywodatus inferior,,1,2,3,orthographic-fuzzy,1,,
-1140,Pekercz-waywodatus medius,,1,1,1,singleton,0,,
-1141,Pekercz-waywodatus superior,,1,2,2,orthographic-fuzzy,1,,
+1138,Pekercz,Pakrac,1,1,3,manual,0,45.4341899,17.1999511
+1139,Peklencze-waywodatus inferior,Pakrac,1,2,3,manual,0,45.4341899,17.1999511
+1140,Pekercz-waywodatus medius,Pakrac,1,1,1,manual,0,45.4341899,17.1999511
+1141,Pekercz-waywodatus superior,Pakrac,1,2,2,manual,0,45.4341899,17.1999511
 1142,Zerdahel,Gornji Sređani,1,2,22,manual,0,45.5271000,17.1602000
 1143,Peklenycze,Paklenica,1,2,3,manual,0,45.3271695,17.0187837
-1144,Pekrecz,Pakrac,1,1,2,manual,0,45.4366097,17.1935694
+1144,Pekrecz,Pakrac,1,1,2,manual,0,45.4341899,17.1999511
 1145,Perchinowcz,Peršinovci,1,1,1,manual,1,46.0300000,16.4000000
 1146,Perchinowcz cum Nagkemlek,,1,1,1,singleton,0,,
 1147,"Perchynowcz, Bywrynowcz-ad Nagh Kemlek",,1,1,1,singleton,0,,
@@ -1252,8 +1252,8 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1251,Pwhakowcz,,2,1,1,singleton,0,,
 1252,"Pwhakowcz, Czyglena",Ciglenica (zagorska),2,3,7,modern,0,46.3123951,16.3329490
 1253,Pwnek,,1,1,1,singleton,0,,
-1254,Pwnekowcz,,1,1,5,singleton,0,,
-1255,"Pwnekowcz, Myklwsowcz",,1,1,4,singleton,0,,
+1254,Pwnekowcz,Punekovec JZ Đurđevca,1,1,5,manual,1,46.0200000,16.9800000
+1255,Pwnekowcz Myklwsowcz,Punekovec JZ Đurđevca,1,1,4,manual,1,46.0200000,16.9800000
 1256,Pwschya,,4,1,1,singleton,0,,
 1257,"Pwztha Dwssycza, Hergowych Uterque",Dužica,4,1,1,singleton,0,45.5381486,16.2364540
 1258,Pwztha Dwsycza,Dužica,4,1,1,manual,0,45.5381486,16.2364540
@@ -1309,9 +1309,9 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1308,"Razynya, Kwzmyncz cum pertinentiis","Rasinja, Kuzminec",1,1,1,singleton,0,46.1879999,16.7085329
 1309,"Razynya, Kwzmyncz, Koledyncz, Jelkowcz","Rasinja, Kuzminec, Koledinec, Đelekovec",1,1,1,singleton,0,46.1879999,16.7085329
 1310,Rechycza,Rečica,4,5,14,modern,0,45.5082501,15.6617627
-1311,Reche,,1,1,3,singleton,0,,
-1312,Reche-Suppanatus,,1,2,2,orthographic-fuzzy,1,,
-1313,Reche-Vayuodatus,,1,2,2,orthographic-fuzzy,1,,
+1311,Reche,Rovišće,1,1,3,manual,0,45.9461086,16.7317296
+1312,Reche-Suppanatus,Rovišće,1,2,2,manual,1,45.9461086,16.7317296
+1313,Reche-Vayuodatus,Rovišće,1,2,2,manual,1,45.9461086,16.7317296
 1314,"Rechycza, Lwka","Rečica, Luka",4,1,1,singleton,0,45.5082501,15.6617627
 1315,Regaryowecz,,1,1,1,singleton,0,,
 1316,Regowcz,Regovec kod Obreške,1,2,4,manual,1,45.7200000,16.4200000
@@ -1633,7 +1633,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1632,"Zdenchan, Thamadocz",,1,1,1,singleton,0,,
 1633,Zdenchec ad Kaproncza,Zdenček,1,2,2,manual,1,46.1569602,16.8160001
 1634,Zdenchecz,Zdenčec,1,1,8,manual,0,45.8113685,16.6806382
-1635,Zdenchych ad Owar,,1,1,1,singleton,0,,
+1635,Zdenchych ad Owar,Zdenčec kod Koprivnice,1,1,1,manual,1,46.1622000,16.8277000
 1636,Zdencz,Zdenci,1,1,2,manual,0,45.5877618,17.9514042
 1637,Zebencz,,1,1,1,singleton,0,,
 1638,Zebenyancz,,1,1,7,singleton,0,,
@@ -1693,7 +1693,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1692,Zenth Myhal,,2,1,1,singleton,0,,
 1693,Zenthmyklos,Donji Miklouš,1,2,23,manual,0,45.721007,16.691019
 1694,Zenth Nedele,,2,2,2,orthographic-fuzzy,1,,
-1695,Zenthpal,Pavlovac,1,2,9,manual,0,45.7118000,17.0671000
+1695,Zenthpal,Pavlovac,1,2,9,manual,0,45.7117664,17.0670595
 1696,Zenth Pal ad Zenth Gergwara,,1,1,1,singleton,0,,
 1697,Zenth Wyd,,2,2,5,orthographic-fuzzy,1,,
 1698,"Zenth Wyd, Chresnevo",,2,1,1,singleton,0,,
@@ -1754,7 +1754,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1753,Zrachyncz,Sračinec,2,1,8,singleton,0,46.3305272,16.2739507
 1754,Zredistha,,1,1,1,singleton,0,,
 1755,Zrednawecz,,1,2,2,orthographic-fuzzy,1,,
-1756,Zrednyawez,,1,1,1,singleton,0,,
+1756,Zrednyawez,Srednja Ves kod Ivanić-Grada,1,1,1,manual,1,45.7500000,16.4400000
 1757,Zredysche,Gornje Sredice,1,2,4,manual,0,46.0349000,16.8192000
 1758,Zrepychar-insula,Zrepičar,2,4,7,modern,0,,
 1759,Zrewsowcz,,1,1,1,singleton,0,,
@@ -1786,7 +1786,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1785,Zwhodol,Žunci,1,1,1,manual,0,45.9568877,16.4242631
 1786,Zwynarcz,Svinjarec,1,3,7,modern,0,45.8022580,16.5670104
 1787,Zwpya,,1,1,2,singleton,0,,
-1788,Zwsycha,,1,1,2,singleton,0,,
+1788,Zwsycha,Sušica kod Svetog Ivana Žabna,1,1,2,manual,1,45.9350000,16.5900000
 1789,Zwsycza ad Zenth Gergwara,,1,1,1,singleton,0,,
 1790,Zwsycze,,1,1,1,singleton,0,,
 1791,Zwthezka,,2,1,2,singleton,0,,

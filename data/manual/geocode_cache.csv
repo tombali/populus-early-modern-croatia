@@ -859,3 +859,12 @@ county,query,lat,lon,display_name,source
 1,Peršinovci,46.0300000,16.4000000,"Peršinovci (c1 Pavleš/Heller sweep)",manual
 1,Regovec kod Obreške,45.7200000,16.4200000,"Regovec kod Obreške (c1 Pavleš/Heller sweep)",manual
 1,Turbina kod Slatine,45.7200000,17.6800000,"Turbina kod Slatine (c1 Pavleš/Heller sweep)",manual
+1,Zdenčec kod Koprivnice,46.1622000,16.8277000,"Zdenčec kod Koprivnice (Heller Gegend, fuzzy)",manual
+1,Punekovec JZ Đurđevca,46.0200000,16.9800000,"Punekovec JZ Đurđevca (Heller Gegend, fuzzy)",manual
+1,Srednja Ves kod Ivanić-Grada,45.7500000,16.4400000,"Srednja Ves kod Ivanić-Grada (Heller Gegend, fuzzy)",manual
+1,Sveti Ivan Žabno,45.9464805,16.6055861,"Sveti Ivan Žabno (c1 phonetic-match verify)",manual
+1,Sušica kod Svetog Ivana Žabna,45.9350000,16.5900000,"Sušica kod Svetog Ivana Žabna (c1 phonetic-match verify)",manual
+1,Pavlovac,45.7117664,17.0670595,"Pavlovac, Veliki Grđevac (Pavleš)",manual
+1,Pakrac,45.4341899,17.1999511,"Pakrac (Pakrac/Rovišće district tiers, sourced)",manual
+1,Rovišće,45.9461086,16.7317296,"Rovišće (Pakrac/Rovišće district tiers, sourced)",manual
+1,Kreštelovac,45.5765405,17.0519967,"Kreštelovac (Pakrac/Rovišće district tiers, sourced)",manual
