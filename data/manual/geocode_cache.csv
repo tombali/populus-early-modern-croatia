@@ -918,3 +918,9 @@ county,query,lat,lon,display_name,source
 1,Čađavica,45.7462539,17.8632019,"Čađavica (Palosfalvi/Csánki: Zagyolca in Körös county, late 15th c.)",manual
 1,Trema (okolica Čvrsteca),45.9948837,16.6133459,"Trema (Pavleš: nobles of Farkadin grouped with Čvrstec/Rašćani/Vrhovljan/Šumečec cluster near Trema)",manual
 1,Badljevina,45.5132189,17.1924562,"Badljevina (Buturac: sancte crucis de Bagen 1334, Jacobus sancte crucis in Bagenowoz 1501)",manual
+2,Šemovec,46.3008848,16.4777174,"Šemovec (diacritic-key fix; same village as SEMOVEC cache entry)",manual
+2,Boričevec,46.1985611,16.4113471,"Boričevec Toplički, Grad Varaždinske Toplice (direct Nominatim match)",manual
+1,Garešnica,45.5751322,16.9418013,"Garešnica (Pálffy 1556: Szenth Iwan/Berivojszentiván, Križevačka ž.)",manual
+2,Gojanec,46.288056,16.303056,"Gojanec (user-provided coordinate)",manual
+2,Gornji Kneginec,46.25,16.366667,"Gornji Kneginec (user-provided coordinate)",manual
+2,Poklečan,46.30803257423937,16.33944111248284,"Poklečan (user-provided coordinate)",manual
