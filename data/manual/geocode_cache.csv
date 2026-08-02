@@ -858,7 +858,7 @@ county,query,lat,lon,display_name,source
 1,Oporovec,46.3319000,16.6750000,"Oporovec (c1 Pavleš/Heller sweep)",manual
 1,Peršinovci,46.0300000,16.4000000,"Peršinovci (c1 Pavleš/Heller sweep)",manual
 1,Regovec kod Obreške,45.7200000,16.4200000,"Regovec kod Obreške (c1 Pavleš/Heller sweep)",manual
-1,Turbina kod Slatine,45.7200000,17.6800000,"Turbina kod Slatine (c1 Pavleš/Heller sweep)",manual
+1,Turbina kod Slatine,45.7080000,17.6670000,"Slatina-Turbina archaeological site, NW of Slatina on Turbina creek (topo map)",manual
 1,Zdenčec kod Koprivnice,46.1622000,16.8277000,"Zdenčec kod Koprivnice (Heller Gegend, fuzzy)",manual
 1,Punekovec JZ Đurđevca,46.0200000,16.9800000,"Punekovec JZ Đurđevca (Heller Gegend, fuzzy)",manual
 1,Srednja Ves kod Ivanić-Grada,45.7500000,16.4400000,"Srednja Ves kod Ivanić-Grada (Heller Gegend, fuzzy)",manual
@@ -868,3 +868,7 @@ county,query,lat,lon,display_name,source
 1,Pakrac,45.4341899,17.1999511,"Pakrac (Pakrac/Rovišće district tiers, sourced)",manual
 1,Rovišće,45.9461086,16.7317296,"Rovišće (Pakrac/Rovišće district tiers, sourced)",manual
 1,Kreštelovac,45.5765405,17.0519967,"Kreštelovac (Pakrac/Rovišće district tiers, sourced)",manual
+1,Jakopovac,46.0238540,16.7881984,"Jakopovac (Engel map co-location)",manual
+1,Kloštar Podravski,45.9736940,17.1663312,"Kloštar Podravski (Engel map co-location)",manual
+1,Zdenčec kod Koprivnice,46.1622000,16.8277000,"Zdenčec kod Koprivnice (Engel map co-location)",manual
+1,Tiboninc kod Kloštra Podravskog,45.9800000,17.1500000,"Tiboninc kod Kloštra Podravskog (Engel map)",manual

@@ -1525,7 +1525,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1524,Konthowcz cum pertinentiis,3,765,orthographic-exact,0
 1525,Konthowcz-cum pertinentiis,3,765,orthographic-exact,0
 1526,Konzka,1,766,manual,0
-1527,Konzka-swpanathws,1,767,singleton,0
+1527,Konzka-swpanathws,1,767,manual,1
 1528,Konzka-woywodatus,1,768,singleton,0
 1529,Kopachowcz,1,769,manual,0
 1530,Kopakowcz,1,770,manual,0
@@ -2496,7 +2496,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2495,Podgorya,4,1177,manual,0
 2496,Podgorya-ad Zenthlelek,1,1178,singleton,0
 2497,Podgorya-plebanatus,4,1179,singleton,0
-2498,Podgorye-de Gorbonok,1,1180,singleton,0
+2498,Podgorye-de Gorbonok,1,1180,manual,1
 2499,Podgradie,4,1181,manual,0
 2500,Podkraych,1,1182,singleton,0
 2501,Podkrayta,1,1183,singleton,0
@@ -3094,7 +3094,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3093,Thwrkowschyna,4,1497,modern,0
 3094,Thwropolia,4,1498,manual,0
 3095,Thwsowch,4,1497,modern,0
-3096,Thybonyncz,1,1499,singleton,0
+3096,Thybonyncz,1,1499,manual,1
 3097,Toplichicza,4,1476,modern,0
 3098,Toplycza,2,1477,manual,0
 3099,Toplycza,4,1476,modern,0
@@ -3640,7 +3640,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3639,Zenthnedelye,4,1665,orthographic-fuzzy,1
 3640,Zenthpal,1,1695,manual,0
 3641,"Zenthpal-provincia superior, inferior",1,1707,singleton,0
-3642,Zenthpeter ad Owar,1,1708,singleton,0
+3642,Zenthpeter ad Owar,1,1708,manual,1
 3643,Zenthpether ad Kaproncza,1,1709,manual,0
 3644,Zenthwyd,2,1697,orthographic-fuzzy,1
 3645,Zenthywan,1,637,orthographic-fuzzy,1
