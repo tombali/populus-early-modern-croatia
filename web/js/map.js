@@ -3,9 +3,9 @@
   if(typeof DATA==="undefined"||!DATA)return;
   const $=id=>document.getElementById(id);
   const tip=$("tip");
-  const TIER=[{k:"good",label:"Exact location"},
+  const TIER=[{k:"good",label:"Precise location"},
               {k:"warn",label:"Approximate (uncertain / fuzzy)"},
-              {k:"crit",label:"No coordinates → near county town"}];
+              {k:"crit",label:"No coordinates"}];
   const cssv=n=>getComputedStyle(document.documentElement)
                   .getPropertyValue(n).trim();
   const isDark=()=>document.documentElement.getAttribute("data-theme")==="dark"
