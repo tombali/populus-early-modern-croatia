@@ -4,94 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Croatian tax lists, 1495–1596 — maps</title>
-<style>
-  :root{
-    color-scheme: light;
-    --plane:#f9f9f7; --surface:#fcfcfb;
-    --ink:#0b0b0b; --ink2:#52514e; --muted:#898781;
-    --grid:#e1e0d9; --axis:#c3c2b7; --ring:rgba(11,11,11,.10);
-    --border-line:#cbc9c0; --river:#7ca9dd;
-    --good:#0ca30c; --warn:#fab219; --crit:#d03b3b;   /* status: fixed */
-  }
-  :root[data-theme="dark"]{
-    color-scheme: dark;
-    --plane:#0d0d0d; --surface:#1a1a19;
-    --ink:#fff; --ink2:#c3c2b7; --muted:#898781;
-    --grid:#2c2c2a; --axis:#383835; --ring:rgba(255,255,255,.10);
-    --border-line:#403f3b; --river:#4f6f97;
-  }
-  @media (prefers-color-scheme: dark){
-    :root:not([data-theme="light"]){
-      color-scheme: dark;
-      --plane:#0d0d0d; --surface:#1a1a19;
-      --ink:#fff; --ink2:#c3c2b7; --muted:#898781;
-      --grid:#2c2c2a; --axis:#383835; --ring:rgba(255,255,255,.10);
-      --border-line:#403f3b; --river:#4f6f97;
-    }
-  }
-  *{box-sizing:border-box}
-  body{margin:0;background:var(--plane);color:var(--ink);
-    font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
-  .wrap{width:100%;max-width:none;margin:0;padding:16px 16px 24px}
-  .head{display:flex;align-items:flex-start;justify-content:space-between;
-    gap:16px;margin-bottom:18px}
-  .head-titles{min-width:0}
-  h1{font-size:22px;margin:0 0 2px}
-  .sub{color:var(--ink2);margin:0}
-  .head-ctl{display:flex;gap:8px;flex-shrink:0;align-items:center;padding-top:2px}
-  button{font:inherit;color:var(--ink);background:var(--surface);
-    border:1px solid var(--ring);border-radius:8px;padding:6px 12px;cursor:pointer}
-  a.btn{font:inherit;color:var(--ink);background:var(--surface);
-    border:1px solid var(--ring);border-radius:8px;padding:6px 12px;
-    text-decoration:none;display:inline-block}
-  a.btn:hover{border-color:var(--axis)}
-  button:hover{border-color:var(--axis)}
-  button[aria-pressed="true"]{background:var(--ink);color:var(--surface);
-    border-color:var(--ink)}
-  .panel{background:var(--surface);border:1px solid var(--ring);
-    border-radius:12px;padding:16px}
-  .hidden{display:none}
-  svg{width:100%;height:auto;display:block;touch-action:none}
-  .mapbox{position:relative;width:100%;height:calc(100vh - 220px);min-height:360px;
-    border:1px solid var(--ring);border-radius:12px;overflow:hidden;
-    background:var(--surface)}
-  #map{width:100%;height:100%;cursor:grab}
-  #map.dragging{cursor:grabbing}
-  .zoom-ctl{position:absolute;top:10px;right:10px;display:flex;flex-direction:column;
-    gap:4px;z-index:2}
-  .zoom-ctl button{width:36px;height:36px;padding:0;font-size:18px;line-height:1;
-    background:var(--surface);box-shadow:0 1px 4px rgba(0,0,0,.12)}
-  .ctl{display:flex;gap:12px;align-items:flex-start;margin:0 0 12px;flex-wrap:wrap}
-  .slider-wrap{flex:1;min-width:160px}
-  .slider-wrap input[type=range]{width:100%;display:block;margin:0;
-    accent-color:var(--good)}
-  .slider-years{position:relative;height:34px;margin-top:2px}
-  .slider-years button{position:absolute;top:0;transform:translateX(-50%);
-    padding:10px 0 0;margin:0;border:0;border-radius:0;background:transparent;
-    color:var(--muted);font:10px/1 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
-    font-variant-numeric:tabular-nums;cursor:pointer;white-space:nowrap}
-  .slider-years button::before{content:"";position:absolute;top:0;left:50%;
-    width:1px;height:6px;background:var(--axis);transform:translateX(-50%)}
-  .slider-years button:hover{color:var(--ink2)}
-  .slider-years button[aria-current="true"]{color:var(--ink);font-weight:600}
-  .legend{display:flex;flex-wrap:wrap;gap:14px;margin-top:12px;
-    color:var(--ink2);font-size:13px;align-items:center}
-  .legend .item{display:flex;gap:6px;align-items:center}
-  .dot{width:12px;height:12px;border-radius:50%;flex:none;
-    box-shadow:0 0 0 1px var(--ring) inset}
-  .tip{position:fixed;pointer-events:none;z-index:9;opacity:0;
-    transition:opacity .08s;background:var(--surface);color:var(--ink);
-    border:1px solid var(--axis);border-radius:8px;padding:8px 10px;
-    font-size:12.5px;max-width:240px;box-shadow:0 4px 16px rgba(0,0,0,.18)}
-  .tip b{font-weight:600} .tip .m{color:var(--ink2)}
-  .cap{fill:var(--muted);font-size:11px;font-weight:600}
-  .capdot{fill:none;stroke:var(--muted);stroke-width:1.2}
-  .border{fill:none;stroke:var(--border-line);stroke-width:1;stroke-linejoin:round}
-  .river{fill:none;stroke:var(--river);stroke-width:1.4;stroke-opacity:.9;
-    stroke-linecap:round;stroke-linejoin:round}
-  .note{color:var(--ink2);font-size:13px;margin-top:12px}
-  a{color:inherit}
-</style>
+<link rel="stylesheet" href="css/common.css">
+<link rel="stylesheet" href="css/map.css">
 </head>
 <body>
 <div class="wrap">
@@ -136,6 +50,6 @@
 <div class="tip" id="tip"></div>
 
 <script>const DATA = /*__DATA__*/null;</script>
-<script src="map.js?v=11"></script>
+<script src="js/map.js?v=12"></script>
 </body>
 </html>

@@ -2,9 +2,9 @@
 
 Queries db/tax_lists.sqlite, computes per-place map positions + confidence
 tiers, per-year tax burden, and county trends, then inlines the data as JSON
-into web/template.html. Application logic lives in web/map.js (committed).
+into web/template.html. Application logic lives in web/js/map.js (committed).
 Output is dependency-free: no external tiles, fonts or network calls beyond
-the sibling map.js script. Stdlib only.
+the sibling js/map.js script. Stdlib only.
 """
 import csv  # noqa: F401  (kept for parity; not required)
 import json

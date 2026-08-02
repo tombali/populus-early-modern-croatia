@@ -5,17 +5,18 @@ Interactive views of the tax-list data:
 - **Map** (`index.html`) — year-by-year map of taxable *selišta* and county trends
 - **Browse** (`explorer.html`) — filter and export all 11,792 entries from `v_entries_full`
 
-Static HTML + sibling JS files. Census data is inlined at rebuild time; no external
-tiles, fonts or network calls.
+Static HTML with CSS/JS in `css/` and `js/`. Census data is inlined at rebuild
+time; no external tiles, fonts or network calls.
 
 ## Source files
 
 | File | Role |
 |------|------|
 | `template.html` | Map shell → `build_web.py` → `index.html` |
-| `map.js` | Map/table UI logic |
+| `js/map.js` / `css/map.css` | Map UI logic / page styles |
 | `explorer_template.html` | Browse shell → `build_explorer.py` → `explorer.html` |
-| `explorer.js` | Filter/table UI logic |
+| `js/explorer.js` / `css/explorer.css` | Browse UI logic / page styles |
+| `css/common.css` | Shared theme, header, chrome |
 | `geo.json` | County borders + rivers (optional map context) |
 
 ## Rebuild
@@ -30,7 +31,7 @@ python web/build_explorer.py    # browse → explorer.html
 Only the Python standard library is required (`sqlite3`, `json`). `build_web.py`
 computes each place's map position and confidence tier, the per-year burden, and
 the county trends, then inlines them into `template.html` — along with the map
-context geometry from `geo.json` if present. Edit `map.js` directly for UI
+context geometry from `geo.json` if present. Edit `js/map.js` directly for UI
 changes; no rebuild needed unless data changed.
 
 **Map context geometry** (county borders + the Sava/Drava/Mura/Kupa rivers) is
@@ -54,7 +55,8 @@ python -m http.server 8137 --directory web
 
 ## Deploy to the web
 
-Deploy the whole `web/` folder (`index.html`, `explorer.html`, `*.js`, `geo.json`):
+Deploy the whole `web/` folder (`index.html`, `explorer.html`, `js/`, `css/`,
+`geo.json`):
 
 - **GitHub Pages**: the workflow in `.github/workflows/pages.yml` rebuilds and
   publishes `web/` on every push to `main`. Enable Pages → "GitHub Actions" in

@@ -26,7 +26,7 @@ COUNTIES = [
     "Sisačko-moslavačka županija", "Karlovačka županija",
     "Varaždinska županija", "Koprivničko-križevačka županija",
     "Bjelovarsko-bilogorska županija", "Virovitičko-podravska županija",
-    # Drawn for context; map.js does not let these expand the initial frame.
+    # Drawn for context; js/map.js does not let these expand the initial frame.
     "Međimurska županija", "Požeško-slavonska županija",
 ]
 
