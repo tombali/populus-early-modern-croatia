@@ -67,8 +67,8 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 66,Alsw Soproncza,1,22,manual,0
 67,Andraswelgh,1,29,singleton,0
 68,"Antholocz,Ramyncz,Chernecz, Thremecz",3,30,singleton,0
-69,Apathowcz,1,31,singleton,0
-70,Apporowcz,1,32,modern,0
+69,Apathowcz,1,31,manual,0
+70,Apporowcz,1,32,manual,1
 71,Area Capitulari-vicus,4,33,singleton,0
 72,Atak,1,34,modern,0
 73,Athak,1,34,modern,0
@@ -632,8 +632,8 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 631,Crisium-superior civitas,1,323,modern,0
 632,Crisnychya,1,327,singleton,0
 633,Crisnychya ad Galgoycza,1,328,singleton,0
-634,Crisowlan,1,329,modern,0
-635,Crisowlyan,1,329,modern,0
+634,Crisowlan,1,329,manual,1
+635,Crisowlyan,1,329,manual,1
 636,Cristallowcz,1,284,manual,0
 637,Cristalowcz,1,284,manual,0
 638,Cristhalowcz,1,284,manual,0
@@ -909,11 +909,11 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 908,Filyphfalwa,1,461,orthographic-fuzzy,1
 909,Finthincz,1,462,manual,0
 910,Fodoroucz,3,463,orthographic-exact,0
-911,Fodorowcz,1,464,modern,0
+911,Fodorowcz,1,464,manual,0
 912,Fodorowcz,3,463,orthographic-exact,0
 913,Fodorowczy,2,465,singleton,0
-914,Fodroucz,1,464,modern,0
-915,Fodrowcz,1,464,modern,0
+914,Fodroucz,1,464,manual,0
+915,Fodrowcz,1,464,manual,0
 916,Foryanowcz,1,466,singleton,0
 917,Furmeghoch,1,467,singleton,0
 918,Fwka,1,468,singleton,0
@@ -946,7 +946,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 945,Gathalowcz,2,482,modern,0
 946,Gayancz,2,483,singleton,0
 947,"Gayancz, Nedelyancz",2,484,singleton,0
-948,Gayanczy,1,485,singleton,0
+948,Gayanczy,1,485,manual,1
 949,Gedrocz,1,486,orthographic-fuzzy,1
 950,Gedrowcz,1,486,orthographic-fuzzy,1
 951,Gemelgfelde,1,487,singleton,0
@@ -1643,9 +1643,9 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1642,Krysnychicha ad Galgwncza,1,827,orthographic-fuzzy,1
 1643,Krysnychycza-ad Galgoncza,1,827,orthographic-fuzzy,1
 1644,Krysoulyan,2,828,modern,0
-1645,Krysowlan,1,329,modern,0
+1645,Krysowlan,1,329,manual,1
 1646,Krysowlan,2,828,modern,0
-1647,Krysowlyan,1,329,modern,0
+1647,Krysowlyan,1,329,manual,1
 1648,Krysowlyan,2,828,modern,0
 1649,Krysthalowcz,1,829,manual,0
 1650,Kupynecz,1,830,manual,1
@@ -2042,7 +2042,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2041,Mnochowcz,1,992,singleton,0
 2042,Mochila,1,993,manual,0
 2043,Mochrycha,1,994,manual,0
-2044,Mochw,1,995,singleton,0
+2044,Mochw,1,995,manual,0
 2045,Mochyla,1,993,manual,0
 2046,Mochylo,1,996,manual,0
 2047,Modrowcz,1,997,singleton,0
@@ -2292,7 +2292,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2291,"Oppathowyna, Ad Koppam",4,4,modern,0
 2292,Oppidum,3,1088,singleton,0
 2293,Opporowcz,4,1089,singleton,0
-2294,Opporowcz ad Belam-castellum,1,32,modern,0
+2294,Opporowcz ad Belam-castellum,1,32,manual,1
 2295,Orbona,1,1090,manual,0
 2296,Orbowcz,2,1091,singleton,0
 2297,Orehocz,3,1092,manual,0
@@ -2414,7 +2414,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2413,Peklencze-waywodatus superior,1,1141,orthographic-fuzzy,1
 2414,Peklenycze,1,1143,manual,0
 2415,Pekrecz,1,1144,manual,0
-2416,Perchinowcz,1,1145,singleton,0
+2416,Perchinowcz,1,1145,manual,1
 2417,Perchinowcz cum Nagkemlek,1,1146,singleton,0
 2418,"Perchynowcz, Bywrynowcz-ad Nagh Kemlek",1,1147,singleton,0
 2419,Perhoch,4,1148,singleton,0
@@ -2662,8 +2662,8 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2661,Radmanczy,4,1270,manual,0
 2662,Radnak,1,1271,manual,0
 2663,Radoboya,2,1272,singleton,0
-2664,Radoysche,1,1273,orthographic-fuzzy,1
-2665,Radoyschye,1,1273,orthographic-fuzzy,1
+2664,Radoysche,1,1273,manual,0
+2665,Radoyschye,1,1273,manual,0
 2666,Radozlawcz,1,1274,singleton,0
 2667,Ragonok,1,1275,modern,0
 2668,Ragonuk-provincia superior,1,1275,modern,0
@@ -2745,8 +2745,8 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2744,Rechycza,4,1310,modern,0
 2745,"Rechycza, Lwka",4,1314,singleton,0
 2746,Regaryowecz,1,1315,singleton,0
-2747,Regowcz,1,1316,orthographic-fuzzy,1
-2748,Regowecz,1,1316,orthographic-fuzzy,1
+2747,Regowcz,1,1316,manual,1
+2748,Regowecz,1,1316,manual,1
 2749,Reka,4,1317,manual,0
 2750,Reka cum pertinentiis Kys Kemlek,1,1318,manual,0
 2751,Reka cum pertinetiis Kys Kemlek,1,1318,manual,0
@@ -2767,7 +2767,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2766,Repyncz,1,1324,modern,0
 2767,"Repyncz-fortalitium, Megye",1,1325,singleton,0
 2768,"Rethkowcz, Erdowcz",1,1326,singleton,0
-2769,Rewche,1,1327,singleton,0
+2769,Rewche,1,1327,manual,0
 2770,Rewchycza,4,1310,modern,0
 2771,Rewchycza-ad Zthennychnyak,4,1310,modern,0
 2772,Rodmanczy,4,1270,manual,0
@@ -2797,21 +2797,21 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2796,Rokwnuk,1,1330,manual,0
 2797,"Romethincz, Garych, Solyn",1,1332,singleton,0
 2798,Rosanycza,4,1333,modern,0
-2799,Rosenik,1,1334,modern,0
+2799,Rosenik,1,1334,manual,0
 2800,Rosenycza,4,1333,modern,0
-2801,Rosenyk,1,1334,modern,0
+2801,Rosenyk,1,1334,manual,0
 2802,Rosewcz,1,1335,singleton,0
 2803,Rosoncz,1,1336,manual,0
-2804,Rossethnyk,1,1334,modern,0
+2804,Rossethnyk,1,1334,manual,0
 2805,Rostenycza,4,1333,modern,0
 2806,Rowno,2,1337,singleton,0
-2807,Roycha,1,1338,singleton,0
+2807,Roycha,1,1338,manual,0
 2808,Royche,1,1339,manual,0
 2809,Royche-supanatus,1,1312,orthographic-fuzzy,1
 2810,Royche-waywodatus,1,1313,orthographic-fuzzy,1
 2811,Rwchlewcz,1,1340,singleton,0
 2812,Rwdynwelge,2,1341,singleton,0
-2813,Ryeka,1,1342,singleton,0
+2813,Ryeka,1,1342,manual,0
 2814,Ryeka,4,1317,manual,0
 2815,Rypach,4,1343,singleton,0
 2816,Sabacz,2,1344,singleton,0
@@ -3001,7 +3001,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3000,Tarnovcz,2,1434,modern,0
 3001,"Temerye, Czezarowcz",1,1435,singleton,0
 3002,"Temerye, Mylethyncz",1,1436,singleton,0
-3003,Terbennye,1,1437,manual,0
+3003,Terbennye,1,1437,manual,1
 3004,"Terbyne, Lokawecz",1,1438,singleton,0
 3005,Ternocz,2,1434,modern,0
 3006,"Ternocz, Kochan",2,1439,modern,0
@@ -3173,7 +3173,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3172,Vyllyo,1,1535,modern,0
 3173,Vynno,2,1523,orthographic-exact,0
 3174,Vynnychno,1,1521,orthographic-fuzzy,1
-3175,Vyzoka,1,1536,modern,0
+3175,Vyzoka,1,1536,manual,1
 3176,Wahtaryowcz ad Belam,1,1537,singleton,0
 3177,Wakegh,1,1538,singleton,0
 3178,Wakowyna-casttelum / Demerye,4,1525,orthographic-fuzzy,1
@@ -3354,7 +3354,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3353,Wycha Zela,2,1534,modern,0
 3354,Wychazela,2,1534,modern,0
 3355,Wychkowcz,1,1580,manual,0
-3356,Wydowcz,1,1593,singleton,0
+3356,Wydowcz,1,1593,manual,1
 3357,Wydowcz,2,1519,modern,0
 3358,"Wydowcz, Zent Illia",2,1519,modern,0
 3359,Wydyncz,1,1518,orthographic-exact,0
@@ -3381,14 +3381,14 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3380,Wynycza,2,1522,modern,0
 3381,Wynycza cum pertinentiis,2,1522,modern,0
 3382,Wynycze,2,1522,modern,0
-3383,Wyszoka,1,1536,modern,0
+3383,Wyszoka,1,1536,manual,1
 3384,Wythkowcz,1,1580,manual,0
 3385,Wyudwar,1,1598,manual,0
 3386,Wywaras,1,1599,singleton,0
 3387,Wywdwar,1,1598,manual,0
 3388,"Wywodina-districtus cum pertinentiis, Craysthychy",4,1600,manual,0
 3389,"Wywodyna cum pertinentiis castri Ozel, Kraschyschy",4,1600,manual,0
-3390,Wyzoka,1,1536,modern,0
+3390,Wyzoka,1,1536,manual,1
 3391,Wzmowcz,1,1592,manual,0
 3392,Yeresyn,1,1601,singleton,0
 3393,Zaberdya,1,1602,modern,0

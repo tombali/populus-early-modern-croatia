@@ -842,3 +842,20 @@ county,query,lat,lon,display_name,source
 1,Karlovec Ludbreški,46.2876860,16.6287750,"Karlovec Ludbreški (miss-recovery sweep)",manual
 1,Kloštar Podravski,45.9736940,17.1663312,"Kloštar Podravski (county-1 Heller sweep)",manual
 1,Vaška,45.8154349,17.6662543,"Vaška (county-1 Heller sweep)",manual
+1,Rašenica,45.6895965,17.2179205,"Rašenica (c1 single-word sweep)",manual
+1,Fodorovec,46.0406624,16.4103609,"Fodorovec (c1 single-word sweep)",manual
+1,Rijeka Koprivnička,46.1479748,16.8496364,"Rijeka Koprivnička (c1 single-word sweep)",manual
+1,Križovljan,46.2644305,16.5559503,"Križovljan (c1 single-word sweep)",manual
+1,Vidovec,46.2863481,16.2504203,"Vidovec (c1 single-word sweep)",manual
+1,Visoko,46.0902780,16.3250000,"Visoko (c1 single-word sweep)",manual
+1,Gojanec,46.2859049,16.3029011,"Gojanec (c1 single-word sweep)",manual
+1,Jakopovac,46.0238540,16.7881984,"Jakopovac (Jakupovac Kapelski, user coords)",manual
+1,Mičetinec,46.0075,17.0183,"Mičetinec (user coords)",manual
+1,Apatovec,46.1477141,16.5726328,"Apatovec (c1 Pavleš/Heller sweep)",manual
+1,Mučna Reka,46.1230874,16.7604671,"Mučna Reka (c1 Pavleš/Heller sweep)",manual
+1,Rovišće,45.9461086,16.7317296,"Rovišće (c1 Pavleš/Heller sweep)",manual
+1,Radoišće,46.0094084,16.3279716,"Radoišće (c1 Pavleš/Heller sweep)",manual
+1,Oporovec,46.3319000,16.6750000,"Oporovec (c1 Pavleš/Heller sweep)",manual
+1,Peršinovci,46.0300000,16.4000000,"Peršinovci (c1 Pavleš/Heller sweep)",manual
+1,Regovec kod Obreške,45.7200000,16.4200000,"Regovec kod Obreške (c1 Pavleš/Heller sweep)",manual
+1,Turbina kod Slatine,45.7200000,17.6800000,"Turbina kod Slatine (c1 Pavleš/Heller sweep)",manual
