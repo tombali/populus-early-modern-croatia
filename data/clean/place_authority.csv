@@ -145,7 +145,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 144,Bona-Johannes Alapi,,4,1,1,singleton,0,,
 145,Bona-Nicolaus Zrini,,4,2,2,orthographic-exact,0,,
 146,Bona-Zlwny,,4,1,1,singleton,0,,
-147,Bonowk,,1,1,1,singleton,0,,
+147,Bonowk,Kloštar Podravski,1,1,1,manual,1,45.9736940,17.1663312
 148,Borchecz in pertinentiis Zomzedwara,Borčec,4,1,1,singleton,0,45.8291916,15.8880104
 149,Borsowcz,Galovec,1,3,8,manual,0,46.0697306,16.1911811
 150,Borkowcz,Borkovec,2,4,21,modern,0,46.1080568,16.0835029
@@ -377,7 +377,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 376,Dobowyna,,1,1,1,singleton,0,,
 377,Dobowyo in Berzewcze,Brezovica kod Virovitice,1,1,1,manual,1,45.8632231,17.5584815
 378,Dobra Kuchya,Dobra Kuća,1,2,3,manual,0,45.6103079,17.2943775
-379,Dobrachwcha,,1,1,1,singleton,0,,
+379,Dobrachwcha,Veliki Bastaji,1,1,1,manual,1,45.6454548,17.3261030
 380,Dobrachwcha cum pertinentiis,,1,1,1,singleton,0,,
 381,Dobrawa,Dubrava Samoborska Zagrebačka Dubrava,4,1,12,manual,0,45.8063140,15.6699200
 382,Dobrawa ad Lythwuanych,Dubrava Samoborska Zagrebačka Dubrava,4,1,1,manual,1,45.8063140,15.6699200
@@ -622,7 +622,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 621,Hrazthyna,Hraštje,1,2,3,orthographic-exact,0,45.9782359,16.2688640
 622,Hrebyncz,Hrebinec,4,1,1,manual,0,45.8408730,16.2602719
 623,Hrelychy,Hrelić,4,3,17,modern,0,45.7682685,16.0168954
-624,Hromchovcz,,1,2,2,orthographic-exact,0,,
+624,Hromchovcz,Svinjarec,1,2,2,manual,1,45.8022580,16.5670104
 625,Hromkowcz,Stare Plavnice,1,1,1,manual,0,45.8940344,16.8083834
 626,Hrwsowcz,Ruševac,1,7,19,manual,0,46.0316718,16.6786684
 627,Hrustopecowyna,,1,1,1,singleton,0,,
@@ -786,7 +786,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 785,Kopachowcz,Kopačevac,1,2,9,manual,0,45.9500000,17.2333333
 786,Kopakowcz,Gornja Kovačica,1,1,1,manual,0,45.7710030,17.1093385
 787,Kopchyna,Kupčina,4,5,16,modern,0,45.6160186,15.5996565
-788,Kophachowcz,,1,1,2,singleton,0,,
+788,Kophachowcz,Donja Kovačica,1,1,2,manual,1,45.7623772,17.0533226
 789,Kopino Sabnicza,Sveti Ivan Žabno,1,2,2,manual,0,45.9464805,16.6055861
 790,Kwpozoucz,Čazma,1,2,3,manual,0,45.7483719,16.6132008
 791,Kopynno,Haganj,1,1,1,manual,0,45.9147515,16.5787186
@@ -1693,7 +1693,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 1692,Zenth Leryncz,Lovrečina,1,11,21,modern,0,45.9235500,16.4361770
 1693,Zenthmarton,Sv. Martin,4,8,24,modern,0,45.9977247,16.5185702
 1694,Zenth Nedelye,Sv. Nedjelja,4,4,5,orthographic-fuzzy,1,45.7968126,15.7769140
-1695,Zenth Adrian,,1,1,1,singleton,0,,
+1695,Zenth Adrian,Oderjan,1,1,1,manual,1,45.9702317,17.1652684
 1696,Zenth Andras,Grabovnica,1,2,2,manual,1,45.7471599,16.6470799
 1697,Zenth Anna,Dijakovac,1,1,1,manual,1,45.7006,17.3514
 1698,Zenth Benedek,Babinac,1,3,4,manual,0,45.8191332,16.7493356

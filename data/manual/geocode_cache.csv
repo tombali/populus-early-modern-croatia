@@ -982,3 +982,7 @@ county,query,lat,lon,display_name,source
 1,Finčevec,46.0983830,16.4273423,"Finčevec, Općina Sveti Petar Orehovec, Koprivničko-križevačka županija, Hrvatska",nominatim
 1,Stara Konjska,45.9452617,16.7466734,"Stara Konjska, Predavac, Općina Rovišće, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
 1,Rašćani,46.0207373,16.6494324,"Rašćani, Općina Sveti Ivan Žabno, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Oderjan,45.9702317,17.1652684,"Oderjan, Kloštar Podravski, Općina Kloštar Podravski, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Svinjarec,45.8022580,16.5670104,"Svinjarec, Općina Dubrava, Zagrebačka županija, Hrvatska [approx: Heller Gegend Stare Plavnice / Svinjarec, closer to prov. Chasmensis per own citation]",manual
+1,Donja Kovačica,45.7623772,17.0533226,"Midpoint of Donja/Gornja Kovačica, Općina Veliki Grđevac [Buturac: Kopachowcz = Donjoj i Gornjoj Kovačici kod Velikoga Grđevca, AK Popisi 62]",manual
+1,Veliki Bastaji,45.6454548,17.3261030,"Veliki Bastaji, Općina Đulovac, Bjelovarsko-bilogorska županija [approx: Buturac says Dobrachwcha actually u selu Korjeničani kod Bastaja, AK Popisi 30,98; Korjeničani itself not in OSM]",manual
