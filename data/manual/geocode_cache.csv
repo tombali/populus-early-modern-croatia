@@ -968,3 +968,7 @@ county,query,lat,lon,display_name,source
 4,Jurjevčani,45.7299368,15.6570469,"Jurjevčani, Grad Jastrebarsko, Zagrebačka županija, Hrvatska",nominatim
 4,Velika Gora,45.9591124,16.1943780,"Velika Gora, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
 4,Turkovčina,46.0440084,16.2455029,"Turkovčina, Općina Bedenica, Zagrebačka županija, Hrvatska",nominatim
+1,Velika Trnava,45.6775138,17.0284875,"Velika Trnava, Općina Hercegovac, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Grabovnica,45.7471599,16.6470799,"Grabovnica, Grad Čazma, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Sišćani,45.8126960,16.6522891,"Sišćani, Grad Čazma, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Praščevac,45.9136728,16.6468915,"Praščevac, Općina Farkaševac, Zagrebačka županija, Hrvatska",nominatim
