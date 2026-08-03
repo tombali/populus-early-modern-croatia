@@ -143,8 +143,8 @@ place_id,group_key,canonical_name,modern_place,needs_review
 391,pavles_194,Bwdrowcz,Budrovec
 393,pavles_194,Bwdrowcz,Budrovec
 328,pavles_156,Bothowcz,Botovo
-369,pavles_180,Brezyancz,Brežanec
-372,pavles_180,Brezyancz,Brežanec
+369,pavles_180,Brezyancz,Ilova kod Grubišnog Polja,1
+372,pavles_180,Brezyancz,Ilova kod Grubišnog Polja,1
 2048,pavles_998,Moghoyna-de Kaproncza,Mogovina
 2049,pavles_998,Moghoyna-de Kaproncza,Mogovina
 3389,vivodina,Wywodyna,Vivodina
@@ -1270,3 +1270,541 @@ place_id,group_key,canonical_name,modern_place,needs_review
 3773,zrepisar_vrbovec,Zrepychar-insula,Zrepišar kod Vrbovca,1
 3774,zrepisar_vrbovec,Zrepychar-insula,Zrepišar kod Vrbovca,1
 3775,zrepisar_vrbovec,Zrepychar-insula,Zrepišar kod Vrbovca,1
+1222,ilova_a,Ilowa,Ilova kod Grubišnog Polja,1
+1223,ilova_b,Ilowa cum pertinentiis,Ilova kod Grubišnog Polja,1
+1520,kontovec_a,Konthowcz cum pertinentiis,Kontovec kod Grubišnog Polja,1
+1524,kontovec_a,Konthowcz cum pertinentiis,Kontovec kod Grubišnog Polja,1
+1525,kontovec_a,Konthowcz cum pertinentiis,Kontovec kod Grubišnog Polja,1
+1517,kontovec_b,Konthocz Zenthmyklos,Kontovec kod Grubišnog Polja,1
+1518,kontovec_b,Konthocz Zenthmyklos,Kontovec kod Grubišnog Polja,1
+1521,kontovec_b,Konthocz Zenthmyklos,Kontovec kod Grubišnog Polja,1
+1522,kontovec_b,Konthocz Zenthmyklos,Kontovec kod Grubišnog Polja,1
+3013,talovec_a,Thallocz,Lipa kod Slatine,1
+1795,lipa_c3,Lyppa,Lipa kod Slatine,1
+1876,lipa_c3,Lyppa,Lipa kod Slatine,1
+3014,talovec_b,Thallocz Lyppa Martinowcz,Lipa kod Slatine,1
+3015,talovec_c,Thaloucz,Lipa kod Slatine,1
+1701,kyralowcz,Kyralowcz-cum pertinentiis,Kraljevec kod Virovitice,1
+1702,kyralowcz,Kyralowcz-cum pertinentiis,Kraljevec kod Virovitice,1
+3692,zlatina_ivanic,Zlathyna,Slatina kod Ivanić-Grada,1
+3693,zlatina_ivanic,Zlathyna,Slatina kod Ivanić-Grada,1
+691,derze_c3,Derze,Virovitica (imanje Derže),1
+690,derze_c3,Derze,Virovitica (imanje Derže),1
+868,felsew_bakwa,Felsew Bakwa,Špišić Bukovica,1
+895,felsew_bakwa,Felsew Bakwa,Špišić Bukovica,1
+3557,zenth_jacab,Zenth Jacab,Čazma (izgubljeno selo blizu Čazme),1
+3556,zenth_iwan,Zenth Iwan cum Krysnychya,Ivanec Križevački,1
+3554,zenth_iwan,Zenth Iwan cum Krysnychya,Ivanec Križevački,1
+3614,zenth_iwan,Zenth Iwan cum Krysnychya,Ivanec Križevački,1
+3645,zenth_iwan,Zenth Iwan cum Krysnychya,Ivanec Križevački,1
+1254,ivanych_oppidum_lupoglav,Iwanych-oppidum cum pertinentiis,Lupoglav,1
+1255,ivanych_oppidum_lupoglav,Iwanych-oppidum cum pertinentiis,Lupoglav,1
+1253,iwanych_ivanic,Iwanych,Ivanić-Grad,1
+1929,marocha_moravce,Marocha,Moravče,1
+3559,zenth_jacab,Zenth Jacab,Čazma (izgubljeno selo blizu Čazme),1
+3560,zenth_jacab,Zenth Jacab,Čazma (izgubljeno selo blizu Čazme),1
+3412,zagolca_cadavica,Zagolcza,Čađavica,1
+3417,zagolca_cadavica,Zagolcza,Čađavica,1
+3418,zagolca_cadavica,Zagolcza,Čađavica,1
+855,farkadin_trema,Farkadyn,Trema (okolica Čvrsteca),1
+1080,gregurovec,Gregwryewyna,Gregurovec,1
+93,bagenowcz_badljevina,Bagenowcz,Badljevina,1
+1318,janosowcz_sredice,Janosowcz,Sredice,1
+1067,gregurovec,Gregoryewyna,Gregurovec,1
+3641,zenthpal_pavlovac,Zenthpal-provincia superior et inferior,Pavlovac,1
+3571,zenthlelek_duhovi,Zenth Lewlek,Duhovi,1
+3122,twtwsewyna_topolovac,Twtwsewyna superior,Topolovac,1
+3619,zenthlazlo_tomasica,Zenthlazlo,Tomašica,1
+128,sib128,Bednye,Kapela,1
+891,sib891,Felso Czesmycze,Čazma,1
+3621,sib3621,Zenthlelek cum pertinentiis,Duhovi,1
+514,sib514,Cherbenye - Lwkawecz,Lukavec,1
+740,sib740,Dombro-provincia ad Sanctum Michaelem,Dubrava,1
+365,sib365,Brezthowcz - Dolina,Brezovec,1
+3004,sib3004,Terbyne - Lokawecz,Lukavec,1
+3505,sib3505,Zemche,Novska,1
+3506,sib3506,Zemche Zenth Myhal,Novska,1
+1528,sib1528,Konzka-woywodatus,Jakopovac,1
+578,sib578,Chwdowcz,Sudovec i Vinarec,1
+2012,sib2012,Mellesowcz,Palešnik,1
+2081,sib2081,Myhalyownicza - Lypowcz,Lipovec,1
+2454,sib2454,Petrowyna in Farkasowcz,Petrovina,1
+1637,sib1637,Krenyn - Pothna M.,Botinac,1
+29,sib29,Also Jalsewycza,Čvrstec,1
+2388,sib2388,Parwsowcz ad Belam,Paruževac,1
+1981,sib1981,Mathwsowcz - Marthynowcz,Martinac Trojstveni,1
+1636,sib1636,Krenyn - Mathowcz,Botinac,1
+3280,sib3280,Wogrynowcz - Markowcz,Markovac,1
+2848,sib2848,Sancti Georgius in Hemowcz,Đurđic,1
+2755,sib2755,Remethincz - Magerowcz,Remetinec,1
+2122,sib2122,Myndzenth-ad Racham,Velike Sesvete,1
+2076,sib2076,Myhalaowcz - Lypowcz,Lipovec,1
+1451,sib1451,Kernyn - Mathwsalowcz,Botinac,1
+1334,sib1334,Jawowcz (Jalsowcz),Čvrstec,1
+596,sib596,Clobwk - Jalsewcz - Zenth Iwan,Čvrstec,1
+2372,sib2372,Ozwgyo-cum Zenthgeorgh,Osuđevo,1
+482,sib482,Chakowcz - Brezyna,Čaklovac,1
+3002,sib3002,Temerye - Mylethyncz,Miletinec,1
+371,sib371,Brezyna - Chakowcz,Čaklovac,1
+3192,sib3192,Wasmegywrechye predium,Međurić,1
+338,sib338,Bradna inferior,Bradna,1
+3855,sib2_3855,Zyrch - Podgorye,Kloštar Podravski,1
+2556,sib2_2556,Popwd Podgorya,Podgorje,1
+15,sib2_15,Aladaryowch - Mylethyncz,Miletinec,1
+3841,sib2_3841,Zwybowcz,Zetkan,1
+762,sib2_762,Drascha ad Gemlech,Graberje Ivaničko,1
+660,sib2_660,Czerowycza ad Zenth Gerghwara,Đurđevac,1
+856,sib2_856,Farkasowcz,Petrovina,1
+658,sib2_658,Czerowycza Zenth Iwan ad Zenth Gergerwara,Đurđevac,1
+129,sib2_129,Bednye cum pertinentiis,Kapela,1
+2615,sib2_2615,Procurancia domini episcopi,Stara Kapela,1
+2397,sib2_2397,Paulosancz - Bresowcz,Breza,1
+364,sib2_364,Brezthowcz - Dechyna,Brezovec,1
+3001,sib2_3001,Temerye - Czezarowcz,Miletinec,1
+131,sib2_131,Bednye seu Bwkowcz,Kapela,1
+976,sib2_976,Glokosowcz - Mylethynch,Miletinec,1
+2823,sib2_2823,Sabnycza - Mindchenth,Sveti Ivan Žabno,1
+3102,sib2_3102,Trachyncz ad Achyna,Voćin,1
+1406,sib2_1406,Kamarya - Melesocz,Čaire,1
+370,sib2_370,Brezyna,Čaklovac,1
+242,sib2_242,Blasewerh ad Achyna,Voćin,1
+3563,sib2_3563,Zenth Kerest - Sanctus Crux,Križ,1
+3258,sib2_3258,Wgrynowcz - Markowcz,Markovac,1
+516,sib3_516,Cherchan ad Gemlech,Graberje Ivaničko,1
+2619,sib3_2619,Provinica domini episcopi,Stara Kapela,1
+761,sib3_761,Drascha ad Gemenecz,Graberje Ivaničko,1
+3101,sib3_3101,Trachyncz,Voćin,1
+2188,sib3_2188,Nova Villa sub Gemlech,Graberje Ivaničko,1
+3036,sib3_3036,Thermchan ad Gemlech,Graberje Ivaničko,1
+130,sib3_130,Bednye seu Bukoucz,Kapela,1
+1490,sib3_1490,Kochan,Kučan,1
+835,sib3_835,Egwdowcz - Chargowcz - Polyana,Poljana,1
+1542,sib3_1542,Kordwssowcz - Pethrossowcz,Petruševec,1
+520,sib3_520,Cheresnyo - Wydowcz,Vidovec,1
+3593,sib3_3593,Zenth Wyd - Zayezda,Zajezda,1
+2229,sib3_2229,Obres - Welkowcz,Jalkovec,1
+1774,sib3_1774,Lestakowcz - Zwhodoll,Šemovec,1
+2873,sib3_2873,Scherbyncz - Germchar,Grančar,1
+303,sib3_303,Borychewcz - Marthyndoll,Boričevec,1
+2634,sib3_2634,Pwhakowcz,Ciglenica,1
+408,sib3_408,Bwssocz,Virovitica,1
+704,sib3_704,Dobownyk,Virovitica,1
+2700,sib3_2700,Ranyncz - Chernecz - Antholowcz - Thremecz,Crnac,1
+2384,sib3_2384,Panynch - Chernech - Antholowcz - Thremech,Crnac,1
+68,sib3_68,Antholocz - Ramyncz - Chernecz - Thremecz,Crnac,1
+1955,sib3_1955,Martinowcz,Lipa kod Slatine,1
+869,sib3_869,Felsew Bakwa cum pertinentiis,Špišić Bukovica,1
+3055,sib3_3055,Thersych-oppidum ad Okych,Tržić,1
+1977,sib3_1977,Maryncz,Jakuševec,1
+3090,sib3_3090,Thwran-castrum cum pertinentiis,Turanj,1
+2940,sib3_2940,Stenyowcz,Susedgrad,1
+2570,sib3_2570,Pozawye,Posavje Susedgradsko,1
+773,sib3_773,Dremowa,Drenova,1
+244,sib3_244,Blaskoucz - Glavnycza,Glavnica,1
+376,sib3_376,Brokunoucz - Adamovcz,Brekunjevec,1
+2614,sib3_2614,Processus Georgii Pyzacz ultra Kwppam,Brkiševina,1
+712,sib3_712,Dobrawa ad Lythwuanych,Dubrava Samoborska,1
+1541,kordwssowcz_petrusevec,Kordwssowcz,Petruševec,1
+1780,lesthakowcz_semovec,Lesthakowcz - Zwhodol,Šemovec,1
+245,blaskowcz_glavnica,Blaskowcz - Glawnycza,Glavnica,1
+713,dobrawa_dubrava,Dobrawa villa ad Lythwanych,Dubrava Samoborska,1
+409,bwssocz_virovitica,Bwssowcz,Virovitica,1
+3032,lukavec_therbenye,Therbenye - Lwkaucz,Lukavec,1
+3531,berthalam_spisic,Zenth Berthalam,Špišić Bukovica,1
+211,berywoy_garesnica,Berywoy cum Zenth Iwan,Garešnica,1
+212,berywoy_garesnica,Berywoy cum Zenth Iwan,Garešnica,1
+213,berywoy_garesnica,Berywoy cum Zenth Iwan,Garešnica,1
+3033,lukavec_therbenye,Therbenye - Lwkawecz,Lukavec,1
+3532,berthalam_spisic,Zenth Berthalam cum pertinentiis,Špišić Bukovica,1
+946,gayancz_gojanec,Gayancz,Gojanec,1
+1475,knesyncz_kneginec,Knesyncz cum Knegyncz,Gornji Kneginec,1
+1481,knesyncz_kneginec,Knesyncz cum Knegyncz,Gornji Kneginec,1
+1483,knesyncz_kneginec,Knesyncz cum Knegyncz,Gornji Kneginec,1
+2523,poklechan_poklecan,Poklechan,Poklečan,1
+104,audit_104,Banowch,Gorica Miholečka,1
+105,audit_105,Banowch,Gorica Miholečka,1
+3362,audit_3362,Wyfalu ad Gemnecz,Graberje Ivaničko,1
+3363,audit_3363,Wyfalu ad Gemnecz,Graberje Ivaničko,1
+3364,audit_3364,Wyfalu ad Gemnecz,Graberje Ivaničko,1
+1907,audit_1907,Magyerlak,Remetinec,1
+1909,audit_1909,Magyerlak,Remetinec,1
+1999,audit_1999,Magyerlak,Remetinec,1
+346,audit_346,Bresnycza-ad Achynam,Breznica,1
+525,audit_525,Chernchan ad Gemlecz,Graberje Ivaničko,1
+566,audit_566,Chernchan ad Gemlecz,Graberje Ivaničko,1
+1293,audit_1293,Jalsewcz Zenth Iwan,Čvrstec,1
+2114,audit_2114,Myndchenth,Sveti Ivan Žabno,1
+605,audit_605,Coren - Zdela,Korenovo,1
+857,audit_857,Farkassowcz,Petrovina,1
+3275,audit_3275,Wogrynocz,Markovac,1
+3278,audit_3278,Wogrynocz,Markovac,1
+3279,audit_3279,Wogrynocz,Markovac,1
+694,audit_694,Deykowcz-de Waska,Vaška,1
+764,audit_764,Draschyna ad Gemlecz,Graberje Ivaničko,1
+243,audit_243,Blasewwerh-ad Achynam,Voćin,1
+2200,audit_2200,Nowak-ad Achynam,Novaki,1
+2960,audit_2960,Sybrynocz - Jalsovcz,Čvrstec,1
+2852,audit_2852,Sanctus Cosma,Rasinja,1
+3060,audit_3060,Thomassewcz - Cherncz - Byskupowcz,Varaždin,1
+476,audit_476,Czargowcz,Poljana,1
+491,audit_491,Czargowcz,Poljana,1
+648,audit_648,Czargowcz,Poljana,1
+649,audit_649,Czargowcz,Poljana,1
+1945,audit_1945,Martyndol,Boričevec,1
+1951,audit_1951,Martyndol,Boričevec,1
+1953,audit_1953,Martyndol,Boričevec,1
+1954,audit_1954,Martyndol,Boričevec,1
+1963,audit_1963,Martyndol,Boričevec,1
+395,audit_395,Bwdyndol - Hansewcz,Budinščina - Pomnerovac,1
+518,audit_518,Cheresnye,Vidovec,1
+519,audit_519,Cheresnye,Vidovec,1
+394,audit_394,Bwdyndoll,Budinščina - Pomnerovac,1
+397,audit_397,Bwdyndoll,Budinščina - Pomnerovac,1
+2550,audit_2550,Pomperowcz,Budinščina - Pomnerovac,1
+2551,audit_2551,Pomperowcz,Budinščina - Pomnerovac,1
+396,audit_396,Bwdyndol - Hansewcz - Pomperowcz,Budinščina - Pomnerovac,1
+2874,audit_2874,Scherbyncz - Ghermchar,Ratkovec - Grančar,1
+2875,audit_2875,Scherbyncz - Ghermchar,Ratkovec - Grančar,1
+1495,audit_1495,Kochycze-insula,Martijanec,1
+1539,audit_1539,Kordusowcz,Petruševec,1
+1540,audit_1540,Kordusowcz,Petruševec,1
+1773,audit_1773,Lestakowcz,Šemovec,1
+1778,audit_1778,Lestakowcz,Šemovec,1
+2873,audit_2873,Scherbyncz - Germchar,Ratkovec - Grančar,1
+407,audit_407,Bwsowcz,Virovitica,1
+2715,audit_2715,Rauencz - Chernyncz - Anthalowcz - Tremecz,Crnac,1
+1516,audit_1516,Konthoch Zenthpeter,Kontovec kod Grubišnog Polja,1
+1523,audit_1523,Konthoch Zenthpeter,Kontovec kod Grubišnog Polja,1
+1964,audit_1964,Martynoucz,Lipa kod Slatine,1
+71,audit_71,Area Capitulari-vicus,Laška ulica (Zagreb),1
+528,audit_528,Cherneleucz - Toplychycza,Toplica,1
+2641,audit_2641,Pwschya,Donja Pušća,1
+961,audit_961,Glaunycza Sanctae Trinitatis,Glavnica,1
+214,audit_214,Beryzlaucz - Kalynye,Berislavec,1
+2568,audit_2568,Pozavye,Posavje Susedgradsko,1
+712,audit_712,Dobrawa ad Lythwuanych,Dubrava Samoborska Zagrebačka Dubrava,1
+713,audit_713,Dobrawa villa ad Lythwanych,Dubrava Samoborska Zagrebačka Dubrava,1
+1724,ladislawcz_fix,Ladislawcz,Ladislavec,1
+2853,sanctus_crux_kriz,Sanctus Crux,Križ,1
+1812,loky_luka,Loky,Luka,1
+3815,ztrwga_hlebine,Ztrwga,Hlebine,1
+867,felsewbakwa_spisic_c1,Felsew Bakwa,Špišić Bukovica,1
+3474,zedinyncz_garesnica,Zedinyncz,Garešnica,1
+1143,heresyncz_heresin,Heressyncz,Herešin,1
+1144,heresyncz_heresin,Heresyncz,Herešin,1
+1150,heresyncz_heresin,Herysynch,Herešin,1
+3820,zuhamlacha_mlaka,Zuha Mlacha,Mlaka,1
+3713,zloboda_moslavina,Zloboda,Moslavina,1
+3714,zloboda_moslavina,Zloboda ad Monozlo,Moslavina,1
+1734,lathcowyna_garesnica,Lathcowyna,Garešnica,1
+870,felsochesmice_novoseljani,Felsew Chesmyche,Novoseljani,1
+896,felsochesmice_novoseljani,Felwsew Krayachowcz,Novoseljani,1
+3139,versynowcz_brezovica,Versynowcz in Berzewcze,Brezovica kod Virovitice,1
+1079,gregurovec,Gregwrowcz ad Nagh Kemlek,Gregurovec,1
+2963,sydyna_rovisce,Sydyna,Rovišće,1
+737,dombrensi_dubrava,Dombrensi,Dubrava,1
+2722,raynok_djurdjic,Raynok,Đurđic,1
+2824,sabnycza_cirkvena,Sabnycza - Bablyak - Czyrquena,Cirkvena,1
+1984,mechenycze_raca,Mechenycze,Rača,1
+2557,posaheg_powasahegh,Posahecz,Powasahegh,1
+3709,zlayno_slanje,Zlayno,Slanje,1
+2052,molwe_molve,Molwe,Molve,1
+2553,popowcz_trnpopovac,Popowcz,Trnovitički Popovac,1
+2554,popowcz_trnpopovac,Popowcz,Trnovitički Popovac,1
+1558,korythno_gradec,Korythno - Bolch,Gradec,1
+176,belwdoch_djurdjevac,Belwdoch,Đurđevac,1
+1229,inferioropathyncz_opatinec,Inferior Opathyncz,Opatinec,1
+3026,themennycze_tomasica,Themennycze,Tomašica,1
+3671,zeyanohrazthye_dijakovac,Zeyanohrazthye,Dijakovac,1
+3356,wydowcz_gostovic,Wydowcz,Gostović,1
+3357,wydowcz_gostovic,Wydowcz,Gostović,1
+209,bersthanowcz_brsljanica,Bersthanowcz cum pertinentiis,Bršljanica,1
+222,besenowcz_rovisce,Besenowcz,Rovišće,1
+747,dragalyna_jazavica,Dragalyna,Jazavica,1
+1333,jaworowcz_djurdjevac,Jaworowcz,Đurđevac,1
+1642,krysnychicha_glogovnica,Krysnychicha ad Galgwncza,Glogovnica,1
+1643,krysnychicha_glogovnica,Krysnychycza ad Galgoncza,Glogovnica,1
+1152,heviz_cetvrtkovac,Hewiz,Četvrtkovac,1
+1380,jenderkowcz_ggaresnica,Jenderkowcz ad Garigh,Gornja Garešnica,1
+1382,jenderkowcz_ggaresnica,Jenderkowcz ad Garych,Gornja Garešnica,1
+2111,miletinec_kamarca,Mylethynch - Kamarcha,Miletinec,1
+2113,miletinec_kamarca,Mylethyncz - Camarcha,Miletinec,1
+2797,romethincz_ggaresnica,Romethincz - Garych - Solyn,Gornja Garešnica,1
+177,belwdoch_djurdjevac,Belwdowcz ad Zenth Gergwara,Đurđevac,1
+3570,zentlerincz_lovrecina,Zenth Leryncz pertinencie ad,Lovrečina,1
+1162,hothowo_djurdjevac,Hothowo,Đurđevac,1
+1163,howano_koprivnica,Howano,Koprivnica,1
+2001,meglich_pupelica,Meglich,Pupelica,1
+3658,zerdahel_korenovo,Zerdahel - Koren,Korenovo,1
+3838,zwsycza_djurdjevac,Zwsycza,Đurđevac,1
+2392,paschyncz_maglenca,Paschyn,Maglenca,1
+2393,paschyncz_maglenca,Paschyncz,Maglenca,1
+746,dragalyn_caglic,Dragalyn ad Belam,Čaglić,1
+3028,themerye_temerje,Themerye - Zdenchan,Temerje,1
+3590,zenthpal_djurdjevac,Zenth Pal ad Zenth Gergwara,Đurđevac,1
+3684,zlanya_slanje,Zlanya,Slanje,1
+1040,gradchyna_ggaresnica,Gradchyna ad Garych,Gornja Garešnica,1
+1559,korythno_gradec2,Korythno - Kebel - Dymytrowcz,Gradec,1
+3472,zebyncz_ivanska,Zebyncz,Ivanska,1
+3471,zebyncz_ivanska,Zebincz,Ivanska,1
+283,bolethyna_klostarpodravski,Bolethyna,Kloštar Podravski,1
+284,bolethyna_klostarpodravski,Bolethyno,Kloštar Podravski,1
+336,bradechyna_ggaresnica,Bradechyna ad Garych,Gornja Garešnica,1
+2662,radnak_djurdjic,Radnak,Đurđic,1
+1823,lubewschycza_kalnik,Lubewschycza ad Nagkemlek,Kalnik,1
+1892,lubewschycza_kalnik,Lywbeschycha ad Nagh Kemlek,Kalnik,1
+2340,othnya_staripavljani,Othnya Zenth Pal,Stari Pavljani,1
+741,donadowcz_ivanicgrad,Donadoucz,Ivanić-Grad,1
+742,donadowcz_ivanicgrad,Donadowcz,Ivanić-Grad,1
+2622,prychrethye_dijakovac,Prychrethye,Dijakovac,1
+3525,zenthanna_dijakovac,Zenth Anna,Dijakovac,1
+94,bahonyn_zvekovac,Bahonincz,Zvekovac,1
+95,bahonyn_zvekovac,Bahonyn,Zvekovac,1
+3050,therschan_vocarica,Therschan,Voćarica,1
+2956,swpancz_molve,Swpancz ad Zenth Gergwara,Molve,1
+2996,sywecz_raca,Sywecz,Rača,1
+1068,gregoryowcz_grginac,Gregoryowcz - Zaywsawcz,Grginac,1
+1381,jenderkowcz_ggaresnica,Jenderkowcz sub Garych,Gornja Garešnica,1
+2417,perchinowcz_kalnik,Perchinowcz cum Nagkemlek,Kalnik,1
+2418,perchinowcz_kalnik,Perchynowcz - Bywrynowcz ad Nagh Kemlek,Kalnik,1
+2448,petrowcz_dijakovac,Petrowcz,Dijakovac,1
+2855,sjohannes_virje,Sanctus Johannes in Prodawiz,Virje,1
+2950,swpancz_molve,Supancz,Molve,1
+632,crisnychya_rasinja,Crisnychya,Rasinja,1
+633,crisnychya_rasinja,Crisnychya ad Galgoycza,Rasinja,1
+2402,pawlowcz_korenovo,Pawlowcz - Palche Polye,Korenovo,1
+2847,sancticosme_vocin,Sancti Cosme ad Achynam,Voćin,1
+3029,themerye_temerje2,Themerye - Zenth Iwan,Temerje,1
+3659,zerdahel_korenovo2,Zerdahel - Meghwreche,Korenovo,1
+3660,zerdahel_korenovo2,Zerdahel - Megywrechye,Korenovo,1
+6,adamowcz_haganj,Adamoucz,Haganj,1
+8,adamowcz_haganj,Adamowcz,Haganj,1
+916,foryanowcz_prascevac,Foryanowcz,Prašćevac,1
+472,campus_jakusevec,Campus,Jakuševec,1
+1775,lestchancz_caglic,Lestchancz - Palynowcz ad Belam,Čaglić,1
+2773,rogaryewcz_babinac,Rogaryewcz,Babinac,1
+2774,rogaryewcz_babinac,Rogaryowcz,Babinac,1
+14,aladarocz_korenovo,Aladarocz,Korenovo,1
+175,belwdoch_djurdjevac,Beludowyna,Đurđevac,1
+178,belwdoch_djurdjevac,Belwdowyna,Đurđevac,1
+1270,jakopowcz_rovisce,Jakopowcz,Rovišće,1
+1282,jakwpowcz_caglic,Jakwpowcz ad Belam,Čaglić,1
+1503,komarcha_novigrad,Komarcha,Novigrad Podravski,1
+1504,komarcha_novigrad,Komarcza,Novigrad Podravski,1
+2638,pwnek_djurdjevac,Pwnek,Đurđevac,1
+2658,radessych_kalnik,Radessych - Dywrynowcz ad Kemlek,Kalnik,1
+2724,raznethyne_mucna,Raznethyne,Mučna,1
+3123,tzemerye_temerje3,Tzemerye,Temerje,1
+3512,zenclara_novigrad,Zenclara,Novigrad Podravski,1
+3655,zerchewcz_opcevac,Zerchewcz,Općevac,1
+3656,zerchewcz_opcevac,Zerchewecz,Općevac,1
+470,camarcha_novigrad2,Camarcha - Thwlowa,Novigrad Podravski,1
+972,globochecz_lipovcani,Globochecz - Polyana,Lipovčani,1
+1544,koren_korenovo2,Koren - Zdelya,Korenovo,1
+1901,lywpkowcz_korenovo,Lywpkowcz - Zerdahel,Korenovo,1
+1979,mathewsowcz_bjelovar,Mathewsowcz - Zerdahel,Bjelovar,1
+2373,palata_cvrstec,Palata,Čvrstec,1
+2374,palata_cvrstec,Palatha,Čvrstec,1
+2577,prasnycza_zdencac,Prasnycza fortalitium novum,Zdenčac,1
+3176,wahtaryowcz_caglic,Wahtaryowcz ad Belam,Čaglić,1
+3243,wezelkowcz_kutina,Wezelkowcz,Kutina,1
+3244,wezelkowcz_kutina,Wezolkowcz,Kutina,1
+1477,knesech_paruzevac,Knesech,Paruževac,1
+1478,knesech_paruzevac,Knesecz,Paruževac,1
+1719,labazowcz_djurdjic,Labazowcz,Đurđic,1
+2259,olywercz_pavlinklostar,Olywercz - Kothnak,Pavlin Kloštar,1
+2376,palotha_cvrstec,Palotha,Čvrstec,1
+2420,persinowcz_kalnik,Persinowcz,Kalnik,1
+2421,persinowcz_kalnik,Persynoucz,Kalnik,1
+2870,satran_brsljanica,Satran,Bršljanica,1
+2941,stephancz_stefanje_fix,Stephancz,Štefanje,1
+3229,werh_korenovo,Werh - Zerdahel,Korenovo,1
+3767,zrednawecz_ivanicgrad,Zrednawecz,Ivanić-Grad,1
+3768,zrednawecz_ivanicgrad,Zrednyawcz,Ivanić-Grad,1
+10,adamowcz_haganj2,Adamowcz - Thewkowcz,Haganj,1
+11,adamowcz_haganj2,Adamowcz - Wragowcz,Haganj,1
+12,adamowcz_haganj2,Adamowcz - Zowkowcz,Haganj,1
+755,dragowya_vocin,Dragowya ad Achynam,Voćin,1
+1065,gregoryancz_novigrad,Gregoryancz - Dorozlawcz - Camarcha,Novigrad Podravski,1
+1893,lywbesthycza_kalnik,Lywbesthycza ad Kemlek,Kalnik,1
+2014,melnesowcz_palesnik,Mellessowcz,Palešnik,1
+2015,melnesowcz_palesnik,Melnesowcz,Palešnik,1
+2175,neznan_maglenca,Neznan,Maglenca,1
+2583,prebinowcz_rovisce,Prebinowcz,Rovišće,1
+2746,regaryowecz_ivanicgrad,Regaryowecz,Ivanić-Grad,1
+2846,sancticosme_krestelovac,Sancti Cosme,Kreštelovac,1
+1232,inoskowcz_prascevac,Inoskowcz - Foryanowcz,Prašćevac,1
+1482,knezecz_paruzevac,Knezecz,Paruževac,1
+2926,sokowcz_paruzevac,Sokowcz,Paruževac,1
+3495,zelyancz_kalnik,Zelyancz,Kalnik,1
+3795,ztholnycoucz_galovac,Ztholnycoucz,Galovac,1
+344,breschyna_cvrstec,Breschyna,Čvrstec,1
+1057,gredakowcz_bosiljevo,Gredakowcz ad Gemnecz,Bosiljevo Čazmansko,1
+1440,kelemynoch_cvrstec,Kelemynoch,Čvrstec,1
+1980,mathwch_bjelovar,Mathwch,Bjelovar,1
+2267,omniisancti_moslavina,Omnii Sancti ad Monozlo,Moslavina,1
+2496,podgorya_duhovi,Podgorya ad Zenthlelek,Duhovi,1
+2856,sanctusnicolaus_kontovec,Sanctus Nicolaus,Kontovec kod Grubišnog Polja,1
+2973,symwchowcz_djurdjevac,Symwchowcz,Đurđevac,1
+3238,werthlyn_moslavina,Werthlyn ad Monozlo,Moslavina,1
+3317,woznekowcz_bjelovar,Woznekowcz,Bjelovar,1
+3464,zdenchan_novigrad,Zdenchan - Thamadocz,Novigrad Podravski,1
+3566,zenthkerezth_vocin,Zenth Kerezth de Achyna,Voćin,1
+726,dolyan_caglic,Dolyan ad Belam,Čaglić,1
+18,alexandrocz_repinec,Alexandrocz,Repinec,1
+67,andraswelgh_disnik,Andraswelgh,Dišnik,1
+110,bara_caglic,Bara ad Belam,Čaglić,1
+706,dobowyo_brezovica,Dobowyo in Berzewcze,Brezovica kod Virovitice,1
+935,galowchecz_galovac,Galowchecz,Galovac,1
+1126,hathkozenthmihal_hotko,Hathkozenth Mihal,Hotko,1
+1159,hathkozenthmihal_hotko,Hothko Zenth Myhal,Hotko,1
+1480,knesty_paruzevac,Knesty,Paruževac,1
+1497,kolaryewcz_haganj,Kolaryewcz,Haganj,1
+1498,kolaryewcz_haganj,Kolaryewecz,Haganj,1
+2463,pezedolcz_caglic,Pezedolcz ad Belam,Čaglić,1
+3766,zredistha_gornjesredice,Zredistha,Gornje Sredice,1
+3770,zredistha_gornjesredice,Zredysche,Gornje Sredice,1
+191,berdekowcz_caglic,Berdekowcz ad Belam,Čaglić,1
+1978,mathewsowcz_bjelovar,Mathewsowcz,Bjelovar,1
+2493,podgaycz_pavlinklostar,Podgaycz,Pavlin Kloštar,1
+2647,pylethyncz_pavlinklostar,Pylethyncz,Pavlin Kloštar,1
+1129,haznarc_sudovec,Haznarcz - Turkoucz,Sudovec
+739,dombro_dubrava,Dombro-oppidum - Gradecz,Dubrava
+3591,zenthwyd_donjividovec,Zenth Wyd,Donji Vidovec,1
+3644,zenthwyd_donjividovec,Zenthwyd,Donji Vidovec,1
+2218,obres_svetiilija,Obrees,Sveti Ilija
+2221,obres_svetiilija,Obres,Sveti Ilija
+2224,obres_svetiilija,Obres - Chresnew,Sveti Ilija
+997,gorychan_goricanmedj,Gorychan - Zbelye,Goričan
+1509,komor_mihovljan,Komor - Wladyzlowcz,Mihovljan
+2663,radoboya_radoboj,Radoboya,Radoboj
+1573,kowachowcz_radoboj,Kowachowcz - Radoboye,Radoboj,1
+1934,marosolcz_krizovljan,Marosolcz - Krysolyan,Križovljan,1
+567,chresnevo_svetiilija,Chresnevo - Obres,Sveti Ilija
+3579,zenthmihalkomor_mihovljan,Zenth Mihal sub Komor,Mihovljan
+2148,naghthapaloch_topolovica,Nagh Thapalocz,Topolovica
+2155,naghthapaloch_topolovica,Naghthapaloch,Topolovica
+3012,thalanoucz_talovac,Thalanoucz,Talovac,1
+2649,pzaryewo_psarjevo,Pzaryewo,Psarjevo
+1179,hrastovica,Hrastovica cum pertinentiis,Hrastovica,
+1180,hrastovica,Hrastovica cum pertinentiis,Hrastovica,
+1181,hrastovica,Hrastovica cum pertinentiis,Hrastovica,
+1182,hrastovica,Hrastovica cum pertinentiis,Hrastovica,
+1186,hrastovica,Hrastovica cum pertinentiis,Hrastovica,
+1187,hrastovica,Hrastovica cum pertinentiis,Hrastovica,
+3082,threm_beloslavec,Threm,Beloslavec,1
+3086,threm_beloslavec,Thryem,Beloslavec,1
+3109,threm_beloslavec,Trem,Beloslavec,1
+3115,threm_beloslavec,Tryem,Beloslavec,1
+3805,ssg_stupnik,Zomzedwara-castrum Ztopnyk,Stupnik,
+247,blathno_blato,"Blathno, Remethinczy, Lwka",Blato
+248,blathno_blato,"Blathno, Remethinczy, Lwka*",Blato,1
+545,cherwylno_strezojevo,Cherwylno,Strezojevo,1
+3321,vrasilaz,Wrasylaz,Laz Bistrički
+834,eghywdowcz_jezdovec,Eghywdowcz,Ježdovec
+2230,odra_group,Odra,Odra
+2231,odra_group,Odra,Odra,1
+2232,odra_group,Odra,Odra,1
+2238,odra_group,Odra,Odra,1
+2239,odra_group,Odra,Odra,1
+2240,odra_group,Odra,Odra,1
+1661,kwchye_lownycza_kuce,"Kwchye, Lownycza",Kuće
+1821,lownicza_lomnica,Lownicza,Lomnica
+801,dworane_malunje,Dworane,Malunje,1
+3051,thersich_trzic,Thersich,Tržić
+3053,thersich_trzic,Thersych,Tržić
+84,bapca,Bapcha,Črnkovec,1
+800,dwmowcz_dumovec,Dwmowcz,Dumovec
+3784,zthankowo_okic,Zthankowo-judicatus ad Okych,Okić,1
+2569,posavje_ssg,Felsew Pozawye Zablathye,Posavje Susedgradsko,1
+2595,prethoka_pretoki,Prethoka,Pretoki
+2597,prethoka_pretoki,Prewthoka,Pretoki
+563,chrechan_crecan,Chrechan,Črečan
+564,chrechan_crecan,Chrechancz,Črečan
+978,golyak_jastrebarsko,"Golyak- judicatus (Jazthrebarzka-castrum)",Jastrebarsko,1
+1913,malchewcz_remete,Malchewcz,Remete,1
+1915,malchewcz_remete,Malchewczy,Remete,1
+2888,sczezhwpnycze_medvedgrad,"Sczezhwpnycze, Zlanowch sub Medwewar",Medvedgrad
+294,borcz_topusko,Borcz ad Topozka (predium),Topusko,1
+685,dedochay_degoj,Dedochay sub Pokwpye,Lijevi Degoj
+2419,perhoch_prhoc,Perhoch,Prhoć
+2560,posavje_ssg,Felsew Pozawye Zablathye,Posavje Susedgradsko,1
+3085,threm_beloslavec,Threwm,Beloslavec,1
+427,byenyk_topusko,"Byenyk ad Topozka (predium)",Topusko,1
+2841,sanctamaria_okic,Sancta Maria sub Okych,Okić,1
+3797,zthrebynzky_pokupsko,Zthrebynzky Werh,Pokupsko,1
+1175,hrasthye_turopoljsko,Hrasthye,Hrašće Turopoljsko
+1183,hrasthye_turopoljsko,Hrazthye,Hrašće Turopoljsko
+1500,kolchewczy_bozjakovina,"Kolchewczy (Bosyako)",Božjakovina,1
+3087,threm_beloslavec,Thryen,Beloslavec,1
+2278,opathowyna_stenjevec,"Opathowyna (dempto Gorzko)",Stenjevec,1
+1189,hrebyncz_hrebinec,Hrebyncz,Hrebinec
+1394,jwrowlyan_jurjevcani,Jwrowlyan,Jurjevčani
+1867,lwsye_lomnica,Lwsye,Lomnica,1
+2539,pokwpzkywerh_pokupsko,Pokwpzkywerh,Pokupsko,1
+2526,pokwpzkywerh_pokupsko,Pokopzky Verh,Pokupsko,1
+3136,velykagora_velikagora,Velykagora,Velika Gora
+341,brakwnowcz_brekunjevec,Brakwnowcz,Brekunjevec
+2532,pokwpzkywerh_pokupsko,Pokwpsky Werh,Pokupsko,1
+3117,turkousschyna_turkovcina,"Turkousschyna aliter Zuhodol",Turkovčina
+3392,yeresyn_heresin,Yeresyn,Herešin
+3074,thornava_velikatrnava,Thornava,Velika Trnava
+3513,zendywan_stefanje,Zendywan,Štefanje,1
+3595,zenthandras_grabovnica,Zenthandras,Grabovnica,1
+3200,wehowlan_rakovec,Wehowlan,Rakovec,1
+3857,zystan_siscani,Zystan,Sišćani
+3858,zystan_siscani,Zysthyan,Sišćani
+3866,zystan_siscani,Zyzsthan,Sišćani
+3856,zystan_siscani,Zyskan,Sišćani
+938,garazdyncz_grdjevac,Garazdyncz,Veliki Grđevac,1
+1320,janusowcz_sredice,Janusowcz,Gornje Sredice,1
+1321,janusowcz_sredice,Janussowcz,Gornje Sredice,1
+921,fylethyncz_pavlinklostar,Fylethyncz,Pavlin Kloštar,1
+2646,pychwlyncz_ivanska,Pychwlyncz,Ivanska,1
+2964,sydynna_rovisce,Sydynna,Rovišće,1
+603,corbowa_grbavac,Corbowa,Grbavac
+2582,praznycha_prascevac,Praznycha,Praščevac
+2470,fylethyncz_pavlinklostar,Phylethyncz,Pavlin Kloštar,1
+2645,pychwlyncz_ivanska,Pychulinch,Ivanska,1
+2918,sydynna_rovisce,Sidina,Rovišće,1
+3524,zenthandras_grabovnica,"Zenth Andras",Grabovnica,1
+3030,themeryen_heresin,Themeryen,Herešin,1
+2945,ztolnykowcz_galovac,Stholnikowcz,Galovac,1
+3782,ztolnykowcz_galovac,Zthalnykowcz,Galovac,1
+3807,ztolnykowcz_galovac,Ztolnykowcz,Galovac,1
+1119,gywrsyncz_mucna,Gywrsyncz,Mučna,1
+2500,podgaycz_pavlinklostar,Podkraych,Pavlin Kloštar,1
+3323,wragowcz_brsljanica,Wragowcz,Bršljanica,1
+1109,gywrsyncz_mucna,Gwrsincz,Mučna,1
+2919,sydynna_rovisce,Sidynna,Rovišće,1
+3322,wragowcz_brsljanica,Wragoucz,Bršljanica,1
+1130,hedrihowcz_pavlinklostar,Hedrihowcz,Pavlin Kloštar,1
+183,benchethyncz_djurdjevac,Benchethyncz,Đurđevac,1
+3717,benchethyncz_djurdjevac,Zobkethyncz,Đurđevac,1
+3839,zwsycze_djurdjevac,Zwsycze,Đurđevac,1
+2041,mnochowcz_mucna,Mnochowcz,Mučna,1
+2878,schwkancz_bijelastijena,Schwkancz,"Bijela Stijena",1
+3419,zakowcza_zvekovac,Zakowcza,Zvekovac
+2827,salethyncz_gudovac,Salethyncz,Gudovac,1
+3470,zebenyancz_ivanska,Zebenyancz,Ivanska,1
+2753,remethe_podgaric,Remethe,Podgarić,1
+421,bwyancz_paruzevac,Bwyancz,Paruževac,1
+224,bezchyanowcz_sesvete,Bezchyanowcz,"Velike Sesvete",1
+750,dragatyn_draganec,Dragatyn,Draganec,1
+1050,grayan_cvrstec,Grayan,Čvrstec,1
+3242,wethech_ferdinandovac,Wethech,Ferdinandovac,1
+529,chernesoucz_crncevec,Chernesoucz,Črnčevec,1
+3721,zolnya_domankus,Zolnya,Domankuš,1
+979,gorazdyncz_grdjevac,Gorazdyncz,Veliki Grđevac,1
+184,benedicoucz_beketinec,Benedicoucz,Beketinec,1
+3200,wehowlan_vrhovecrakovecki,Wehowlan,"Vrhovec Rakovečki",1
+1332,jaworowcz_javorovac,Jaworowcz,Javorovac
+1510,komosowcz_komusevci,Komosowcz,Komuševci,1
+523,chernareca_hercegovac,Chernareca,Hercegovac,1
+185,benedicoucz_beketinec,Benedicowcz,Beketinec,1
+2391,pasahegh_osijekvojakovacki,Pasahegh,"Osijek Vojakovački",1
+924,fynthyncz_fincevec,Fynthych,Finčevec,1
+925,fynthyncz_fincevec,Fynthyncz,Finčevec,1
+1512,konczka_starakonjska,Konczka,"Stara Konjska",1
+1174,hrasthan_rascani,Hrasthan,Rašćani,1
+909,fynthyncz_fincevec,Finthincz,Finčevec,1
