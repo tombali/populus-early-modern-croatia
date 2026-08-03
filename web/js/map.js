@@ -79,6 +79,8 @@
   $("zoom-out").onclick=()=>zoomAt(1/1.4,.5,.5);
   $("zoom-reset").onclick=resetView;
 
+  const hiddenCounties=new Set();
+
   // ---- map size scale --------------------------------------------------
   let maxTax=1;
   Object.values(DATA.burden).forEach(a=>a.forEach(e=>maxTax=Math.max(maxTax,e[1])));
@@ -157,12 +159,14 @@
   function drawMap(year){
     const svg=mapSvg; svg.textContent="";
     // county borders (context), then rivers, then everything else on top
-    (DATA.geo.counties||[]).forEach(c=>c.rings.forEach(r=>
-      svg.appendChild(el("path",{d:ringPath(r),class:"border"}))));
+    (DATA.geo.counties||[]).forEach(c=>
+      c.rings.forEach(r=>svg.appendChild(el("path",{d:ringPath(r),class:"border"}))));
     (DATA.geo.rivers||[]).forEach(rv=>rv.lines.forEach(l=>
       svg.appendChild(el("path",{d:linePath(l),class:"river"}))));
     // county towns
-    for(const id in DATA.counties){const c=DATA.counties[id];
+    for(const id in DATA.counties){
+      if(hiddenCounties.has(+id))continue;
+      const c=DATA.counties[id];
       const x=px(c.cap[1]),y=py(c.cap[0]);
       svg.appendChild(el("path",{class:"capdot",
         d:`M${x-4} ${y}H${x+4}M${x} ${y-4}V${y+4}`}));
@@ -171,7 +175,7 @@
     // markers: fallback (red) cloud behind, then yellow, then confident green
     // on top; within a tier largest first so small ones stay clickable.
     const all=(DATA.burden[year]||[]).map(e=>({p:byId[e[0]],tax:e[1],ab:e[2]}))
-      .filter(r=>r.p);
+      .filter(r=>r.p&&!hiddenCounties.has(r.p.cty));
     const layout=buildClusterLayout(all);
     const opac=[.82,.82,.5];
     [2,1,0].forEach(tier=>{
@@ -205,6 +209,20 @@
   $("theme").onclick=()=>{const d=!isDark();
     document.documentElement.setAttribute("data-theme",d?"dark":"light");
     $("theme").textContent=d?"Light":"Dark";sync();};
+
+  // ---- per-county visibility panel --------------------------------------
+  const layerPanel=$("layer-panel");
+  const countyOrder=[4,1,2,3].filter(id=>DATA.counties[id]);
+  layerPanel.innerHTML=countyOrder.map(id=>
+    `<label class="row"><input type="checkbox" data-id="${id}" checked>`
+    +`${DATA.counties[id].name}</label>`
+  ).join("");
+  layerPanel.querySelectorAll("input[data-id]").forEach(b=>
+    b.addEventListener("change",()=>{
+      const id=+b.dataset.id;
+      if(b.checked)hiddenCounties.delete(id);else hiddenCounties.add(id);
+      sync();
+    }));
 
   // slider + play
   const sl=$("slider"); sl.max=DATA.years.length-1;

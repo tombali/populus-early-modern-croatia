@@ -982,3 +982,20 @@ county,query,lat,lon,display_name,source
 1,Finčevec,46.0983830,16.4273423,"Finčevec, Općina Sveti Petar Orehovec, Koprivničko-križevačka županija, Hrvatska",nominatim
 1,Stara Konjska,45.9452617,16.7466734,"Stara Konjska, Predavac, Općina Rovišće, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
 1,Rašćani,46.0207373,16.6494324,"Rašćani, Općina Sveti Ivan Žabno, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Oderjan,45.9702317,17.1652684,"Oderjan, Kloštar Podravski, Općina Kloštar Podravski, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Svinjarec,45.8022580,16.5670104,"Svinjarec, Općina Dubrava, Zagrebačka županija, Hrvatska [approx: Heller Gegend Stare Plavnice / Svinjarec, closer to prov. Chasmensis per own citation]",manual
+1,Donja Kovačica,45.7623772,17.0533226,"Midpoint of Donja/Gornja Kovačica, Općina Veliki Grđevac [Buturac: Kopachowcz = Donjoj i Gornjoj Kovačici kod Velikoga Grđevca, AK Popisi 62]",manual
+1,Veliki Bastaji,45.6454548,17.3261030,"Veliki Bastaji, Općina Đulovac, Bjelovarsko-bilogorska županija [approx: Buturac says Dobrachwcha actually u selu Korjeničani kod Bastaja, AK Popisi 30,98; Korjeničani itself not in OSM]",manual
+1,Farkaševac,45.8922728,16.6231894,"Farkaševac, Općina Farkaševac, Zagrebačka županija, Hrvatska [Heller: 1512 Farkasowcz prov Dombrensis, Popisi 51; 1513 ibid 56; -> 1973 Farkaševac]",manual
+1,Grubišno Polje,45.7021875,17.1722368,"Grubišno Polje, Bjelovarsko-bilogorska županija [approx, Heller: 1495 Obranowcz Zenthmichael, Popisi 11; his own uncertain(?) note ties it to Obtova šuma N Grubišno Polje, MA AD Gušća]",manual
+1,Tkalec,45.9627293,16.4505806,"Midpoint Gornji/Donji Tkalec, Grad Vrbovec [Buturac: G. Dobovec = danas Tkalec, sada u župi Mali Raven, AK Popisi 26,52,57,92,121 - Mali Raven confirmed 3km away]",manual
+1,Kutnjak,46.2717025,16.7807856,"Kutnjak, Oćina Legrad, Koprivničko-križevačka županija [Pavleš 2009 Podravina16: Kutnjak posebni posjed uz rasinjsko vlastelinstvo od 1392, direct cite AK Popisi 27,28,60,95,128]",manual
+1,Podgrađe,46.0410468,17.0678562,"[approx, using Đurđevac coords] Pavleš 2009 Podravina16 str.29-40: Gorbonokfew južno od Đurđevca, na istom (đurđevečkom) vlastelinstvu, ~20 poreznih dimova; podravina04: Gorbonokfew odnosno Podgrađe. Own spelling ad Zenth Gergwara = Szentgyörgyvár = Đurđevac, per Palosfalvi glossary. Split off from erroneous Kloštar Podravski merge (that cluster is the separate Rasinja-area Gorbonok oppidum)",manual
+4,Hrašćina,46.1104325,16.2272678,"Hrašćina, Općina Hrašćina, Krapinsko-zagorska županija [Buturac: Hraschyna = danas župa Hrašćina, direct cite AK Popisi 250,269,283,303,314,342,364,571; corrects prior fold-based guess Hrastina Samoborska which had no citation]",manual
+4,Bisag,46.0337432,16.2989057,"Bisag, Općina Breznica, Varaždinska županija, Hrvatska",manual
+4,Božjakovina,45.8194685,16.2871783,"Božjakovina, Općina Brckovljani, Zagrebačka županija, Hrvatska",manual
+4,Prijeka,45.286,16.100,"Prijeka, Grad Glina, Sisačko-moslavačka županija [approx: near southern edge of Pogledych/Turopolje judicial district]",manual
+4,Jazbina,45.8297112,15.6876512,"Velika Jazbina, Grad Samobor, Zagrebačka županija",manual
+4,Banje Selo,45.5994427,15.8790880,"Banje Selo [approx: pinned to Jamnica Pisarovinska, nearest identified anchor per Heller's citation 'Mit Dužica, Jamnica Pisarovinska, Šišinec erwähnt']",manual
+1,Bisag,46.0333333,16.2833333,Bisag [corrected by user: 46 02N 16 17E],manual
+4,Bisag,46.0333333,16.2833333,Bisag [corrected by user: 46 02N 16 17E],manual
