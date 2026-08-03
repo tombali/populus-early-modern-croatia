@@ -924,3 +924,24 @@ county,query,lat,lon,display_name,source
 2,Gojanec,46.288056,16.303056,"Gojanec (user-provided coordinate)",manual
 2,Gornji Kneginec,46.25,16.366667,"Gornji Kneginec (user-provided coordinate)",manual
 2,Poklečan,46.30803257423937,16.33944111248284,"Poklečan (user-provided coordinate)",manual
+1,Hlebine,46.1532306,16.9670121,"Hlebine (Buturac+Heller: church of Struga vanished near Svetinjski brijeg on the Drava, dedication passed to Hlebine)",manual
+1,Novoseljani,45.8964195,16.8740976,"Novoseljani (Buturac: Also/Felsew Chesmyche, adjacent to lower Chesmice pair, near Bjelovar)",manual
+1,Brezovica kod Virovitice,45.8632231,17.5584815,"Brezovica near Virovitica (Buturac: Ebres/Versynowcz belongs to the priest in Berzewcze/Brezovica, near Virovitica)",manual
+1,Molve,46.1057061,17.0305967,"Molve (Buturac: To su danas Molve)",manual
+1,Trnovitički Popovac,45.6459630,16.8698404,"Trnovitički Popovac (Heller: 1973 Trnovitički Popovac)",manual
+1,Jazavica,45.3189016,17.0584557,"Jazavica (Buturac: parish Dragalyna corresponds by location to Jazavica)",manual
+1,Gornja Garešnica,45.6549744,16.8130529,"Gornja Garešnica (Buturac: Garić district, danas Gornja Garešnica)",manual
+1,Čaglić,45.3866531,17.1570441,"Donji Čaglić (Buturac: Zent Gerg ad Belam corresponds to the parish church of St. George in Čaglić)",manual
+1,Bosiljevo Čazmansko,45.7413407,16.5758294,"Bosiljevo Čazmansko (Heller: mit Bosiljevo Čazmansko erwähnt)",manual
+1,Zvekovac,45.8194598,16.5009602,"Zvekovac (Heller: Gegend Marinkovec/Zvekovac, Općina Dubrava, matches established Dombrensis/Dubrava district)",manual
+1,Voćarica,45.3200946,17.0400863,"Voćarica (Buturac: Trešćan i Majkovec, dva imena za jednu župu u kraju Novska-Voćarica)",manual
+1,Grginac,45.9146495,16.8985649,"Grginac (Heller: 1973 Grginac)",manual
+1,Štefanje,45.8055286,16.7172376,"Štefanje (Heller comitatus crisiensis directly brackets Stefanc between Staro Stefanje and Stefanje; corrects an earlier broken Štefanec override for this county-1 entry)",manual
+1,Gornje Sredice,46.0349132,16.8191983,"Sredice Gornje, Općina Kapela, Bjelovarsko-bilogorska županija (Heller: 1973 Gornje Sredice; = MA AD Kamarcha)",manual
+1,Donji Vidovec,46.3307835,16.7817634,"Donji Vidovec, Općina Donji Vidovec, Međimurska županija (Buturac: crkva sv. Vida Zenthwyd 1478 = Donji Vidovec)",manual
+2,Sveti Ilija,46.2457297,16.3223540,"Sveti Ilija, Općina Sveti Ilija, Varaždinska županija (Buturac: parish of St. Elijah/Obrež, between Toplice and Maruševec citations = Varaždin county, distinct from Obrež Kalnički in c1)",manual
+2,Donji Vidovec,46.3307835,16.7817634,"Donji Vidovec, Općina Donji Vidovec, Međimurska županija (Buturac: crkva sv. Vida Zenthwyd 1478 = Donji Vidovec)",manual
+2,Goričan,46.3846044,16.6768382,"Goričan, Općina Goričan, Međimurska županija",manual
+2,Mihovljan,46.1335743,15.9700106,"Općina Mihovljan, Krapinsko-zagorska županija (Buturac: eccl. S. Mychaelis prope Komor = danas Mihovljan, neighboring Radoboj/Lobor citations confirm)",manual
+2,Radoboj,46.1715571,15.9149824,"Radoboj, Općina Radoboj, Krapinsko-zagorska županija (Buturac: eccl. S. Trinitatis de Radboa = danas župa Radoboj, 1598 Radoboya)",manual
+2,Križovljan,46.2644305,16.5559503,"Križovljan, Općina Martijanec, Varaždinska županija (podravina04: Ecclesia S. Crucis de Krisoliani near Ludbreg)",manual
