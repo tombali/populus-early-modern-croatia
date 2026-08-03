@@ -945,3 +945,26 @@ county,query,lat,lon,display_name,source
 2,Mihovljan,46.1335743,15.9700106,"Općina Mihovljan, Krapinsko-zagorska županija (Buturac: eccl. S. Mychaelis prope Komor = danas Mihovljan, neighboring Radoboj/Lobor citations confirm)",manual
 2,Radoboj,46.1715571,15.9149824,"Radoboj, Općina Radoboj, Krapinsko-zagorska županija (Buturac: eccl. S. Trinitatis de Radboa = danas župa Radoboj, 1598 Radoboya)",manual
 2,Križovljan,46.2644305,16.5559503,"Križovljan, Općina Martijanec, Varaždinska županija (podravina04: Ecclesia S. Crucis de Krisoliani near Ludbreg)",manual
+1,Jakuševec,45.7577522,16.0192623,"Jakuševec, Mjesni odbor Jakuševec, Gradska četvrt Novi Zagreb - istok, Zagreb, Grad Zagreb, Hrvatska",nominatim
+1,Kontovec kod Grubišnog Polja,,,,nominatim
+1,Špišić Bukovica,45.8476964,17.2782401,"Špišić Bukovica, Općina Špišić Bukovica, Virovitičko-podravska županija, Hrvatska",nominatim
+2,Budinščina - Pomnerovac,46.1269062,16.2037628,"[via 'Budinščina'] Općina Budinšćina, Krapinsko-zagorska županija, 49284, Hrvatska",nominatim
+2,Ratkovec - Grančar,46.1181671,16.0847006,"[via 'Ratkovec'] Ratkovec, Grad Zlatar, Krapinsko-zagorska županija, Hrvatska",nominatim
+3,Topolovica,45.7965062,17.2262162,"Topolovica, Općina Veliki Grđevac, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+3,Talovac,,,,nominatim
+3,Talovac,45.8045543,17.1937699,"Approx. pin north of Cremušina, Općina Veliki Grđevac (Kolarević, cited in veliki_grdevac_monografija: Talovec/Talovac fortress located sjeverno od današnje Cremušine)",manual
+4,Strezojevo,45.5271615,16.0376546,"Strezojevo, Općina Pokupsko, Zagrebačka županija, Hrvatska",nominatim
+4,Blato,45.7635678,15.9242635,"Mjesni odbor Blato, Gradska četvrt Novi Zagreb - zapad, Zagreb, Grad Zagreb, Hrvatska",nominatim
+4,Malunje,45.6913591,15.6262795,"Malunje, Grad Jastrebarsko, Zagrebačka županija, Hrvatska",nominatim
+4,Tržić,45.7143241,15.7296259,"Tržić, Općina Klinča Sela, Zagrebačka županija, Hrvatska",nominatim
+4,Dumovec,45.8112871,16.1600015,"Dumovec, Grad Zagreb, Hrvatska",nominatim
+4,Pretoki,45.9711446,16.2565719,"Pretoki, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
+4,Črečan,45.9778045,16.2604724,"Črečan, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
+4,Lijevi Degoj,45.4759167,15.9621188,"Lijevi Degoj, Općina Pokupsko, Zagrebačka županija, Hrvatska",nominatim
+4,Prhoć,45.7066059,15.6892126,"Prhoć, Grad Jastrebarsko, Zagrebačka županija, Hrvatska",nominatim
+4,Hrašće Turopoljsko,45.7306053,16.0048816,"Hrašće Turopoljsko, Grad Zagreb, Hrvatska",nominatim
+4,Božjakovina,45.8172252,16.2956556,"Božjakovina, Općina Brckovljani, Zagrebačka županija, Hrvatska",nominatim
+4,Hrebinec,45.8408730,16.2602719,"Hrebinec, Općina Brckovljani, Zagrebačka županija, Hrvatska",nominatim
+4,Jurjevčani,45.7299368,15.6570469,"Jurjevčani, Grad Jastrebarsko, Zagrebačka županija, Hrvatska",nominatim
+4,Velika Gora,45.9591124,16.1943780,"Velika Gora, Grad Sveti Ivan Zelina, Zagrebačka županija, Hrvatska",nominatim
+4,Turkovčina,46.0440084,16.2455029,"Turkovčina, Općina Bedenica, Zagrebačka županija, Hrvatska",nominatim
