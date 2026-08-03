@@ -972,3 +972,13 @@ county,query,lat,lon,display_name,source
 1,Grabovnica,45.7471599,16.6470799,"Grabovnica, Grad Čazma, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
 1,Sišćani,45.8126960,16.6522891,"Sišćani, Grad Čazma, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
 1,Praščevac,45.9136728,16.6468915,"Praščevac, Općina Farkaševac, Zagrebačka županija, Hrvatska",nominatim
+1,Podgarić,45.6441545,16.7727002,"Podgarić, Općina Berek, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Velike Sesvete,46.0524417,16.6726777,"Velike Sesvete, Grad Križevci, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Črnčevec,46.0880181,16.4664682,"Črnčevec, Općina Sveti Petar Orehovec, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Domankuš,45.9927623,16.7716574,"Domankuš, Općina Rovišće, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Komuševci,45.7898340,16.6292891,"Komuševac, Grad Čazma, Bjelovarsko-bilogorska županija, Hrvatska",manual
+1,Vrhovec Rakovečki,45.9,16.3,"Vrhovec Rakovečki (manual pin, user-supplied 45°54'N 16°18'E)",manual
+1,Osijek Vojakovački,46.1270325,16.5386404,"[approx: deserted estate Powsahegh, NE of Krizevci near Vojakovacki Osijek per Pavles 2006] Osijek Vojakovački, Grad Krizevci",manual
+1,Finčevec,46.0983830,16.4273423,"Finčevec, Općina Sveti Petar Orehovec, Koprivničko-križevačka županija, Hrvatska",nominatim
+1,Stara Konjska,45.9452617,16.7466734,"Stara Konjska, Predavac, Općina Rovišće, Bjelovarsko-bilogorska županija, Hrvatska",nominatim
+1,Rašćani,46.0207373,16.6494324,"Rašćani, Općina Sveti Ivan Žabno, Koprivničko-križevačka županija, Hrvatska",nominatim
