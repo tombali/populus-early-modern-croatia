@@ -999,3 +999,13 @@ county,query,lat,lon,display_name,source
 4,Banje Selo,45.5994427,15.8790880,"Banje Selo [approx: pinned to Jamnica Pisarovinska, nearest identified anchor per Heller's citation 'Mit Dužica, Jamnica Pisarovinska, Šišinec erwähnt']",manual
 1,Bisag,46.0333333,16.2833333,Bisag [corrected by user: 46 02N 16 17E],manual
 4,Bisag,46.0333333,16.2833333,Bisag [corrected by user: 46 02N 16 17E],manual
+3,Fodorovec,46.0406624,16.4103609,Fodorovec (reused c1/c2 pin; cross-county cleanup),manual
+1,Kontovec kod Grubišnog Polja,45.6500000,17.2000000,Kontovec kod Grubišnog Polja (reused c3 pin; cross-county),manual
+4,"Brokunjovec, Glavnica",45.9315133,16.1417444,Glavnica (anchor for Brokunjovec/Glavnica compound),manual
+2,"Šćerbinec, Grančari, Ratkovec",46.1181671,16.0847006,Ratkovec (anchor for Šćerbinec/Grančari/Ratkovec compound),manual
+2,"Šćerbinec, Ratkovec",46.1181671,16.0847006,Ratkovec (anchor for Šćerbinec/Ratkovec compound),manual
+2,Kosnica,45.7506038,16.0853697,"Kosnica Turopolje (reused c4 pin; cross-county, needs_review)",manual
+1,Završje,46.2161000,16.2711000,"Završje (reused c2 pin; homonym, needs_review)",manual
+1,Lipovac Lonjski,45.7819400,16.4511100,Lipovac Lonjski (maintainer pin 45 46 55N 16 27 04E),manual
+1,Marinkovec,45.5088900,16.0758300,Marinkovec (maintainer pin),manual
+2,Frkuljevec Peršaveski,46.1194399,16.0214049,"Frkuljevec Peršaveski, Op. Mače (historical curia site per maintainer)",manual

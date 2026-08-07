@@ -18,7 +18,6 @@ human to confirm or correct via the override file.
 Stdlib only (difflib for similarity). Reruns are deterministic.
 """
 import csv
-import math
 import os
 from collections import Counter, defaultdict
 from difflib import SequenceMatcher
@@ -35,17 +34,6 @@ CROSSWALK_CSV = os.path.join(CLEAN_DIR, "place_crosswalk.csv")
 
 FUZZY_THRESHOLD = 0.86   # min SequenceMatcher ratio to merge two fold keys
 FUZZY_MIN_LEN = 4        # don't fuzzy-merge very short keys
-
-# historical county seat (modern coords), for cross-county location dedup
-HIST_SEAT = {"1": (46.0246, 16.5460), "2": (46.3057, 16.3366),
-             "3": (45.8319, 17.3836), "4": (45.8144, 15.9780)}
-
-
-def haversine_km(a, b):
-    la1, lo1, la2, lo2 = map(math.radians, (a[0], a[1], b[0], b[1]))
-    h = (math.sin((la2 - la1) / 2) ** 2
-         + math.cos(la1) * math.cos(la2) * math.sin((lo2 - lo1) / 2) ** 2)
-    return 6371 * 2 * math.asin(math.sqrt(h))
 
 def load_places():
     with open(PLACES_CSV, encoding="utf-8") as fh:
@@ -243,26 +231,26 @@ def main():
             cross_rows.append([m["place_id"], m["historical_name"], cid, aid,
                                method, needs_review])
 
-    # cross-county de-duplication: a single modern location must not serve
-    # authorities from more than one county (a same-name place elsewhere). Keep
-    # the county whose seat is nearest the coordinate; the rest fall back to red.
+    # A single modern location may legitimately serve authorities from more
+    # than one historical county. Two reasons, both confirmed by the maintainer:
+    # (1) scribes sometimes filed the same settlement under the wrong county
+    #     (e.g. Bisag appears under both Zagreb and Krizevci -- one real place);
+    # (2) the 1495-1596 census county borders do not exactly match Heller's or
+    #     modern ones, so a border settlement's modern coordinate can sit in a
+    #     different county than the census filed it under.
+    # County-aware geocoding already gives genuinely distinct same-name villages
+    # distinct coordinates, so a shared coordinate signals ONE real place -> keep
+    # every authority pinned there rather than forcing the others red. A true
+    # homonym that still collides is split by hand via place_overrides.csv.
     by_coord = defaultdict(list)
     for row in auth_rows:
         if row[8]:
             by_coord[(row[8], row[9])].append(row)
-    deduped = 0
-    for (la, lo), rows in by_coord.items():
-        counties = {r[3] for r in rows}
-        if len(counties) > 1:
-            coord = (float(la), float(lo))
-            owner = min(counties, key=lambda c: haversine_km(
-                HIST_SEAT.get(c, (46, 16)), coord))
-            for r in rows:
-                if r[3] != owner:
-                    r[8] = r[9] = ""
-                    deduped += 1
-    if deduped:
-        print(f"  de-duplicated {deduped} authorities off shared locations")
+    shared = sum(1 for rows in by_coord.values()
+                 if len({r[3] for r in rows}) > 1)
+    if shared:
+        print(f"  {shared} coordinates serve >1 county "
+              f"(kept as cross-county duplicates)")
 
     auth_rows.sort(key=lambda r: r[0])
     cross_rows.sort(key=lambda r: int(r[0]))
