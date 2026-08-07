@@ -49,6 +49,7 @@ def build():
         FROM place_authority pa
         LEFT JOIN place_crosswalk x ON x.authority_id = pa.authority_id
         LEFT JOIN places pl         ON pl.place_id    = x.place_id
+        WHERE COALESCE(pa.hide_from_map, 0) = 0
         GROUP BY pa.authority_id"""))
 
     # deterministic fallback spread: rank the red authorities within a county

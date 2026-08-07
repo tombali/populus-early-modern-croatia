@@ -224,9 +224,16 @@ def main():
 
         lat, lon = geocode.get((cid, geocode_key(modern)), ("", ""))
 
+        # Some register lines are fiscal estate-lumps, not settlements: the
+        # scribe headed them "Bona-<noble>" ("bona" = Lat. estates/goods, e.g.
+        # "bona non soluta in eodem processu" = estates whose tax went unpaid in
+        # this district) and left no single locus. They can never be pinned to a
+        # point, so flag them out of the map (kept in the DB for completeness).
+        hide_from_map = 1 if canonical_name.lower().startswith("bona-") else 0
+
         auth_rows.append([aid, canonical_name, modern, cid, len(members),
                           sum(m["n_entries"] for m in members), method,
-                          needs_review, lat, lon])
+                          needs_review, lat, lon, hide_from_map])
         for m in members:
             cross_rows.append([m["place_id"], m["historical_name"], cid, aid,
                                method, needs_review])
@@ -259,7 +266,7 @@ def main():
         w = csv.writer(fh)
         w.writerow(["authority_id", "canonical_name", "modern_place",
                     "county_id", "n_variants", "n_entries", "method",
-                    "needs_review", "lat", "lon"])
+                    "needs_review", "lat", "lon", "hide_from_map"])
         w.writerows(auth_rows)
     with open(CROSSWALK_CSV, "w", newline="", encoding="utf-8") as fh:
         w = csv.writer(fh)

@@ -61,7 +61,7 @@ only explicitly-attested rows.
 | `status_codes` | code list | `code`, `english`, `canonical`, `needs_review` |
 | `title_codes` | code list | `code`, `english`, `canonical`, `needs_review` |
 | `institution_codes` | code list | `code`, `english`, `canonical`, `needs_review` |
-| `place_authority` | canonical place (variant-merged) | `authority_id`, `canonical_name`, `modern_place`, `county_id`, `n_variants`, `n_entries`, `method`, `needs_review`, `lat`, `lon` |
+| `place_authority` | canonical place (variant-merged) | `authority_id`, `canonical_name`, `modern_place`, `county_id`, `n_variants`, `n_entries`, `method`, `needs_review`, `lat`, `lon`, `hide_from_map` |
 | `place_crosswalk` | raw place → authority | `place_id`, `authority_id`, `method`, `needs_review` |
 | `place_mentions` | one toponym named in a place cell | `mention_id`, `place_id`, `toponym`, `source_fragment` |
 
@@ -109,6 +109,28 @@ view exposes `lat`/`lon` per entry for mapping. Run `pipeline/08_geocode.py`
 `data/manual/geocode_cache.csv`; `06_place_authority.py` then reads that cache.
 The cache is hand-editable — set a row's `source` to `manual` to pin a
 correction, or add a row for a name Nominatim missed.
+
+### Non-settlement rows (`hide_from_map`)
+
+A few `place_authority` rows are not settlements at all but **fiscal
+estate-lumps** the scribe entered as a heading. These read `Bona-<noble>`,
+where *bona* is Latin for "estates / goods" — e.g. the register elsewhere
+spells it out as *bona egregii Johannes Alapi* ("the estates of the honourable
+John Alapić") or *bona non soluta in eodem processu* ("estates whose tax went
+unpaid in this district"). The compilers left such lines' modern-name column
+blank because there is no single locus to identify: the sum covers a magnate's
+scattered holdings across a whole district. The four in the data
+(`Bona-Hampo`, `Bona-Johannes Alapi`, `Bona-Nicolaus Zrini`, `Bona-Zlwny`, all
+1533) carry a lump `taxable_selista` but no per-village breakdown.
+
+`06_place_authority.py` sets `hide_from_map = 1` on any authority whose
+`canonical_name` begins `Bona-`, and `web/build_web.py` filters these out of the
+map (`WHERE COALESCE(pa.hide_from_map, 0) = 0`) — they can never be pinned to a
+point. The rows are **kept in the DB** (and remain browsable in the explorer)
+for completeness; only the map excludes them. The rule is prefix-driven, so any
+future `Bona-*` line is hidden automatically; extend the condition in `06` if
+other fiscal headings (bare `processus …`, `… relaxata in eodem processu`) should
+be hidden too.
 
 ## Code-list canonicalisation (variant reconciliation for controlled vocab)
 

@@ -350,7 +350,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 349,Bresowycza,4,174,modern,0
 350,Brestowcz,1,173,manual,0
 351,Brestoycha,1,175,manual,0
-352,Brezewcze cum pertinentiis,1,176,manual,1
+352,Brezewcze cum pertinentiis,1,176,manual,0
 353,Brezoucz,1,177,modern,0
 354,Brezowcz,1,177,modern,0
 355,Brezowicza,4,174,modern,0
@@ -1445,7 +1445,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1444,Kengyelowcz,1,730,manual,0
 1445,Kepchancz,4,731,manual,0
 1446,Kerhennyna,1,732,singleton,0
-1447,Kerhennyna-waywodatus superior,1,733,singleton,0
+1447,Kerhennyna-waywodatus superior,1,733,manual,1
 1448,Kerhnyewyna,1,734,singleton,0
 1449,Kerhtowcz,3,735,orthographic-fuzzy,1
 1450,Kernyn,1,736,manual,0
@@ -1831,8 +1831,8 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1830,Lwben,1,931,manual,1
 1831,Lwbena,1,931,manual,1
 1832,Lwbenowcz,1,931,manual,1
-1833,Lwbeschycza,1,935,orthographic-fuzzy,1
-1834,Lwbewschycza,1,935,orthographic-fuzzy,1
+1833,Lwbeschycza,1,935,manual,0
+1834,Lwbewschycza,1,935,manual,0
 1835,Lwbynowcz,1,931,manual,1
 1836,Lwca ad Belam,1,920,modern,0
 1837,Lwchan,1,936,manual,0
@@ -2495,7 +2495,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2494,Podgorya,1,1203,manual,0
 2495,Podgorya,4,1204,manual,0
 2496,Podgorya-ad Zenthlelek,1,1205,manual,1
-2497,Podgorya-plebanatus,4,1206,singleton,0
+2497,Podgorya-plebanatus,4,1206,manual,1
 2498,Podgorye-de Gorbonok,1,1207,manual,1
 2499,Podgradie,4,1208,manual,0
 2500,Podkraych,1,1202,manual,1
@@ -2607,7 +2607,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2606,Prezeka-vilicatus,1,1256,modern,0
 2607,Prezeka-villicatus ad Rokonok,1,1256,modern,0
 2608,Prezeka-villicatus ad Rokonok pertinens,1,1256,modern,0
-2609,Prezovicha-oppidum sub Nagkemlek,1,1260,singleton,0
+2609,Prezovicha-oppidum sub Nagkemlek,1,1260,manual,1
 2610,Prikray,4,1261,manual,1
 2611,Prikray ad Zenthgeorghwara,1,1262,manual,0
 2612,Pristawcz,1,1263,manual,0
@@ -3148,7 +3148,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3147,Vinnichno,1,1548,orthographic-fuzzy,1
 3148,Vinno,2,1550,orthographic-exact,0
 3149,Vokachincz,1,1551,singleton,0
-3150,Vokowyna cum pertinentiis,4,1552,orthographic-fuzzy,1
+3150,Vokowyna cum pertinentiis,4,1552,manual,1
 3151,Vokssyncz,4,1553,singleton,0
 3152,Volaullya Superior,4,25,modern,0
 3153,Volawlya Superior,4,25,modern,0
@@ -3176,11 +3176,11 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3175,Vyzoka,1,1563,manual,1
 3176,Wahtaryowcz ad Belam,1,1564,manual,1
 3177,Wakegh,1,1565,singleton,0
-3178,Wakowyna-casttelum / Demerye,4,1552,orthographic-fuzzy,1
-3179,Wakowyna-casttelum / Kopchyna,4,1552,orthographic-fuzzy,1
-3180,Wakowyna-casttelum / Myxocz,4,1552,orthographic-fuzzy,1
-3181,Wakowyna-casttelum / Obres,4,1552,orthographic-fuzzy,1
-3182,Wakowyna-casttelum / Wokowyna,4,1552,orthographic-fuzzy,1
+3178,Wakowyna-casttelum / Demerye,4,1552,manual,1
+3179,Wakowyna-casttelum / Kopchyna,4,1552,manual,1
+3180,Wakowyna-casttelum / Myxocz,4,1552,manual,1
+3181,Wakowyna-casttelum / Obres,4,1552,manual,1
+3182,Wakowyna-casttelum / Wokowyna,4,1552,manual,1
 3183,Wamhyda,1,1566,singleton,0
 3184,Warallia,1,1567,manual,0
 3185,Warallya,1,1567,manual,0
@@ -3261,9 +3261,9 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3260,Willyo,1,1562,modern,0
 3261,Winarcz,1,1547,orthographic-exact,0
 3262,Winichno,1,1548,orthographic-fuzzy,1
-3263,Winnagora,4,1552,orthographic-fuzzy,1
-3264,Wkowyna,4,1552,orthographic-fuzzy,1
-3265,Wkowyna cum pertinentiis,4,1552,orthographic-fuzzy,1
+3263,Winnagora,4,1552,manual,1
+3264,Wkowyna,4,1552,manual,1
+3265,Wkowyna cum pertinentiis,4,1552,manual,1
 3266,"Wkowyna cum pertinetiis, Kopchyna, Wraccza",4,1595,singleton,0
 3267,Wlachin,3,1596,orthographic-exact,0
 3268,"Wlachin, Rawenik",3,1597,orthographic-exact,0
@@ -3282,15 +3282,15 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3281,"Wogrynyncz, Wlachyn",3,1601,orthographic-fuzzy,1
 3282,Wokomercz,4,1606,modern,0
 3283,Wokomerych,4,1606,modern,0
-3284,Wokowyna,4,1552,orthographic-fuzzy,1
-3285,Wokowyna cum pertinentiis,4,1552,orthographic-fuzzy,1
-3286,Wokowyna-castellum / Demerye,4,1552,orthographic-fuzzy,1
-3287,Wokowyna-castellum / Mykchewcz,4,1552,orthographic-fuzzy,1
-3288,Wokowyna-castellum / Obres,4,1552,orthographic-fuzzy,1
-3289,Wokowyna-castellum / Wokowyna,4,1552,orthographic-fuzzy,1
-3290,Wokowyna-castellum cum pertinentiis,4,1552,orthographic-fuzzy,1
-3291,Wokowyna-cum pertinentiis,4,1552,orthographic-fuzzy,1
-3292,Wokowyna-pertinantinae casteli,4,1552,orthographic-fuzzy,1
+3284,Wokowyna,4,1552,manual,1
+3285,Wokowyna cum pertinentiis,4,1552,manual,1
+3286,Wokowyna-castellum / Demerye,4,1552,manual,1
+3287,Wokowyna-castellum / Mykchewcz,4,1552,manual,1
+3288,Wokowyna-castellum / Obres,4,1552,manual,1
+3289,Wokowyna-castellum / Wokowyna,4,1552,manual,1
+3290,Wokowyna-castellum cum pertinentiis,4,1552,manual,1
+3291,Wokowyna-cum pertinentiis,4,1552,manual,1
+3292,Wokowyna-pertinantinae casteli,4,1552,manual,1
 3293,Wolaulya,3,1607,manual,0
 3294,Wolaulya,4,25,modern,0
 3295,Wolawla,4,25,modern,0
@@ -3364,10 +3364,10 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3363,Wyfalw ad Gemlecz,1,1626,manual,1
 3364,Wyfalw- ad Gemlecz,1,1627,manual,1
 3365,Wyhel,1,1562,modern,0
-3366,Wynagora,4,1552,orthographic-fuzzy,1
+3366,Wynagora,4,1552,manual,1
 3367,Wynarcz,1,1547,orthographic-exact,0
 3368,Wynarcz-monialium,1,1628,singleton,0
-3369,Wynnagora,4,1552,orthographic-fuzzy,1
+3369,Wynnagora,4,1552,manual,1
 3370,Wynno,2,1550,orthographic-exact,0
 3371,Wynnychno,1,1548,orthographic-fuzzy,1
 3372,"Wynnychno, Graberyancz",1,1548,orthographic-fuzzy,1
@@ -3484,10 +3484,10 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3483,Zelche,1,1676,manual,0
 3484,Zelcz,1,1676,manual,0
 3485,Zelcze,1,1676,manual,0
-3486,Zelenawar-cum pertinentiis,4,1677,orthographic-fuzzy,1
-3487,Zelina,4,1677,orthographic-fuzzy,1
-3488,Zelina Zenth Myklos,4,1677,orthographic-fuzzy,1
-3489,"Zelina, Bwkowcz",4,1677,orthographic-fuzzy,1
+3486,Zelenawar-cum pertinentiis,4,1677,manual,1
+3487,Zelina,4,1677,manual,1
+3488,Zelina Zenth Myklos,4,1677,manual,1
+3489,"Zelina, Bwkowcz",4,1677,manual,1
 3490,Zelna,1,1678,singleton,0
 3491,Zelnycza,2,1679,modern,0
 3492,Zelnycze,2,1679,modern,0
@@ -3496,13 +3496,13 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3495,Zelyancz,1,1681,manual,1
 3496,"Zelyancz, Pothok",1,1680,manual,0
 3497,"Zelyancz, Sybrynowcz",1,1682,manual,0
-3498,Zelyna,4,1677,orthographic-fuzzy,1
-3499,Zelyna Zenthmyklos,4,1677,orthographic-fuzzy,1
-3500,Zelyna in pertinentiis Bobonok (!),4,1677,orthographic-fuzzy,1
-3501,Zelyna in pertinentiis Rakonok,4,1677,orthographic-fuzzy,1
-3502,"Zelyna, Bwkowcz",4,1677,orthographic-fuzzy,1
-3503,Zelynawar,4,1677,orthographic-fuzzy,1
-3504,Zelynawar cum pertinentiis,4,1677,orthographic-fuzzy,1
+3498,Zelyna,4,1677,manual,1
+3499,Zelyna Zenthmyklos,4,1677,manual,1
+3500,Zelyna in pertinentiis Bobonok (!),4,1677,manual,1
+3501,Zelyna in pertinentiis Rakonok,4,1677,manual,1
+3502,"Zelyna, Bwkowcz",4,1677,manual,1
+3503,Zelynawar,4,1677,manual,1
+3504,Zelynawar cum pertinentiis,4,1677,manual,1
 3505,Zemche,1,1683,manual,1
 3506,Zemche Zenth Myhal,1,1684,manual,1
 3507,Zempche,1,1685,manual,1

@@ -107,7 +107,9 @@ CREATE TABLE place_authority (
     method         TEXT,               -- how the group was formed
     needs_review   INTEGER,            -- 1 = fuzzy/conflicting, confirm by hand
     lat            REAL,               -- geocoded from modern_place (OSM/Nominatim)
-    lon            REAL
+    lon            REAL,
+    hide_from_map  INTEGER DEFAULT 0   -- 1 = not a settlement (fiscal estate-lump
+                                       -- heading, e.g. "Bona-*"); excluded from map
 );
 
 CREATE TABLE place_crosswalk (

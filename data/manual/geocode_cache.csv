@@ -1009,3 +1009,9 @@ county,query,lat,lon,display_name,source
 1,Lipovac Lonjski,45.7819400,16.4511100,Lipovac Lonjski (maintainer pin 45 46 55N 16 27 04E),manual
 1,Marinkovec,45.5088900,16.0758300,Marinkovec (maintainer pin),manual
 2,Frkuljevec Peršaveski,46.1194399,16.0214049,"Frkuljevec Peršaveski, Op. Mače (historical curia site per maintainer)",manual
+4,Zelina,45.8590511,16.2382381,review-tool confirmed,manual
+4,Vukovina,45.6823954,16.1112977,review-tool confirmed,manual
+1,Valpovo,45.6591,18.4179,review-tool uncertain,manual
+1,Ljubešćica,46.16667,16.38333,"Ljubešćica (maintainer pin 46 10N 16 23E)",manual
+1,Kalnik,46.13268,16.48665,"Kalnik village (formerly Brezovica sub Kemlek; Cris+Hrg)",manual
+4,Podgorje,45.9425,17.0996,"Podgorje na podnožju Bilogore; Grabovnik possession, area Sirova Katalena–Mala Črešnjevica (Pavleš PZ 2014)",manual
