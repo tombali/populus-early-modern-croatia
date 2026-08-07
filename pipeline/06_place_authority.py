@@ -224,12 +224,17 @@ def main():
 
         lat, lon = geocode.get((cid, geocode_key(modern)), ("", ""))
 
-        # Some register lines are fiscal estate-lumps, not settlements: the
-        # scribe headed them "Bona-<noble>" ("bona" = Lat. estates/goods, e.g.
-        # "bona non soluta in eodem processu" = estates whose tax went unpaid in
-        # this district) and left no single locus. They can never be pinned to a
-        # point, so flag them out of the map (kept in the DB for completeness).
-        hide_from_map = 1 if canonical_name.lower().startswith("bona-") else 0
+        # Some register lines are not settlements but fiscal/social categories,
+        # and can never be pinned to a point -- flag them out of the map (kept in
+        # the DB for completeness):
+        #   "Bona-<noble>"  -- estate-lumps ("bona" = Lat. estates/goods, e.g.
+        #                      "bona non soluta in eodem processu" = estates
+        #                      whose tax went unpaid in this district), no locus;
+        #   "Nobiles unius sessionis" -- the una-sessio petty nobility as a
+        #                      fiscal class, not a place.
+        name_l = canonical_name.lower()
+        hide_from_map = 1 if (name_l.startswith("bona-")
+                              or name_l.startswith("nobiles ")) else 0
 
         auth_rows.append([aid, canonical_name, modern, cid, len(members),
                           sum(m["n_entries"] for m in members), method,

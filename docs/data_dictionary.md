@@ -123,14 +123,16 @@ scattered holdings across a whole district. The four in the data
 (`Bona-Hampo`, `Bona-Johannes Alapi`, `Bona-Nicolaus Zrini`, `Bona-Zlwny`, all
 1533) carry a lump `taxable_selista` but no per-village breakdown.
 
+The same applies to a social-class heading like `Nobiles unius sessionis` (the
+*una sessio* petty nobility taxed as a fiscal class, not a settlement).
+
 `06_place_authority.py` sets `hide_from_map = 1` on any authority whose
-`canonical_name` begins `Bona-`, and `web/build_web.py` filters these out of the
-map (`WHERE COALESCE(pa.hide_from_map, 0) = 0`) — they can never be pinned to a
+`canonical_name` begins `Bona-` or `Nobiles ` (extend that condition for further
+non-settlement headings — bare `processus …`, `… relaxata in eodem processu` —
+should they surface), and `web/build_web.py` filters these out of the map
+(`WHERE COALESCE(pa.hide_from_map, 0) = 0`) — they can never be pinned to a
 point. The rows are **kept in the DB** (and remain browsable in the explorer)
-for completeness; only the map excludes them. The rule is prefix-driven, so any
-future `Bona-*` line is hidden automatically; extend the condition in `06` if
-other fiscal headings (bare `processus …`, `… relaxata in eodem processu`) should
-be hidden too.
+for completeness; only the map excludes them.
 
 ## Code-list canonicalisation (variant reconciliation for controlled vocab)
 
