@@ -1039,3 +1039,7 @@ county,query,lat,lon,display_name,source
 1,Sveti Ladislav kod Borovljana,46.1110000,16.8920000,"Sveti Ladislav (Pavles: nestali biskupski posjed/crkva kod Borovljana, I od Koprivnice)",manual
 1,Topolovo,46.1150000,16.9750000,"Topolovo (Pavles: uz Sredice/Delovi, biskupski posjed kod Novigrada Podravskog)",manual
 1,Belanovo selo,46.2200000,16.6000000,"Belanovo selo (Pavles: nestalo selo rasinjskog vlastelinstva, JZ od Rasinje) p.81-82",manual
+1,Filipovec,46.1450000,16.8650000,"Filipovec (Pavles: nestala kurija u Temerju, I od Koprivnice kod Bregi) p.217",manual
+1,Gedrovec,46.1380000,16.8800000,"Gedrovec (Pavles: predij kod Temerja, izmedu Koprivnice i Novigrada Podravskog) p.220",manual
+1,Lisičinci,46.1150000,17.0000000,"Lisicinci/Lescinec (Pavles: nestalo selo durdevecog vlastelinstva, kod Molvi/Delova) p.163,195",manual
+3,Deča,46.0700000,17.1800000,"Deca (Pavles: podravsko naselje kod Sv. Pavla/Pavljanaca, blizu Ferdinandovca) p.167-168",manual

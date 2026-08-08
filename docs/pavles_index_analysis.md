@@ -133,6 +133,37 @@ Felsew Bakwa ×3 (→ Bukovica "de Prodaviz" nr Virovitica, p.192), the Zdenčan
 cluster (aid 1655/1656/1658/1475, p.214), Werthlyn (p.193). Pavleš gives enough to
 tighten these, but they already carry approximate coordinates.
 
+## Resolved from the "low"/context scans (pp. 68–83, 137–180, 217–220, applied)
+
+This large batch (56 images) was the đurđevečko-vlastelinstvo + Rasinja + Temerje narrative
+gazetteer. Most of it cross-validated already-green places; four reds resolved (all approximate
+`needs_review` = yellow):
+
+| Red | Sel.* | → Modern / area | Pavleš |
+|---|---|---|---|
+| Filyphfalwa / Philipfalwa | 14 | **Filipovec** — nestala kurija u Temerju, E of Koprivnica nr Bregi | 217–219 |
+| Gedrocz / Gedrowcz | 6 | **Gedrovec** — predij kod Temerja, between Koprivnica & Novigrad Podravski | 220 |
+| Lyzychyncz | 1 | **Lisičinci / Leščinec** — nestalo selo, đurđevečko, nr Molve/Delovi | 163, 195 |
+| Decze | 57 | **Deča** — podravsko naselje nr Sveti Pavao/Pavljanci, blizu Ferdinandovca (least certain: big, c3) | 167–168 |
+
+*multi-year sums.
+
+Result: reds 305 → **301**. Validation passing.
+
+**Still unresolved — the c3 Vlach *waywodatus* cluster** (`Krayowcz`, `Powsincz`, `Kwthetincz`,
+plus `Wlachin`, `Rawennyk`, `Wogrynincz`, `Zkakala`, `Zehanowcz`): Pavleš's đurđevec gazetteer
+has near-homophones (Kočica/*Kwthycha*, Voketinec/*Wokethyncz*, Kosserovec/*Kozeryancz*) but no
+clean, confident match — these Vlach hamlets are 17th-c. resettlements not in his medieval
+gazetteer. Left red; better addressed via Adamček/Heller.
+
+**Confirmatory only (already green):** the entire đurđevec settlement roster — Struga, Prodaviz
+(=Virje), Molve, Sušica, Prikraj, Središče (=Sredice), Bezje, Jeduševec, Županci, Mačkovica,
+Kneževci, Beludovec, Darenovec, Dešenovec, Gračinec, Sveti Pavao/Pavljanci, Loka, Kočica,
+Zemynecz/Zymche, Mičetinec, Predimih, Ložanec, Koprivna, Pičovec, Sušica — and the Rasinja
+lordship (Kuzminec, Koledinec, Vojvodinec, Delekovec, Torčec, Vidak, Vrbinec). *Note:* Pavleš
+places a đurđevec **Zymche/Zemynecz** near Loka on the Drava — distinct from the census
+`Zemche` I pinned (via Adamček) at Svetačje; kept as-is, flagged here as an alternative.
+
 ## Consolidated page list to photograph
 
 - **Priority:** 38, 90, 106, 109, 122, 156–157, 160–162, 175, 186, 191–192, 220

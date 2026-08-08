@@ -682,7 +682,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 681,Dawch,1,359,singleton,0
 682,Deche,1,360,manual,0
 683,Declyna,1,361,manual,0
-684,Decze,3,362,singleton,0
+684,Decze,3,362,manual,1
 685,Dedochay sub Pokwpye,4,363,manual,0
 686,Demerie,4,355,modern,0
 687,Demerye,4,355,modern,0
@@ -906,7 +906,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 905,Fewlsew Zthobycza,4,462,modern,0
 906,Feyerkew,1,476,manual,1
 907,Feyrkew-waywodatus cum pertinentiis,1,477,manual,1
-908,Filyphfalwa,1,478,orthographic-fuzzy,1
+908,Filyphfalwa,1,478,manual,1
 909,Finthincz,1,479,manual,1
 910,Fodoroucz,3,480,orthographic-exact,0
 911,Fodorowcz,1,481,manual,0
@@ -920,7 +920,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 919,Fychowcz,1,486,manual,0
 920,Fyerky,1,487,singleton,0
 921,Fylethyncz,1,488,manual,1
-922,Fylippfalwa,1,478,orthographic-fuzzy,1
+922,Fylippfalwa,1,478,manual,1
 923,Fynchewcz,1,489,manual,0
 924,Fynthych,1,479,manual,1
 925,Fynthyncz,1,479,manual,1
@@ -947,8 +947,8 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 946,Gayancz,2,500,manual,1
 947,"Gayancz, Nedelyancz",2,501,singleton,0
 948,Gayanczy,1,502,manual,1
-949,Gedrocz,1,503,orthographic-fuzzy,1
-950,Gedrowcz,1,503,orthographic-fuzzy,1
+949,Gedrocz,1,503,manual,1
+950,Gedrowcz,1,503,manual,1
 951,Gemelgfelde,1,441,manual,1
 952,Geramuczyak,2,504,singleton,0
 953,Gereben,4,505,modern,0
@@ -1900,7 +1900,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1899,Lywdbregh,1,910,modern,0
 1900,Lywdbregh cum pertinentiis,1,910,modern,0
 1901,"Lywpkowcz, Zerdahel S.",1,945,manual,1
-1902,Lyzychyncz,1,946,singleton,0
+1902,Lyzychyncz,1,946,manual,1
 1903,Machkowcz,1,947,modern,0
 1904,Machowcz,1,947,modern,0
 1905,Magalocz,1,948,manual,0
@@ -2467,7 +2467,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2466,Pezerya,4,1175,modern,0
 2467,Pezeryo,4,1175,modern,0
 2468,"Pezeryo, Bukoucz",4,1186,singleton,0
-2469,Philipfalwa,1,478,orthographic-fuzzy,1
+2469,Philipfalwa,1,478,manual,1
 2470,Phylethyncz,1,488,manual,1
 2471,Pinchowcz,1,1187,singleton,0
 2472,Planina,4,1188,modern,0
