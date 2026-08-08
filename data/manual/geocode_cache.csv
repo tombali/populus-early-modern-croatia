@@ -1043,3 +1043,6 @@ county,query,lat,lon,display_name,source
 1,Gedrovec,46.1380000,16.8800000,"Gedrovec (Pavles: predij kod Temerja, izmedu Koprivnice i Novigrada Podravskog) p.220",manual
 1,Lisičinci,46.1150000,17.0000000,"Lisicinci/Lescinec (Pavles: nestalo selo durdevecog vlastelinstva, kod Molvi/Delova) p.163,195",manual
 3,Deča,46.0700000,17.1800000,"Deca (Pavles: podravsko naselje kod Sv. Pavla/Pavljanaca, blizu Ferdinandovca) p.167-168",manual
+1,Kozacsina,45.3500000,17.1900000,"Kozacsina (Palosfalvi: dio Szencse, plemici de Zenche/de Ervence; Buturac: Zencsefo kod Fejerko=Bijela Stijena, arhidak. Svetacje) - priblizno",manual
+1,Badljevina,45.5132189,17.1924562,"Badljevina (Palffy 1556 #119: Zent Kewroczth = Szentkereszt/Bagyanovc, Krizevacka z.; census Baganoz drzao Szapolyai + plebanus 1507)",manual
+1,Bijela kod Sirača,45.5627565,17.2903219,"Bijela kod Siraca - benediktinska opatija Bijela (Buturac); census Jelye drzala Abbatia bellensis 1517 (prije kralj) - priblizno, imanje opatije",manual

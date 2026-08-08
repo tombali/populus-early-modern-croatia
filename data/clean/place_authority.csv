@@ -42,7 +42,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 41,Babynschyna,Babinac Ivanski,1,2,2,manual,0,45.7495926,16.8120677,0
 42,Babynschyna  Koren,Babinac Ivanski,1,2,2,manual,0,45.7495926,16.8120677,0
 43,Bachyn,Ploščica,1,1,3,manual,0,45.7616253,16.8854923,0
-44,Baganoz,,1,1,2,singleton,0,,,0
+44,Baganoz,Badljevina,1,1,2,manual,1,45.5132189,17.1924562,0
 45,Bagenowcz,Badljevina,1,1,2,manual,1,45.5132189,17.1924562,0
 46,Bahonyn,Zvekovac,1,2,4,manual,1,45.8194598,16.5009602,0
 47,Bakheg,,1,1,1,singleton,0,,,0
@@ -485,7 +485,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 484,Furmeghoch,,1,1,1,singleton,0,,,0
 485,Fwka,Fuka,1,1,3,singleton,0,45.8863448,16.5287441,0
 486,Fychowcz,Finčevec,1,1,1,manual,0,46.0983830,16.4273423,0
-487,Fyerky,,1,1,1,singleton,0,,,0
+487,Fyerky,Bijela Stijena,1,1,1,manual,1,45.3420000,17.1937000,0
 488,Phylethyncz,Pavlin Kloštar,1,2,6,manual,1,46.0073012,16.8288694,0
 489,Fynchewcz,Finčevec,1,1,1,manual,0,46.0983830,16.4273423,0
 490,Galgoncza,Glogovnica,1,7,13,modern,0,45.9671904,16.5272109,0
@@ -696,7 +696,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 695,"Jegywdowcz, Lochylnycza, Chehy, Nowaky, Bwzyn","Ježdovec, Lučelnica, Čehi, Novaki, Buzin",4,1,1,singleton,0,45.7766808,15.8460330,0
 696,"Jelakowcz, Zablatya","Đelekovec, Zabletje",1,2,2,orthographic-exact,0,46.2506365,16.8637838,0
 697,Jelkowcz,Đelekovec,1,1,3,singleton,0,46.2506365,16.8637838,0
-698,Jelye,,1,2,2,orthographic-exact,0,,,0
+698,Jelye,Bijela kod Sirača,1,2,2,manual,1,45.5627565,17.2903219,0
 699,"Jemryhoucz, Othok","Imbriovec, Otok",1,2,6,orthographic-exact,0,46.2563933,16.8216410,0
 700,Jenderkowcz sub Garych,Gornja Garešnica,1,3,3,manual,1,45.6549744,16.8130529,0
 701,Jerosyn,Galovac,1,1,2,manual,0,45.8439994,16.8524578,0
@@ -816,7 +816,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 815,Kowachowcz - Radoboye,Radoboj,2,1,1,manual,1,46.1715571,15.9149824,0
 816,Koyenyk Sythny Othok Koznycza Zelnycza,Koyenik,4,1,1,manual,1,45.7450000,15.7830000,0
 817,Koyenyk-judicatus Koznycza,Koyenik,4,1,1,manual,1,45.7450000,15.7830000,0
-818,Kozachyna,,1,2,4,orthographic-fuzzy,1,,,0
+818,Kozachyna,Kozacsina,1,2,4,manual,1,45.3500000,17.1900000,0
 819,Kozachyna-waywodatus inferior,,1,1,1,singleton,0,,,0
 820,Kozachyna-waywodatus superior,,1,1,1,singleton,0,,,0
 821,Kozak,Čemernica Lonjska,1,1,3,manual,0,45.7658591,16.4168812,0

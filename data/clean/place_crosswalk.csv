@@ -90,7 +90,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 89,"Babynschyna, Koren",1,42,manual,0
 90,"Babynsthyna, Koren",1,42,manual,0
 91,Bachyn,1,43,manual,0
-92,Baganoz,1,44,singleton,0
+92,Baganoz,1,44,manual,1
 93,Bagenowcz,1,45,manual,1
 94,Bahonincz,1,46,manual,1
 95,Bahonyn,1,46,manual,1
@@ -918,7 +918,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 917,Furmeghoch,1,484,singleton,0
 918,Fwka,1,485,singleton,0
 919,Fychowcz,1,486,manual,0
-920,Fyerky,1,487,singleton,0
+920,Fyerky,1,487,manual,1
 921,Fylethyncz,1,488,manual,1
 922,Fylippfalwa,1,478,manual,1
 923,Fynchewcz,1,489,manual,0
@@ -1372,9 +1372,9 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1371,"Jelakoucz, Zablathya",1,696,orthographic-exact,0
 1372,"Jelakowcz, Zablatya",1,696,orthographic-exact,0
 1373,Jelkowcz,1,697,singleton,0
-1374,Jellye,1,698,orthographic-exact,0
+1374,Jellye,1,698,manual,1
 1375,Jelsowcz,1,669,manual,0
-1376,Jelye,1,698,orthographic-exact,0
+1376,Jelye,1,698,manual,1
 1377,"Jemryhoucz, Othok",1,699,orthographic-exact,0
 1378,Jemryhowcz,1,447,modern,0
 1379,"Jemryhowcz, Othok",1,699,orthographic-exact,0
@@ -1574,7 +1574,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1573,"Kowachowcz, Radoboye",2,815,manual,1
 1574,"Koyenyk, Sythny Othok, Koznycza, Zelnycza",4,816,manual,1
 1575,"Koyenyk-judicatus, Koznycza",4,817,manual,1
-1576,Kozachyna,1,818,orthographic-fuzzy,1
+1576,Kozachyna,1,818,manual,1
 1577,Kozachyna-waywodatus inferior,1,819,singleton,0
 1578,Kozachyna-waywodatus superior,1,820,singleton,0
 1579,Kozak,1,821,manual,0
@@ -1693,7 +1693,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1692,Kwthnyak,1,812,modern,0
 1693,Kwtnak,1,812,modern,0
 1694,Kwtthennya,1,856,manual,0
-1695,Kwzachyna,1,818,orthographic-fuzzy,1
+1695,Kwzachyna,1,818,manual,1
 1696,Kwzmowcz,1,858,manual,0
 1697,Kwzmyncz,1,859,singleton,0
 1698,"Kwzmyncz, Koledyncz",1,847,modern,0
