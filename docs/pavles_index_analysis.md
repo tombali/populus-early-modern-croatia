@@ -88,6 +88,51 @@ inconclusive), and the big **Brezewcze cum pertinentiis** (354 sel): the p.191 B
 a *small* đurđevečko site, not a 354-selišta estate — Brezewcze is more likely the Vaška
 Brezovica (Adamček), still to be decided.
 
+## Resolved from the "middle" scans (pp. 79–83, 188–214, applied)
+
+This batch was four blocks: **Rasinja lordship** (79–83), the **đurđevečko-vlastelinstvo
+gazetteer** (188–201), the **Sveti Ladislav / Sveti Mihalj / bishop's Podravina estates**
+(202–210), and **small Komarnica-district estates** (211–214). All new pins are
+approximate `needs_review` = yellow.
+
+| Red (census) | Sel.* | → Modern / area | Pavleš | Anchor |
+|---|---|---|---|---|
+| Dobrowych (Dobrowoych/Dobrowyncz/Dobryncz) | 92 | **Dobrouch** — nestalo selo between Koprivnica and Koprivnički Bregi, by Peturkova gorica | Karta 22, 212–213 | 46.135, 16.87 |
+| Laskaeghaz (László-egyház) | 5 | **Sveti Ladislav** — lost bishop's estate/church kod Borovljana, E of Koprivnica | 202–208, Karta 20–21 | 46.111, 16.892 |
+| Thopolyancz + Thopolchazenthgergh (merged) | 2+2 | **Topolovo** — biskupski posjed uz Sredice/Delovi, kod Novigrada Podravskog | Karta 21, 209–210 | 46.115, 16.975 |
+
+*Multi-year `SUM(taxable_selista)`, not per-year.
+
+Result: reds 312 → **308**, yellow 637 → **640**. Validation passing.
+
+### No-scan quick wins applied alongside (Adamček / Buturac / p.81)
+
+| Red | Sel. | → Modern | Source |
+|---|---|---|---|
+| Brezewcze cum pertinentiis (**largest single red**) | 354 | **Brezovica kod Virovitice** (same estate as Nešetino) | Buturac + Adamček |
+| Dobrachwcha cum pertinentiis | 90 | **Dobra Kuća** (castrum nr Đulovac/Daruvar) — *not* the đurđevec "Dobra kuća brdo" of p.194 | Adamček; Buturac alt.: Korjeničani nr Bastaji |
+| Bellyanowcz / Belyowcz / Belyancz | 41.5 | **Belanovo selo** (nestalo selo rasinjskog vlastelinstva, JZ od Rasinje) | Pavleš p.81–82 |
+
+Cumulative after this batch + quick wins: reds → **305**.
+
+**Distinguished three separate "St-Ladislav" census entries** (do NOT merge):
+`Zenth Laczlo` → Ladislav Sokolovački (SW, already pinned); `Zenthlazlo` → Tomašica
+(Garešnica/Bilogora, yellow); `Laskaeghaz` → the lost Podravina Sv. Ladislav kod Borovljana
+(this batch).
+
+**Confirmatory only (already green / not in red list):** the Rasinja-lordship villages
+(Kuzminec, Koledinec, Vojvodinec, Zablatje, Antolovec, Zelnica, Gorica, Grbaševec,
+Botinovec, Subotica, Vrhovec, Delekovec, Selnica, Torčec, Imbriovec, Vidak) and the
+đurđevec-vlastelinstvo villages (Sušica, Hrastovec, Brestovec, Gregorjanec, Javorovec,
+Miketinec, Valentovci, Farkaševci, Čaovci, Dravice, Prikraj, Molve, Beludovec, Doroslavec)
+are not among the 308 reds — this batch confirmed their placement but yielded no new pins.
+
+**Available for future precision refinement (currently yellow, could be greened):**
+Gorbonokfew (→ Kloštar Podravski/Gorbonok), Belwdowyna (→ Beludovec N of Rovišče),
+Felsew Bakwa ×3 (→ Bukovica "de Prodaviz" nr Virovitica, p.192), the Zdenčan/Temerje
+cluster (aid 1655/1656/1658/1475, p.214), Werthlyn (p.193). Pavleš gives enough to
+tighten these, but they already carry approximate coordinates.
+
 ## Consolidated page list to photograph
 
 - **Priority:** 38, 90, 106, 109, 122, 156–157, 160–162, 175, 186, 191–192, 220
