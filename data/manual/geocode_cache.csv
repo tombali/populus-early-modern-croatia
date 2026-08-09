@@ -1046,3 +1046,6 @@ county,query,lat,lon,display_name,source
 1,Kozacsina,45.3500000,17.1900000,"Kozacsina (Palosfalvi: dio Szencse, plemici de Zenche/de Ervence; Buturac: Zencsefo kod Fejerko=Bijela Stijena, arhidak. Svetacje) - priblizno",manual
 1,Badljevina,45.5132189,17.1924562,"Badljevina (Palffy 1556 #119: Zent Kewroczth = Szentkereszt/Bagyanovc, Krizevacka z.; census Baganoz drzao Szapolyai + plebanus 1507)",manual
 1,Bijela kod Sirača,45.5627565,17.2903219,"Bijela kod Siraca - benediktinska opatija Bijela (Buturac); census Jelye drzala Abbatia bellensis 1517 (prije kralj) - priblizno, imanje opatije",manual
+1,Kerhevina kod Bijele Stijene,45.3600000,17.2200000,"Kerhevina (Palosfalvi: posjed obitelji Kerhen "in the region of Fejerko"=Bijela Stijena; census holders Kerhen); nestalo, priblizno",manual
+1,Kaznetina kod Mučne,46.1150000,16.7450000,"Kaznetina (Heller: Kaznethyn u pertinencijama Koprivnice, Gegend Mucna/Vlajislav; Podravina04: nekad dio koprivnickog vlastelinstva); priblizno kod Velike Mucne",manual
+1,Marocha kod Ivanske,45.7822225,16.8061535,"Marocha (Heller: 1507 Maroucha prov Chasmensis, Gegend Ivanska; razlicito od zagrebackog Moravca-homonim); priblizno kod Ivanske",manual

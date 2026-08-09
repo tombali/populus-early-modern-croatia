@@ -38,12 +38,42 @@ already-pinned **Kozacsina/Szencse** — both part of Berislavić's "Bijela Stij
   Stara Ves, *Zthara sela* = Stara Sela). A large "Old Village" held by the Bánffy; which one is
   open.
 
+## Also resolved from the mid-tier dig (applied)
+
+| Red | Sel. | Holder(s) | → Identification | Source | Pin |
+|---|---|---|---|---|---|
+| **Crysancz** | 19 (c2) | Spychko / Zpyko | **Križanec** (nr Varaždin) — "Johannes Spychko **de Crysancz**" | Klaić, *Topografske sitnice* (Špičko de Crysancz, 1500); county + phonetic match | 46.245, 16.343 |
+| **Kerhnyewyna** (+ **Kerhennyna**, 8 sel — merged) | 11 (c1) | Ladislaus, Michael (Kerhen family) | **Kerhevina** — lost possession of the **Kerhen** family "in the region of **Fejérkő**" (=Bijela Stijena) | Pálosfalvi (Kerhen/Kerhnewych "always bore the name of the possession of Kerhevina … around Fejérkő") | 45.36, 17.22 (approx) |
+| **Kazmethyna** | 7 (c1) | Andreas Dominus | **Kaznetina** — in the appurtenances of Koprivnica, "Gegend Mučna/Vlajislav" | Heller Cris ("Kaznethyn p/v in pertinentiis Kaproncza"); podravina04 ("Kaznetina … nekad dio koprivničkog vlastelinstva") | 46.115, 16.745 (approx, nr Velika Mučna) |
+| **Maroucha** | 4 (c1) | Ladislaus | **Marocha** nr **Ivanska** (Čazma province) — *not* the Zagreb-county Moravče homonym | Heller Cris ("1507 Maroucha prov Chasmensis … Gegend Ivanska") | 45.782, 16.806 (approx) |
+
+Kerhevina is another piece of the **Fejérkő/Bijela Stijena** complex (with Fyerky and Kozacsina).
+
+## Swept to exhaustion (reds ≤3 sel): confirmed-but-unpinnable
+
+A full dig of all remaining reds (ranks ~130–290) found many that the corpus **attests but does not
+locate** — the gazetteers confirm the toponym existed without giving a modern equivalent, so they
+stay red rather than get a speculative pin:
+- **Ramagawelge** (Paulus de Raven; Heller attests, no modern), **Koroska/Bedowcz** (Heller:
+  "Koroska Zenth Ilona … eccl Szent Illona", no modern), **Ozwgyo-Zenthgergh** (Batthyány; Heller
+  "Ozwgyo cup Zenthgeorgh" nr Sveti Đurđ), **Wydyncz** (Heller attests only), **Chernacz** (in the
+  Berislavić Totuševina estate list, but several homonyms), **Janowcz** (c1, ambiguous vs the
+  already-pinned Janovec).
+- **Church-dedication reds** with no distinctive toponym: Omnii Sancti, Sanctus Stephanus, Sancta
+  Anna/Elena/Katharina/Maria, Zenth Nedele, Sanctus Benedictus.
+- The **c3 Vlach *waywodatus* cluster** (Wlachin, Rawennyk, Wogrynincz, Zkakala, Kwthetincz,
+  Krayowcz, Powsyncz/Powsevcz, Zehanowcz) — 17th-c. resettlements absent from the medieval
+  gazetteers; Orrosovc/Csakovc/Povsinc are a known lost tenant cluster (Pálosfalvi) with no coords.
+
 ## Next-tier leads (from the top-30 corpus dig, `reds_dig.txt`)
 
 - **Orosowcz / Orrosowcz** (42; **Gabriel Oros**) → **Orrosovc**, the single-village seat of the
   **Orros de Orrosovc** family, with tenant plots at "Orrosovc, Csakovc and **Povsinc** (Verőce)"
   — i.e. adjacent to our red `Powsincz`, in the SE-Bilogora Dobra Kuća/Prodaviz noble milieu
-  (Pálosfalvi 44, 226–227, 30). Lost village, no coordinates yet.
+  (Pálosfalvi 44, 226–227, 30). Lost village, no coordinates yet. **Reconfirmed** by a 2nd red
+  `Orossowcz, Chakawcz` (13 sel, holder Nicolaus Oros) = the same Orrosovc + Csakovc pair; and the
+  c3 red `Powsyncz/Powsynch` is the Verőce Povsinc of the same tenant cluster. All three lost,
+  region (SE Bilogora, Dobra Kuća/Prodaviz orbit) known but no coordinates.
 - **Zenthendree** (90, c3; **Báthory**) → **Szentandrás**, Heller Cris attests it in **distr.
   Garić**, tied to **Ravenica/Raven** and later **"Denkovec-Szentandrás"** (Heller p.132). But
   Heller's is the Garić (Moslavina) one while the census tags c3 — possible homonym; needs care.
