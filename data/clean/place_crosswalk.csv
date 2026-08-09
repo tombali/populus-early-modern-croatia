@@ -429,7 +429,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 428,Bygzaad,4,217,manual,0
 429,Bygzad,1,218,modern,0
 430,Bygzad,4,219,manual,0
-431,Bygzad-citra Lonyam,4,220,singleton,0
+431,Bygzad-citra Lonyam,4,220,manual,1
 432,Bykalla,1,221,manual,0
 433,Bykalya,1,221,manual,0
 434,Bykchelethincz,1,222,manual,0
@@ -2294,7 +2294,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 2293,Opporowcz,4,1108,singleton,0
 2294,Opporowcz ad Belam-castellum,1,32,manual,1
 2295,Orbona,1,1109,manual,0
-2296,Orbowcz,2,1110,singleton,0
+2296,Orbowcz,2,1110,manual,1
 2297,Orehocz,3,1111,manual,0
 2298,Orehoucz,1,1112,modern,0
 2299,Orehoucz,3,1113,manual,0
@@ -3159,90 +3159,90 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3158,Vrboucz,1,1548,modern,0
 3159,Vrboucz-provincia superior,1,1548,modern,0
 3160,Vrbowcz,1,1548,modern,0
-3161,Vrbowcz,2,1549,manual,0
+3161,Vrbowcz,2,1110,manual,1
 3162,Vrbowcz -oppidum ad Rokonok,1,1548,modern,0
 3163,Vrbowcz ad Rokonok,1,1548,modern,0
 3164,Vrbowcz-provincia ad,1,1548,modern,0
 3165,Vrbowcz-provincia ad Rokonok,1,1548,modern,0
-3166,Vrnoucz,4,1550,modern,0
-3167,Vrnowcz,4,1550,modern,0
-3168,Vycha Zela,2,1551,modern,0
+3166,Vrnoucz,4,1549,modern,0
+3167,Vrnowcz,4,1549,modern,0
+3168,Vycha Zela,2,1550,modern,0
 3169,Vydoucz,2,1536,modern,0
-3170,Vyhel,1,1552,modern,0
-3171,Vyllo,1,1552,modern,0
-3172,Vyllyo,1,1552,modern,0
+3170,Vyhel,1,1551,modern,0
+3171,Vyllo,1,1551,modern,0
+3172,Vyllyo,1,1551,modern,0
 3173,Vynno,2,1540,orthographic-exact,0
 3174,Vynnychno,1,1538,orthographic-fuzzy,1
-3175,Vyzoka,1,1553,manual,1
-3176,Wahtaryowcz ad Belam,1,1554,manual,1
-3177,Wakegh,1,1555,singleton,0
+3175,Vyzoka,1,1552,manual,1
+3176,Wahtaryowcz ad Belam,1,1553,manual,1
+3177,Wakegh,1,1554,singleton,0
 3178,Wakowyna-casttelum / Demerye,4,1542,manual,1
 3179,Wakowyna-casttelum / Kopchyna,4,1542,manual,1
 3180,Wakowyna-casttelum / Myxocz,4,1542,manual,1
 3181,Wakowyna-casttelum / Obres,4,1542,manual,1
 3182,Wakowyna-casttelum / Wokowyna,4,1542,manual,1
-3183,Wamhyda,1,1556,manual,1
-3184,Warallia,1,1557,manual,0
-3185,Warallya,1,1557,manual,0
-3186,Waska,1,1558,manual,0
-3187,Waska Inferior,1,1559,manual,0
-3188,"Waska Inferior, Dytrowcz",1,1560,manual,0
-3189,Waska Zygeth,1,1561,manual,0
-3190,Waska-ad Zagyowcz,1,1562,manual,1
-3191,Wasmegywrechye,1,1563,manual,0
-3192,Wasmegywrechye predium,1,1564,manual,1
-3193,Wasuaryowcz,1,1565,orthographic-fuzzy,1
-3194,Waswarowcz,1,1565,orthographic-fuzzy,1
-3195,Waswaryewcz,1,1565,orthographic-fuzzy,1
-3196,Waswaryowcz,1,1565,orthographic-fuzzy,1
+3183,Wamhyda,1,1555,manual,1
+3184,Warallia,1,1556,manual,0
+3185,Warallya,1,1556,manual,0
+3186,Waska,1,1557,manual,0
+3187,Waska Inferior,1,1558,manual,0
+3188,"Waska Inferior, Dytrowcz",1,1559,manual,0
+3189,Waska Zygeth,1,1560,manual,0
+3190,Waska-ad Zagyowcz,1,1561,manual,1
+3191,Wasmegywrechye,1,1562,manual,0
+3192,Wasmegywrechye predium,1,1563,manual,1
+3193,Wasuaryowcz,1,1564,orthographic-fuzzy,1
+3194,Waswarowcz,1,1564,orthographic-fuzzy,1
+3195,Waswaryewcz,1,1564,orthographic-fuzzy,1
+3196,Waswaryowcz,1,1564,orthographic-fuzzy,1
 3197,Wechezlaucz,1,1528,manual,0
 3198,Wechezlawcz,1,1528,manual,0
 3199,Wechlawcz,1,1528,manual,0
-3200,Wehowlan,1,1566,manual,1
-3201,Wehthocz,1,1567,singleton,0
-3202,Welesewch ad Selin,4,1568,manual,1
-3203,Welessewacz,4,1568,manual,1
-3204,Welessewcz,4,1568,manual,1
+3200,Wehowlan,1,1565,manual,1
+3201,Wehthocz,1,1566,singleton,0
+3202,Welesewch ad Selin,4,1567,manual,1
+3203,Welessewacz,4,1567,manual,1
+3204,Welessewcz,4,1567,manual,1
 3205,Welike,1,1529,modern,0
 3206,Welike-villicatus ad Rokonok,1,1529,modern,0
-3207,Welkovcz,2,1569,manual,0
-3208,Welkowcz,2,1569,manual,0
-3209,Wellesewcz,4,1568,manual,1
-3210,Wellessewcz,4,1568,manual,1
+3207,Welkovcz,2,1568,manual,0
+3208,Welkowcz,2,1568,manual,0
+3209,Wellesewcz,4,1567,manual,1
+3210,Wellessewcz,4,1567,manual,1
 3211,Welyka,1,1529,modern,0
 3212,Welyka Mlaka,4,1053,modern,0
 3213,Welyke,1,1529,modern,0
-3214,"Welyke, Dwlepzka",1,1570,singleton,0
+3214,"Welyke, Dwlepzka",1,1569,singleton,0
 3215,Welyke-oppidum antiquum,1,1529,modern,0
 3216,Welyke-oppidum cum pertinentiis,1,1529,modern,0
 3217,Welyke-oppidum novum,1,1529,modern,0
 3218,Werbowa,4,1531,modern,0
-3219,Werbowcz,1,1571,singleton,0
+3219,Werbowcz,1,1570,singleton,0
 3220,Werbowo,4,1531,modern,0
 3221,Werbowo ad Selyn,4,1531,modern,0
-3222,Wereucze,3,1572,manual,0
-3223,Wereucze-oppidi,3,1572,manual,0
-3224,"Wereucze-oppidum- Bwssocz, Dobownyk",3,1572,manual,0
-3225,Werewcze,3,1572,manual,0
-3226,Werewcze-oppidum,3,1572,manual,0
-3227,Werewcze-provincia opidi,3,1572,manual,0
-3228,Werh,1,1573,manual,0
-3229,"Werh, Zerdahel",1,1574,manual,1
-3230,Werhancz,1,1575,singleton,0
-3231,Werhoucz,1,1576,manual,1
-3232,Werhowch,4,1577,manual,0
-3233,Werhowcz,1,1576,manual,1
-3234,Werhowcz,4,1577,manual,0
+3222,Wereucze,3,1571,manual,0
+3223,Wereucze-oppidi,3,1571,manual,0
+3224,"Wereucze-oppidum- Bwssocz, Dobownyk",3,1571,manual,0
+3225,Werewcze,3,1571,manual,0
+3226,Werewcze-oppidum,3,1571,manual,0
+3227,Werewcze-provincia opidi,3,1571,manual,0
+3228,Werh,1,1572,manual,0
+3229,"Werh, Zerdahel",1,1573,manual,1
+3230,Werhancz,1,1574,singleton,0
+3231,Werhoucz,1,1575,manual,1
+3232,Werhowch,4,1576,manual,0
+3233,Werhowcz,1,1575,manual,1
+3234,Werhowcz,4,1576,manual,0
 3235,Werhowlan,1,1532,manual,0
 3236,Werhowlyan,1,1532,manual,0
-3237,Werthlin,1,1578,manual,0
-3238,Werthlyn ad Monozlo,1,1579,manual,1
-3239,Wertlyn,1,1578,manual,0
-3240,Werussewych,1,1580,singleton,0
-3241,Werzynowcz,1,1581,singleton,0
-3242,Wethech,1,1582,manual,1
-3243,Wezelkowcz,1,1583,manual,1
-3244,Wezolkowcz,1,1583,manual,1
+3237,Werthlin,1,1577,manual,0
+3238,Werthlyn ad Monozlo,1,1578,manual,1
+3239,Wertlyn,1,1577,manual,0
+3240,Werussewych,1,1579,singleton,0
+3241,Werzynowcz,1,1580,singleton,0
+3242,Wethech,1,1581,manual,1
+3243,Wezelkowcz,1,1582,manual,1
+3244,Wezolkowcz,1,1582,manual,1
 3245,Wghrocz,4,1527,modern,0
 3246,Wgra,4,1527,modern,0
 3247,Wgra cum pertinentiis,4,1527,modern,0
@@ -3256,32 +3256,32 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3255,"Wgrocz-ad castrum Zagrabiense pertinens, Chwcher, Seryawyncz, Blagwssa, Urnowcz, Samssynowcz",4,1527,modern,0
 3256,Wgrowcz,4,1527,modern,0
 3257,Wgrynowcz,4,1527,modern,0
-3258,"Wgrynowcz, E203Markowcz",1,1584,manual,1
+3258,"Wgrynowcz, E203Markowcz",1,1583,manual,1
 3259,Widowcz,2,1536,modern,0
-3260,Willyo,1,1552,modern,0
+3260,Willyo,1,1551,modern,0
 3261,Winarcz,1,1537,orthographic-exact,0
 3262,Winichno,1,1538,orthographic-fuzzy,1
 3263,Winnagora,4,1542,manual,1
 3264,Wkowyna,4,1542,manual,1
 3265,Wkowyna cum pertinentiis,4,1542,manual,1
-3266,"Wkowyna cum pertinetiis, Kopchyna, Wraccza",4,1585,singleton,0
-3267,Wlachin,3,1586,orthographic-exact,0
-3268,"Wlachin, Rawenik",3,1587,orthographic-exact,0
-3269,"Wlachin, Rawennyk",3,1587,orthographic-exact,0
-3270,Wlachyn,3,1586,orthographic-exact,0
-3271,"Wlachyn, Rawennyk",3,1587,orthographic-exact,0
-3272,"Wlachyn, utraque Rawennyk",3,1588,orthographic-exact,0
-3273,"Wlachyn, utraque Rawenyk",3,1588,orthographic-exact,0
-3274,"Wogrinencz, Wlachyn, utraque Rawennyk",3,1589,orthographic-fuzzy,1
-3275,Wogrinowcz,1,1590,manual,1
-3276,"Wogrynecz, Wlachin",3,1591,orthographic-fuzzy,1
-3277,"Wogrynincz, utraque Rawennyk",3,1592,singleton,0
-3278,Wogrynocz,1,1593,manual,1
-3279,Wogrynowcz,1,1594,manual,1
-3280,"Wogrynowcz, Markowcz",1,1595,manual,1
-3281,"Wogrynyncz, Wlachyn",3,1591,orthographic-fuzzy,1
-3282,Wokomercz,4,1596,modern,0
-3283,Wokomerych,4,1596,modern,0
+3266,"Wkowyna cum pertinetiis, Kopchyna, Wraccza",4,1584,singleton,0
+3267,Wlachin,3,1585,orthographic-exact,0
+3268,"Wlachin, Rawenik",3,1586,orthographic-exact,0
+3269,"Wlachin, Rawennyk",3,1586,orthographic-exact,0
+3270,Wlachyn,3,1585,orthographic-exact,0
+3271,"Wlachyn, Rawennyk",3,1586,orthographic-exact,0
+3272,"Wlachyn, utraque Rawennyk",3,1587,orthographic-exact,0
+3273,"Wlachyn, utraque Rawenyk",3,1587,orthographic-exact,0
+3274,"Wogrinencz, Wlachyn, utraque Rawennyk",3,1588,orthographic-fuzzy,1
+3275,Wogrinowcz,1,1589,manual,1
+3276,"Wogrynecz, Wlachin",3,1590,orthographic-fuzzy,1
+3277,"Wogrynincz, utraque Rawennyk",3,1591,singleton,0
+3278,Wogrynocz,1,1592,manual,1
+3279,Wogrynowcz,1,1593,manual,1
+3280,"Wogrynowcz, Markowcz",1,1594,manual,1
+3281,"Wogrynyncz, Wlachyn",3,1590,orthographic-fuzzy,1
+3282,Wokomercz,4,1595,modern,0
+3283,Wokomerych,4,1595,modern,0
 3284,Wokowyna,4,1542,manual,1
 3285,Wokowyna cum pertinentiis,4,1542,manual,1
 3286,Wokowyna-castellum / Demerye,4,1542,manual,1
@@ -3291,7 +3291,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3290,Wokowyna-castellum cum pertinentiis,4,1542,manual,1
 3291,Wokowyna-cum pertinentiis,4,1542,manual,1
 3292,Wokowyna-pertinantinae casteli,4,1542,manual,1
-3293,Wolaulya,3,1597,manual,0
+3293,Wolaulya,3,1596,manual,0
 3294,Wolaulya,4,25,modern,0
 3295,Wolawla,4,25,modern,0
 3296,Wolawla Superior,4,25,modern,0
@@ -3302,28 +3302,28 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3301,Wolawlya- judicatus (Jazthrebarzka-castrum),4,25,modern,0
 3302,Wolawya,4,25,modern,0
 3303,Wolawyla,4,25,modern,0
-3304,Woloulya,3,1597,manual,0
-3305,Wolowlya,3,1597,manual,0
+3304,Woloulya,3,1596,manual,0
+3305,Wolowlya,3,1596,manual,0
 3306,Wolyawlya,4,25,modern,0
 3307,Wolyawlya Superior,4,25,modern,0
 3308,Wolyncz,2,1544,orthographic-exact,0
-3309,"Wolyncz, Babyncz",2,1598,singleton,0
+3309,"Wolyncz, Babyncz",2,1597,singleton,0
 3310,"Wolyncz, Chalyncz",2,1545,modern,0
 3311,"Wolyncz, Chialyncz",2,1545,modern,0
-3312,Wolywercz,1,1599,manual,1
-3313,"Wolywercz, Kothenyak",1,1599,manual,1
-3314,Woykowcz,1,1600,manual,0
-3315,Woynche,2,1601,singleton,0
-3316,Woynowcz,1,1602,singleton,0
-3317,Woznekowcz,1,1603,manual,1
-3318,Wraccza,4,1604,modern,0
-3319,Wrachya,4,1604,modern,0
-3320,Wracza,4,1604,modern,0
+3312,Wolywercz,1,1598,manual,1
+3313,"Wolywercz, Kothenyak",1,1598,manual,1
+3314,Woykowcz,1,1599,manual,0
+3315,Woynche,2,1600,singleton,0
+3316,Woynowcz,1,1601,singleton,0
+3317,Woznekowcz,1,1602,manual,1
+3318,Wraccza,4,1603,modern,0
+3319,Wrachya,4,1603,modern,0
+3320,Wracza,4,1603,modern,0
 3321,Wradchya,4,1546,manual,0
-3322,Wragoucz,1,1605,manual,1
-3323,Wragowcz,1,1605,manual,1
+3322,Wragoucz,1,1604,manual,1
+3323,Wragowcz,1,1604,manual,1
 3324,Wranydol- judicatus (Jazthrebarzka-castrum),4,25,modern,0
-3325,Wrapchia,4,1606,singleton,0
+3325,Wrapchia,4,1605,singleton,0
 3326,Wrasi Laaz,4,1546,manual,0
 3327,Wrasii Las,4,1546,manual,0
 3328,Wrassylaz,4,1546,manual,0
@@ -3332,13 +3332,13 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3331,Wrasylasz,4,1546,manual,0
 3332,Wrasylaz,4,1546,manual,0
 3333,Wrasylaz (districtus),4,1546,manual,0
-3334,Wratcza ad Topozka,4,1604,modern,0
-3335,Wrathcza,4,1604,modern,0
-3336,Wrathkowcz,2,1607,singleton,0
-3337,Wrathysincz,1,1608,manual,0
-3338,Wrathyssyncz,1,1608,manual,0
-3339,Wratisincz,1,1608,manual,0
-3340,Wratza,4,1609,singleton,0
+3334,Wratcza ad Topozka,4,1603,modern,0
+3335,Wrathcza,4,1603,modern,0
+3336,Wrathkowcz,2,1606,singleton,0
+3337,Wrathysincz,1,1607,manual,0
+3338,Wrathyssyncz,1,1607,manual,0
+3339,Wratisincz,1,1607,manual,0
+3340,Wratza,4,1608,singleton,0
 3341,Wrazylaz,4,1546,manual,0
 3342,Wrazylaz-districtus ac provincia,4,1546,manual,0
 3343,Wrbowcz,1,1548,modern,0
@@ -3346,27 +3346,27 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3345,Wrbowcz-oppidum cum pertinentiis,1,1548,modern,0
 3346,"Wrbowcz-provincia (Michael Lewak in dicatione sua prescripta defalcatus facit fumos 89,5)",1,1548,modern,0
 3347,Wreucze,3,1107,manual,1
-3348,Wrnoch,4,1550,modern,0
-3349,Wrnocz,4,1550,modern,0
-3350,Wrnowcz,4,1550,modern,0
-3351,"Wugrynincz, Wlachyn, uterque Ravenyk",3,1589,orthographic-fuzzy,1
-3352,Wuzmoucz,1,1610,manual,0
-3353,Wycha Zela,2,1551,modern,0
-3354,Wychazela,2,1551,modern,0
-3355,Wychkowcz,1,1600,manual,0
-3356,Wydowcz,1,1611,manual,1
-3357,Wydowcz,1,1611,manual,1
+3348,Wrnoch,4,1549,modern,0
+3349,Wrnocz,4,1549,modern,0
+3350,Wrnowcz,4,1549,modern,0
+3351,"Wugrynincz, Wlachyn, uterque Ravenyk",3,1588,orthographic-fuzzy,1
+3352,Wuzmoucz,1,1609,manual,0
+3353,Wycha Zela,2,1550,modern,0
+3354,Wychazela,2,1550,modern,0
+3355,Wychkowcz,1,1599,manual,0
+3356,Wydowcz,1,1610,manual,1
+3357,Wydowcz,1,1610,manual,1
 3358,"Wydowcz, Zent Illia",2,1536,modern,0
 3359,Wydyncz,1,1535,orthographic-exact,0
-3360,Wyeghaz,1,1612,singleton,0
-3361,Wyel,1,1552,modern,0
-3362,Wyfalu ad Gemnecz,1,1613,manual,1
-3363,Wyfalw ad Gemlecz,1,1614,manual,1
-3364,Wyfalw- ad Gemlecz,1,1615,manual,1
-3365,Wyhel,1,1552,modern,0
+3360,Wyeghaz,1,1611,singleton,0
+3361,Wyel,1,1551,modern,0
+3362,Wyfalu ad Gemnecz,1,1612,manual,1
+3363,Wyfalw ad Gemlecz,1,1613,manual,1
+3364,Wyfalw- ad Gemlecz,1,1614,manual,1
+3365,Wyhel,1,1551,modern,0
 3366,Wynagora,4,1542,manual,1
 3367,Wynarcz,1,1537,orthographic-exact,0
-3368,Wynarcz-monialium,1,1616,singleton,0
+3368,Wynarcz-monialium,1,1615,singleton,0
 3369,Wynnagora,4,1542,manual,1
 3370,Wynno,2,1540,orthographic-exact,0
 3371,Wynnychno,1,1538,orthographic-fuzzy,1
@@ -3377,491 +3377,491 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 3376,Wynnycze,2,1539,modern,0
 3377,Wynnycze-castrum cum pertinentiis,2,1539,modern,0
 3378,Wynychno,1,1538,orthographic-fuzzy,1
-3379,"Wynychno, Wyzoka",1,1617,singleton,0
+3379,"Wynychno, Wyzoka",1,1616,singleton,0
 3380,Wynycza,2,1539,modern,0
 3381,Wynycza cum pertinentiis,2,1539,modern,0
 3382,Wynycze,2,1539,modern,0
-3383,Wyszoka,1,1553,manual,1
-3384,Wythkowcz,1,1600,manual,0
-3385,Wyudwar,1,1618,manual,0
-3386,Wywaras,1,1619,singleton,0
-3387,Wywdwar,1,1618,manual,0
-3388,"Wywodina-districtus cum pertinentiis, Craysthychy",4,1620,manual,0
-3389,"Wywodyna cum pertinentiis castri Ozel, Kraschyschy",4,1620,manual,0
-3390,Wyzoka,1,1553,manual,1
-3391,Wzmowcz,1,1610,manual,0
-3392,Yeresyn,1,1621,manual,0
-3393,Zaberdya,1,1622,modern,0
-3394,Zaberdye,1,1622,modern,0
-3395,Zablatta,4,1623,modern,0
-3396,Zablatya,4,1623,modern,0
-3397,Zablatye ad Selyn,4,1623,modern,0
-3398,Zabok,2,1624,singleton,0
-3399,"Zabok, Gwbasewo",2,1625,modern,0
-3400,"Zabok, Gwbasowo, Myrkowcz",2,1625,modern,0
-3401,"Zabok, Gwbassewo",2,1625,modern,0
-3402,"Zabok, Komor",2,1626,singleton,0
-3403,"Zabok, Komor, Hum",2,1627,singleton,0
-3404,"Zabok, Komor, Krysancz",2,1628,singleton,0
-3405,"Zabok, Krysanch",2,1629,orthographic-exact,0
-3406,"Zabok, Krysancz",2,1629,orthographic-exact,0
-3407,"Zabok, Prylezye, Gwbasseuo",2,1625,modern,0
-3408,"Zabok, Wychazela",2,1630,singleton,0
-3409,Zadrok,2,1631,modern,0
-3410,Zadroucz,2,1631,modern,0
-3411,Zadrowcz,2,1631,modern,0
-3412,Zagolcza,1,1632,manual,1
-3413,Zagorya,1,1633,singleton,0
+3383,Wyszoka,1,1552,manual,1
+3384,Wythkowcz,1,1599,manual,0
+3385,Wyudwar,1,1617,manual,0
+3386,Wywaras,1,1618,singleton,0
+3387,Wywdwar,1,1617,manual,0
+3388,"Wywodina-districtus cum pertinentiis, Craysthychy",4,1619,manual,0
+3389,"Wywodyna cum pertinentiis castri Ozel, Kraschyschy",4,1619,manual,0
+3390,Wyzoka,1,1552,manual,1
+3391,Wzmowcz,1,1609,manual,0
+3392,Yeresyn,1,1620,manual,0
+3393,Zaberdya,1,1621,modern,0
+3394,Zaberdye,1,1621,modern,0
+3395,Zablatta,4,1622,modern,0
+3396,Zablatya,4,1622,modern,0
+3397,Zablatye ad Selyn,4,1622,modern,0
+3398,Zabok,2,1623,singleton,0
+3399,"Zabok, Gwbasewo",2,1624,modern,0
+3400,"Zabok, Gwbasowo, Myrkowcz",2,1624,modern,0
+3401,"Zabok, Gwbassewo",2,1624,modern,0
+3402,"Zabok, Komor",2,1625,singleton,0
+3403,"Zabok, Komor, Hum",2,1626,singleton,0
+3404,"Zabok, Komor, Krysancz",2,1627,singleton,0
+3405,"Zabok, Krysanch",2,1628,orthographic-exact,0
+3406,"Zabok, Krysancz",2,1628,orthographic-exact,0
+3407,"Zabok, Prylezye, Gwbasseuo",2,1624,modern,0
+3408,"Zabok, Wychazela",2,1629,singleton,0
+3409,Zadrok,2,1630,modern,0
+3410,Zadroucz,2,1630,modern,0
+3411,Zadrowcz,2,1630,modern,0
+3412,Zagolcza,1,1631,manual,1
+3413,Zagorya,1,1632,singleton,0
 3414,Zagrabia-arx cum pertinentiis,4,309,manual,0
 3415,Zagrabia-comitatus,4,309,manual,0
 3416,Zagrabiensis-distcrictus,4,309,manual,0
-3417,Zagyocza,1,1632,manual,1
-3418,Zagyowcza,1,1632,manual,1
-3419,Zakowcza,1,1634,manual,0
-3420,Zalathnak,1,1635,manual,0
-3421,Zalathnok,1,1635,manual,0
-3422,Zamarsche,4,1636,manual,1
-3423,Zamerche,4,1636,manual,1
-3424,Zamersche,4,1636,manual,1
-3425,Zamerschie,4,1636,manual,1
-3426,Zamerschye,4,1636,manual,1
-3427,Zamerssye,4,1636,manual,1
-3428,Zamerssye*,4,1636,manual,1
-3429,Zamersthye,4,1636,manual,1
-3430,Zamersye,4,1636,manual,1
-3431,Zamlacha,2,1637,modern,0
-3432,"Zamlacha, Nedelyancz",2,1638,modern,0
-3433,Zamlachya,2,1637,modern,0
-3434,Zamlachye,2,1637,modern,0
-3435,Zamladincz,1,1639,manual,0
-3436,Zamladyncz,1,1639,manual,0
-3437,Zamlatthya,2,1637,modern,0
-3438,Zamlattya,2,1637,modern,0
-3439,"Zamlyacha, Nedelyancz",2,1638,modern,0
+3417,Zagyocza,1,1631,manual,1
+3418,Zagyowcza,1,1631,manual,1
+3419,Zakowcza,1,1633,manual,0
+3420,Zalathnak,1,1634,manual,0
+3421,Zalathnok,1,1634,manual,0
+3422,Zamarsche,4,1635,manual,1
+3423,Zamerche,4,1635,manual,1
+3424,Zamersche,4,1635,manual,1
+3425,Zamerschie,4,1635,manual,1
+3426,Zamerschye,4,1635,manual,1
+3427,Zamerssye,4,1635,manual,1
+3428,Zamerssye*,4,1635,manual,1
+3429,Zamersthye,4,1635,manual,1
+3430,Zamersye,4,1635,manual,1
+3431,Zamlacha,2,1636,modern,0
+3432,"Zamlacha, Nedelyancz",2,1637,modern,0
+3433,Zamlachya,2,1636,modern,0
+3434,Zamlachye,2,1636,modern,0
+3435,Zamladincz,1,1638,manual,0
+3436,Zamladyncz,1,1638,manual,0
+3437,Zamlatthya,2,1636,modern,0
+3438,Zamlattya,2,1636,modern,0
+3439,"Zamlyacha, Nedelyancz",2,1637,modern,0
 3440,Zamobor,4,1371,modern,0
 3441,"Zamobor, villa Kladye",4,1371,modern,0
 3442,Zamobor-castrum cum pertinentiis,4,1371,modern,0
-3443,Zanowcz,3,1640,orthographic-fuzzy,1
-3444,Zanyenowcz,1,1641,singleton,0
-3445,Zavamelleky,1,1642,manual,1
-3446,Zaversya,1,1643,manual,1
-3447,Zawamelleke,1,1642,manual,1
-3448,Zawamelleke ad Monozlo,1,1644,manual,1
-3449,Zawamelleky,1,1642,manual,1
-3450,Zawercza,2,1645,singleton,0
-3451,Zawersya,1,1643,manual,1
-3452,Zawersye,2,1646,manual,1
-3453,Zayezda,2,1647,singleton,0
-3454,Zazowcz,1,1648,manual,0
-3455,"Zbel, Dolyancz",2,1649,modern,0
-3456,"Zbelevo, Gorycza",2,1649,modern,0
-3457,"Zbelewo, Dolyancz",2,1649,modern,0
-3458,Zbellyo,2,1649,modern,0
-3459,Zbelo,2,1649,modern,0
-3460,Zbelw,2,1649,modern,0
-3461,"Zbelw, Dolyancz",2,1649,modern,0
-3462,Zbelyewo,2,1649,modern,0
-3463,Zbelyo,2,1649,modern,0
-3464,"Zdenchan, Thamadocz",1,1650,manual,1
-3465,Zdenchec ad Kaproncza,1,1651,manual,1
-3466,Zdenchecz,1,1652,manual,0
-3467,Zdenchych ad Owar,1,1653,manual,1
-3468,Zdencz,1,1654,manual,0
-3469,Zebencz,1,1655,singleton,0
-3470,Zebenyancz,1,1656,manual,1
-3471,Zebincz,1,1657,manual,1
-3472,Zebyncz,1,1657,manual,1
-3473,Zedenchecz ad Kapruncza,1,1651,manual,1
-3474,Zedinyncz,1,1658,manual,1
-3475,Zehanowcz,3,1659,singleton,0
-3476,Zekowcz,1,1660,manual,0
-3477,Zela,1,1661,singleton,0
-3478,Zela,4,1662,modern,0
-3479,Zela (Bosyako),4,1662,modern,0
-3480,"Zela, Ozteruna",4,1663,orthographic-exact,0
-3481,"Zela, Ozterwna",4,1663,orthographic-exact,0
-3482,"Zela, Oztherwna",4,1663,orthographic-exact,0
-3483,Zelche,1,1664,manual,0
-3484,Zelcz,1,1664,manual,0
-3485,Zelcze,1,1664,manual,0
-3486,Zelenawar-cum pertinentiis,4,1665,manual,1
-3487,Zelina,4,1665,manual,1
-3488,Zelina Zenth Myklos,4,1665,manual,1
-3489,"Zelina, Bwkowcz",4,1665,manual,1
-3490,Zelna,1,1666,singleton,0
-3491,Zelnycza,2,1667,modern,0
-3492,Zelnycze,2,1667,modern,0
-3493,Zelnycze-castrum cum pertinentiis,2,1667,modern,0
-3494,"Zelyan, Pathak",1,1668,manual,0
-3495,Zelyancz,1,1669,manual,1
-3496,"Zelyancz, Pothok",1,1668,manual,0
-3497,"Zelyancz, Sybrynowcz",1,1670,manual,0
-3498,Zelyna,4,1665,manual,1
-3499,Zelyna Zenthmyklos,4,1665,manual,1
-3500,Zelyna in pertinentiis Bobonok (!),4,1665,manual,1
-3501,Zelyna in pertinentiis Rakonok,4,1665,manual,1
-3502,"Zelyna, Bwkowcz",4,1665,manual,1
-3503,Zelynawar,4,1665,manual,1
-3504,Zelynawar cum pertinentiis,4,1665,manual,1
-3505,Zemche,1,1671,manual,1
-3506,Zemche Zenth Myhal,1,1672,manual,1
-3507,Zempche,1,1673,manual,1
-3508,Zempcze,1,1673,manual,1
-3509,Zemzky Werh,4,1674,manual,1
-3510,Zemzkywerh,4,1674,manual,1
-3511,Zenaharazthya,1,1675,manual,0
-3512,Zenclara,1,1676,manual,1
-3513,Zendywan,1,1677,manual,1
+3443,Zanowcz,3,1639,orthographic-fuzzy,1
+3444,Zanyenowcz,1,1640,singleton,0
+3445,Zavamelleky,1,1641,manual,1
+3446,Zaversya,1,1642,manual,1
+3447,Zawamelleke,1,1641,manual,1
+3448,Zawamelleke ad Monozlo,1,1643,manual,1
+3449,Zawamelleky,1,1641,manual,1
+3450,Zawercza,2,1644,singleton,0
+3451,Zawersya,1,1642,manual,1
+3452,Zawersye,2,1645,manual,1
+3453,Zayezda,2,1646,singleton,0
+3454,Zazowcz,1,1647,manual,0
+3455,"Zbel, Dolyancz",2,1648,modern,0
+3456,"Zbelevo, Gorycza",2,1648,modern,0
+3457,"Zbelewo, Dolyancz",2,1648,modern,0
+3458,Zbellyo,2,1648,modern,0
+3459,Zbelo,2,1648,modern,0
+3460,Zbelw,2,1648,modern,0
+3461,"Zbelw, Dolyancz",2,1648,modern,0
+3462,Zbelyewo,2,1648,modern,0
+3463,Zbelyo,2,1648,modern,0
+3464,"Zdenchan, Thamadocz",1,1649,manual,1
+3465,Zdenchec ad Kaproncza,1,1650,manual,1
+3466,Zdenchecz,1,1651,manual,0
+3467,Zdenchych ad Owar,1,1652,manual,1
+3468,Zdencz,1,1653,manual,0
+3469,Zebencz,1,1654,singleton,0
+3470,Zebenyancz,1,1655,manual,1
+3471,Zebincz,1,1656,manual,1
+3472,Zebyncz,1,1656,manual,1
+3473,Zedenchecz ad Kapruncza,1,1650,manual,1
+3474,Zedinyncz,1,1657,manual,1
+3475,Zehanowcz,3,1658,singleton,0
+3476,Zekowcz,1,1659,manual,0
+3477,Zela,1,1660,singleton,0
+3478,Zela,4,1661,modern,0
+3479,Zela (Bosyako),4,1661,modern,0
+3480,"Zela, Ozteruna",4,1662,orthographic-exact,0
+3481,"Zela, Ozterwna",4,1662,orthographic-exact,0
+3482,"Zela, Oztherwna",4,1662,orthographic-exact,0
+3483,Zelche,1,1663,manual,0
+3484,Zelcz,1,1663,manual,0
+3485,Zelcze,1,1663,manual,0
+3486,Zelenawar-cum pertinentiis,4,1664,manual,1
+3487,Zelina,4,1664,manual,1
+3488,Zelina Zenth Myklos,4,1664,manual,1
+3489,"Zelina, Bwkowcz",4,1664,manual,1
+3490,Zelna,1,1665,singleton,0
+3491,Zelnycza,2,1666,modern,0
+3492,Zelnycze,2,1666,modern,0
+3493,Zelnycze-castrum cum pertinentiis,2,1666,modern,0
+3494,"Zelyan, Pathak",1,1667,manual,0
+3495,Zelyancz,1,1668,manual,1
+3496,"Zelyancz, Pothok",1,1667,manual,0
+3497,"Zelyancz, Sybrynowcz",1,1669,manual,0
+3498,Zelyna,4,1664,manual,1
+3499,Zelyna Zenthmyklos,4,1664,manual,1
+3500,Zelyna in pertinentiis Bobonok (!),4,1664,manual,1
+3501,Zelyna in pertinentiis Rakonok,4,1664,manual,1
+3502,"Zelyna, Bwkowcz",4,1664,manual,1
+3503,Zelynawar,4,1664,manual,1
+3504,Zelynawar cum pertinentiis,4,1664,manual,1
+3505,Zemche,1,1670,manual,1
+3506,Zemche Zenth Myhal,1,1671,manual,1
+3507,Zempche,1,1672,manual,1
+3508,Zempcze,1,1672,manual,1
+3509,Zemzky Werh,4,1673,manual,1
+3510,Zemzkywerh,4,1673,manual,1
+3511,Zenaharazthya,1,1674,manual,0
+3512,Zenclara,1,1675,manual,1
+3513,Zendywan,1,1676,manual,1
 3514,Zenkovcz,4,1411,manual,0
 3515,Zenkowcz,4,1411,manual,0
-3516,Zent Dyenes,1,1678,orthographic-fuzzy,1
-3517,Zent Ilona,4,1679,orthographic-fuzzy,1
-3518,Zent Jacab,2,1680,orthographic-exact,0
-3519,Zent Lewryncz,1,1681,modern,0
-3520,Zent Marthon,4,1682,modern,0
-3521,Zent Nedelye,4,1683,orthographic-fuzzy,1
-3522,Zentdienes,1,1678,orthographic-fuzzy,1
-3523,Zenth Adrian,1,1684,manual,1
-3524,Zenth Andras,1,1685,manual,1
-3525,Zenth Anna,1,1686,manual,1
+3516,Zent Dyenes,1,1677,orthographic-fuzzy,1
+3517,Zent Ilona,4,1678,orthographic-fuzzy,1
+3518,Zent Jacab,2,1679,orthographic-exact,0
+3519,Zent Lewryncz,1,1680,modern,0
+3520,Zent Marthon,4,1681,modern,0
+3521,Zent Nedelye,4,1682,orthographic-fuzzy,1
+3522,Zentdienes,1,1677,orthographic-fuzzy,1
+3523,Zenth Adrian,1,1683,manual,1
+3524,Zenth Andras,1,1684,manual,1
+3525,Zenth Anna,1,1685,manual,1
 3526,Zenth Barthalam-insula,2,259,modern,0
-3527,Zenth Benedek,1,1687,manual,0
-3528,Zenth Benedyk,1,1687,manual,0
+3527,Zenth Benedek,1,1686,manual,0
+3528,Zenth Benedyk,1,1686,manual,0
 3529,"Zenth Bertalam, Othok",2,259,modern,0
 3530,Zenth Berthalam,2,259,modern,0
-3531,Zenth Berthalam,3,1688,manual,1
-3532,Zenth Berthalam cum pertinentiis,3,1688,manual,1
+3531,Zenth Berthalam,3,1687,manual,1
+3532,Zenth Berthalam cum pertinentiis,3,1687,manual,1
 3533,Zenth Berthalam-insula,2,259,modern,0
 3534,Zenth Berthalan,2,259,modern,0
 3535,Zenth Clara,1,1374,manual,0
 3536,Zenth Cosma,1,1323,modern,0
 3537,Zenth Cozma (Rasinja),1,1323,modern,0
-3538,Zenth Demetrius,1,1689,manual,1
-3539,Zenth Dienes,1,1678,orthographic-fuzzy,1
-3540,Zenth Dyanes,1,1678,orthographic-fuzzy,1
-3541,Zenth Dyenes,1,1678,orthographic-fuzzy,1
-3542,Zenth Dyenes-villicatus ad Rokonok,1,1678,orthographic-fuzzy,1
-3543,Zenth Ersebeth,1,1690,manual,1
-3544,Zenth Georgh,1,1691,modern,0
-3545,Zenth Gerg,1,1691,modern,0
-3546,Zenth Gerg ad Belam,1,1692,manual,1
-3547,Zenth Gerg ad Kapruncza,1,1693,manual,1
-3548,Zenth Gerg ad Lwdbreg,1,1691,modern,0
-3549,Zenth Gergh,1,1691,modern,0
-3550,Zenth Gergh ad Berzewcze,1,1694,manual,1
-3551,Zenth Gergwara,1,1695,manual,1
-3552,Zenth Ilona,4,1679,orthographic-fuzzy,1
-3553,Zenth Ilona prope Zamobor,4,1679,orthographic-fuzzy,1
-3554,Zenth Iwan,1,1696,manual,1
+3538,Zenth Demetrius,1,1688,manual,1
+3539,Zenth Dienes,1,1677,orthographic-fuzzy,1
+3540,Zenth Dyanes,1,1677,orthographic-fuzzy,1
+3541,Zenth Dyenes,1,1677,orthographic-fuzzy,1
+3542,Zenth Dyenes-villicatus ad Rokonok,1,1677,orthographic-fuzzy,1
+3543,Zenth Ersebeth,1,1689,manual,1
+3544,Zenth Georgh,1,1690,modern,0
+3545,Zenth Gerg,1,1690,modern,0
+3546,Zenth Gerg ad Belam,1,1691,manual,1
+3547,Zenth Gerg ad Kapruncza,1,1692,manual,1
+3548,Zenth Gerg ad Lwdbreg,1,1690,modern,0
+3549,Zenth Gergh,1,1690,modern,0
+3550,Zenth Gergh ad Berzewcze,1,1693,manual,1
+3551,Zenth Gergwara,1,1694,manual,1
+3552,Zenth Ilona,4,1678,orthographic-fuzzy,1
+3553,Zenth Ilona prope Zamobor,4,1678,orthographic-fuzzy,1
+3554,Zenth Iwan,1,1695,manual,1
 3555,Zenth Iwan,4,961,modern,0
-3556,"Zenth Iwan, Krysnychya",1,1696,manual,1
-3557,Zenth Jacab,1,1697,manual,1
-3558,Zenth Jacab,2,1680,orthographic-exact,0
-3559,Zenth Jacab cum pertinentiis,1,1697,manual,1
-3560,Zenth Jakab,1,1697,manual,1
-3561,Zenth Kelemen,2,1698,singleton,0
-3562,Zenth Kerest,1,1699,manual,0
-3563,Zenth Kerest / Sanctus Crux,1,1700,manual,1
-3564,Zenth Kerezth,1,1699,manual,0
-3565,Zenth Kerezth,2,1701,singleton,0
-3566,Zenth Kerezth-de Achyna,1,1702,manual,1
-3567,Zenth Kyral,1,1703,manual,0
-3568,Zenth Laczlo,1,1704,manual,1
-3569,Zenth Leryncz,1,1681,modern,0
-3570,Zenth Leryncz-pertinencie ad,1,1705,manual,1
-3571,Zenth Lewlek,1,1706,manual,1
-3572,Zenth Lewryncz,1,1681,modern,0
-3573,Zenth Marco,1,1707,singleton,0
-3574,Zenth Marghyth,1,1708,manual,0
-3575,Zenth Marthon,1,1709,modern,0
-3576,Zenth Marthon,2,1710,manual,0
-3577,Zenth Marthon,4,1682,modern,0
-3578,Zenth Michael,1,1711,manual,0
-3579,Zenth Mihal sub Komor,2,1712,manual,0
-3580,Zenth Miklos,4,1713,modern,0
+3556,"Zenth Iwan, Krysnychya",1,1695,manual,1
+3557,Zenth Jacab,1,1696,manual,1
+3558,Zenth Jacab,2,1679,orthographic-exact,0
+3559,Zenth Jacab cum pertinentiis,1,1696,manual,1
+3560,Zenth Jakab,1,1696,manual,1
+3561,Zenth Kelemen,2,1697,singleton,0
+3562,Zenth Kerest,1,1698,manual,0
+3563,Zenth Kerest / Sanctus Crux,1,1699,manual,1
+3564,Zenth Kerezth,1,1698,manual,0
+3565,Zenth Kerezth,2,1700,singleton,0
+3566,Zenth Kerezth-de Achyna,1,1701,manual,1
+3567,Zenth Kyral,1,1702,manual,0
+3568,Zenth Laczlo,1,1703,manual,1
+3569,Zenth Leryncz,1,1680,modern,0
+3570,Zenth Leryncz-pertinencie ad,1,1704,manual,1
+3571,Zenth Lewlek,1,1705,manual,1
+3572,Zenth Lewryncz,1,1680,modern,0
+3573,Zenth Marco,1,1706,singleton,0
+3574,Zenth Marghyth,1,1707,manual,0
+3575,Zenth Marthon,1,1708,modern,0
+3576,Zenth Marthon,2,1709,manual,0
+3577,Zenth Marthon,4,1681,modern,0
+3578,Zenth Michael,1,1710,manual,0
+3579,Zenth Mihal sub Komor,2,1711,manual,0
+3580,Zenth Miklos,4,1712,modern,0
 3581,Zenth Mohal,1,1001,manual,0
 3582,Zenth Myhal,1,1001,manual,0
-3583,Zenth Myhal,2,1714,singleton,0
-3584,Zenth Myklos,1,1715,manual,0
-3585,Zenth Myklos,4,1713,modern,0
-3586,Zenth Nedele,2,1716,orthographic-fuzzy,1
-3587,Zenth Nedelew,2,1716,orthographic-fuzzy,1
-3588,Zenth Nedelye,4,1683,orthographic-fuzzy,1
-3589,Zenth Pal,1,1717,manual,0
-3590,Zenth Pal ad Zenth Gergwara,1,1718,manual,1
-3591,Zenth Wyd,2,1719,manual,1
-3592,"Zenth Wyd, Chresnevo",2,1720,singleton,0
-3593,"Zenth Wyd, Zayezda",2,1721,manual,1
-3594,ZenthMarthon,4,1682,modern,0
-3595,Zenthandras,1,1685,manual,1
-3596,Zenthbenedek,1,1687,manual,0
+3583,Zenth Myhal,2,1713,singleton,0
+3584,Zenth Myklos,1,1714,manual,0
+3585,Zenth Myklos,4,1712,modern,0
+3586,Zenth Nedele,2,1715,orthographic-fuzzy,1
+3587,Zenth Nedelew,2,1715,orthographic-fuzzy,1
+3588,Zenth Nedelye,4,1682,orthographic-fuzzy,1
+3589,Zenth Pal,1,1716,manual,0
+3590,Zenth Pal ad Zenth Gergwara,1,1717,manual,1
+3591,Zenth Wyd,2,1718,manual,1
+3592,"Zenth Wyd, Chresnevo",2,1719,singleton,0
+3593,"Zenth Wyd, Zayezda",2,1720,manual,1
+3594,ZenthMarthon,4,1681,modern,0
+3595,Zenthandras,1,1684,manual,1
+3596,Zenthbenedek,1,1686,manual,0
 3597,Zenthbertalam,2,259,modern,0
-3598,"Zenthbertalam, Othok",2,1722,orthographic-exact,0
-3599,"Zenthbertalam, Otok",2,1722,orthographic-exact,0
-3600,Zenthdienes,1,1678,orthographic-fuzzy,1
-3601,"Zenthdomankws, Konska",1,1678,orthographic-fuzzy,1
-3602,Zenthdyanes,1,1678,orthographic-fuzzy,1
-3603,Zenthdyenes,1,1678,orthographic-fuzzy,1
-3604,Zenthendre,3,1723,manual,1
-3605,Zenthendree,3,1723,manual,1
-3606,Zenthendrey,3,1723,manual,1
-3607,Zenthersebeth,1,1690,manual,1
-3608,Zenthgeorg,1,1691,modern,0
-3609,Zenthgerg,1,1691,modern,0
-3610,Zenthgergh,1,1691,modern,0
-3611,Zenthgyergh,1,1691,modern,0
-3612,Zenthgyergh in Berzewcza,1,1694,manual,1
-3613,Zenthilona,4,1679,orthographic-fuzzy,1
-3614,Zenthiwan,1,1696,manual,1
-3615,"Zenthjacab,Obres",2,1724,singleton,0
-3616,Zenthkerezth,1,1699,manual,0
-3617,Zenthkyral,1,1703,manual,0
-3618,Zenthlaczlo Dyanfeldi,1,1725,manual,1
-3619,Zenthlazlo,1,1726,manual,1
-3620,Zenthlelek,1,1727,manual,0
-3621,Zenthlelek-cum pertinentiis,1,1728,manual,1
-3622,Zenthlerincz,1,1681,modern,0
-3623,Zenthlerycz,1,1681,modern,0
-3624,Zenthleryncz,1,1681,modern,0
-3625,Zenthleryncz-banatus,1,1681,modern,0
-3626,Zenthlewrnycz,1,1681,modern,0
-3627,Zenthlewryncz,1,1681,modern,0
-3628,Zenthlewryncz cum pertinentiis,1,1681,modern,0
-3629,Zenthmargith,1,1708,manual,0
-3630,Zenthmarthon,1,1709,modern,0
-3631,Zenthmarthon,4,1682,modern,0
-3632,Zenthmarton,1,1709,modern,0
-3633,Zenthmarton,4,1682,modern,0
+3598,"Zenthbertalam, Othok",2,1721,orthographic-exact,0
+3599,"Zenthbertalam, Otok",2,1721,orthographic-exact,0
+3600,Zenthdienes,1,1677,orthographic-fuzzy,1
+3601,"Zenthdomankws, Konska",1,1677,orthographic-fuzzy,1
+3602,Zenthdyanes,1,1677,orthographic-fuzzy,1
+3603,Zenthdyenes,1,1677,orthographic-fuzzy,1
+3604,Zenthendre,3,1722,manual,1
+3605,Zenthendree,3,1722,manual,1
+3606,Zenthendrey,3,1722,manual,1
+3607,Zenthersebeth,1,1689,manual,1
+3608,Zenthgeorg,1,1690,modern,0
+3609,Zenthgerg,1,1690,modern,0
+3610,Zenthgergh,1,1690,modern,0
+3611,Zenthgyergh,1,1690,modern,0
+3612,Zenthgyergh in Berzewcza,1,1693,manual,1
+3613,Zenthilona,4,1678,orthographic-fuzzy,1
+3614,Zenthiwan,1,1695,manual,1
+3615,"Zenthjacab,Obres",2,1723,singleton,0
+3616,Zenthkerezth,1,1698,manual,0
+3617,Zenthkyral,1,1702,manual,0
+3618,Zenthlaczlo Dyanfeldi,1,1724,manual,1
+3619,Zenthlazlo,1,1725,manual,1
+3620,Zenthlelek,1,1726,manual,0
+3621,Zenthlelek-cum pertinentiis,1,1727,manual,1
+3622,Zenthlerincz,1,1680,modern,0
+3623,Zenthlerycz,1,1680,modern,0
+3624,Zenthleryncz,1,1680,modern,0
+3625,Zenthleryncz-banatus,1,1680,modern,0
+3626,Zenthlewrnycz,1,1680,modern,0
+3627,Zenthlewryncz,1,1680,modern,0
+3628,Zenthlewryncz cum pertinentiis,1,1680,modern,0
+3629,Zenthmargith,1,1707,manual,0
+3630,Zenthmarthon,1,1708,modern,0
+3631,Zenthmarthon,4,1681,modern,0
+3632,Zenthmarton,1,1708,modern,0
+3633,Zenthmarton,4,1681,modern,0
 3634,Zenthmihal,1,1001,manual,0
 3635,Zenthmihal-villicatus ad Zenthlazlo,1,1001,manual,0
 3636,Zenthmyhal,1,1001,manual,0
-3637,Zenthmyklos,1,1715,manual,0
-3638,Zenthmyklos,4,1713,modern,0
-3639,Zenthnedelye,4,1683,orthographic-fuzzy,1
-3640,Zenthpal,1,1717,manual,0
-3641,"Zenthpal-provincia superior, inferior",1,1729,manual,1
-3642,Zenthpeter ad Owar,1,1730,manual,1
-3643,Zenthpether ad Kaproncza,1,1731,manual,0
-3644,Zenthwyd,2,1719,manual,1
-3645,Zenthywan,1,1696,manual,1
-3646,Zentilona,4,1679,orthographic-fuzzy,1
-3647,Zentmarthon (Bosyako),4,1682,modern,0
-3648,Zentmarton,4,1682,modern,0
-3649,Zentt Dyenes,1,1678,orthographic-fuzzy,1
+3637,Zenthmyklos,1,1714,manual,0
+3638,Zenthmyklos,4,1712,modern,0
+3639,Zenthnedelye,4,1682,orthographic-fuzzy,1
+3640,Zenthpal,1,1716,manual,0
+3641,"Zenthpal-provincia superior, inferior",1,1728,manual,1
+3642,Zenthpeter ad Owar,1,1729,manual,1
+3643,Zenthpether ad Kaproncza,1,1730,manual,0
+3644,Zenthwyd,2,1718,manual,1
+3645,Zenthywan,1,1695,manual,1
+3646,Zentilona,4,1678,orthographic-fuzzy,1
+3647,Zentmarthon (Bosyako),4,1681,modern,0
+3648,Zentmarton,4,1681,modern,0
+3649,Zentt Dyenes,1,1677,orthographic-fuzzy,1
 3650,Zentt Ivan,4,961,modern,0
-3651,Zentt Leryncz,1,1681,modern,0
-3652,Zentt Marton,4,1682,modern,0
-3653,Zentt Nedellye,4,1683,orthographic-fuzzy,1
-3654,Zenzki Werh,4,1674,manual,1
-3655,Zerchewcz,1,1732,manual,1
-3656,Zerchewecz,1,1732,manual,1
+3651,Zentt Leryncz,1,1680,modern,0
+3652,Zentt Marton,4,1681,modern,0
+3653,Zentt Nedellye,4,1682,orthographic-fuzzy,1
+3654,Zenzki Werh,4,1673,manual,1
+3655,Zerchewcz,1,1731,manual,1
+3656,Zerchewecz,1,1731,manual,1
 3657,Zerdahel,1,1161,manual,0
-3658,"Zerdahel, Koren",1,1733,manual,1
-3659,"Zerdahel, Meghwreche",1,1734,manual,1
-3660,"Zerdahel, Megywrechye",1,1734,manual,1
-3661,Zeredyscha ad Zenth Gergwara,1,1735,manual,1
-3662,Zerkowcz,1,1660,manual,0
-3663,Zersyncz,1,1736,singleton,0
-3664,Zethnychky Werh,4,1674,manual,1
-3665,Zethnychkywerh,4,1674,manual,1
-3666,Zethws,4,1737,orthographic-exact,0
-3667,Zetus,4,1737,orthographic-exact,0
-3668,Zetws,4,1737,orthographic-exact,0
-3669,Zeyana Harazthya,1,1675,manual,0
-3670,Zeyanahrazthya,1,1675,manual,0
-3671,Zeyanohrazthye,1,1738,manual,1
+3658,"Zerdahel, Koren",1,1732,manual,1
+3659,"Zerdahel, Meghwreche",1,1733,manual,1
+3660,"Zerdahel, Megywrechye",1,1733,manual,1
+3661,Zeredyscha ad Zenth Gergwara,1,1734,manual,1
+3662,Zerkowcz,1,1659,manual,0
+3663,Zersyncz,1,1735,singleton,0
+3664,Zethnychky Werh,4,1673,manual,1
+3665,Zethnychkywerh,4,1673,manual,1
+3666,Zethws,4,1736,orthographic-exact,0
+3667,Zetus,4,1736,orthographic-exact,0
+3668,Zetws,4,1736,orthographic-exact,0
+3669,Zeyana Harazthya,1,1674,manual,0
+3670,Zeyanahrazthya,1,1674,manual,0
+3671,Zeyanohrazthye,1,1737,manual,1
 3672,Ziszek-castrum-oppidum-provincia superior et inferior,4,1452,modern,0
 3673,Zizek,4,1452,modern,0
 3674,Zizek-castrum,4,1452,modern,0
 3675,Zizia,4,1452,modern,0
-3676,Zkakala,3,1739,singleton,0
-3677,Zkakalo,3,1740,singleton,0
-3678,Zkakolo,3,1741,singleton,0
-3679,Zlamnoucz,4,1742,modern,0
-3680,Zlamnowch,4,1742,modern,0
-3681,Zlamnowcz,4,1742,modern,0
-3682,Zlanowcz,4,1742,modern,0
-3683,Zlanowcz (Medwe),4,1742,modern,0
-3684,Zlanya,1,1743,manual,1
-3685,Zlatar,2,1744,modern,0
-3686,Zlatarya,2,1744,modern,0
-3687,Zlathar,2,1744,modern,0
-3688,Zlatharya,2,1744,modern,0
-3689,Zlathina,1,1745,manual,0
-3690,Zlathnok,1,1635,manual,0
-3691,Zlathyna,1,1745,manual,0
-3692,Zlathyna,2,1746,manual,1
-3693,Zlatina,2,1746,manual,1
-3694,Zlattar,2,1744,modern,0
-3695,Zlatyna,1,1745,manual,0
-3696,Zlauetych,4,1747,modern,0
-3697,"Zlavetychi, Raztok",4,1748,orthographic-exact,0
-3698,Zlawchyna,1,1749,manual,0
-3699,Zlawethych,4,1747,modern,0
-3700,Zlawethychy,4,1747,modern,0
-3701,Zlawetichi,4,1747,modern,0
-3702,Zlaweticzy,4,1747,modern,0
-3703,Zlawetych,4,1747,modern,0
-3704,"Zlawetychi, Raztok",4,1748,orthographic-exact,0
-3705,Zlawschina,1,1749,manual,0
-3706,Zlawschyna,1,1749,manual,0
-3707,Zlawstina,1,1750,singleton,0
-3708,Zlayna,1,1751,manual,0
-3709,Zlayno,1,1752,manual,1
-3710,Zlobochya,1,1753,manual,0
-3711,Zlobochyna,1,1753,manual,0
-3712,"Zlobochyna, Zwybowcz",1,1754,manual,0
-3713,Zloboda,1,1755,manual,1
-3714,Zloboda ad Monozlo,1,1755,manual,1
-3715,Zlobothycza,1,1756,manual,0
-3716,Zmolyak,4,1757,singleton,0
+3676,Zkakala,3,1738,singleton,0
+3677,Zkakalo,3,1739,singleton,0
+3678,Zkakolo,3,1740,singleton,0
+3679,Zlamnoucz,4,1741,modern,0
+3680,Zlamnowch,4,1741,modern,0
+3681,Zlamnowcz,4,1741,modern,0
+3682,Zlanowcz,4,1741,modern,0
+3683,Zlanowcz (Medwe),4,1741,modern,0
+3684,Zlanya,1,1742,manual,1
+3685,Zlatar,2,1743,modern,0
+3686,Zlatarya,2,1743,modern,0
+3687,Zlathar,2,1743,modern,0
+3688,Zlatharya,2,1743,modern,0
+3689,Zlathina,1,1744,manual,0
+3690,Zlathnok,1,1634,manual,0
+3691,Zlathyna,1,1744,manual,0
+3692,Zlathyna,2,1745,manual,1
+3693,Zlatina,2,1745,manual,1
+3694,Zlattar,2,1743,modern,0
+3695,Zlatyna,1,1744,manual,0
+3696,Zlauetych,4,1746,modern,0
+3697,"Zlavetychi, Raztok",4,1747,orthographic-exact,0
+3698,Zlawchyna,1,1748,manual,0
+3699,Zlawethych,4,1746,modern,0
+3700,Zlawethychy,4,1746,modern,0
+3701,Zlawetichi,4,1746,modern,0
+3702,Zlaweticzy,4,1746,modern,0
+3703,Zlawetych,4,1746,modern,0
+3704,"Zlawetychi, Raztok",4,1747,orthographic-exact,0
+3705,Zlawschina,1,1748,manual,0
+3706,Zlawschyna,1,1748,manual,0
+3707,Zlawstina,1,1749,singleton,0
+3708,Zlayna,1,1750,manual,0
+3709,Zlayno,1,1751,manual,1
+3710,Zlobochya,1,1752,manual,0
+3711,Zlobochyna,1,1752,manual,0
+3712,"Zlobochyna, Zwybowcz",1,1753,manual,0
+3713,Zloboda,1,1754,manual,1
+3714,Zloboda ad Monozlo,1,1754,manual,1
+3715,Zlobothycza,1,1755,manual,0
+3716,Zmolyak,4,1756,singleton,0
 3717,Zobkethyncz,1,94,manual,1
-3718,Zobochyna,1,1753,manual,0
-3719,Zobothycza,1,1756,manual,0
-3720,Zolkethyncz,1,1758,singleton,0
-3721,Zolnya,1,1759,manual,1
-3722,Zombathel,1,1760,manual,0
-3723,Zomnycza,4,1761,singleton,0
-3724,Zomszedvara,4,1762,modern,0
-3725,Zomzed cum pertinentiis,4,1762,modern,0
+3718,Zobochyna,1,1752,manual,0
+3719,Zobothycza,1,1755,manual,0
+3720,Zolkethyncz,1,1757,singleton,0
+3721,Zolnya,1,1758,manual,1
+3722,Zombathel,1,1759,manual,0
+3723,Zomnycza,4,1760,singleton,0
+3724,Zomszedvara,4,1761,modern,0
+3725,Zomzed cum pertinentiis,4,1761,modern,0
 3726,Zomzed-castrum / Berdowcz,4,99,manual,0
 3727,Zomzed-castrum / Nowak,4,1077,manual,0
-3728,Zomzed-castrum / Podgorya,4,1763,manual,1
-3729,Zomzed-castrum / Pwscha,4,1764,manual,0
-3730,Zomzed-castrum / Zaprezechna,4,1765,manual,0
-3731,Zomzed-castrum / Ztenyowcz,4,1766,manual,0
+3728,Zomzed-castrum / Podgorya,4,1762,manual,1
+3729,Zomzed-castrum / Pwscha,4,1763,manual,0
+3730,Zomzed-castrum / Zaprezechna,4,1764,manual,0
+3731,Zomzed-castrum / Ztenyowcz,4,1765,manual,0
 3732,Zomzed-castrum / Ztopnyk,4,1431,manual,0
-3733,Zomzedwar,4,1762,modern,0
-3734,Zomzedwar-castrum cum pertinentiis,4,1762,modern,0
-3735,Zomzedwara,4,1762,modern,0
-3736,Zomzedwara cum pertinentiis,4,1762,modern,0
+3733,Zomzedwar,4,1761,modern,0
+3734,Zomzedwar-castrum cum pertinentiis,4,1761,modern,0
+3735,Zomzedwara,4,1761,modern,0
+3736,Zomzedwara cum pertinentiis,4,1761,modern,0
 3737,Zomzedwara-castrum / Berdowcz,4,99,manual,0
-3738,"Zomzedwara-castrum / Judiacti Podgorya, villa Nowak, Jablanowcz",4,1767,manual,0
-3739,"Zomzedwara-castrum / Judicati Podgorya, villa Nowak, Jablanowcz",4,1767,manual,0
-3740,"Zomzedwara-castrum / Judicati Ztenyowcz, Ztopnyk, Nowak, Zapreszeche, Berdowcz, Pwscha",4,1768,manual,1
-3741,"Zomzedwara-castrum / Judicati podgorya, villa Nowak, Jablanowcz",4,1767,manual,0
-3742,"Zomzedwara-castrum / Judicatibus Stenyowcz, Stopnyk, Nowaky, Zaprezeche, Berdowcz, Pwscha",4,1768,manual,1
+3738,"Zomzedwara-castrum / Judiacti Podgorya, villa Nowak, Jablanowcz",4,1766,manual,0
+3739,"Zomzedwara-castrum / Judicati Podgorya, villa Nowak, Jablanowcz",4,1766,manual,0
+3740,"Zomzedwara-castrum / Judicati Ztenyowcz, Ztopnyk, Nowak, Zapreszeche, Berdowcz, Pwscha",4,1767,manual,1
+3741,"Zomzedwara-castrum / Judicati podgorya, villa Nowak, Jablanowcz",4,1766,manual,0
+3742,"Zomzedwara-castrum / Judicatibus Stenyowcz, Stopnyk, Nowaky, Zaprezeche, Berdowcz, Pwscha",4,1767,manual,1
 3743,Zomzedwara-castrum / Nowak,4,1077,manual,0
-3744,Zomzedwara-castrum / Podgoria,4,1763,manual,1
-3745,Zomzedwara-castrum / Podgorya,4,1763,manual,1
-3746,Zomzedwara-castrum / Podgorye,4,1763,manual,1
-3747,Zomzedwara-castrum / Puschya,4,1764,manual,0
-3748,Zomzedwara-castrum / Pwscha,4,1764,manual,0
-3749,Zomzedwara-castrum / Pwsche,4,1764,manual,0
-3750,Zomzedwara-castrum / Zapreszechye,4,1765,manual,0
-3751,Zomzedwara-castrum / Zaprezechye,4,1765,manual,0
-3752,Zomzedwara-castrum / Ztenyowcz,4,1766,manual,0
+3744,Zomzedwara-castrum / Podgoria,4,1762,manual,1
+3745,Zomzedwara-castrum / Podgorya,4,1762,manual,1
+3746,Zomzedwara-castrum / Podgorye,4,1762,manual,1
+3747,Zomzedwara-castrum / Puschya,4,1763,manual,0
+3748,Zomzedwara-castrum / Pwscha,4,1763,manual,0
+3749,Zomzedwara-castrum / Pwsche,4,1763,manual,0
+3750,Zomzedwara-castrum / Zapreszechye,4,1764,manual,0
+3751,Zomzedwara-castrum / Zaprezechye,4,1764,manual,0
+3752,Zomzedwara-castrum / Ztenyowcz,4,1765,manual,0
 3753,Zomzedwara-castrum / Ztopnyk,4,1431,manual,0
-3754,Zomzedwara-castrum cum pertinentiis,4,1762,modern,0
-3755,Zomzedwara-castrum cum pertinentiis (excepta Jakowlya),4,1762,modern,0
-3756,Zomzedwara-cum pertinentiis,4,1762,modern,0
-3757,Zomzewdwar cum pertinentiis,4,1762,modern,0
-3758,Zopya,1,1769,manual,0
-3759,Zotezka,2,1770,manual,0
-3760,"Zotezka, Orehowycza, Graberye, Bwssyn",2,1771,modern,0
-3761,"Zotheska, Orehowycza, Graberye, Bwssyn",2,1771,modern,0
-3762,Zothezka,2,1770,manual,0
-3763,"Zothezka, Orehowycza Graberye, Bwssyn",2,1771,modern,0
-3764,Zotyzka,2,1772,singleton,0
-3765,Zrachyncz,2,1773,singleton,0
-3766,Zredistha,1,1774,manual,1
-3767,Zrednawecz,1,1775,manual,1
-3768,Zrednyawcz,1,1775,manual,1
-3769,Zrednyawez,1,1776,manual,1
-3770,Zredysche,1,1774,manual,1
-3771,Zredyscze,1,1777,manual,0
-3772,Zrepychak- insula,2,1778,manual,1
-3773,Zrepychar,2,1778,manual,1
-3774,Zrepychar Insula,2,1778,manual,1
-3775,Zrepychar-insula,2,1778,manual,1
-3776,Zrewsowcz,1,1779,singleton,0
-3777,Zromercz,1,1780,singleton,0
-3778,Zrwkowcz,1,1781,singleton,0
-3779,Ztanowcz,3,1640,orthographic-fuzzy,1
-3780,Ztare Chyche,4,1782,modern,0
-3781,Ztare Chychye,4,1782,modern,0
+3754,Zomzedwara-castrum cum pertinentiis,4,1761,modern,0
+3755,Zomzedwara-castrum cum pertinentiis (excepta Jakowlya),4,1761,modern,0
+3756,Zomzedwara-cum pertinentiis,4,1761,modern,0
+3757,Zomzewdwar cum pertinentiis,4,1761,modern,0
+3758,Zopya,1,1768,manual,0
+3759,Zotezka,2,1769,manual,0
+3760,"Zotezka, Orehowycza, Graberye, Bwssyn",2,1770,modern,0
+3761,"Zotheska, Orehowycza, Graberye, Bwssyn",2,1770,modern,0
+3762,Zothezka,2,1769,manual,0
+3763,"Zothezka, Orehowycza Graberye, Bwssyn",2,1770,modern,0
+3764,Zotyzka,2,1771,singleton,0
+3765,Zrachyncz,2,1772,singleton,0
+3766,Zredistha,1,1773,manual,1
+3767,Zrednawecz,1,1774,manual,1
+3768,Zrednyawcz,1,1774,manual,1
+3769,Zrednyawez,1,1775,manual,1
+3770,Zredysche,1,1773,manual,1
+3771,Zredyscze,1,1776,manual,0
+3772,Zrepychak- insula,2,1777,manual,1
+3773,Zrepychar,2,1777,manual,1
+3774,Zrepychar Insula,2,1777,manual,1
+3775,Zrepychar-insula,2,1777,manual,1
+3776,Zrewsowcz,1,1778,singleton,0
+3777,Zromercz,1,1779,singleton,0
+3778,Zrwkowcz,1,1780,singleton,0
+3779,Ztanowcz,3,1639,orthographic-fuzzy,1
+3780,Ztare Chyche,4,1781,modern,0
+3781,Ztare Chychye,4,1781,modern,0
 3782,Zthalnykowcz,1,1430,manual,1
-3783,Zthankowo ad Okych,4,1783,manual,0
-3784,Zthankowo-judicatus ad Okych,4,1784,manual,1
-3785,Zthara,1,1785,singleton,0
-3786,Zthare Chiche,4,1782,modern,0
-3787,Zthare Chychae,4,1782,modern,0
-3788,Zthare Chyche,4,1782,modern,0
-3789,Zthare Chychye,4,1782,modern,0
-3790,Ztharsa,1,1786,singleton,0
-3791,Zthassinowczy,2,1787,singleton,0
-3792,Zthawethichy,4,1788,manual,0
-3793,Zthermecz,4,1789,manual,1
-3794,Zthobycza,4,1790,modern,0
-3795,Ztholnycoucz,1,1791,manual,1
-3796,Zthopnychky Werh,4,1674,manual,1
-3797,Zthrebynzky Werh,4,1792,manual,1
-3798,Zthrelcha Szela,4,1662,modern,0
-3799,Zthrelchazela,4,1662,modern,0
-3800,Zthrelechko,4,1793,orthographic-exact,0
-3801,Zthrunga,1,1794,manual,1
-3802,Zthrwgha,1,1794,manual,1
-3803,Zthwbycza,4,1790,modern,0
+3783,Zthankowo ad Okych,4,1782,manual,0
+3784,Zthankowo-judicatus ad Okych,4,1783,manual,1
+3785,Zthara,1,1784,singleton,0
+3786,Zthare Chiche,4,1781,modern,0
+3787,Zthare Chychae,4,1781,modern,0
+3788,Zthare Chyche,4,1781,modern,0
+3789,Zthare Chychye,4,1781,modern,0
+3790,Ztharsa,1,1785,singleton,0
+3791,Zthassinowczy,2,1786,singleton,0
+3792,Zthawethichy,4,1787,manual,0
+3793,Zthermecz,4,1788,manual,1
+3794,Zthobycza,4,1789,modern,0
+3795,Ztholnycoucz,1,1790,manual,1
+3796,Zthopnychky Werh,4,1673,manual,1
+3797,Zthrebynzky Werh,4,1791,manual,1
+3798,Zthrelcha Szela,4,1661,modern,0
+3799,Zthrelchazela,4,1661,modern,0
+3800,Zthrelechko,4,1792,orthographic-exact,0
+3801,Zthrunga,1,1793,manual,1
+3802,Zthrwgha,1,1793,manual,1
+3803,Zthwbycza,4,1789,modern,0
 3804,Zthwpnik,4,1431,manual,0
 3805,Zthwpnych-ad Zomzedwara,4,1431,manual,0
 3806,Zthwpnyk,4,1431,manual,0
 3807,Ztolnykowcz,1,1430,manual,1
-3808,Ztopnychky Werh,4,1674,manual,1
-3809,Ztopnychkywerh,4,1674,manual,1
-3810,Ztrelcha Zela,4,1662,modern,0
-3811,Ztrelchazela,4,1662,modern,0
-3812,Ztrelechko,4,1793,orthographic-exact,0
-3813,Ztreza,1,1795,manual,0
-3814,Ztruga,1,1794,manual,1
-3815,Ztrwga ad Zenth Gergwara,1,1796,manual,1
-3816,Ztrwgha,1,1794,manual,1
+3808,Ztopnychky Werh,4,1673,manual,1
+3809,Ztopnychkywerh,4,1673,manual,1
+3810,Ztrelcha Zela,4,1661,modern,0
+3811,Ztrelchazela,4,1661,modern,0
+3812,Ztrelechko,4,1792,orthographic-exact,0
+3813,Ztreza,1,1794,manual,0
+3814,Ztruga,1,1793,manual,1
+3815,Ztrwga ad Zenth Gergwara,1,1795,manual,1
+3816,Ztrwgha,1,1793,manual,1
 3817,Ztubicza Superior,4,460,modern,0
-3818,Zudoucz,1,1797,orthographic-exact,0
-3819,Zudowcz,1,1797,orthographic-exact,0
-3820,Zuha Mlacha,1,1798,manual,1
-3821,Zuha Mlaka,1,1799,manual,0
-3822,Zuhamlacha,1,1800,manual,1
+3818,Zudoucz,1,1796,orthographic-exact,0
+3819,Zudowcz,1,1796,orthographic-exact,0
+3820,Zuha Mlacha,1,1797,manual,1
+3821,Zuha Mlaka,1,1798,manual,0
+3822,Zuhamlacha,1,1799,manual,1
 3823,Zuhodol,2,1410,modern,0
-3824,Zuhodol,4,1801,manual,1
-3825,Zwchowcz,1,1802,singleton,0
-3826,"Zwdowchez, Wynarcz",1,1803,singleton,0
-3827,Zwdowcz,1,1797,orthographic-exact,0
-3828,Zwha Mlaka,1,1799,manual,0
-3829,Zwhamlaka,1,1799,manual,0
-3830,Zwhodol,1,1804,manual,0
+3824,Zuhodol,4,1800,manual,1
+3825,Zwchowcz,1,1801,singleton,0
+3826,"Zwdowchez, Wynarcz",1,1802,singleton,0
+3827,Zwdowcz,1,1796,orthographic-exact,0
+3828,Zwha Mlaka,1,1798,manual,0
+3829,Zwhamlaka,1,1798,manual,0
+3830,Zwhodol,1,1803,manual,0
 3831,Zwhodol,2,1410,modern,0
-3832,Zwhodol,4,1801,manual,1
-3833,Zwinarcz,1,1805,modern,0
-3834,Zwmzedwar cum pertinentiis,4,1762,modern,0
-3835,Zwmzedwara cum pertinentiis,4,1762,modern,0
-3836,Zwpya,1,1806,singleton,0
-3837,Zwsycha,1,1807,manual,1
-3838,Zwsycza ad Zenth Gergwara,1,1808,manual,1
-3839,Zwsycze,1,1809,manual,1
-3840,Zwthezka,2,1810,singleton,0
-3841,Zwybowcz,1,1811,manual,1
-3842,Zwynarcz,1,1805,modern,0
-3843,Zwynaricz,1,1805,modern,0
-3844,Zwzicha,1,1812,manual,0
-3845,Zygeth,1,1813,manual,1
-3846,Zylag,1,1814,orthographic-exact,0
-3847,Zylag Zenth Gergh,1,1815,manual,1
-3848,Zylag-wayvodatus,1,1816,manual,1
-3849,Zylagh,1,1814,orthographic-exact,0
-3850,Zylagh Zenthgyergh,1,1815,manual,1
-3851,Zylagh-waywodatus,1,1816,manual,1
-3852,Zylagh-waywodatus inferior ad castrum Valpo,1,1817,manual,1
-3853,Zylagh-waywodatus superior ad castrum Walpho,1,1817,manual,1
-3854,Zyrch,1,1818,manual,0
-3855,"Zyrch, Podgorye",1,1819,manual,1
-3856,Zyskan,1,1820,manual,0
-3857,Zystan,1,1820,manual,0
-3858,Zysthyan,1,1820,manual,0
-3859,Zythecz,4,1821,manual,0
+3832,Zwhodol,4,1800,manual,1
+3833,Zwinarcz,1,1804,modern,0
+3834,Zwmzedwar cum pertinentiis,4,1761,modern,0
+3835,Zwmzedwara cum pertinentiis,4,1761,modern,0
+3836,Zwpya,1,1805,singleton,0
+3837,Zwsycha,1,1806,manual,1
+3838,Zwsycza ad Zenth Gergwara,1,1807,manual,1
+3839,Zwsycze,1,1808,manual,1
+3840,Zwthezka,2,1809,singleton,0
+3841,Zwybowcz,1,1810,manual,1
+3842,Zwynarcz,1,1804,modern,0
+3843,Zwynaricz,1,1804,modern,0
+3844,Zwzicha,1,1811,manual,0
+3845,Zygeth,1,1812,manual,1
+3846,Zylag,1,1813,orthographic-exact,0
+3847,Zylag Zenth Gergh,1,1814,manual,1
+3848,Zylag-wayvodatus,1,1815,manual,1
+3849,Zylagh,1,1813,orthographic-exact,0
+3850,Zylagh Zenthgyergh,1,1814,manual,1
+3851,Zylagh-waywodatus,1,1815,manual,1
+3852,Zylagh-waywodatus inferior ad castrum Valpo,1,1816,manual,1
+3853,Zylagh-waywodatus superior ad castrum Walpho,1,1816,manual,1
+3854,Zyrch,1,1817,manual,0
+3855,"Zyrch, Podgorye",1,1818,manual,1
+3856,Zyskan,1,1819,manual,0
+3857,Zystan,1,1819,manual,0
+3858,Zysthyan,1,1819,manual,0
+3859,Zythecz,4,1820,manual,0
 3860,Zyzek,4,1452,modern,0
 3861,Zyzek-castrum,4,1452,modern,0
 3862,Zyzek-castrum cum pertinentiis,4,1452,modern,0
 3863,"Zyzek-castrum, Superiori, Inferiori provincia, oppidum",4,1452,modern,0
 3864,"Zyzek-castrum, provincia",4,1452,modern,0
 3865,Zyzek-provincia castri,4,1452,modern,0
-3866,Zyzsthan,1,1820,manual,0
+3866,Zyzsthan,1,1819,manual,0
