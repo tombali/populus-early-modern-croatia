@@ -1049,3 +1049,24 @@ county,query,lat,lon,display_name,source
 1,Kerhevina kod Bijele Stijene,45.3600000,17.2200000,"Kerhevina (Palosfalvi: posjed obitelji Kerhen "in the region of Fejerko"=Bijela Stijena; census holders Kerhen); nestalo, priblizno",manual
 1,Kaznetina kod Mučne,46.1150000,16.7450000,"Kaznetina (Heller: Kaznethyn u pertinencijama Koprivnice, Gegend Mucna/Vlajislav; Podravina04: nekad dio koprivnickog vlastelinstva); priblizno kod Velike Mucne",manual
 1,Marocha kod Ivanske,45.7822225,16.8061535,"Marocha (Heller: 1507 Maroucha prov Chasmensis, Gegend Ivanska; razlicito od zagrebackog Moravca-homonim); priblizno kod Ivanske",manual
+1,Koruška,46.0197899,16.5309211,"Koruška kod Križevaca (Heller: Koruška = Koroska/Corusca, crkva sv. Helene/Zenth Ilona; uz danasnju Svetu Helenu)",manual
+1,Osekovo,45.5155556,16.6119444,"Osekovo (Heller: Ozwgyo/Ozudyo/Ozek; drzao Batthyany cup Zenthgeorgh; koord. korisnik)",manual
+1,Sosen kod Kutine,45.4830970,16.7755908,"Sosen (Palosfalvi p.44: posjed Rohfi obitelji "de Kutenya"=Kutina - Glogowy, Sosen, Dianfeld, Decse, Gyuganc, Kaptolovc, Blagay); priblizno",manual
+1,Blagaj-Glogovica kod Kutine,45.4830970,16.7755908,"Blagay+Glogowy (Palosfalvi p.44: ista Rohfi/Kutenya grupa posjeda); priblizno",manual
+1,Dianfeld kod Kutine,45.4830970,16.7755908,"Dianfeld/Dianfold (Palosfalvi p.44: ista Rohfi/Kutenya grupa posjeda); priblizno",manual
+1,Grbaševec,46.2123787,16.7453297,"Grbasevec kod Rasinje (Pavles/Podravina: obitelj Gerwas s imenom sela kao pridjevkom)",manual
+1,Kapela Podravska,46.2778724,16.6929808,"Kapela kraj Drave zapadno od Ludbrega (Lausinger de Kapolna 1464-1516, drzali Kapelu i Kelyanowcz)",manual
+1,Cerovo brdo (Vojakovački Osijek),46.1270325,16.5386404,"Cerova/Cerovo brdo = isto sto i Osijek (Vojakovacki Osijek), drzao Banffy - Pavles/rankopavles",manual
+4,Lužan kod Odre,45.7297740,15.9925357,"Luzan (Heller: 1462 Lose p ultra fl Zaue, Gegend Lomnica/Odra; drzali Nobiles campi Zagrabiensis)",manual
+3,Virovitica,45.8331404,17.3853376,"Oppidum/Wreucze = Virovitica sama (Wereucze/Werewcze medieval spelling, Dominikanci i Franjevci)",manual
+1,Garešnica (okr. Gerzence),45.6361735,16.8617380,"Ramagawelge/Ramocsavolgye, posjed Raveni obitelji u kotaru Gerzence=Garesnica (Palosfalvi p.150-152)",manual
+1,Babinac kod Velike Pisanice,45.8266084,17.0527554,"Sanctus Benedictus = Szentbenedek = Babinac/Bedenik (Palosfalvi gazetteer + Veliki Grdevac monografija, Gordova/Raca klaster)",manual
+1,Ljubešćica,46.1567579,16.3977018,"Libewsthycza=Lwbewschycza, satelit Velikog Kalnika, drzao Egerwary ad Kemlek (Blagec 2017)",manual
+1,Mala Pisanica,45.7810416,17.0145268,"Omnii Sancti = Omnium sanctorum, kod Male Pisanice, durdevecko-racanski klaster (Veliki Grdevac monografija, cit. Palosfalvi/Buturac)",manual
+1,Jazavica kod Novske,45.3189016,17.0584557,"Dragalen=Dragalyna, Buturac: odgovara Jazavici (ne Dragalicima 18.st.), gospostija opatije Bijela kod Siraca",manual
+1,Okučani (juzno od Bijele Stijene),45.2602183,17.1997528,"Sancta Katharina - Buturac: zupa sv. Katarine juzno od Bijele Stijene prema Okucanima (Tiboldovina)",manual
+1,Novska,45.3355559,16.9511436,"Zenth Demetrius - Buturac: zupa Zenth Demether in Zemche odgovara danasnjoj zupi Novska",manual
+1,Sveti Ivan Žabno,45.9464805,16.6055861,"Hwzarcz (Husarec) - Pavles: negdje oko danasnjeg Zabna",manual
+1,Žabnica,45.9329421,16.6220159,"Sabnycza-in Markowcz = Zabnica, zupa Sv. Ivan Zabno (Buturac + Diplomatarium Crisiense + Palosfalvi gazetteer)",manual
+3,Bušetina (okolica Virovitice),45.8920790,17.3478503,"Zenthendree=Szentendre=Sv. Andrija, jedno od ~9 sela uzeg srednjovj. kotara Virovitica (Sisic), uz Busetinu/Bazje/Budrovac",manual
+1,Garić-grad (Podgarić),45.6310066,16.7566817,"Korusta - drzao Nadbiskup ad Monozlo; Monozlo=Garic-grad kod Podgarica (Heller: 1381 Monozlow de Garig), JI od Krizevaca; priblizno",manual

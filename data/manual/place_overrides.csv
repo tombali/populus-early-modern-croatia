@@ -1203,7 +1203,7 @@ place_id,group_key,canonical_name,modern_place,needs_review
 6,adamovec_c1,Adamowcz,Adamovec,
 8,adamovec_c1,Adamowcz,Adamovec,
 2025,martinec_or,Mikechincz,Martinec Orehovički,
-2955,osekovo,Swmechecz,Osekovo,
+2955,osekovo,Swmechecz,Osekovo,1
 1430,ivanska_z,Kaptholowcz,Ivanska,
 2837,sveta_klara,Zenth Clara,Sveta Klara,
 3535,sveta_klara,Zenth Clara,Sveta Klara,
@@ -1990,3 +1990,32 @@ place_id,group_key,canonical_name,modern_place,needs_review
 1446,kerhevina_c1,Kerhennyna,Kerhevina kod Bijele Stijene,1
 1438,kaznetina_c1,Kazmethyna,Kaznetina kod Mučne,1
 1935,marocha_c1,Maroucha,Marocha kod Ivanske,1
+1549,koruska_c1,Koroska,Koruška,1
+2371,osekovo_c1,Ozwgyo Zenthgergh,Osekovo,1
+2932,sosen_c1,Sosen,Sosen kod Kutine,1
+233,blagay_glogowy_c1,Blagay Glogowy,Blagaj-Glogovica kod Kutine,1
+3618,dianfeld_c1,Zenthlaczlo Dyanfeldi,Dianfeld kod Kutine,1
+957,grbasevec_c1,Gerwasowcz,Grbaševec,1
+474,kapela_podravska_c1,Cappela Kelyanowcz,Kapela Podravska,1
+479,cerovo_brdo_c1,Czeraberda,Cerovo brdo (Vojakovački Osijek),1
+654,cerovo_brdo_c1,Czeraberda,Cerovo brdo (Vojakovački Osijek),1
+656,cerovo_brdo_c1,Czeraberda,Cerovo brdo (Vojakovački Osijek),1
+517,cerovo_brdo_c1,Chereborda,Cerovo brdo (Vojakovački Osijek),1
+655,cerovo_brdo_c1,Chereborda,Cerovo brdo (Vojakovački Osijek),1
+1818,luzan_odra_c4,Lose,Lužan kod Odre,1
+2292,virovitica_town_c3,Oppidum,Virovitica,1
+3347,virovitica_town_c3,Wreucze,Virovitica,1
+2698,garesnica_c1,Ramagawelge,Garešnica (okr. Gerzence),1
+621,dobrakuca_c1,Crethyn in Dobrachwcha,Dobra Kuća,1
+2851,babinac_c1,Sanctus Benedictus,Babinac kod Velike Pisanice,1
+1793,ljubescica_c1,Libewsthycza,Ljubešćica,1
+2265,mala_pisanica_c1,Omnii Sancti,Mala Pisanica,1
+745,jazavica_c1,Dragalen,Jazavica kod Novske,1
+2840,okucani_c1,Sancta Katharina,Okučani (juzno od Bijele Stijene),1
+3538,novska_c1,Zenth Demetrius,Novska,1
+1219,sv_ivan_zabno_c1,Hwzarcz Zenthywan,Sveti Ivan Žabno,1
+2825,zabnica_c1,Sabnycza-in Markowcz,Žabnica,1
+3604,busetina_c3,Zenthendree,Bušetina (okolica Virovitice),1
+3605,busetina_c3,Zenthendree,Bušetina (okolica Virovitice),1
+3606,busetina_c3,Zenthendree,Bušetina (okolica Virovitice),1
+1552,garic_c1,Korusta,Garić-grad (Podgarić),1
