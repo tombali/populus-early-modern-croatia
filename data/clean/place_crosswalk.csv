@@ -1255,7 +1255,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1254,"Iwanych-oppidum, Oppathychyncz, Bregy, Lwpoglaw",1,643,manual,1
 1255,"Iwanych-oppidum, Oppathyncz, Bregy, Lwpoglaw",1,643,manual,1
 1256,Iwelowcz,1,644,manual,1
-1257,Iwilovcz,1,645,singleton,0
+1257,Iwilovcz,1,645,manual,1
 1258,Izdencz,1,646,manual,0
 1259,Jacopowcz,1,647,manual,0
 1260,Jacupelcz,1,648,manual,0
@@ -1769,7 +1769,7 @@ place_id,historical_name,county_id,authority_id,method,needs_review
 1768,Leschan,1,884,singleton,0
 1769,Leskowcz,1,877,manual,0
 1770,Lesnekheg,1,885,manual,0
-1771,Lestacowcz,1,886,singleton,0
+1771,Lestacowcz,1,886,manual,1
 1772,Lestakowcz,1,877,manual,0
 1773,Lestakowcz,2,887,manual,1
 1774,"Lestakowcz, Zwhodoll",2,888,manual,1

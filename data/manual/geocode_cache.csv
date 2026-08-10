@@ -1122,3 +1122,5 @@ county,query,lat,lon,display_name,source
 1,Vokačinec (kod Žabna),45.94,16.63,"Vokachincz - Heller Crisiensis p.124: 1495 Vokachinez (Popisi 15), Gegend Repinec/Zabno; priblizno kod Zabna",manual
 1,Rampelec (kod Domankuša),45.9922222,16.7666667,"Rampolcz - Heller Crisiensis p.100: 1495 Rampelez (Popisi 12), Gegend Domankus; uz nas Domankus pin",manual
 4,Vratnik Samoborski,45.8087546,15.649957,"Wratza - Heller Zagrabiensis M-Z: 1283 Vratzcha, 1598 Wratnyk (Popisi 404) -> Vratnik Samoborski (Samobor, Zagrebacka); fuzzy vratza~vratzca d1",manual
+1,Ivelovec (kod Velikog Grđevca),45.7515565,17.0497322,"Iwilovcz - Heller Crisiensis p.51: 1495 Ivilowoz fratrum heremitarum Sancti Benedicti (Popisi 7), Gegend Grdjevac; pavlinski posjed sv. Benedikta; priblizno kod Velikog Grdjevca",manual
+1,Lestakovec (kod Gradeca-Bolča),45.94,16.5,"Lestacowcz - Heller Crisiensis p.69: 1507 Lestacowez prov Dombrensis (Popisi 25), Gegend Bolc/Gradec; razlicito od c2 Lestakovca kod Ludbrega; priblizno kod Gradeca",manual

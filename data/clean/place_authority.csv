@@ -643,7 +643,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 642,Iwanych,Ivanić-Grad,1,1,9,manual,1,45.7056756,16.3920092,0
 643,Iwanych-oppidum cum pertinentiis,Lupoglav,1,2,2,manual,1,45.7970952,16.3404828,0
 644,Iwelowcz,Veliki Grđevac,1,1,4,manual,1,45.7515565,17.0497322,0
-645,Iwilovcz,,1,1,1,singleton,0,,,0
+645,Iwilovcz,Ivelovec (kod Velikog Grđevca),1,1,1,manual,1,45.7515565,17.0497322,0
 646,Izdencz,Zdenci,1,1,2,manual,0,45.5877618,17.9514042,0
 647,Jacopowcz,Jakopovac,1,4,4,manual,0,46.0238540,16.7881984,0
 648,Jacupelcz,Lipovljani,1,1,2,manual,0,45.4028679,16.8825616,0
@@ -884,7 +884,7 @@ authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,n
 883,Lepsincz,Bosiljevo Čazmansko,1,2,2,manual,0,45.7413407,16.5758294,0
 884,Leschan,,1,1,2,singleton,0,,,0
 885,Lesnekheg,Lještani,1,1,2,manual,0,45.3540530,17.2043230,0
-886,Lestacowcz,,1,1,1,singleton,0,,,0
+886,Lestacowcz,Lestakovec (kod Gradeca-Bolča),1,1,1,manual,1,45.94,16.5,0
 887,Lestakowcz,Šemovec,2,1,1,manual,1,46.3008848,16.4777174,0
 888,Lestakowcz - Zwhodoll,Šemovec,2,1,1,manual,1,46.3008848,16.4777174,0
 889,Lestchancz - Palynowcz ad Belam,Čaglić,1,1,1,manual,1,45.3866531,17.1570441,0
