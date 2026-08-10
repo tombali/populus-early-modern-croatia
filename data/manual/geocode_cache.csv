@@ -1080,6 +1080,14 @@ county,query,lat,lon,display_name,source
 2,Ratkovec Zlatarski (?),46.1161111,16.0830556,"Rathkolcz - Heller Comitatus Varasdiensis: Ratkovec Zlatarski(?); koordinate od korisnika (46 06 58N 16 04 59E)",manual
 2,Budislavec,46.2800000,16.2350000,"Bwdyslwcz/Bwdislawcz - Heller Comitatus Varasdiensis: Budislavec; koordinate od korisnika (46 16 48N 16 14 06E)",manual
 2,Koškovec (?),46.2480556,16.1650000,"Koskolcz - Heller Comitatus Varasdiensis: Koskovec(?); koordinate od korisnika (46 14 53N 16 09 54E)",manual
+2,Vojnovec Loborski,46.1511111,16.0419444,"Woynche - Heller Comitatus Varasdiensis: Vojnovec Loborski; koordinate od korisnika (46 09 04N 16 02 31E)",manual
+2,Vidovec,46.2833333,16.2333333,"Zenth Wyd-Chresnevo - Heller Comitatus Varasdiensis: Vidovec; koordinate od korisnika (46 17N 16 14E)",manual
+2,Kos (kod Lobora) (?),46.1383000,16.0825000,"Kos - korisnik: blizu Lobora, juzno-jugoistocno; procijenjena tocka ~2.5km JJI od Lobora (46.1591,16.0701), bez preciznih koordinata",manual
+2,Rovno,46.1630556,15.8461111,"Rowno - Heller Comitatus Varasdiensis: Rovno; koordinate od korisnika (46 09 47N 15 50 46E)",manual
+2,Druškovec (?),46.2561111,16.1480556,"Sebastyanowcz - Heller Comitatus Varasdiensis: Druskovec(?); koordinate od korisnika (46 15 22N 16 08 53E)",manual
+2,Tomaševec Biškupečki (?),46.2500000,16.3538889,"Thomasewcz - Heller Comitatus Varasdiensis: Tomasevec Biskupecki(?); koordinate od korisnika (46 15 00N 16 21 14E)",manual
+2,Krasovec (?),46.2230556,16.1200000,"Crassulcz - Heller Comitatus Varasdiensis: Krasovec(?); koordinate od korisnika (46 13 23N 16 07 12E)",manual
+2,Cebovac (Kos),46.1530556,16.0250000,"Czebowcz-Kos - Heller Comitatus Varasdiensis: Cebovac, Kos; koordinate od korisnika (46 09 11N 16 01 30E)",manual
 1,Kaznetina kod Mučne,46.1150000,16.7450000,"Kaznetina (Heller: Kaznethyn u pertinencijama Koprivnice, Gegend Mucna/Vlajislav; Podravina04: nekad dio koprivnickog vlastelinstva); priblizno kod Velike Mucne",manual
 1,Marocha kod Ivanske,45.7822225,16.8061535,"Marocha (Heller: 1507 Maroucha prov Chasmensis, Gegend Ivanska; razlicito od zagrebackog Moravca-homonim); priblizno kod Ivanske",manual
 1,Koruška,46.0197899,16.5309211,"Koruška kod Križevaca (Heller: Koruška = Koroska/Corusca, crkva sv. Helene/Zenth Ilona; uz danasnju Svetu Helenu)",manual
