@@ -1047,6 +1047,15 @@ county,query,lat,lon,display_name,source
 1,Badljevina,45.5132189,17.1924562,"Badljevina (Palffy 1556 #119: Zent Kewroczth = Szentkereszt/Bagyanovc, Krizevacka z.; census Baganoz drzao Szapolyai + plebanus 1507)",manual
 1,Bijela kod Sirača,45.5627565,17.2903219,"Bijela kod Siraca - benediktinska opatija Bijela (Buturac); census Jelye drzala Abbatia bellensis 1517 (prije kralj) - priblizno, imanje opatije",manual
 1,Kerhevina kod Bijele Stijene,45.3600000,17.2200000,"Kerhevina (Palosfalvi: posjed obitelji Kerhen "in the region of Fejerko"=Bijela Stijena; census holders Kerhen); nestalo, priblizno",manual
+4,Velika Gorica,45.6986438,16.0696398,"Gorycza Maiori - Heller Zagrabiensis M-Z izravno: 1574 Gorycza Maiori...1806/08 Mala/Velika-Goricza...1973 Velika Gorica",manual
+1,Radešić,46.0970177,16.2925113,"Radessych - Pavles: vesnikat Veliki Kalnik (Persinovec-Djurinovec-Radesic) kraj rijeke Lonje; blizu vec geokodiranog Djurinovca i Rovaca",manual
+2,Lestakovec kod Ludbrega,46.2860000,16.4060000,"Lesthakowcz+Berethyncz+Tharnowcz - Adamcek: okolica Varazdina (Lestakovec); centroid uz vec razlucene Berethyncz/Tharnowcz/Zwhodol pinove",manual
+1,Blagaj kod Svetog Petra Orehovca,46.1034469,16.5070258,"Blagay - Buturac zupa sv. Gjurgja 1334/1501; Palosfalvi Korosko vlastelinstvo; geokodiran Blagaj, Dedina, opcina Sv. Petar Orehovec (Kalnik klaster)",manual
+4,Mahovo,45.5648371,16.4082303,"Mahowcz - Heller Zagrabiensis M-Z izravno: 1221 Maho locus...1598 Mahowschycza...1673 Mahouo...1973 Mahovo",manual
+1,Bukvik kod Velike Trnovitice,45.6868539,16.9580499,"Bakheg/Wakegh - Heller Crisiensis izravno citira nasu Popisi: 1507 Bakheg (Popisi 31); 1511 Wakegh (Popisi 100) = Bukvik FN, juzno od Velike Trnovitice; isti zapis u dvije godine popisa",manual
+1,Kloštar Podravski (okolica),45.9736940,17.1663312,"Jarno - Heller Crisiensis izravno citira nasu Popisi: 1495 Jarno/Jarna, 1503 Jarno, 1513/14 Jarna (Popisi) - Gegend Klostar Podravski; priblizno",manual
+4,Božjakovina (okolica),45.8172252,16.2956556,"Sancta Elena - Heller Zagrabiensis A-L izravno citira nasu Popisi: 1566 Zentilona (Popisi 190), 1588 Zenth Ilona (Popisi 342); tvrdjava na Lonji, prope Bosyako=Bozjakovina; priblizno",manual
+2,Jakopovac (Zrinski Topolovac),46.0238539861243,16.78819835186,"Jacupelcz (1507 Popisi 23; Heller Crisiensis: Jakupovac Kapelski) = danasnji Jakopovac, opcina Zrinski Topolovac, Bjelovarsko-bilogorska zupanija - koordinate dobivene od korisnika",manual
 1,Kaznetina kod Mučne,46.1150000,16.7450000,"Kaznetina (Heller: Kaznethyn u pertinencijama Koprivnice, Gegend Mucna/Vlajislav; Podravina04: nekad dio koprivnickog vlastelinstva); priblizno kod Velike Mucne",manual
 1,Marocha kod Ivanske,45.7822225,16.8061535,"Marocha (Heller: 1507 Maroucha prov Chasmensis, Gegend Ivanska; razlicito od zagrebackog Moravca-homonim); priblizno kod Ivanske",manual
 1,Koruška,46.0197899,16.5309211,"Koruška kod Križevaca (Heller: Koruška = Koroska/Corusca, crkva sv. Helene/Zenth Ilona; uz danasnju Svetu Helenu)",manual
