@@ -1111,3 +1111,14 @@ county,query,lat,lon,display_name,source
 1,Žabnica,45.9329421,16.6220159,"Sabnycza-in Markowcz = Zabnica, zupa Sv. Ivan Zabno (Buturac + Diplomatarium Crisiense + Palosfalvi gazetteer)",manual
 3,Bušetina (okolica Virovitice),45.8920790,17.3478503,"Zenthendree=Szentendre=Sv. Andrija, jedno od ~9 sela uzeg srednjovj. kotara Virovitica (Sisic), uz Busetinu/Bazje/Budrovac",manual
 1,Garić-grad (Podgarić),45.6310066,16.7566817,"Korusta - drzao Nadbiskup ad Monozlo; Monozlo=Garic-grad kod Podgarica (Heller: 1381 Monozlow de Garig), JI od Krizevaca; priblizno",manual
+1,Garazda (kod Velikog Grđevca),45.7333333,17.0333333,"Garazda - Heller Crisiensis p.42 izravno citira nasu Popisi 7,10: 1495 Garazda/Garazdinez; Gegend S-SW Grdjevac; koordinate od korisnika (45 44N 17 02E)",manual
+1,Čret Bisaški (okolica),46.0535075,16.3005579,"Crachowcz - Pajur p.27: vodotok kod Cret Bisaskog, usce u Lonju najbolje odgovara medji; uz vec pinani Bisag; priblizno",manual
+1,Gornja Reka (Mali Kalnik),46.2,16.4,Reka Malchez / Malchewcz-de Reka - Gornja Reka na Malom Kalniku (Kys Kemlek); Heller Crisiensis: Kis-Kemlek Gornya Reka; Adamcek: Reka na posjedu Malog Kalnika; koordinate od korisnika (46 12N 16 24E),manual
+4,Resnička Trnava,45.803986,16.057127,"Thernowcz Zobachlaz - Heller Zagrabiensis: Ternowcz -> Resnicka Trnava (Gegend Gradici, kod Sesveta); koordinate od korisnika",manual
+1,Đuretinec,46.281111,16.218889,"Gywrethyncz = Djuretinec; Palosfalvi: Tersek of Gyuretinc (Gywrethincz), census holder Thersek; koordinate od korisnika (46 16 52N 16 13 08E)",manual
+1,Vagovina,45.7813975,16.6688419,Sancta Anna ad Wragoucz - Heller Crisiensis p.120: 1445 de Wagoucz PN -> 1973 Vagovina (Cris=Krizevacka); fuzzy Wragoucz~Wagoucz d1,manual
+1,Zebinec (kod Ivanske),45.7822225,16.8061535,"Zebencz - Heller Crisiensis p.131: 1507/20 Zebyncz prov Chasmensis (Popisi 24,125), mit Ivanska erwahnt; priblizno kod Ivanske",manual
+1,Kopozovec (JI od Čazme),45.72,16.65,"Komozowcz - Heller Crisiensis p.61: Kopozowcz 1445, 1507 Kwpozoucz (Popisi 24), Gegend SO Cazma; priblizno JI od Cazme",manual
+1,Vokačinec (kod Žabna),45.94,16.63,"Vokachincz - Heller Crisiensis p.124: 1495 Vokachinez (Popisi 15), Gegend Repinec/Zabno; priblizno kod Zabna",manual
+1,Rampelec (kod Domankuša),45.9922222,16.7666667,"Rampolcz - Heller Crisiensis p.100: 1495 Rampelez (Popisi 12), Gegend Domankus; uz nas Domankus pin",manual
+4,Vratnik Samoborski,45.8087546,15.649957,"Wratza - Heller Zagrabiensis M-Z: 1283 Vratzcha, 1598 Wratnyk (Popisi 404) -> Vratnik Samoborski (Samobor, Zagrebacka); fuzzy vratza~vratzca d1",manual
