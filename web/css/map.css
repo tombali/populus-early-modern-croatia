@@ -11,6 +11,19 @@ svg{width:100%;height:auto;display:block;touch-action:none}
 .layer-ctl{position:absolute;top:10px;left:10px;z-index:3;
   background:var(--surface);border:1px solid var(--ring);border-radius:8px;
   box-shadow:0 1px 4px rgba(0,0,0,.12);padding:6px}
+.scale-ctl{position:absolute;bottom:10px;right:10px;z-index:2;
+  background:var(--surface);border:1px solid var(--ring);border-radius:8px;
+  box-shadow:0 1px 4px rgba(0,0,0,.12);padding:5px 8px;
+  display:flex;flex-direction:column;align-items:center;gap:3px;
+  font-size:11px;color:var(--ink2);pointer-events:none}
+.scale-bar{display:block;height:6px;width:80px;
+  border:1.5px solid var(--ink2);border-top:none;box-sizing:border-box}
+.msize-ctl{position:absolute;bottom:10px;left:10px;z-index:2;
+  background:var(--surface);border:1px solid var(--ring);border-radius:8px;
+  box-shadow:0 1px 4px rgba(0,0,0,.12);padding:5px 10px;
+  display:flex;flex-direction:column;align-items:stretch;gap:3px;
+  font-size:11px;color:var(--ink2)}
+.msize-ctl input[type=range]{width:100px;margin:0;accent-color:var(--good)}
 .layer-title{font-size:11px;font-weight:600;text-transform:uppercase;
   letter-spacing:.04em;color:var(--muted);padding:2px 6px 4px}
 .layer-panel{display:flex;flex-direction:column;gap:1px}
@@ -43,6 +56,22 @@ svg{width:100%;height:auto;display:block;touch-action:none}
   border:1px solid var(--axis);border-radius:8px;padding:8px 10px;
   font-size:12.5px;max-width:240px;box-shadow:0 4px 16px rgba(0,0,0,.18)}
 .tip b{font-weight:600} .tip .m{color:var(--ink2)}
+.marker{cursor:pointer}
+#map.dragging .marker{cursor:grabbing}
+.popup{position:fixed;z-index:10;background:var(--surface);color:var(--ink);
+  border:1px solid var(--axis);border-radius:10px;padding:12px 14px;
+  font-size:13px;max-width:260px;box-shadow:0 6px 24px rgba(0,0,0,.22)}
+.popup[hidden]{display:none}
+.popup .pt{font-weight:600;font-size:14px;padding-right:18px}
+.popup .pm{color:var(--ink2);margin-top:1px}
+.popup .pr{margin-top:6px}
+.popup .pr b{font-weight:600}
+.popup .pc{margin-top:6px;color:var(--ink2);font-size:12px;
+  display:flex;align-items:center;gap:6px}
+.popup-x{position:absolute;top:6px;right:6px;width:22px;height:22px;padding:0;
+  border:0;background:transparent;color:var(--muted);font-size:18px;line-height:1;
+  cursor:pointer;border-radius:4px}
+.popup-x:hover{background:var(--panel-hover,rgba(127,127,127,.14));color:var(--ink)}
 .cap{fill:var(--muted);font-size:11px;font-weight:600}
 .capdot{fill:none;stroke:var(--muted);stroke-width:1.2}
 .border{fill:none;stroke:var(--border-line);stroke-width:1;stroke-linejoin:round}
