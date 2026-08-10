@@ -1056,6 +1056,30 @@ county,query,lat,lon,display_name,source
 1,Kloštar Podravski (okolica),45.9736940,17.1663312,"Jarno - Heller Crisiensis izravno citira nasu Popisi: 1495 Jarno/Jarna, 1503 Jarno, 1513/14 Jarna (Popisi) - Gegend Klostar Podravski; priblizno",manual
 4,Božjakovina (okolica),45.8172252,16.2956556,"Sancta Elena - Heller Zagrabiensis A-L izravno citira nasu Popisi: 1566 Zentilona (Popisi 190), 1588 Zenth Ilona (Popisi 342); tvrdjava na Lonji, prope Bosyako=Bozjakovina; priblizno",manual
 2,Jakopovac (Zrinski Topolovac),46.0238539861243,16.78819835186,"Jacupelcz (1507 Popisi 23; Heller Crisiensis: Jakupovac Kapelski) = danasnji Jakopovac, opcina Zrinski Topolovac, Bjelovarsko-bilogorska zupanija - koordinate dobivene od korisnika",manual
+1,Haganj kod Žabna,45.9147515,16.5787186,"Blasew Werh - Heller Crisiensis izravno citira Popisi: 1513 Blasovwez (Popisi 56); Gegend Haganj/Zabno; Haganj je ~5km od vec uspostavljenog Sv. Ivan Zabno pina",manual
+2,Sveta Nedelja,45.7833333,15.7833333,"Zenth Nedele - Heller Zagrabiensis M-Z citira Popisi 156/191/213/298; koordinate od korisnika (45 47N 15 47E)",manual
+4,Dobrova,45.8380556,16.5438889,"Dobrowa Czerzka - koordinate od korisnika (45 50 17N 16 32 38E)",manual
+1,Turkovčina,46.0438889,16.2469444,"Thwrkowcz - Heller Zagrabiensis M-Z: 1567 Thwrkowschyna (Popisi 208), alias Zwhodol, 1973 Turkovcina; koordinate od korisnika (46 02 38N 16 14 49E)",manual
+1,Modrovec,45.9969444,16.0088889,"Modrowcz - Heller Zagrabiensis M-Z: 1598 Modrascz in Also Sthubycza (Popisi 375), 1973 Modrovec; koordinate od korisnika (45 59 49N 16 00 32E)",manual
+1,Hrastina,45.9061111,15.7361111,"Hrastina - Heller Zagrabiensis A-L: 1598 Hrazthye civium oppidi Zamobor (Popisi 407), 1973 Hrastina Samoborska; koordinate od korisnika (45 54 22N 15 44 10E)",manual
+3,Topolovac Vrbovečki,45.9000000,16.4000000,"Nagh Thopalocz - Heller Crisiensis: 1481 Thapalowcz p c-t Wereuche (=Virovitička), 1517 Thepolyanez (Popisi 99), 1973 Topolovac Vrbovecki; koordinate od korisnika (45 54N 16 24E)",manual
+2,Degidovec,45.86513915434154,16.05488488340873,"Egywdo Charkowcz - Heller Zagrabiensis A-L: 1439 Jegyudowcz, 1507 Jegwdowcz (Popisi 21), 1973 Degidovec; koordinate od korisnika",manual
+2,Gradec,45.9229065,16.4895691,"Bwdyzlawcz/Dymytrowcz klaster - deli pravopis s vec riješenim Korythno-Kebel-Dymytrowcz (c1) -> Gradec; prihvaceno kao isti klaster",manual
+2,Mirkovec,46.0319444,16.2869444,"Nassenyna/Naseuyna - Heller Comitatus Varasdiensis: mit Mirkovec erwahnt; koordinate od korisnika (46 01 55N 16 17 13E)",manual
+2,Zadravec,46.1088889,15.9688889,"Zadrowcz - Heller Comitatus Varasdiensis: Zadravec; koordinate od korisnika (46 06 32N 15 58 08E)",manual
+2,Bartolovec Žabnik,46.3038889,16.4438889,"Sabnyk Zenthberthalam - Heller Comitatus Varasdiensis: Bartolovec Zabnik; koordinate od korisnika (46 18 14N 16 26 38E)",manual
+2,Štefanec (okolica),46.2561111,16.4361111,"Cheperlyncz - Heller Comitatus Varasdiensis: mit Kelemen, Stefanec erwahnt; koordinate od korisnika (46 15 22N 16 26 10E)",manual
+2,Brlekovo,46.0769444,16.1419444,"Wolyncz/Volyncz - Heller Comitatus Varasdiensis: approx Brlekovo; koordinate od korisnika (46 04 37N 16 08 31E)",manual
+2,Mala/Velika Erpenja,46.0950000,15.7850000,"Erpenye - Heller Comitatus Varasdiensis: Mala/Velika Erpenja (ranije pogresno odbaceno kao Srijem homonim - ispravljeno prema Varasdiensis svesku); koordinate od korisnika (46 05 42N 15 47 06E)",manual
+2,Soteska (Radoboj),46.1666667,15.9166667,"Zotyzka - Heller Comitatus Varasdiensis: Soteska, Radoboj; koordinate od korisnika (46 10N 15 55E)",manual
+2,Cargovec (?),46.2850000,16.2680556,"Chorgowcz - Heller Comitatus Varasdiensis: Cargovec(?), identifikacija neizvjesna i u izvoru; koordinate od korisnika (46 17 06N 16 16 05E)",manual
+2,Sračinec,46.3333333,16.2833333,"Srachyncz - Heller Comitatus Varasdiensis: Sracinec; koordinate od korisnika (46 20N 16 17E)",manual
+2,Vrenkovec,46.0950000,15.9169444,"Wrathkowcz - Heller Comitatus Varasdiensis: Vrenkovec; koordinate od korisnika (46 05 42N 15 55 01E)",manual
+2,Jalkovec (?),46.2780556,16.3188889,"Belkolcz - Heller Comitatus Varasdiensis: Jalkovec(?); koordinate od korisnika (46 16 41N 16 19 08E)",manual
+2,Brezje Dravsko (?),46.3750000,16.0938889,"Poklechancz - Heller Comitatus Varasdiensis: Brezje Dravsko(?); koordinate od korisnika (46 22 30N 16 05 38E)",manual
+2,Ratkovec Zlatarski (?),46.1161111,16.0830556,"Rathkolcz - Heller Comitatus Varasdiensis: Ratkovec Zlatarski(?); koordinate od korisnika (46 06 58N 16 04 59E)",manual
+2,Budislavec,46.2800000,16.2350000,"Bwdyslwcz/Bwdislawcz - Heller Comitatus Varasdiensis: Budislavec; koordinate od korisnika (46 16 48N 16 14 06E)",manual
+2,Koškovec (?),46.2480556,16.1650000,"Koskolcz - Heller Comitatus Varasdiensis: Koskovec(?); koordinate od korisnika (46 14 53N 16 09 54E)",manual
 1,Kaznetina kod Mučne,46.1150000,16.7450000,"Kaznetina (Heller: Kaznethyn u pertinencijama Koprivnice, Gegend Mucna/Vlajislav; Podravina04: nekad dio koprivnickog vlastelinstva); priblizno kod Velike Mucne",manual
 1,Marocha kod Ivanske,45.7822225,16.8061535,"Marocha (Heller: 1507 Maroucha prov Chasmensis, Gegend Ivanska; razlicito od zagrebackog Moravca-homonim); priblizno kod Ivanske",manual
 1,Koruška,46.0197899,16.5309211,"Koruška kod Križevaca (Heller: Koruška = Koroska/Corusca, crkva sv. Helene/Zenth Ilona; uz danasnju Svetu Helenu)",manual
