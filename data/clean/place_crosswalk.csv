@@ -1,5 +1,5 @@
 place_id,historical_name,county_id,authority_id,method,needs_review
-1,",,,owcz",2,1,singleton,0
+1,",,,owcz",2,1,manual,0
 2,Abbatia,4,2,manual,0
 3,Abbatia (Opathowyna),4,3,singleton,0
 4,Abbatia Zagrabiensis,4,4,modern,0

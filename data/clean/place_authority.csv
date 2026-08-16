@@ -1,5 +1,5 @@
 authority_id,canonical_name,modern_place,county_id,n_variants,n_entries,method,needs_review,lat,lon,hide_from_map
-1,",,,owcz",,2,1,1,singleton,0,,,0
+1,...owcz,,2,1,1,manual,0,,,0
 2,Abbatia,Topusko,4,1,1,manual,0,45.2931510,15.9789277,0
 3,Abbatia (Opathowyna),Dolac,4,1,1,singleton,0,45.8142928,15.9772391,0
 4,"Opathowyna, Kopam",Opatija,4,4,16,modern,0,45.5441702,15.9910957,0

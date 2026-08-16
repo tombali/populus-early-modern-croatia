@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Croatian tax lists, 1495–1596 — maps</title>
 <link rel="stylesheet" href="css/common.css">
-<link rel="stylesheet" href="css/map.css?v=4">
+<link rel="stylesheet" href="css/map.css?v=5">
 </head>
 <body>
 <div class="wrap">
@@ -47,7 +47,11 @@
         <span class="scale-label" id="scale-label"></span>
         <span class="scale-bar" id="scale-bar"></span>
       </div>
-      <div class="msize-ctl" aria-label="Marker size">
+      <div class="msize-ctl" aria-label="Marker size and labels">
+        <label class="labels-row">
+          <input id="labels-toggle" type="checkbox">
+          <span>Place labels</span>
+        </label>
         <span class="msize-label">Marker size</span>
         <input id="msize" type="range" min="1" max="5" step="0.1" value="1"
                aria-label="Marker size, 1x to 5x">
@@ -63,6 +67,6 @@
 <div class="tip" id="tip"></div>
 
 <script>const DATA = /*__DATA__*/null;</script>
-<script src="js/map.js?v=33"></script>
+<script src="js/map.js?v=34"></script>
 </body>
 </html>

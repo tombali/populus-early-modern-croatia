@@ -129,6 +129,11 @@
   let msizeMult=1;
   const rBase=t=>1.8+16*Math.sqrt(Math.max(t,SIZE_FLOOR))/Math.sqrt(maxTax);
   const rOf=t=>rBase(t)*msizeMult;
+  // place-name labels above markers: off by default, toggled by #labels-toggle.
+  // Font size is *sc (like marker radii) so labels stay a constant screen size
+  // at every zoom instead of growing with the viewBox magnification.
+  let showLabels=false;
+  const LABEL_SIZE=11;
 
   const SVGNS="http://www.w3.org/2000/svg";
   const el=(n,a)=>{const e=document.createElementNS(SVGNS,n);
@@ -288,7 +293,14 @@
         c.addEventListener("pointerleave",hideTip);
         c.addEventListener("click",ev=>{ev.stopPropagation();
           showPopup(r,tier,curYear,ev);});
-        markersG.appendChild(c);});});
+        markersG.appendChild(c);
+        if(showLabels){
+          const t=el("text",{x:v.x,y:v.y-rOf(r.tax)*sc-3*sc,
+            class:"place-label","text-anchor":"middle",
+            "font-size":(LABEL_SIZE*sc).toFixed(2)});
+          t.textContent=r.p.name;
+          markersG.appendChild(t);
+        }});});
   }
   function mapLegend(){
     const tc=DATA.tierCounts;
@@ -317,6 +329,13 @@
   if(msizeSlider)msizeSlider.oninput=()=>{
     msizeMult=+msizeSlider.value;
     if(typeof drawMarkers==="function")drawMarkers();   // radius reads msizeMult live
+  };
+
+  // ---- place-label toggle -------------------------------------------------
+  const labelsToggle=$("labels-toggle");
+  if(labelsToggle)labelsToggle.onchange=()=>{
+    showLabels=labelsToggle.checked;
+    if(typeof drawMarkers==="function")drawMarkers();
   };
 
   // ---- per-county visibility panel --------------------------------------
