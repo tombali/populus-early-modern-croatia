@@ -2,7 +2,9 @@
 
 Interactive views of the tax-list data:
 
-- **Map** (`index.html`) — year-by-year map of taxable *selišta* and county trends
+- **Home** (`index.html`) — static landing page: what the project is, links to
+  the two views below. Hand-maintained, no build step.
+- **Map** (`map.html`) — year-by-year map of taxable *selišta* and county trends
 - **Browse** (`explorer.html`) — filter and export all 11,792 entries from `v_entries_full`
 
 Static HTML with CSS/JS in `css/` and `js/`. Census data is inlined at rebuild
@@ -12,7 +14,9 @@ time; no external tiles, fonts or network calls.
 
 | File | Role |
 |------|------|
-| `template.html` | Map shell → `build_web.py` → `index.html` |
+| `index.html` | Home page — hand-edited directly, not generated |
+| `css/home.css` | Home page styles |
+| `template.html` | Map shell → `build_web.py` → `map.html` |
 | `js/map.js` / `css/map.css` | Map UI logic / page styles |
 | `explorer_template.html` | Browse shell → `build_explorer.py` → `explorer.html` |
 | `js/explorer.js` / `css/explorer.css` | Browse UI logic / page styles |
@@ -24,7 +28,7 @@ time; no external tiles, fonts or network calls.
 After pipeline or database changes:
 
 ```bash
-python web/build_web.py         # map → index.html
+python web/build_web.py         # map → map.html
 python web/build_explorer.py    # browse → explorer.html
 ```
 
@@ -48,15 +52,15 @@ Because browsers block `file://` for some features, serve the folder:
 
 ```bash
 python -m http.server 8137 --directory web
-# then open http://127.0.0.1:8137/index.html or …/explorer.html
+# then open http://127.0.0.1:8137/index.html (home), …/map.html, or …/explorer.html
 ```
 
 (Opening `index.html` directly also works in most browsers.)
 
 ## Deploy to the web
 
-Deploy the whole `web/` folder (`index.html`, `explorer.html`, `js/`, `css/`,
-`geo.json`):
+Deploy the whole `web/` folder (`index.html`, `map.html`, `explorer.html`,
+`js/`, `css/`, `geo.json`):
 
 - **GitHub Pages**: the workflow in `.github/workflows/pages.yml` rebuilds and
   publishes `web/` on every push to `main`. Enable Pages → "GitHub Actions" in

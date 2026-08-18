@@ -318,17 +318,20 @@ WHERE m.toponym LIKE '%Thewkowcz%';
 
 ## Visualizations
 
-`web/index.html` is a self-contained, web-deployable page with two interactive
-views built from the database (see `web/README.md`):
+`web/` is a self-contained, web-deployable static site (see `web/README.md`):
+`index.html` is the landing page, linking to two interactive, database-built
+views:
 
-- **Map by year** - taxable *selišta* per place across the 23 campaigns; marker
-  area = tax base, shape = county, colour = how confident the location is;
-  today's county borders and the Sava/Drava rivers are drawn for context.
-  Un-geocoded places are scattered around their county town.
-- **Decline over time** - the county tax base collapsing across the century
-  (Križevci ~18,000 in 1507 to under 100 by 1596).
+- **Map by year** (`map.html`) - taxable *selišta* per place across the 23
+  campaigns; marker area = tax base, shape = county, colour = how confident
+  the location is; today's county borders and the Sava/Drava rivers are drawn
+  for context. Un-geocoded places are scattered around their county town.
+  Shows the county tax base collapsing across the century (Križevci ~18,000
+  in 1507 to under 100 by 1596).
+- **Browse** (`explorer.html`) - filter, sort and export all 11,792 entries.
 
-Rebuild with `python web/build_web.py`; deploy via the GitHub Pages workflow
+Rebuild the database-driven pages with `python web/build_web.py` and
+`python web/build_explorer.py`; deploy via the GitHub Pages workflow
 (`.github/workflows/pages.yml`) or any static host.
 
 ## Curating the merges

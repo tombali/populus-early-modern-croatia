@@ -23,10 +23,10 @@ svg{width:100%;height:auto;display:block;touch-action:none}
   box-shadow:0 1px 4px rgba(0,0,0,.12);padding:5px 10px;
   display:flex;flex-direction:column;align-items:stretch;gap:3px;
   font-size:11px;color:var(--ink2)}
-.msize-ctl input[type=range]{width:100px;margin:0;accent-color:var(--good)}
+.msize-ctl input[type=range]{width:100px;margin:0;accent-color:var(--accent)}
 .labels-row{display:flex;align-items:center;gap:6px;cursor:pointer;
   padding-bottom:2px;border-bottom:1px solid var(--ring);margin-bottom:2px}
-.labels-row input{margin:0;accent-color:var(--good)}
+.labels-row input{margin:0;accent-color:var(--accent)}
 .place-label{fill:var(--ink);paint-order:stroke fill;stroke:var(--surface);
   stroke-width:3px;stroke-linejoin:round;font-weight:600;pointer-events:none;
   vector-effect:non-scaling-stroke}
@@ -37,12 +37,12 @@ svg{width:100%;height:auto;display:block;touch-action:none}
   border-radius:4px;font-size:12.5px;color:var(--ink2);cursor:pointer;
   white-space:nowrap}
 .layer-panel .row:hover{background:var(--panel-hover,rgba(127,127,127,.12))}
-.layer-panel .row input{margin:0;accent-color:var(--good)}
+.layer-panel .row input{margin:0;accent-color:var(--accent)}
 .layer-panel .sw{display:inline-block;width:14px;text-align:center;color:var(--ink2)}
 .ctl{display:flex;gap:12px;align-items:flex-start;margin:0 0 12px;flex-wrap:wrap}
 .slider-wrap{flex:1;min-width:160px}
 .slider-wrap input[type=range]{width:100%;display:block;margin:0;
-  accent-color:var(--good)}
+  accent-color:var(--accent)}
 .slider-years{position:relative;height:34px;margin-top:2px}
 .slider-years button{position:absolute;top:0;transform:translateX(-50%);
   padding:10px 0 0;margin:0;border:0;border-radius:0;background:transparent;
@@ -51,7 +51,7 @@ svg{width:100%;height:auto;display:block;touch-action:none}
 .slider-years button::before{content:"";position:absolute;top:0;left:50%;
   width:1px;height:6px;background:var(--axis);transform:translateX(-50%)}
 .slider-years button:hover{color:var(--ink2)}
-.slider-years button[aria-current="true"]{color:var(--ink);font-weight:600}
+.slider-years button[aria-current="true"]{color:var(--accent);font-weight:600}
 .legend{display:flex;flex-wrap:wrap;gap:14px;margin-top:12px;
   color:var(--ink2);font-size:13px;align-items:center}
 .legend .item{display:flex;gap:6px;align-items:center}

@@ -2,7 +2,7 @@
 
 County borders come from OSM Nominatim (polygon_geojson); rivers (Sava, Drava,
 Mura, Kupa) from the Overpass API. Geometry is simplified (Douglas-Peucker) so
-it inlines small, keeping web/index.html self-contained. Network step, run
+it inlines small, keeping web/map.html self-contained. Network step, run
 rarely; skips work if web/geo.json already exists (use --force to refetch).
 
 Stdlib only. Polite: 1 req/s, descriptive User-Agent.

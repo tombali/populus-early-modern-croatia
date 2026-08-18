@@ -15,7 +15,7 @@ import sqlite3
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB = os.path.join(ROOT, "db", "tax_lists.sqlite")
 TEMPLATE = os.path.join(ROOT, "web", "template.html")
-OUT = os.path.join(ROOT, "web", "index.html")
+OUT = os.path.join(ROOT, "web", "map.html")
 
 SKIP_YEARS = (1578, 1675)          # single-row transcription typos
 
